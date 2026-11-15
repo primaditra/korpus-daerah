@@ -17,6 +17,25 @@ laporan/AAAA-BB.md             laporan berkala
 - Folder provinsi dan entitas dibuat saat naskah pertamanya masuk.
 - Tag isu memakai `tag.csv` di korpus-pusat.
 
+## Google Drive
+
+Naskah PDF disimpan di Google Drive akun khusus, di bawah folder induk `Peraturan/`:
+
+```
+Peraturan/
+├── Kotak-Masuk/              PDF yang belum diproses, nama file bebas (pusat maupun daerah)
+│   └── duplikat/             PDF duplikat dari Kotak-Masuk; tidak dipindai, dikosongkan pemilik korpus secara berkala
+├── Korpus-Pusat/naskah/<jenis>/<ID>.pdf
+└── Korpus-Daerah/<provinsi>/<entitas>/<ID>.pdf
+```
+
+- Kotak-Masuk bukan bagian korpus dan tidak dicatat di katalog. Identitas naskah dibaca dari isi PDF, bukan dari nama file.
+- PDF yang sudah terindeks dipindah dari Kotak-Masuk ke folder korpusnya dengan nama `<ID>.pdf`.
+- PDF di Kotak-Masuk yang ID-nya sudah ada di katalog dipindah ke `Kotak-Masuk/duplikat/` dengan nama asli, bila korpus sudah memiliki PDF atau tautan sumber resmi. Bila salinan itu satu-satunya PDF, ia diproses sebagai PDF korpus. Bila versinya berbeda atau mutunya lebih baik dari yang terindeks, ia dibiarkan di Kotak-Masuk dan dicantumkan di daftar perlu dicek.
+- File yang bukan peraturan atau tidak terbaca dibiarkan di Kotak-Masuk dan dicantumkan di daftar perlu dicek.
+- PDF wajib disimpan hanya untuk naskah yang tidak tersedia di sumber resmi daring.
+- File di Drive tidak dihapus.
+
 ## Konvensi penamaan
 
 - Folder provinsi: singkatan baku tanpa awalan (`kalbar`).
@@ -69,7 +88,7 @@ Sama dengan korpus-pusat: enam pemeriksaan (identitas, naskah final, mutu OCR, u
 
 ## Laporan
 
-`laporan/AAAA-BB.md` berisi lima bagian tetap: naskah masuk, perubahan status, perlu dicek, usulan tag baru, dan kendala akses. Laporan korpus-daerah terpisah dari laporan korpus-pusat. Laporan bulan yang sama diperbarui dengan menambah, bukan menimpa.
+`laporan/AAAA-BB.md` berisi enam bagian tetap: naskah masuk, perubahan status, perlu dicek, usulan tag baru, kendala akses, dan duplikat dipindah. Laporan korpus-daerah terpisah dari laporan korpus-pusat. Laporan bulan yang sama diperbarui dengan menambah, bukan menimpa.
 
 ## Pesan commit
 
