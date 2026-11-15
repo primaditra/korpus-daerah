@@ -81,7 +81,7 @@ Status peraturan daerah disimpulkan dari ketentuan penutup peraturan pengganti y
 
 ## Format file indeks
 
-Sama dengan korpus-pusat (lihat README korpus-pusat): front matter `id`, `jenis`, `nomor`, `tahun`, `judul`, `sumber_teks`; heading Pembukaan, BAB, `### Pasal N`, Penjelasan, dan Lampiran. SK yang tidak berpasal memakai heading sesuai diktum (KESATU, KEDUA).
+Sama dengan korpus-pusat (lihat README korpus-pusat): front matter `id`, `jenis`, `nomor`, `tahun`, `judul`, `sumber_teks`; heading Pembukaan, BAB, `### Pasal N`, Penutup, Penjelasan (dengan Penjelasan Umum), dan Lampiran. SK yang tidak berpasal memakai heading sesuai diktum (KESATU, KEDUA).
 
 ## Pemeriksaan otomatis dan status_review
 
