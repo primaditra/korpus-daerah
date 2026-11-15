@@ -42,6 +42,7 @@ Peraturan/
 - Folder entitas: awalan `prov-`, `kab-`, atau `kota-`. Huruf kecil, tanda hubung.
 - ID peraturan sekaligus menjadi nama file: `<ID>.md` di repositori, `<ID>.pdf` di Google Drive.
 - ID ditulis huruf kapital dengan garis bawah sebagai pemisah: `<JENIS>_<ENTITAS>_<NOMOR>_<TAHUN>`. Contoh: `PERBUP_KAB-LANDAK_15_2025`.
+- Lampiran yang disimpan sebagai PDF terpisah diberi nama `<ID>_LAMPIRAN-I.pdf`, `<ID>_LAMPIRAN-II.pdf`, dan seterusnya, di folder yang sama dengan PDF induknya. Lampiran tunggal: `<ID>_LAMPIRAN.pdf`.
 - Tanggal ditulis `AAAA-BB-HH`.
 
 ## katalog.csv
@@ -61,7 +62,7 @@ Kolom, berurutan:
 | berlaku_sampai | Tanggal mulai berlakunya peraturan pencabut; kosong bila masih berlaku |
 | diubah_dicabut_oleh | ID peraturan pengubah atau pencabut; beberapa ID dipisah titik koma; "tidak ditemukan pengganti di korpus" bila tidak ada |
 | tautan_sumber | Tautan resmi (JDIH, Jaringan Dokumentasi dan Informasi Hukum, pemda); kosong bila tidak ditemukan |
-| tautan_pdf_drive | Tautan PDF di Google Drive, bila disimpan |
+| tautan_pdf_drive | Tautan PDF di Google Drive, bila disimpan; bila lampiran disimpan terpisah, tautan induk lalu tautan lampiran, dipisah titik koma |
 | tag_isu | Tag dari tag.csv korpus-pusat, dipisah titik koma |
 | tag_jenis_pemeriksaan | `keuangan`, `kinerja`, `pdtt` (Pemeriksaan Dengan Tujuan Tertentu); boleh lebih dari satu |
 | tanggal_verifikasi | Tanggal terakhir status dicek ke sumber luar |
