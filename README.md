@@ -41,6 +41,7 @@ Peraturan/
 - Folder provinsi: singkatan baku tanpa awalan (`kalbar`).
 - Folder entitas: awalan `prov-`, `kab-`, atau `kota-`. Huruf kecil, tanda hubung.
 - ID peraturan sekaligus menjadi nama file: `<ID>.md` di repositori, `<ID>.pdf` di Google Drive.
+- Dokumen pendukung (buku manual, petunjuk teknis, atau pedoman terbitan instansi yang bukan naskah peraturan, tetapi dinyatakan sebagai lampiran atau dirujuk oleh peraturan induknya) disimpan di folder yang sama dengan peraturan induknya dengan nama `<ID-induk>_<KETERANGAN>.pdf`; `<KETERANGAN>` huruf kapital dengan tanda hubung, misalnya `PERBUP_KAB-LANDAK_15_2025_JUKNIS.pdf`. Dokumen pendukung tidak mendapat ID, file indeks, atau baris katalog sendiri, dan tidak dicatat di kolom `tautan_pdf_drive`; judul, dasar keterkaitannya, dan tautan Drive-nya ditulis di bawah heading `## Lampiran` pada file indeks peraturan induk. Dokumen terbitan instansi yang tidak punya peraturan induk tidak disimpan di korpus.
 - ID ditulis huruf kapital dengan garis bawah sebagai pemisah: `<JENIS>_<ENTITAS>_<NOMOR>_<TAHUN>`. Contoh: `PERBUP_KAB-LANDAK_15_2025`.
 - Lampiran yang disimpan sebagai PDF terpisah diberi nama `<ID>_LAMPIRAN-I.pdf`, `<ID>_LAMPIRAN-II.pdf`, dan seterusnya, di folder yang sama dengan PDF induknya. Lampiran tunggal: `<ID>_LAMPIRAN.pdf`.
 - Tanggal ditulis `AAAA-BB-HH`.
