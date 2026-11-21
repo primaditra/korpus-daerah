@@ -1,6 +1,6 @@
 # korpus-daerah
 
-Korpus peraturan daerah untuk keperluan pemeriksaan BPK (Badan Pemeriksa Keuangan): Perda (Peraturan Daerah), Perkada (Peraturan Kepala Daerah), dan SK (Surat Keputusan) Kepala Daerah. Korpus ini menjadi sumber bagi skill cari-kriteria bersama korpus-pusat.
+Korpus peraturan daerah untuk keperluan pemeriksaan BPK (Badan Pemeriksa Keuangan): Perda (Peraturan Daerah), Perkada (Peraturan Kepala Daerah), SK (Surat Keputusan) Kepala Daerah, dan Keputusan Sekretaris Daerah (jenis `Kepsekda`, ditambahkan atas persetujuan pengguna, 2026-11-22). Korpus ini menjadi sumber bagi skill cari-kriteria bersama korpus-pusat.
 
 Repositori ini hanya berisi teks peraturan publik dan metadatanya. Catatan penugasan, nama entitas yang diperiksa, data entitas, dan kredensial tidak boleh ditulis ke file, laporan, nama file, maupun pesan commit.
 
