@@ -3,10 +3,10 @@ id: PERBUP_KAB-KETAPANG_57_2021
 jenis: Perbup
 nomor: 57
 tahun: 2021
-judul: Peraturan Bupati Ketapang Nomor 57 Tahun 2021 tentang Sistem Jasa Pelayanan h Rumah Sakit Umum Daerah dan Puskesmas
+judul: Peraturan Bupati Ketapang Nomor 57 Tahun 2021 tentang Sistem Jasa Pelayanan Rumah Sakit Umum Daerah dan Puskesmas
 sumber_teks: ocr
 ---
-# Peraturan Bupati Ketapang Nomor 57 Tahun 2021 tentang Sistem Jasa Pelayanan h Rumah Sakit Umum Daerah dan Puskesmas
+# Peraturan Bupati Ketapang Nomor 57 Tahun 2021 tentang Sistem Jasa Pelayanan Rumah Sakit Umum Daerah dan Puskesmas
 
 > Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
 
@@ -15,7 +15,7 @@ sumber_teks: ocr
 PERATURAN BUPATI KETAPANG
 NOMOR 57 TAHUN 2021
 TENTANG
-SISTEM JASA PELAYANAN h
+SISTEM JASA PELAYANAN
 RUMAH SAKIT UMUM DAERAH DAN PUSKESMAS
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 BUPATI KETAPANG,

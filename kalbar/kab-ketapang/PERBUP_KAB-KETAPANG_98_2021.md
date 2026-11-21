@@ -3,10 +3,10 @@ id: PERBUP_KAB-KETAPANG_98_2021
 jenis: Perbup
 nomor: 98
 tahun: 2021
-judul: Peraturan Bupati Ketapang Nomor 98 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Menimbang Badan Pengelola Keuangan dan Aset Daerah
+judul: Peraturan Bupati Ketapang Nomor 98 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Badan Pengelola Keuangan dan Aset Daerah
 sumber_teks: ocr
 ---
-# Peraturan Bupati Ketapang Nomor 98 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Menimbang Badan Pengelola Keuangan dan Aset Daerah
+# Peraturan Bupati Ketapang Nomor 98 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Badan Pengelola Keuangan dan Aset Daerah
 
 > Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
 
@@ -16,11 +16,10 @@ PERATURAN BUPATI KETAPANG
 NOMOR 98 TAHUN 2021
 TENTANG
 KEDUDUKAN, SUSUNAN ORGANISASI, TUGAS DAN FUNGSI, SERTA TATA KERJA
-Menimbang
 BADAN PENGELOLA KEUANGAN DAN ASET DAERAH
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 BUPATI KETAPANG,
-a. bahwa kedudukan, susunan organisasi, tugas dan fungsi,
+Menimbang : a. bahwa kedudukan, susunan organisasi, tugas dan fungsi,
 serta tata kerja Badan Pengelola Keuangan dan Aset Daerah
 ditetapkan dengan Peraturan Bupati Ketapang Nomor 65 :
 Tahun 2016 tentang Kedudukan, Susunan Organisasi,
@@ -36,7 +35,6 @@ b. bahwa dengan ditetapkannya Peraturan Pemerintah Nomor
 Pemerintah Nomor 18 Tahun 2016 tentang Perangkat
 Daerah, maka Peraturan Bupati sebagaimana dimaksud
 dalam huruf a perlu diganti untuk disesuaikan kembali:
-Lani
 Mengingat
 bahwa berdasarkan pertimbangan sebagaimana dimaksud:
 dalam huruf a dan huruf b, perlu menetapkan Peraturan
