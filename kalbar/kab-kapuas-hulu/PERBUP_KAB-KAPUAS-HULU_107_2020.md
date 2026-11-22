@@ -130,118 +130,70 @@ tentang Pelimpahan Kewenangan
 Penyelenggaraan Perizinan dan Non
 Perizinan dari Bupati Kepada Dinas
 Penanaman Modal dan Pelayanan Terpadu
-pemerintahan yang menjadi kewenangan Pemerintah Daerah
-Kabupaten Kapuas Hulu.
-4. Bupati adalah Bupati Kapuas Hulu.
-5. Sekretaris Daerah adalah Sekretaris Daerah Kabupaten Kapuas
-Hulu.
-6. Organisasi Perangkat Daerah yang selanjutnya disingkat OPD
-adalah Organisasi Perangkat Daerah Kabupaten Kapuas Hulu.
-7. Organisasi Perangkat Daerah Kabupaten Kapuas Hulu yang
-selanjutnya disebut OPD Kabupaten Kapuas Hulu adalah
-Sekretariat Daerah, Sekretariat DPRD, Dinas Daerah, Lembaga
-Teknis Daerah, Kecamatan dan Kelurahan.
-8. Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu yang
-selanjutnya disingkat DPMPTSP adalah Dinas Penanaman Modal
-dan Pelayanan Terpadu Satu Pintu Kabupaten Kapuas Hulu.
-9. Kepala Dinas adalah Kepala Dinas Penanaman Modal dan
-Pelayanan Terpadu Satu Pintu Kabupaten Kapuas Hulu.
-10. Front Office adalah Petugas penyelenggara pelayanan yang
-bertugas memberikan informasi, pendaftaran, penerimaan dan
-penyerahan dokumen.
-ll. Back office adalah Petugas dari Dinas Penanaman Modal yang
-diberikan tugas untuk memproses seluruh perizinan berusaha
-yang sudah dinyatakan lengkap guna penerbitan surat
-izin/persetujuan terhadap permohonan yang disampaikan oleh
-Pemohon.
-12. Tim Teknis adalah kelompok kerja yang terdiri dari unsur-unsur
-organisasi perangkat daerah terkait yang bertugas melaksanakan
-pemeriksaan lapangan, pembahasan teknis dan memberikan
-rekomendasi atau pertimbangan kepada Kepala Dinas
-Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten
-Kapuas Hulu.
-6
 
-13. Masyarakat adalah seluruh pihak, baik warga negara maupun
-penduduk sebagai orang perseorangan, kelompok, maupun
-badan hukum yang berkedudukan sebagai penerima manfaat
-pelayanan publik, baik secara langsung maupun tidak langsung.
-14. Standar Pelayanan yang selanjutnya disebut SP adalah pedoman
-atau acuan untuk melaksanakan tugas pekerjaan sesuai dengan
-fungsi dan alat penilaian kinerja instansi pemerintah berdasarkan
-indikator-indikator teknis administrasi dan prosedural sesuai
-dengan tata kerja, prosedur kerja dan sistem kerja pada unit
-organisasi yang bersangkutan.
-15. Pelayanan Terpadu Satu Pintu yang selanjutnya disingkat PTSP
-adalah kegiatan penyelenggaraan perizinan berusaha secara
-terintegrasi dalam satu kesatuan proses mulai dari tahap
-permohonan sampai dengan tahap penyelesaian produk
-pelayanan melalui satu pintu.
-16. Prosedur adalah langkah-langkah maupun tahapan mekanisme
-yang harus diikuti oleh seluruh unit organisasi untuk
-melaksanakan kegiatan sesuai dengan kebijakan yang telah
-ditetapkan.
-17. Persyaratan Pelayanan adalah persyaratan teknis dan
-administratif yang diperlukan untuk mendapatkan pelayanan
-sesuai dengan jenis pelayanannya.
-18. Maklumat Pelayanan adalah pernyataan tertulis yang berisi
-keseluruhan rincian kewajiban dan janji yang terdapat dalam
-Standar Pelayanan.
-19. Kegiatan adalah penjabaran dari fungsi dan rincian tugas untuk
-mencapai hasil kerja yang telah ditentukan dalam Standar
-Operasional Prosedur.
-20. Perizinan Berusaha adalah pendaftaran yang diberikan kepada
-Pelaku Usaha untuk memulai dan menjalankan usaha dan/atau
-kegiatan yang diberikan dalam bentuk persetujuan yang
-dituangkan dalam bentuk surat/keputusan atau pemenuhan
-persyaratan dan/atau komitmen.
-21. Perizinan Berusaha Terintegrasi Secara Elektronik atau Online
-Single Submission yang selanjutnya disingkat OSS adalah
-perizinan usaha yang diterbitkan oleh lembaga OSS untuk dan
-atas nama menteri, pimpinan lembaga, gubernur, atau
-bupati/walikota kepada pelaku usaha melalui sistem elektronik
-yang terintegrasi.
-22. SiCANTIK adalah singkatan dari Aplikasi Cerdas Layanan
-Perizinan Terpadu untuk Publik berupa sistem cloud yang
-digunakan oleh instansi pemerintah secara gratis.
-23. Izin tetangga atau lingkungan adalah pernyataan tidak
-berkeberatan dari pemilik tanah atau bangunan yang berbatasan
-langsung maupun tidak langsung dengan lokasi usaha dan jalan
-masuk atau keluar untuk kepentingan kegiatan yang dimohon
-dengan radius sesuai dengan ketentuan yang berlaku
-24. Surat Setoran Retribusi Daerah yang selanjutnya disingkat SSRD
-adalah bukti pembayaran atau penyetoran retribusi yang telah
-dilakukan dengan menggunakan formulir atau telah dilakukan
-dengan cara lain ke kas daerah melalui tempat pembayaran yang
-ditunjuk oleh Kepala Daerah.
-25. Surat Ketetapan Retribusi Daerah yang selanjutnya disingkat
-SKRD adalah surat ketetapan retribusi yang menentukan
-besarnya jumlah pokok retribusi yang terhutang.
-26. Surat Tagihan Retribusi Daerah yang selanjutnya disingkat STRD
-adalah surat untuk melakukan tagihan retribusi dan/atau sanksi
-administratif berupa bunga dan /atau denda.
-27. Pemeriksaan adalah serangkaian kegiatan untuk mencari,
-mengumpulkan dan mengolah data dan atau keterangan lainnya
-dalam rangka pengawasan kepatuhan pemenuhan kewajiban
-perizinan berdasarkan peraturan perundang-undangan yang
-berlaku.
-28. Penelitian adalah serangkaian kegiatan yang dilakukan untuk
-menilai kelengkapan pengisian surat pemberitahuan atau
-permohonan dan lampiran-lampirannya termasuk penilaian
-tentang kebenaran penulisan dan perhitungannya.
-29. Pengaduan Masyarakat adalah laporan dari masyarakat
-mengenai adanya keluhan dalam rangka penyelenggaraan
-pelayanan perizinan dan non perizinan.
-30. Badan Usaha adalah suatu bentuk usaha yang meliputi milik
-negara perseroan terbatas, perseroan komanditer, perseroan
-lainnya, badan usaha milik negara atau daerah dengan nama dan
-bentuk apapun, persekutuan, perkumpulan, firma, kongsi,
-koperasi atau organisasi yang sejenis, lembaga dana pensiun,
-bentuk usaha tetap serta bentuk badan usaha lainnya.
-BAB II
-MAKSUD DAN TUJUAN
-Bagian Kesatu
-Maksud
+[Halaman 5 naskah tidak ada di PDF: sisa Mengingat angka 13, MEMUTUSKAN, Menetapkan, judul BAB I, dan awal Pasal 1 sampai angka 3 tidak dapat disalin]
+
+## BAB I - [judul tidak ada di PDF]
+
+### Pasal 1
+
+pemerintahan yang menjadi kewenangan Pemerintah Daerah Kabupaten Kapuas Hulu.
+
+4. Bupati adalah Bupati Kapuas Hulu.
+
+5. Sekretaris Daerah adalah Sekretaris Daerah Kabupaten Kapuas Hulu.
+
+6. Organisasi Perangkat Daerah yang selanjutnya disingkat OPD adalah Organisasi Perangkat Daerah Kabupaten Kapuas Hulu.
+
+7. Organisasi Perangkat Daerah Kabupaten Kapuas Hulu yang selanjutnya disebut OPD Kabupaten Kapuas Hulu adalah Sekretariat Daerah, Sekretariat DPRD, Dinas Daerah, Lembaga Teknis Daerah, Kecamatan dan Kelurahan.
+
+8. Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu yang selanjutnya disingkat DPMPTSP adalah Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten Kapuas Hulu.
+
+9. Kepala Dinas adalah Kepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten Kapuas Hulu.
+
+10. Front Office adalah Petugas penyelenggara pelayanan yang bertugas memberikan informasi, pendaftaran, penerimaan dan penyerahan dokumen. ll. Back office adalah Petugas dari Dinas Penanaman Modal yang diberikan tugas untuk memproses seluruh perizinan berusaha yang sudah dinyatakan lengkap guna penerbitan surat izin/persetujuan terhadap permohonan yang disampaikan oleh Pemohon.
+
+12. Tim Teknis adalah kelompok kerja yang terdiri dari unsur-unsur organisasi perangkat daerah terkait yang bertugas melaksanakan pemeriksaan lapangan, pembahasan teknis dan memberikan rekomendasi atau pertimbangan kepada Kepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten Kapuas Hulu. 6 
+
+13. Masyarakat adalah seluruh pihak, baik warga negara maupun penduduk sebagai orang perseorangan, kelompok, maupun badan hukum yang berkedudukan sebagai penerima manfaat pelayanan publik, baik secara langsung maupun tidak langsung.
+
+14. Standar Pelayanan yang selanjutnya disebut SP adalah pedoman atau acuan untuk melaksanakan tugas pekerjaan sesuai dengan fungsi dan alat penilaian kinerja instansi pemerintah berdasarkan indikator-indikator teknis administrasi dan prosedural sesuai dengan tata kerja, prosedur kerja dan sistem kerja pada unit organisasi yang bersangkutan.
+
+15. Pelayanan Terpadu Satu Pintu yang selanjutnya disingkat PTSP adalah kegiatan penyelenggaraan perizinan berusaha secara terintegrasi dalam satu kesatuan proses mulai dari tahap permohonan sampai dengan tahap penyelesaian produk pelayanan melalui satu pintu.
+
+16. Prosedur adalah langkah-langkah maupun tahapan mekanisme yang harus diikuti oleh seluruh unit organisasi untuk melaksanakan kegiatan sesuai dengan kebijakan yang telah ditetapkan.
+
+17. Persyaratan Pelayanan adalah persyaratan teknis dan administratif yang diperlukan untuk mendapatkan pelayanan sesuai dengan jenis pelayanannya.
+
+18. Maklumat Pelayanan adalah pernyataan tertulis yang berisi keseluruhan rincian kewajiban dan janji yang terdapat dalam Standar Pelayanan.
+
+19. Kegiatan adalah penjabaran dari fungsi dan rincian tugas untuk mencapai hasil kerja yang telah ditentukan dalam Standar Operasional Prosedur.
+
+20. Perizinan Berusaha adalah pendaftaran yang diberikan kepada Pelaku Usaha untuk memulai dan menjalankan usaha dan/atau kegiatan yang diberikan dalam bentuk persetujuan yang dituangkan dalam bentuk surat/keputusan atau pemenuhan persyaratan dan/atau komitmen.
+
+21. Perizinan Berusaha Terintegrasi Secara Elektronik atau Online Single Submission yang selanjutnya disingkat OSS adalah perizinan usaha yang diterbitkan oleh lembaga OSS untuk dan atas nama menteri, pimpinan lembaga, gubernur, atau bupati/walikota kepada pelaku usaha melalui sistem elektronik yang terintegrasi.
+
+22. SiCANTIK adalah singkatan dari Aplikasi Cerdas Layanan Perizinan Terpadu untuk Publik berupa sistem cloud yang digunakan oleh instansi pemerintah secara gratis.
+
+23. Izin tetangga atau lingkungan adalah pernyataan tidak berkeberatan dari pemilik tanah atau bangunan yang berbatasan langsung maupun tidak langsung dengan lokasi usaha dan jalan masuk atau keluar untuk kepentingan kegiatan yang dimohon dengan radius sesuai dengan ketentuan yang berlaku
+
+24. Surat Setoran Retribusi Daerah yang selanjutnya disingkat SSRD adalah bukti pembayaran atau penyetoran retribusi yang telah dilakukan dengan menggunakan formulir atau telah dilakukan dengan cara lain ke kas daerah melalui tempat pembayaran yang ditunjuk oleh Kepala Daerah.
+
+25. Surat Ketetapan Retribusi Daerah yang selanjutnya disingkat SKRD adalah surat ketetapan retribusi yang menentukan besarnya jumlah pokok retribusi yang terhutang.
+
+26. Surat Tagihan Retribusi Daerah yang selanjutnya disingkat STRD adalah surat untuk melakukan tagihan retribusi dan/atau sanksi administratif berupa bunga dan /atau denda.
+
+27. Pemeriksaan adalah serangkaian kegiatan untuk mencari, mengumpulkan dan mengolah data dan atau keterangan lainnya dalam rangka pengawasan kepatuhan pemenuhan kewajiban perizinan berdasarkan peraturan perundang-undangan yang berlaku.
+
+28. Penelitian adalah serangkaian kegiatan yang dilakukan untuk menilai kelengkapan pengisian surat pemberitahuan atau permohonan dan lampiran-lampirannya termasuk penilaian tentang kebenaran penulisan dan perhitungannya.
+
+29. Pengaduan Masyarakat adalah laporan dari masyarakat mengenai adanya keluhan dalam rangka penyelenggaraan pelayanan perizinan dan non perizinan.
+
+30. Badan Usaha adalah suatu bentuk usaha yang meliputi milik negara perseroan terbatas, perseroan komanditer, perseroan lainnya, badan usaha milik negara atau daerah dengan nama dan bentuk apapun, persekutuan, perkumpulan, firma, kongsi, koperasi atau organisasi yang sejenis, lembaga dana pensiun, bentuk usaha tetap serta bentuk badan usaha lainnya.
+
+## BAB II - MAKSUD DAN TUJUAN
+
+**Bagian Kesatu - Maksud**
 
 ### Pasal 2
 
@@ -253,7 +205,7 @@ Maksud ditetapkannya Peraturan Bupati ini sebagai pedoman bagi seluruh aparatur 
 
 Tujuan Standar Pelayanan perizinan berusaha agar terselenggaranya pelayanan perizinan berusaha yang transparan, akuntabel, partisipatif, efisien, efektif dan professional.
 
-BAB III PRINSIP PELAYANAN
+## BAB III - PRINSIP PELAYANAN
 
 ### Pasal 4
 
@@ -277,7 +229,7 @@ h. kedisiplinan, kesopanan, dan keramahan yaitu pemberi pelayanan harus bersikap
 
 i. kenyamanan yaitu lingkungan pelayanan yang tertib, teratur, dengan ruang tunggu yang nyaman, bersih, rapi, tempat parkir yang memadai dan lingkungan yang sehat serta dilengkapi dengan fasilitas pendukung pelayanan.
 
-BAB IV RUANG LINGKUP DAN JENIS PERIZINAN
+## BAB IV - RUANG LINGKUP DAN JENIS PERIZINAN
 
 **Bagian Kesatu - Ruang Lingkup**
 
@@ -524,7 +476,6 @@ a. penerimaan pengaduan;
 b. pemeriksaan pengaduan;
 
 c. penyusunan rekomendasi tindak lanjut pemeriksaan pengaduan.
-
 
 **Bagian Keenam - Tim Teknis**
 

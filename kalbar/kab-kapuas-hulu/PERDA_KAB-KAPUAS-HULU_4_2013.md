@@ -80,18 +80,17 @@ Pembentukan Peraturan Perundang-undangan (Lembaran
 Negara Republik Indonesia Tahun 2011 Nomor 82,
 Tambahan Lembaran Negara Republik Indonesia Nomor
 5243);
-10 Peraturan Pemerintah Nomor 27 Tahun 1983 tentang
+10. Peraturan Pemerintah Nomor 27 Tahun 1983 tentang
 Pelaksanaan Kitab Undang-Undang Hukum Acara Pidana
 (Lembaran Negara Republik Indonesia Tahun 1983 Nomor
 36, Tambahan Lembaran Negara Republik Indonesia
-Nomor3258) sebagaimana telah diubah dengan Peraturan
+Nomor 3258) sebagaimana telah diubah dengan Peraturan
 Pemerintah Nomor 58 Tahun 2010 tentang Perubahan Atas
 Peraturan Pemerintah Nomor 27 Tahun 83 tentang
 Pelaksanaan Kitab Undang-Undang Hukum Acara Pidana
 (Lembaran Negara Republik Indonesia Tahun 2010 Nomor
 90, Tambahan Lembaran Negera Republin Indonesia Nomor
 5145);
-• »• •
 11. Peraturan Pemerintah Nomor 29 Tahun 2000 tentang
 Penyelenggaran Jasa Konstruksi (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 64, Tambahan Lembaran

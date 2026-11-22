@@ -58,7 +58,7 @@ Daerah (Lembaran Negara Republik
 Indonesia Tahun 2015 Nomor 58,
 Tambahan Lembaran Negara Republik
 Indonesia Nomor 5679);
-Undang-Undang Nomor 27 Tahun 1959
+3. Undang-Undang Nomor 27 Tahun 1959
 tentang Penetapan Undang-Undang
 Darurat Nomor 3 Tahun 1953 tentang
 Pembentukan Daerah Tingkat II di
@@ -68,40 +68,40 @@ Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor
 72, Tambahan Lembaran Negara Republik
 Indonesia Nomor 1820);
-Undang-Undang Nomor 6 Tahun 1996
+4. Undang-Undang Nomor 6 Tahun 1996
 tentang Perairan Indonesia (Lembaran
 Negara Republik Indonesia Tahun 1996
 Nomor 7 3 , Tambahan Lembaran Negara
 Republik Indonesia Nomor 3647);
-Undang-Undang Nomor 17 Tahun 2003
+5. Undang-Undang Nomor 17 Tahun 2003
 tentang Keuangan Negara (Lembaran
 Negara Republik Indonesia Tahun 2003
 Nomor 47, Tambahan Lembaran Negara
 Republik Indonesia Nomor 4286);
-Undang-Undang Nomor 17 Tahun 2008
+6. Undang-Undang Nomor 17 Tahun 2008
 tentang Pelayaran (Lembaran Negara
 Republik Indonesia Tahun 2008 Nomor
 64, Tambahan Lembaran Negara Republik
 Indonesia Nomor 4849);
-Undang-Undang Nomor 22 Tahun 2009
+7. Undang-Undang Nomor 22 Tahun 2009
 tentang Lalu Lintas dan Angkutan Jalan
 (Lembaran Negara Republik Indonesia
 Tahun 2009 Nomor 96, Tambahan
 Lembaran Negara Republik Indonesia
 Nomor 5025);
-Undang-Undang Nomor 28 Tahun 2009
+8. Undang-Undang Nomor 28 Tahun 2009
 tentang Pajak Daerah dan Retrebusi
 Daerah (Lembaran Negara Republik
 Indonesia Tahun 2009 Nomor 130,
 Tambahan Lembaran Negara Republik
 Indonesia Nomor 5049);
-Undang-Undang Nomor 12 Tahun 2 0 1 1
+9. Undang-Undang Nomor 12 Tahun 2 0 1 1
 tentang Pembentukan Peraturan
 Perundang-undangan (Lembaran Negara
 Republik Indonesia Tahun 2 0 1 1 Nomor
 82, Tambahan Lembaran Negara Republik
 Indonesia Nomor 5234);
-Peraturan Pemerintah Nomor 4 1 Tahun
+10. Peraturan Pemerintah Nomor 4 1 Tahun
 1993 tentang Angkutan Jalan (Lembaran
 Negara Republik Indonesia Tahun 1993
 Nomor 59, Tambahan Lembaran Negara

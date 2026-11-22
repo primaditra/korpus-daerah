@@ -24,7 +24,7 @@ Nomor 1 Tahun 2024 tentang Pajak Daerah dan
 Retribusi Daerah, perlu menetapkan Peraturan
 Bupati tentang Tata Cara Pemungutan Pajak Barang
 dan Jasa Tertentu, .
-Mengingat 11. Pasal 18 ayat (6) Undang-Undang Dasar Negara
+Mengingat : 1. 11. Pasal 18 ayat (6) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945:
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3

@@ -10,7 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-MN
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 www www www

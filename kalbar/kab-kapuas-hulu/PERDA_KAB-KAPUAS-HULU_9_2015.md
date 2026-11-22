@@ -18,7 +18,7 @@ TENTANG
 RETRIBUSI PENYEBERANGAN DI AIR
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 BUPATI KAPUAS HULU,
-bahwa penyeberangan di air merupakan
+Menimbang : a. bahwa penyeberangan di air merupakan
 angkutan yang berfungsi sebagai jembatan
 yang menghubungkan jaringan jalan yang
 dipisahkan oleh perairan guna mengangkut
@@ -32,7 +32,7 @@ penyeberangan di air kepada masyarakat dan
 meningkatkan pendapatan asli daerah, maka
 perlu menetapkan tarif Retribusi
 penyeberangan di air;
-bahwa berdsarkan ketentuan Pasal 156 ayat (1)
+c. bahwa berdsarkan ketentuan Pasal 156 ayat (1)
 Undang-Undang Nomor 28 Tahun 2009 tentang
 Pajak Daerah dan Ritribusi Daerah,
 Retribusi Penyeberangan di Air merupakan
@@ -43,11 +43,9 @@ sebagaimana dimaksud dalam huruf a dan
 huruf b dan huruf c, perlu membentuk
 Peraturan Daerah tentang Retribusi
 Penyeberangan di Air;
-Menimbang
-c.
 Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945;
-Undang-Undang Nomor 27 Tahun 1959 tentang
+2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara
@@ -56,7 +54,7 @@ sebagai Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor 72,
 Tambahan Lembaran Negara Republik
 Indonesia Nomor 1820);
-Undang-Undang Nomor 23 Tahun 2014 tentang
+3. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2014 Nomor 224,
 Tambahan Lembaran Negara Republik
@@ -68,22 +66,22 @@ Perubahan Kedua Atas Undang-Undang Nomor
 (Lembaran Negara Republik Indonesia Tahun
 2015 Nomor 58, Tambahan Lembaran Negara
 Republik Indonesia Nomor 5679);
-Undang-Undang Nomor 17 Tahun 2008 tentang
+4. Undang-Undang Nomor 17 Tahun 2008 tentang
 Pelayaran (Lembaran Negara Republik
 Indonesia Tahun 2008 Nomor 64, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 4849);
-Undang-Undang Nomor 28 Tahun 2009
+5. Undang-Undang Nomor 28 Tahun 2009
 tentang Pajak Daerah dan Retribusi Daerah
 (Lembaran Negara Republik Indonesia Tahun
 2009 Nomor 130, Tambahan Lembaran Negara
 Republik Indonesia Nomor 5049);
-Undang-Undang Nomor 12 Tahun 2011 tentang
+6. Undang-Undang Nomor 12 Tahun 2011 tentang
 Pembentukan Peraturan Perundang-undangan
 (Lembaran Negara Republik Indonesia Tahun
 2011 Nomor 82, Tambahan Lembaran Negara
 Republik Indonesia Nomor 5234);
-Peraturan Pemerintah Nomor 58 Tahun 2005
+7. Peraturan Pemerintah Nomor 58 Tahun 2005
 tentang Pengelolaan Keuangan Daerah
 (Lembaran Negara Republik Indonesia Tahun
 2005 Nomor 140, Tambahan Lembaran Negara

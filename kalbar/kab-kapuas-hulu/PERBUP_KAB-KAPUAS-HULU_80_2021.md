@@ -292,8 +292,6 @@ b. Kelompok Jabatan Fungsional.
 
 (1), Subbagian Umum dan Aparatur melaksanakan fungsi sebagai berikut:
 
-LA
-
 a. penyusunan rencana kegiatan Subbagian Umum dan Aparatur;
 
 b. penyelenggaraan urusan penatausahaan surat menyurat;
@@ -357,8 +355,6 @@ Sekretaris.
 (1), Bidang Perikanan Budidaya melaksanakan fungsi sebagai berikut:
 
 a. penyusunan program kerja Bidang Perikanan Budidaya;
-
-
 
 b. penyiapan petunjuk teknis dan petunjuk pelaksanaan Bidang Perikanan Budidaya;
 

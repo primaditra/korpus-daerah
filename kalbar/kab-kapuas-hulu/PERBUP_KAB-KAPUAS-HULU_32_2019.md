@@ -18,18 +18,18 @@ TENTANG
 TATA CARA PENGHAPUSAN PIUTANG PAJAK DAERAH
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 BUPATI KAPUAS HULU,
-bahwa Piutang Pajak Daerah yang tidak dapat
+Menimbang : a. bahwa Piutang Pajak Daerah yang tidak dapat
 ditagih sampai dengan jangka waktu tertentu
 merupakan beban pada neraca keuangan
 daerah sehingga perlu dilaksanakan
 penghapusan;
-bahwa untuk melaksanakan ketentuan Pasal
+b. bahwa untuk melaksanakan ketentuan Pasal
 106 ayat (3) Peraturan Daerah Kabupaten
 Kapuas Hulu Nomor 8 Tahun 2011 tentang
 Pajak Daerah Kabupaten Kapuas Hulu, maka
 perlu diatur Tata Cara Penghapusan Piutang
 Pajak Daerah;
-bahwa berdasarkan pertimbangan dalam huruf
+c. bahwa berdasarkan pertimbangan dalam huruf
 a dan huruf b, perlu menetapkan Peraturan
 Bupati tentang Tata Cara Penghapusan Piutang
 Pajak Daerah.
@@ -38,15 +38,11 @@ Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara
 Republik Indonesia Tahun 1953 Nomor 9)
-Menimbang : a.
-b.
-i
-t
 sebagai Undang-Undangan (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor 72,
 Tambahan Lembaran Negara Republik
 Indonesia Nomor 1820);
-Undang-Undang Nomor 6 Tahun 1983 tentang
+2. Undang-Undang Nomor 6 Tahun 1983 tentang
 Ketentuan Umum dan Tata Cara Perpajakan
 (Lembaran Negara Republik Indonesia Tahun
 1983 Nomor 49, Tambahan Lembaran Negara
@@ -60,7 +56,7 @@ menjadi Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 2009 Nomor 62,
 Tambahan Lembaran Negara Republik
 Indonesia Nomor 4999);
-Undang-Undang Nomor 19 Tahun 1997 tentang
+3. Undang-Undang Nomor 19 Tahun 1997 tentang
 Penagihan Pajak dengan Surat Paksa
 (Lembaran Negara Republik Indonesia Tahun
 1997 Nomor 42, Tambahan Lembaran Negara
@@ -70,12 +66,12 @@ Tahun 2000 (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 129, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 3987);
-Undang-Undang Nomor 14 Tahun 2002 tentang
+4. Undang-Undang Nomor 14 Tahun 2002 tentang
 Pengadilan Pajak (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 27, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 4189);
-Undang-Undang Nomor 17 Tahun 2003 tentang
+5. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik
 Indonesia Tahun 2003 Nomor 47, Tambahan
 Lembaran Negara Republik Indonesia Nomor

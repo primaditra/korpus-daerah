@@ -143,7 +143,7 @@ Republik Indonesia Nomor 4737);
 Cara Pelaksanaan Kerja Sama Daerah (Lembaran Negara
 Republik Indonesia Tahun 2007 Nomor 112, Tambahan
 Lembaran Negara Republik Indonesia 4761);
-2 1 . Peraturan Pemerintah Nomor 26 Tahun 2008 tentang
+21. Peraturan Pemerintah Nomor 26 Tahun 2008 tentang
 Rencana Tata Ruang Wilayah Nasional (Lembaran Negara
 Republik Indonesia Tahun 2008 Nomor 48, Tambahan
 Lembaran Negara Republik Indonesia Nomor 483);
@@ -560,11 +560,7 @@ h. IMB menara.
 
 (1) Penyedia menara atau pengelola menara bertanggung jawab terhadap pemeriksaan berkala bangunan menara dan/atau kerugian yang timbul akibat runtuhnya seluruh dan/atau sebagian bangunan menara.
 
-(2) Pembangunan menara yang dapat dizinkan adalah pembangunan menara bersama yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal
-
-(4).
-
-V
+(2) Pembangunan menara yang dapat dizinkan adalah pembangunan menara bersama yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal (4).
 
 (3) Penyedia menara atau pengelola menara wajib memberikan kesempatan yang sama tanpa diskriminasi kepada penyelenggara telekomunikasi untuk menggunakan menara secara bersama-sama sesuai kemampuan teknis menara.
 
@@ -623,8 +619,6 @@ b. foto copy kartu tanda penduduk.
 ### Pasal 17
 
 (1) Pembangunan menara yang dapat diizinkan adalah pembangunan menara bersama yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal
-
-4. • • '
 
 (2) Pembangunan menara bersama (khusus menara baru) sebagaimana dimaksud pada ayat (1), dapat dilakukan oleh Badan Usaha Milik Daerah (BUMD) dan dalam melakukan usaha pembangunan dan pengelolaan menara bersama, Badan Usaha Milik Daerah (BUMD) dapat bekerjasama dengan pihak ketiga dengan prinsip saling menguntungkan.
 

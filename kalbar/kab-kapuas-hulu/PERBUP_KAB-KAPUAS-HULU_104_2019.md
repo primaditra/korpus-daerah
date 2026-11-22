@@ -45,8 +45,6 @@ Tahun 1953 Nomor 9) sebagai Undang-Undang
 (Lembaran Negara Republik Indonesia Tahun 1959
 Nomor 72, Tambahan Lembaran Negara Republik
 Indonesia Nomor 1820);
-> f
-i
 2. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik
 Indonesia Tahun 2003 Nomor 47, Tambahan

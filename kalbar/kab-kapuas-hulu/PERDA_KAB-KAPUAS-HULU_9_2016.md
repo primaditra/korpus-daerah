@@ -29,7 +29,7 @@ Pencabutan Peraturan Daerah Kabupaten
 Kapuas Hulu Nomor 2 Tahun 2003 tentang
 Retribusi Kelengkapan Administrasi Kapal di
 Perairan Daratan Kabupaten Kapuas Hulu;
-Mengingat 1. Pasal 18 ayat (6) Undang-Undang Dasar
+Mengingat : 1. 1. Pasal 18 ayat (6) Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959
 tentang Penetapan Undang-Undang Darurat

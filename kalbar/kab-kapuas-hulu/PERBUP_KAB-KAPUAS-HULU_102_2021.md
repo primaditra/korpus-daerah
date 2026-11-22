@@ -197,8 +197,6 @@ h. Kepala Sub Bagian Tata Usaha menyiapkan SKRD atau dokumen lainnya yang dipers
 
 i. SKRD atau dokumen lainnya yang dipersamakan diserahkan kepada pemohon melalui petugas loket; dan j . Pemohon membayar retribusi pelayanan tera/tera ulang sesuai dengan SKRD atau dokumen lainnya yang dipersamakan ke Pembantu Bendahara Penerima pada UPT Pengelola Pasar Daerah dan Layanan Metrologi Legal dan diberikan SSRD.
 
-. 
-
 ### Pasal 9
 
 (1) Tata cara pelaksanaan pelayanan tera/tera ulang pada saat pelaksaanaan sidang tera sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b angka 1, sebagai berikut:

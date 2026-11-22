@@ -10,8 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-e “3 3
-5:
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
@@ -25,7 +23,7 @@ ayat (3) Peraturan Daerah Nomor 8 Tahun 2011
 tentang Pajak Daerah, perlu menetapkan Peraturan
 Bupati Kapuas Hulu tentang Tata Cara
 Pemeriksaan Pajak Daerah;
-Mengingat: : 1. Undang-Undang Nomor 27 Tahun 1959 tentang
+Mengingat : 1. : 1. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara

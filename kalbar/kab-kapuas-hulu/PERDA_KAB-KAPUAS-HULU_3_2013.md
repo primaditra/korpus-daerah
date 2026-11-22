@@ -17,22 +17,22 @@ TENTANG
 RETRIBUSI PENGUJIAN KENDARAAN BERMOTOR
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 BUPATI KAPUAS HULU,
-bahwa dalam rangka menunjang ketertiban,
+Menimbang : a. bahwa dalam rangka menunjang ketertiban,
 keamanan dan keselamatan lalu lintas dan
 angkutan jalan serta kelestarian lingkungan
 diperlukan pengaturan terhadap pemeriksaan
 kondisi teknis kendaraan bermotor agar memenuhi
 persyaratan laik jalan;
-bahwa untuk mewujudkan kendaraan bermotor
+b. bahwa untuk mewujudkan kendaraan bermotor
 yang memenuhi persyaratan teknis dan laik jalan
 perlu dilakukan pengujian serta pengawasan
 operasional;
-bahwa pengujian kendaraan bermotor memerlukan
+c. bahwa pengujian kendaraan bermotor memerlukan
 sarana dan prashrana yang termasuk dalam
 pelayanan yang diselenggarakan oleh Pemerintah
 Daerah, sehingga kepada pengguna jasa pengujian
 dapat dipungut retribusi;
-bahwa dengan berlakukannya Undang-Undang
+d. bahwa dengan berlakukannya Undang-Undang
 Nomor 28 Tahun 2009 tentang Pajak Daerah dan
 Retribusi Daerah, Peraturan Daerah Kabupaten
 Kapuas Hulu Nomor 5 Tahun 2008 tentang
@@ -52,7 +52,6 @@ Tahun 1953 Nomor 9) sebagai Undang-Undang
 (Lembaran Negara Republik Indonesia Tahun 1959
 Nomor 72, Tambahan Lembaran Negara Republik
 Indonesia Nomor 1820);
-Menimbang : a.
 3. Undang-Undang Nomor 8 Tahun 1981 tentang
 1 Hukum Acara Pidana (Lembaran Negara Republik
 Indonesia Tahun 1981 Nomor 76, Tambahan

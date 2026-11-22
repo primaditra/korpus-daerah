@@ -42,8 +42,7 @@ c. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam hurufa, dan hurufb, maka perlu
 menetapkan Peraturan Bupati tentang Pelaksanaan
 Transaksi Non Tunai;
-l
-Mengingat : !• Undang-Undang Nomor 27 Tahun 1959 tentang
+Mengingat : 1. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun
 1953 tentang Pembentukan Daerah Tingkat II di
 Kalimantan (Lembaran Negara Republik Indonesia Tahun
@@ -185,7 +184,6 @@ d. Akuntabilitas.
 (2) Azas efisiensi sebagaimana dimaksud pada ayat (1 ) hurufa adalah system transaksi non tunai dalam penerimaan dan pengeluaran dalam APBD dijalankan dengan tanpa menghabiskan waktu , tenaga dan biaya.
 
 (3) Azas keamanan sebagaimana dimaksud pada ayat (1) hurufb adalah Sistem Transaksi Non Tunai dalam penerimaan dan pengeluaran dalam APBD memberikan jaminan atas keamanan kepada semua pemangku kepentingan.
-
 
 (4) Azas manfaat sebagaimana di maksud pada ayat (1) huruf c adalah Sistem Transaksi Non Tunai dalam penerimaan dan pengeluaran dalam APBD harus memberikan manfaat sebesar-besarnya bagi daerah dan semua pemangku kepentingan.
 
