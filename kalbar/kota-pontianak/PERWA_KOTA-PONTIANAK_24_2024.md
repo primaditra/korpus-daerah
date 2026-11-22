@@ -8,14 +8,16 @@ sumber_teks: ocr
 ---
 # Peraturan Wali Kota Pontianak Nomor 24 Tahun 2024 tentang Petunjuk Pelaksanaan Pemungutan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan
 
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
+
 ## Pembukaan
 
 PERATURAN WALI KOTA PONTIANAK
-NOMORATAHUN. 4974
+NOMOR 24 TAHUN 2024 [nomor dan tahun ditulis tangan]
 TENTANG
 PETUNJUK PELAKSANAAN PEMUNGUTAN PAJAK BUMI DAN
 BANGUNAN PERDESAAN DAN PERKOTAAN
-. DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA
 WALI KOTA PONTIANAK,
 Menimbang : a. bahwa dalam rangka pelaksanaan Undang-Undang
 Nomor 1 Tahun 2022 tentang Hubungan Keuangan
@@ -232,17 +234,15 @@ Dalam Peraturan Wali Kota ini, yang dimaksud dengan:
 
 12. Badan adalah dalah sekumpulan orang dan/atau modal yang merupakan kesatuan, baik yang melakukan usaha maupun yang tidak melakukan usaha yang meliputi Perseroan Terbatas, Perseroan Komanditer, Perseroan lainnya, Badan Usaha Milik Negara (BUMN) atau Badan Usaha Milik Daerah (BUMD) dengan nama dan dalam bentuk apapun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi massa, organisasi sosial politik atau organisasi lainnya, Lembaga dan bentuk badan lainnya termasuk kontrak investasi kolektif dan bentuk usaha tetap.
 
-13. Nomor Objek Pajak yang sclanjutnya disingkat NOP adalah nomor identifikasi objck pajak yang mcmiliki karakteristik unik, permanen, standar dengan satuan blok dalam satu wilayah administrasi pemerintahan desa/kelurahan yang berlaku secara nasional.
+13. Nomor Objek Pajak yang selanjutnya disingkat NOP adalah nomor identifikasi objek pajak yang memiliki karakteristik unik, permanen, standar dengan satuan blok dalam satu wilayah administrasi pemerintahan desa/kelurahan yang berlaku secara nasional.
 
 14. Nilai Jual Objek Pajak yang selanjutnya disingkat NJOP adalah harga rata-rata yang diperoleh dari transaksi jual beli yang terjadi secara wajar, dan bilamana tidak terdapat transaksi jual beli, NJOP ditentukan melalui perbandingan harga dengan objek lain yang sejenis, atau nilai perolehan baru, atau NJOP pengganti.
 
 15. Satuan NJOP adalah nilai jual objek pajak per meter persegi.
 
-16. Nilai Jual Objek Pajak Tidak Kena Pajak yang selanjutnya disingkat NJOPTKP adalah batas NJOP atas bumi/ bangunan yang tidak kena ajak.
+16. Nilai Jual Objek Pajak Tidak Kena Pajak yang selanjutnya disingkat NJOPTKP adalah batas NJOP atas bumi/ bangunan yang tidak kena pajak.
 
-17: aurat Pemberitahuan Objek Pajak yang selanjutnya disingkat SPOP adalah surat yang digunakan oleh Wajib Pajak untuk melaporkan data subjek dan objek Pajak Bumi dan Bangunan Perkotaan sesuai dengan ketentuan peraturan perundangundangan perpajakan daerah.
-
-EA La Me SAMA mna La Ka Hama
+17. Surat Pemberitahuan Objek Pajak yang selanjutnya disingkat SPOP adalah surat yang digunakan oleh Wajib Pajak untuk melaporkan data subjek dan objek Pajak Bumi dan Bangunan Perkotaan sesuai dengan ketentuan peraturan perundangundangan perpajakan daerah.
 
 18. Lampiran Surat Pemberitahuan Objek Pajak yang selanjutnya disingkat LSPOP adalah surat yang digunakan oleh Wajib Pajak untuk melaporkan data objek bangunan pada Pajak Bumi dan Bangunan Perkotaan sesuai dengan ketentuan peraturan perundang-undangan perpajakan daerah.
 
@@ -262,9 +262,9 @@ EA La Me SAMA mna La Ka Hama
 
 26. Bendahara Penerimaan adalah pejabat fungsional yang ditunjuk untuk menerima, menyimpan, menyetor, menatausahakan, dan mempertanggungjawabkan uang pendapatan daerah dalam rangka pelaksanaan APBD pada Dinas Pendapatan Daerah.
 
-27. Pemungutan adalah suatu rangkaian kcgiatan mulai dari penghimpunan data objek dan subjek pajak, penentuan besarnya pajak yang terutang sampai kegiatan penagihan pajak kepada Wajib Pajak serta pengawasan penyetorannya.
+27. Pemungutan adalah suatu rangkaian kegiatan mulai dari penghimpunan data objek dan subjek pajak, penentuan besarnya pajak yang terutang sampai kegiatan penagihan pajak kepada Wajib Pajak serta pengawasan penyetorannya.
 
-28. Surat Keputusan Pembetulan adalah Surat Kcputusan yang membetulkan kesalahan tulis, kesalahan hitung, dan/atau kekeliruan penerapan ketentuan tertentu dalam peraturan perundang-undangan perpajakan daerah yang terdapat dalam Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Daerah, Surat Ketetapan Pajak Daerah Kurang Bayar, Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan, Surat Ketetapan Pajak Daerah Nihil, Surat Ketetapan Pajak Daerah Lebih Bayar, Surat Tagihan Pajak Daerah, Surat Keputusan Pembetulan, atau Surat Keputusan Keberatan.
+28. Surat Keputusan Pembetulan adalah Surat Keputusan yang membetulkan kesalahan tulis, kesalahan hitung, dan/atau kekeliruan penerapan ketentuan tertentu dalam peraturan perundang-undangan perpajakan daerah yang terdapat dalam Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Daerah, Surat Ketetapan Pajak Daerah Kurang Bayar, Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan, Surat Ketetapan Pajak Daerah Nihil, Surat Ketetapan Pajak Daerah Lebih Bayar, Surat Tagihan Pajak Daerah, Surat Keputusan Pembetulan, atau Surat Keputusan Keberatan.
 
 29. Surat Keputusan Keberatan adalah Surat Keputusan atas keberatan terhadap Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak Daerah, Surat Ketetapan Pajak Daerah Kurang Bayar, Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan, Surat Ketetapan Pajak Daerah Nihil, Surat Ketetapan Pajak Daerah Lebih Bayar, atau terhadap pemotongan atau pemungutan oleh pihak ketiga yang diajukan oleh Wajib Pajak.
 
@@ -388,9 +388,9 @@ Setiap Petugas yang melaksanakan kegiatan pendaftaran, pendataan dan penilaian o
 
 (3) NJOPTKP sebagaimana dimaksud pada ayat (2) hanya diberikan atas salah satu objek PBB-P2 untuk setiap tahun pajak.
 
-(4) Tarif PBB-P2 ditetapkan 0,066 (nol koma nol enam persen).
+(4) Tarif PBB-P2 ditetapkan 0,06% (nol koma nol enam persen).
 
-(S5) Tarif PBB-P2 atas objek berupa lahan produksi pangan dan ternak di tetapkan sebesar 0,05Y6 (nol koma nol lima persen).
+(5) Tarif PBB-P2 atas objek berupa lahan produksi pangan dan ternak di tetapkan sebesar 0,05% (nol koma nol lima persen).
 
 ### Pasal 14
 Besaran pokok PBB-P2 yang terhutang dihitung dengan cara mengalikan dasar pengenaan PBB-P2 sebagaimana dimaksud dalam Pasal 13 ayat (1) dengan tarif PBB-P2 sebagaimana dimaksud dalam Pasal 13 ayat (4) atau ayat (5).
@@ -737,7 +737,7 @@ d. bukti pembayaran pajak; dan
 
 e. uraian perhitungan pajak menurut Wajib Pajak.
 
-(5) Wali Kota melalui Kepala SKPD-PPD harus memberikan keputusan dalam jangka waktu paling lama 12 (dua belas) bulan scjak permohonan.
+(5) Wali Kota melalui Kepala SKPD-PPD harus memberikan keputusan dalam jangka waktu paling lama 12 (dua belas) bulan sejak permohonan.
 
 (6) Apabila jangka waktu sebagaimana dimaksud pada ayat (5) telah dilampaui dan Wali Kota melalui Kepala SKPD-PPD tidak memberikan suatu keputusan, permohonan pengembalian pembayaran Pajak dianggap dikabulkan dan SKPDLB harus diterbitkan dalam jangka waktu paling lama 1 (satu) bulan.
 
@@ -774,25 +774,18 @@ Peraturan Wali Kota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-Peraturan Wali Kota ini dengan penempatannya dalam Berita Daerah Kota
-Pontianak.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Wali Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
 Ditetapkan di Pontianak
-" pada tanggal...B0 Agustus 2024
-Pj JL KITA PONTIANAK,
-? A aa I Ng i
-& 4 1 /
-5 “aik 23 EN
-Va AN gi 9 UN
+pada tanggal 30 Agustus 2024 [ditulis tangan]
+Pj. WALI KOTA PONTIANAK,
+TTD dan cap
+ANI SOFIAN
 Diundangkan di Pontianak
-pada tan 7 2024
-SEK fe SIS DA AA $ KOTA PONTIANAK,
-Kk PAN, A
-2 Sir / 12.
-“ AC 4 N
-Ontar MAU IHULLAH
-rj AN »
-BERITA DAERAH KOTA PONTIANAK TAHUN 2024 NOMOR RA
+pada tanggal 30 Agustus 2024 [ditulis tangan]
+SEKRETARIS DAERAH KOTA PONTIANAK,
+TTD dan cap
+AMIRULLAH
+BERITA DAERAH KOTA PONTIANAK TAHUN 2024 NOMOR 24 [ditulis tangan]
 
 ## Lampiran
 

@@ -8,6 +8,8 @@ sumber_teks: ocr
 ---
 # Peraturan Walikota Pontianak Nomor 29 Tahun 2014 tentang Petunjuk Pelaksanaan Pemungutan Pajak Hiburan
 
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
+
 ## Pembukaan
 
 WALIKOTA PONTIANAK
@@ -284,7 +286,7 @@ Komanditer, perseroan lainnya, Badan Usaha Milik Negara (BUMN) atau Badan Usaha 
 
 45. Surat Setoran Pajak Daerah yang selanjutnya disingkat SSPD, adalah bukti pembayaran atau penyetoran pajak yang telah dilakukan dengan menggunakan formulir atau telah dilakukan dengan cara lain ke Kas Daerah melalui tempat pembayaran yang ditunjuk oleh Walikota.
 
-i 46. Surat Ketetapan Pajak Daerah Kurang Bayar yang selanjutnya disingkat SKPDKB, adalah Surat Ketetapan Pajak yang menentukan besarnya jumlah pokok pajak, jumlah kredit pajak, jumlah kekurangan pembayaran pokok pajak, besarnya sanksi administrasi, dan jumlah pajak yang masih harus dibayar.
+46. Surat Ketetapan Pajak Daerah Kurang Bayar yang selanjutnya disingkat SKPDKB, adalah Surat Ketetapan Pajak yang menentukan besarnya jumlah pokok pajak, jumlah kredit pajak, jumlah kekurangan pembayaran pokok pajak, besarnya sanksi administrasi, dan jumlah pajak yang masih harus dibayar.
 
 47. Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan yang selanjutnya disingkat SKPDKBT, adalah Surat Ketetapan Pajak yang menentukan tambahan atas jumlah pajak yang telah ditetapkan.
 
@@ -323,7 +325,7 @@ BAB Il TUJUAN DAN RUANG LINGKUP
 
 a. tujuan dan ruang lingkup;
 
-b. tata cara pendaftaran dan pelaporan,
+b. tata cara pendaftaran dan pelaporan;
 
 c. tata cara perhitungan pajak;
 
@@ -331,13 +333,17 @@ d. tata cara pemungutan pajak;
 
 e. penagihan;
 
-f. ' bon penjualan (Bill);
+f. bon penjualan (Bill);
 
 g. pembukuan, pemeriksaan dan pengawasan;
 
-h. keberatan dan banding, ii pembetulan, pembatalan, pengurangan ketetapan dan penghapusan atau pengurangan sanksi administrasi, j- pengembalian kelebihan bayar;
+h. keberatan dan banding;
 
-k. ketentuan penutup,
+i. pembetulan, pembatalan, pengurangan ketetapan dan penghapusan atau pengurangan sanksi administrasi;
+
+j. pengembalian kelebihan bayar;
+
+k. ketentuan penutup;
 
 ## BAB III - TATA CARA PENDAFTARAN DAN PELAPORAN
 
@@ -414,7 +420,7 @@ Tarif pajak untuk setiap jenis hiburan ditetapkan sebagai berikut:
 
 a. jenis tontonan film ditetapkan, sebesar 10% (sepuluh persen);
 
-b. jenis pagelaran kesenian, musik, tari, busana dan sejenisnya ditetapkan, sebesar 20% (dua puluh persen),
+b. jenis pagelaran kesenian, musik, tari, busana dan sejenisnya ditetapkan, sebesar 20% (dua puluh persen);
 
 c. jenis kontes kecantikan, binaraga, dan sejenisnya ditetapkan, sebesar 20% (dua puluh persen);
 
@@ -422,25 +428,27 @@ d. jenis pameran dan sejenisnya ditetapkan sebesar 10% (sepuluh persen);
 
 e. jenis diskotik, klab malam dan sejenisnya sebesar 35% (tiga puluh lima persen);
 
-f. jenis karaoke dan sejenisnya ditetapkan sebesar 30% (tiga puluh persen);
+f. jenis karaoke dan sejenisnya ditetapkan sebesar 30 (tiga puluh persen);
 
 g. jenis sirkus, akrobat, sulap dan sejenisnya ditetapkan sebesar 20% (dua puluh persen);
 
-h. jenis permainan billyar, golf, bowling dan sejenisnya ditetapkan sebesar 2076 (sepuluh persen);
+h. jenis permainan billyar, golf, bowling dan sejenisnya ditetapkan sebesar 20% (sepuluh persen);
 
-i. jenis pacuan kuda, kendaraan bermotor dan sejenisnya ditetapkan sebesar 20% (dua puluh persen), j- jenis permainan ketangkasan keluarga dan sejenisnya ditetapkan sebesar 15% (lima belas persen);
+i. jenis pacuan kuda, kendaraan bermotor dan sejenisnya ditetapkan sebesar 20% (dua puluh persen);
 
-k. jenis permainan ketangkasan amusement dan sejenisnya ditetapkan sebesar 75Y6 (tujuh puluh puluh lima persen),
+j. jenis permainan ketangkasan keluarga dan sejenisnya ditetapkan sebesar 15% (lima belas persen);
 
-Il. jenis panti pijat, mandi uap/spa dan sejenisnya ditetapkan sebesar 35% (tiga puluh lima persen);
+k. jenis permainan ketangkasan amusement dan sejenisnya ditetapkan sebesar 75% (tujuh puluh puluh lima persen);
+
+l. jenis panti pijat, mandi uap/spa dan sejenisnya ditetapkan sebesar 35% (tiga puluh lima persen);
 
 m. jenis pusat kebugaran (fitness center) dan sejenisnya ditetapkan sebesar 20% (dua puluh persen);
 
-n. jenis pijat refleksi dan sejenisnya ditetapkan sebesar 10Y6 (sepuluh lima persen),
+n. jenis pijat refleksi dan sejenisnya ditetapkan sebesar 10% (sepuluh lima persen);
 
-Oo. jenis pertandingan/pertunjukan olah raga dan mencakup juga tempat olahraga yang dilengkapi fasilitas hiburan dan sejenisnya ditetapkan sebesar 206 (tiga puluh lima persen);
+o. jenis pertandingan/pertunjukan olah raga dan mencakup juga tempat olahraga yang dilengkapi fasilitas hiburan dan sejenisnya ditetapkan sebesar 20% (tiga puluh lima persen);
 
-p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesar 10% (sepuluh persen),
+p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesar 10% (sepuluh persen);
 
 ### Pasal 8
 (1) Dasar pengenaan Pajak Hiburan adalah jumlah pembayaran yang diterima atau yang seharusnya diterima oleh Penyelenggara Hiburan.
@@ -453,13 +461,20 @@ p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesa
 
 (5) Contoh Perhitungan Pajak Hiburan sebagaimana dimaksud pada ayat (1) ditetapkan dengan cara sebagai berikut :
 
-- Refleksi Dewasa - 2 Orang @Rp 50.000,00 - Rp 100.000,00 - Pijat anak -1Orang@Rp25.000,00 - Rp 25.000,00 - Jumlah harga (Dasar pengenaan pajak) - Rp 125.000,00 - Pajak Hiburan 10Y6 x jumlah harga - Rp 12.500,00 - Jumlah dibayar pengunjung hiburan - Rp 137.500,00
+- Refleksi Dewasa = 2 Orang @Rp 50.000,00 = Rp 100.000,00
+- Pijat anak = 1 Orang @Rp 25.000,00 = Rp 25.000,00
+- Jumlah harga (Dasar pengenaan pajak) = Rp 125.000,00
+- Pajak Hiburan 10% x jumlah harga = Rp 12.500,00
+- Jumlah dibayar pengunjung hiburan = Rp 137.500,00
 
 (6) Apabila Wajib Pajak tidak menarik Pajak Hiburan dari penerima jasa hiburan dan tidak mencantumkan pada setiap bon penjualan atau bill, faktur, tiket masuk, cash register atau sejenisnya yang dikeluarkan oleh Wajib Pajak, maka Pajak Hiburan yang terhutang menjadi tanggung jawab Wajib Pajak dan dianggap sudah termasuk dalam nilai penjualan Hiburan tersebut.
 
 (7) Contoh Perhitungan Pajak Hiburan sebagaimana dimaksud pada ayat (6) sebagai berikut :
 
-- Refleksi Dewasa-2 Orang @ Rp 50.000,00 - Rp 100.000,00 - Pijat anak -1Orang@Rp25.000,00 - Rp 25.000,00 - Jumlah Omzet sz Rp 125.000,00 - Pajak Hiburan (100/110) x 10x» x Omzet - Rp 11.364,00
+- Refleksi Dewasa = 2 Orang @ Rp 50.000,00 = Rp 100.000,00
+- Pijat anak = 1 Orang @ Rp 25.000,00 = Rp 25.000,00
+- Jumlah Omzet = Rp 125.000,00
+- Pajak Hiburan (100/110) x 10% x Omzet = Rp 11.364,00
 
 ## BAB V - TATA CARA PEMUNGUTAN PAJAK
 
@@ -717,9 +732,7 @@ c. memberikan atau menjual tanda masuk yang telah dipakai kepada penonton atau p
 d. memungut atau menerima pembayaran tanda masuk melebihi harga yang tercantum dalam harga tanda masuk.
 
 ### Pasal 26
-Wajib Pajak yang menyelenggarakan hiburan dengan tidak mengindahkan kewajiban dan larangan sebagaimana dimaksud dalam Pasal 19, Pasal 22
-
-2D dan Pasal 23, pajak terutang ditetapkan secara jabatan sebagaimana dimaksud dalam Pasal 9 dan Pasal 10.
+Wajib Pajak yang menyelenggarakan hiburan dengan tidak mengindahkan kewajiban dan larangan sebagaimana dimaksud dalam Pasal 19, Pasal 22 dan Pasal 23, pajak terutang ditetapkan secara jabatan sebagaimana dimaksud dalam Pasal 9 dan Pasal 10.
 
 ### Pasal 27
 (1) Untuk menampung perkembangan teknologi perekaman data transaksi usaha, Wajib Pajak dapat menggunakan peralatan komputer atau mesin cash register dengan terlebih dahulu mengajukan permohonan secara tertulis kepada Kepala SKPD-PPD untuk dikecualikan atau dibebaskan dari kewajiban melegalisasi bon penjualan atau bill dan tanda masuk hiburan.
@@ -1033,18 +1046,19 @@ Peraturan Walikota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-Peraturan Walikota ini dengan penempatannya dalam Berita Daerah Kota
-Pontianak
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Walikota ini dengan penempatannya dalam Berita Daerah Kota Pontianak
 Ditetapkan di Pontianak
+pada tanggal 02 Mei 2014
 WALIKOTA PONTIANAK,
+TTD
 SUTARMIDJI
 Diundangkan di Pontianak
 pada tanggal 02 Mei 2014
-SEKRETA 'AERAH KOTA PONTIANAK,
-M@CHAMAD AHIP
-BERITA DAERAH KOTA NTIANAK TAHUN 2014 NOMOR
+SEKRETARIS DAERAH KOTA PONTIANAK,
+TTD
+MOCHAMAD AKIP
+BERITA DAERAH KOTA PONTIANAK TAHUN 2014 NOMOR [nomor tidak diisi pada naskah]
 
 ## Lampiran
 
-Lampiran berupa format dan formulir; tidak disalin, lihat PDF.
+PDF sumber (36 halaman) berakhir pada halaman penandatanganan; tidak memuat lampiran.

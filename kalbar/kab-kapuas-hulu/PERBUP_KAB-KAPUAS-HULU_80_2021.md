@@ -364,7 +364,9 @@ d. pembinaan pengelolaan pembudidayaan ikan;
 
 e. pemantauan dan pengawasan pelaksanaan tugas di Bidang Perikanan Budidaya;
 
-f. pengevaluasian pelaksanaan tugas Bidang Perikanan Budidaya secara periodik; g. pelaporan perkembangan pelaksanaan tugas Bidang Perikanan Budidaya secara periodik; dan
+f. pengevaluasian pelaksanaan tugas Bidang Perikanan Budidaya secara periodik;
+
+g. pelaporan perkembangan pelaksanaan tugas Bidang Perikanan Budidaya secara periodik; dan
 
 h. pelaksanaan tugas lain yang diberikan oleh Kepala Dinas sesuai dengan tugas pokok dan fungsinya.
 

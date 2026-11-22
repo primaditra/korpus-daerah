@@ -8,6 +8,8 @@ sumber_teks: ocr
 ---
 # Peraturan Walikota Pontianak Nomor 22 Tahun 2012 tentang Petunjuk Pelaksanaan Pemungutan Pajak Hotel
 
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
+
 ## Pembukaan
 
 PERATURAN WALIKOTA PONTIANAK
@@ -352,15 +354,32 @@ c. Bukti setoran pajak yang telah dilakukan (tindasan SSPD).
 
 (5) Contoh Perhitungan Pajak Hotel sebagaimana dimaksud pada ayat (1) ditetapkan dengan cara sebagai berikut :
 
-- Sewa Kamar -4 Hari @Rp 75.000 - Rp 300.000,00
+- Sewa Kamar = 4 Hari @ Rp 75.000 = Rp 300.000,00
 
-- Pelayanan cuci -8ptst @Rp 5.000 - Rp 40.000,00 - Jasa Hiburan -4Jam @Rp 25.000 - Rp 100.000,00 - Jasa Transportasi -8Jam @Rp 25.000 - Rp 200.000,00 - Jasa Sewa Ruang -iI hari @Rp260.000 - Rp 260.000,00 - Jumlah Rp 900.000,00 - Service Change (10 Yo x jumlah) - Rp. 90.000,00 - Jumlah tagihan Rp. 990.000,00 - Pajak Hotel 10Yo x jumlah tagihan - Rp 99.000,00 - Jumlah dibayar pengunjung hotel - Rp. 1.089.000,00
+- Pelayanan cuci = 8 ptg @ Rp 5.000 = Rp 40.000,00
+- Jasa Hiburan = 4 Jam @ Rp 25.000 = Rp 100.000,00
+- Jasa Transportasi = 8 Jam @ Rp 25.000 = Rp 200.000,00
+- Jasa Sewa Ruang = 1 hari @ Rp 260.000 = Rp 260.000,00
+- Jumlah Rp 900.000,00
+- Service Change (10 % x jumlah) = Rp. 90.000,00
+- Jumlah tagihan Rp. 990.000,00
+- Pajak Hotel 10% x jumlah tagihan = Rp 99.000,00
+- Jumlah dibayar pengunjung hotel = Rp. 1.089.000,00
 
 (6) Apabila Wajib Pajak tidak menarik Pajak Hotel dari pengunjung Hotel dan tidak mencantumkan pada setiap bon penjualan atau bill, faktur, cash register atau sejenisnya yang dikeluarkan oleh Wajib Pajak, maka Pajak Hotel yang terhutang menjadi tanggung jawab Wajib Pajak dan dianggap sudah termasuk dalam nilai penjualan Hotel tersebut.
 
 (7) Perhitungan Pajak Hotel sebagaimana dimaksud pada ayat (6) adalah dengan mengalikan omset Hotel tersebut pada setiap masa pajak dengan 100/110 (seratur per seratus sepuluh) dari Tarif Pajak Hotel sebagaimana dimaksud pada pasal 6.
 
-(8) Contoh Perhitungan Pajak Hotel sebagaimana dimaksud pada ayat (7) sebagai berikut : - Sewa Kamar -4 Hari @Rp 75.000 - Rp 300.000,00 - Pelayanan cuci -8ptg @Rp 5.000 - Rp 40.000,00 - Jasa Hiburan -4Jam @Rp 25.000 - Rp 100.000,00 - Jasa Transportasi -8 Jam @Rp 25.000 - Rp 200.000,00 - Jasa Sewa Ruang -1lhari @Rp260.000 - Rp 260.000,00 - Jumlah Rp 900.000,00 - Service Change (10 Yo x jumlah) - Rp. 90.000,00 - Jumlah tagihan Rp. 990.000,00 - Pajak Hotel (100/110) x 10Yo x Jlh Tag - Rp 90.000,00
+(8) Contoh Perhitungan Pajak Hotel sebagaimana dimaksud pada ayat (7) sebagai berikut :
+- Sewa Kamar = 4 Hari @ Rp 75.000 = Rp 300.000,00
+- Pelayanan cuci = 8 ptg @ Rp 5.000 = Rp 40.000,00
+- Jasa Hiburan = 4 Jam @ Rp 25.000 = Rp 100.000,00
+- Jasa Transportasi = 8 Jam @ Rp 25.000 = Rp 200.000,00
+- Jasa Sewa Ruang = 1 hari @ Rp 260.000 = Rp 260.000,00
+- Jumlah Rp 900.000,00
+- Service Change (10 % x jumlah) = Rp. 90.000,00
+- Jumlah tagihan Rp. 990.000,00
+- Pajak Hotel (100/110) x 10% x Jlh Tag = Rp 90.000,00
 
 ## BAB IV - TATA CARA PEMUNGUTAN PAJAK
 
@@ -437,7 +456,7 @@ c. Berdasarkan data pembanding.
 (3) Apabila pembayaran masa pajak terutang dilakukan setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga keterlambatan sebesar 2% (dua persen) sebulan untuk jangka waktu paling lama 15 (lima belas) bulan.
 
 ### Pasal 12
-(3) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD wajib dilunasi dalam jangka waktu paling lama 30 (tiga puluh) hari sejak tanggal diterbitkan.
+(1) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD wajib dilunasi dalam jangka waktu paling lama 30 (tiga puluh) hari sejak tanggal diterbitkan.
 
 (2) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD, yang tidak atau kurang dibayar setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen).
 
@@ -693,9 +712,7 @@ Pengajuan keberatan tidak menunda kewajiban membayar pajak dan pelaksanaan penag
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKPDLB.
 
-(3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 50Yo
-
-(lima puluh persen) dari jumlah pajak berdasarkan keputusan keberatan dikurangi dengan pajak yang telah dibayar sebelum mengajukan keberatan.
+(3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 50% (lima puluh persen) dari jumlah pajak berdasarkan keputusan keberatan dikurangi dengan pajak yang telah dibayar sebelum mengajukan keberatan.
 
 **Bagian Kedua - Pengurangan, Keringanan Dan Pembebasan Pajak**
 
@@ -875,15 +892,17 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan
 Peraturan Walikota ini dengan penempatannya dalam Berita Daerah
 Kota Pontianak
 Ditetapkan di Pontianak
-pada tanggal : 4 FEMUARI 2012
+pada tanggal : 4 FEBRUARI 2012 [dicap]
 WALIKOTA PONTIANAK,
+TTD
 SUTARMIDJI
 Diundangkan di Pontianak
-pada tanggal 4 FEMUARI 2012
-SEKRETAR / DAERAH KOTA PONTIANAK,
-MOCHAMAD P
-BERITA DAERAH KOTA PONTIANAK TAHUN 2012 NOMOR 22
+pada tanggal 4 FEBRUARI 2012 [dicap]
+SEKRETARIS DAERAH KOTA PONTIANAK,
+TTD
+MOCHAMAD AKIP
+BERITA DAERAH KOTA PONTIANAK TAHUN 2012 NOMOR 22 [nomor ditulis tangan]
 
 ## Lampiran
 
-Lampiran berupa format dan formulir; tidak disalin, lihat PDF.
+PDF sumber (32 halaman) berakhir pada halaman penandatanganan; tidak memuat lampiran.

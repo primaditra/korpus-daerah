@@ -370,7 +370,9 @@ b. Pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di Air
 
 a. Pemerintah daerah lainnya;
 
-b. pihak swasta: Cc. organisasi masyarakat; dan
+b. pihak swasta;
+
+c. organisasi masyarakat; dan
 
 d. perorangan.
 

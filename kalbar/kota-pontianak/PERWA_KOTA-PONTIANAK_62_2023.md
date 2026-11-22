@@ -8,6 +8,8 @@ sumber_teks: ocr
 ---
 # Peraturan Wali Kota Pontianak Nomor 62 Tahun 2023 tentang Kedudukan, Struktur Organisasi, Tugas Pokok, Fungsi, Uraian Tugas dan Tata Kerja Badan Pendapatan Daerah Kota Pontianak
 
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
+
 ## Pembukaan
 
 WALI KOTA PONTIANAK
@@ -108,23 +110,23 @@ BAB 1
 KETENTUAN UMUM
 
 ### Pasal 1
-Dalam Pernturan Wali Kota ini, yang dimaksud dengan:
+Dalam Peraturan Wali Kota ini, yang dimaksud dengan:
 
 l, Daerah adalah Kota Pontianak;
 
-2. Pemerintah Daerah adalah Wali Kota sebagai unsur penyelenggara pemerintahan dacrah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan Pemerintah Kota Pontianak.
+2. Pemerintah Daerah adalah Wali Kota sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan Pemerintah Kota Pontianak.
 
 3. Wali Kota adalah Wali Kota Kota Pontianak.
 
-4. Sekretaris Daerah adalah Sekretaris Dacrah Kota Pontianak.
+4. Sekretaris Daerah adalah Sekretaris Daerah Kota Pontianak.
 
 5. Badan Pendapatan Daerah yang selanjutnya disebut Badan adalah Badan Pendapatan Daerah Kota Pontianak.
 
 6. Kepala Badan adalah Kepala Badan Pendapatan Daerah Kota Pontianak.
 
-7. Unit Pelaksana Teknis adalah unsur pelaksana kegiatan teknis operasional dan/atau kegiatan teknis penunjang pada Badan Pendapatan Dacrah Kota Pontianak;
+7. Unit Pelaksana Teknis adalah unsur pelaksana kegiatan teknis operasional dan/atau kegiatan teknis penunjang pada Badan Pendapatan Daerah Kota Pontianak;
 
-8. Aparatur Sipil Negara yang selanjutnya disingkat ASN adalah profesi bagi pepawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada pemerintah Kota Pontianak.
+8. Aparatur Sipil Negara yang selanjutnya disingkat ASN adalah profesi bagi pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada pemerintah Kota Pontianak.
 
 9. Jabatan Administrasi adalah sekelompok jabatan yang berisi fungsi dan tugas berkaitan dengan pelayanan publik serta administrasi pemerintahan dan pembangunan.
 
@@ -134,17 +136,17 @@ l, Daerah adalah Kota Pontianak;
 
 12. Pejabat Fungsional adalah Pegawai ASN yang menduduki Jabatan Fungsional pada pemerintah Kota Pontianak.
 
-13. Penyetaraan Jabatan Administrasi ke dalam Jabatan Fungsional yang selanjutnya disebut Penyetaraan Jabatan adalah Pengangkatan Pejabat Administrasi kec dalam Jabatan Fungsional melalui Penyesuaian / Inpassing pada jabatan fungsional yang sctara.
+13. Penyetaraan Jabatan Administrasi ke dalam Jabatan Fungsional yang selanjutnya disebut Penyetaraan Jabatan adalah Pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional melalui Penyesuaian / Inpassing pada jabatan fungsional yang setara.
 
-14. Jabatan Pelaksana adalah sekclompok jabatan yang berisi fungsi dan tugas pelaksanaan kegjatan pelayanan publik serta administrasi pemerintahan dan pembangunan.
+14. Jabatan Pelaksana adalah sekelompok jabatan yang berisi fungsi dan tugas pelaksanaan kegiatan pelayanan publik serta administrasi pemerintahan dan pembangunan.
 
 ## BAB II - MAKSUD, TUJUAN DAN RUANG LINGKUP
 
 ### Pasal 2
-Maksud disusunnya Peraturan Wali Kota ini adalah sebagai arah dan pedoman bagi Perangkat Dacrah dalam menyelenggarakan fungsi penunjang urusan pemerintahan bidang pendapatan yang menjadi kewenangan daerah.
+Maksud disusunnya Peraturan Wali Kota ini adalah sebagai arah dan pedoman bagi Perangkat Daerah dalam menyelenggarakan fungsi penunjang urusan pemerintahan bidang pendapatan yang menjadi kewenangan daerah.
 
 ### Pasal 3
-Tujuan disusunnya Peraturan Wali Kota ini adalah untuk mewujudkan penyelenggaraan pomerintahan yang rasional, proporsional, cfektif dan efisien yang didasarkan pada asas cfisiensi, cfckufitas, perabagian habis tugas, rentang kendali, tata kerja yang jelas dan fleksibilitas antara penyelenggara fungsi penunjang urusan pemerintahan pada bidang pendapatan yang menjadi kewenangan daerah.
+Tujuan disusunnya Peraturan Wali Kota ini adalah untuk mewujudkan penyelenggaraan pemerintahan yang rasional, proporsional, efektif dan efisien yang didasarkan pada asas efisiensi, efektifitas, pembagian habis tugas, rentang kendali, tata kerja yang jelas dan fleksibilitas antara penyelenggara fungsi penunjang urusan pemerintahan pada bidang pendapatan yang menjadi kewenangan daerah.
 
 ### Pasal 4
 Ruang lingkup Peraturan Wali Kota ini meliputi:
@@ -200,7 +202,7 @@ f. kelompok jabatan fungsional.
 **Bagian Kesatu - Bapenda**
 
 ### Pasal 7
-Bapcnda mempunyai tugas pokok membantu Wali Kota melaksanakan unsur penunjang urusan pemerintahan yang menjadi kewenangan dacrah dan tugas pembantuan di bidang pendapatan sesuai dengan ketentuan peraturan perundang-undangan.
+Bapenda mempunyai tugas pokok membantu Wali Kota melaksanakan unsur penunjang urusan pemerintahan yang menjadi kewenangan daerah dan tugas pembantuan di bidang pendapatan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 8
 Untuk melaksanakan tugas pokok sebagaimana dimaksud dalam Pasal 7,
@@ -252,7 +254,7 @@ e. pelaporan dan evaluasi pelaksanaan tugas di bidang pengelolaan pajak dan retr
 f. pelaksanaan fungsi lain yang diberikan oleh Wali Kota yang berkaitan dengan tugas dan fungsi Badan Pendapatan Daerah.
 
 ### Pasal 11
-Urajan tugas jabatan kepala badun yaitu:
+Uraian tugas jabatan kepala badan yaitu:
 
 a. merumuskan kebijakan teknis di bidang pendapatan daerah dalam lingkup pendapatan asli daerah berdasarkan ketentuan peraturan perundangundangan sebagai bahan penyusunan kebijakan Wali Kota,
 
@@ -260,7 +262,7 @@ b. menetapkan program kerja dan kegiatan di bidang pendapatan daerah dalam lingk
 
 c. mengoordinasikan kegiatan pembinaan di bidang pendapatan daerah dalam lingkup pendapatan asli daerah dengan unit kerja terkait agar kegiatan yang direncanakan dapat dilaksanakan secara terarah, terpadu dan selaras;
 
-d. mendistribusikan tugas yang berkaitan dengan Badan Pendapatan Daerah dalam lingkup pendapatan asli daerah kepada sekretaris dan kepala bidang berdasarkan tugas pokok dan fungsi agar tugas dapat terlaksana secara efisien, efektif dan tepak waktu;
+d. mendistribusikan tugas yang berkaitan dengan Badan Pendapatan Daerah dalam lingkup pendapatan asli daerah kepada sekretaris dan kepala bidang berdasarkan tugas pokok dan fungsi agar tugas dapat terlaksana secara efisien, efektif dan tepat waktu;
 
 e. memberikan petunjuk kerja kepada bawahan secara lisan maupun tulisan sesuai dengan bidang tugasnya agar tugas dapat dilaksanakan secara benar sesuai dengan ketentuan peraturan perundang-undangan;
 
@@ -286,7 +288,7 @@ Sekretaris sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b, mempunyai tugas 
 ### Pasal 13
 Untuk melaksanakan tugas pokok sebagaimana dimaksud dalam Pasal 12,
 
-Sekretaris mempunyai fangsi:
+Sekretaris mempunyai fungsi:
 
 a. perumusan kebijakan teknis di bidang kesekretariatan;
 
@@ -313,7 +315,7 @@ c. memberikan petunjuk kerja dan arahan kepada kepala subbagian, pejabat fungsio
 
 d. melakukan pengawasan terhadap kepala subbagian, pejabat fungsional dan pelaksana dalam melaksanakan tugas baik secara preventif maupun represif untuk menghindari terjadinya kesalahan dan penyimpangan dalam pelaksanaan tugas;
 
-e. mengevaluasi kegiatan yang telah dilaksanakan oleh kepala subbuagian, pejabat fungsional dan pelaksana dengan membandingkan antara hasil kerja yang dicapai dengan target kinerja yang telah ditetapkan untuk mengetahui tingkat kinerja yang dicapai, f£. membantu pimpinan dalam mengoordinasikan pelaksanaan tugas bidang yang ada di Badan sesuai dengan petunjuk pimpinan untuk kelancaran pelaksanaan tugas;
+e. mengevaluasi kegiatan yang telah dilaksanakan oleh kepala subbagian, pejabat fungsional dan pelaksana dengan membandingkan antara hasil kerja yang dicapai dengan target kinerja yang telah ditetapkan untuk mengetahui tingkat kinerja yang dicapai, f£. membantu pimpinan dalam mengoordinasikan pelaksanaan tugas bidang yang ada di Badan sesuai dengan petunjuk pimpinan untuk kelancaran pelaksanaan tugas;
 
 g. melaksanakan tugas administrasi umum dan kepegawaian, perencanaan dan keuangan berdasarkan pedoman dan ketentuan peraturan perundangundangan sebagai bahan perumusan kebijakan;
 
@@ -355,7 +357,7 @@ Uraian Tugas Jabatan Kepala Subbagian Umum dan Aparatur yaitu:
 
 a. menyusun rencana kerja di Sub Bagian Umum dan Aparatur berdasarkan sasaran dan program kerja tahunan badan yang telah ditetapkan sebagai pedoman untuk melaksanakan tugas;
 
-b. membagi tugas dan memberi petunjuk kerja kepada pejabat fangsional dan pelaksana di Sub Bagian Umum dan Aparatur secara lisan dan tertulis agar tugas-tugas dapat dilaksanakan dapat dipahami secara baik dan benar;
+b. membagi tugas dan memberi petunjuk kerja kepada pejabat fungsional dan pelaksana di Sub Bagian Umum dan Aparatur secara lisan dan tertulis agar tugas-tugas dapat dilaksanakan dapat dipahami secara baik dan benar;
 
 c. melakukan pengawasan kepada pejabat fungsional dan pelaksana di Sub
 
@@ -363,13 +365,15 @@ Bagian Umum dan Aparatur dalam melaksanakan tugas baik secara preventif maupun r
 
 d. mengevaluasi pelaksanaan pejabat fungsional dan pelaksana di Sub Bagian Umum dan Aparatur dengan cara membandingkan antara hasil kerja yang dicapai dengan rencana kerja yang telah dibuat untuk mengetahui tingkat kinerja yang dicapai;
 
-e. melaksanakan penataan arsip di bidang kepegawaian sesuai dengan jumlah pegawai yang ada untuk tertib administrasi, f£ melaksanakan administrasi kepegawaian yang meliputi pengusulan pembuatan Kartu Isteri/Suami, Kartu Pegawai, Daftar Urut Kepangkatan, Sasaran Kinerja Pegawai, Kenaikan Gaji Berkala, Kenaikan Pangkat, Tabungan dan Asuransi Pensiun, Asuransi Kesehatan, Ujian Dinas, Pendidikan Dan Latihan, Satya Lencana, Ijin Cuti, Kesejahteraan Pegawai, Laporan Pajak-Pajak Pribadi, Inventarisasi Penyampaian Laporan Harta Kekayaan Penyelenggara Negara, Usulan Formasi dan Mutasi Pegawai, Pensiun Pegawai Negeri Sipil, Analisis Jabatan dan Analisis Beban Kerja, Evaluasi Jabatan, Kompetensi Jabatan, Standarisasi Jabatan, Analisis Kebutuhan Pendidikan dun Pelatihan, Pelayanan Data dan Informasi Serta Administrasi Kepegawaian Internal sesuai dengan ketentuan peraturan perundang-undangan untuk tertib administrasi kepegawaian;
+e. melaksanakan penataan arsip di bidang kepegawaian sesuai dengan jumlah pegawai yang ada untuk tertib administrasi;
+
+f. melaksanakan administrasi kepegawaian yang meliputi pengusulan pembuatan Kartu Isteri/Suami, Kartu Pegawai, Daftar Urut Kepangkatan, Sasaran Kinerja Pegawai, Kenaikan Gaji Berkala, Kenaikan Pangkat, Tabungan dan Asuransi Pensiun, Asuransi Kesehatan, Ujian Dinas, Pendidikan Dan Latihan, Satya Rencana, Ijin Cuti, Kesejahteraan Pegawai, Laporan Pajak-Pajak Pribadi, Inventarisasi Penyampaian Laporan Harta Kekayaan Penyelenggara Negara, Usulan Formasi dan Mutasi Pegawai, Pensiun Pegawai Negeri Sipil, Analisis Jabatan dan Analisis Beban Kerja, Evaluasi Jabatan, Kompetensi Jabatan, Standarisasi Jabatan, Analisis Kebutuhan Pendidikan dan Pelatihan, Pelayanan Data dan Informasi Serta Administrasi Kepegawaian Internal sesuai dengan ketentuan peraturan perundang-undangan untuk tertib administrasi kepegawaian;
 
 g. melaksanakan administrasi umum yang berkaitan dengan keprotokolan, perlengkapan dan rumah tangga yang meliputi keamanan, kebersihan, keindahan, penghapusan, pengadaan dan pemeliharaan barang, alat tulis kantor, logistik, operasional kantor, dokumentasi surat menyurat, fasilitasi pertemuan/rapat, urusan perlengkapan dan rumah tangga dinas, sesuai dengan tugas pokok dan fungsi Subbagian Umum dan Aparatur agar pelaksanaan tugas berjalan sesuai dengan ketentuan peraturan perundangundangan;
 
 h. menyusun rencana kebutuhan barang, rencana pemeliharaan barang dan pengelolaan rencana umum pengadaan barang dan jasa yang dibutuhkan sesuai dengan pedoman dan peraturan agar pelaksanaan tugas berjalan sesuai dengan ketentuan peraturan perundang-undangan;
 
-i. melaksanakan tugas yang berkaitan dengan pelayanan publik yang meliputi standar operasional prosedur, standar pclayanan publik, standar kepuasan masyarakat dan memfasilitasi pengembangan budaya kerja agar pelaksanaan tugas berjalan sesuai dengan ketentuan peraturan perundang-undangan, j- melaksanakan penataan kelembagaan sesuai dengan pedoman dan ketentuan peraturan  perundang-undangan  scbagai bahan  pertanggungjawaban pelaksanaan tugas;
+i. melaksanakan tugas yang berkaitan dengan pelayanan publik yang meliputi standar operasional prosedur, standar pelayanan publik, standar kepuasan masyarakat dan memfasilitasi pengembangan budaya kerja agar pelaksanaan tugas berjalan sesuai dengan ketentuan peraturan perundang-undangan, j- melaksanakan penataan kelembagaan sesuai dengan pedoman dan ketentuan peraturan  perundang-undangan  sebagai bahan  pertanggungjawaban pelaksanaan tugas;
 
 k. menyusun konsep naskah dinas yang berkaitan dengan bidang umum dan aparatur sesuai dengan pedoman dan ketentuan peraturan perundangundangan untuk diajukan kepada atasan sebagai bahan pelaksanaan kegiatan,
 
@@ -380,7 +384,7 @@ n. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fu
 ### Pasal 19
 Ruang lingkup tugas subbagian umum dan aparatur meliputi administrasi surat menyurat, fasilitasi pertemuan/rapat, urusan perlengkapan dan rumah tangga, penataan kelembagaan perangkat daerah, pelayanan data dan informasi administrasi kepegawaian internal serta pelayanan publik.
 
-**Bagian Kelima - Kepala Bidang Perencanaan, Pengembangan dan Pelayanan Pajak dan Retribusi Daerah Berbasis Tcknologi Informasi**
+**Bagian Kelima - Kepala Bidang Perencanaan, Pengembangan dan Pelayanan Pajak dan Retribusi Daerah Berbasis Teknologi Informasi**
 
 ### Pasal 20
 Bidang Perencanaan, Pengembangan dan Pelayanan Pajak dan Retribusi Daerah
@@ -398,9 +402,9 @@ a. perumusan kebijakan teknis di bidang perencanaan, pengembangan dan pelayanan 
 
 b. perumusan program kerja di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi;
 
-c. penyclenggaraan koordinasi pelaksanaan tugas di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi;
+c. penyelenggaraan koordinasi pelaksanaan tugas di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi;
 
-d. penyelenggaraan monitoring dan evaluasi kebijakan di bidang perencanaan, pengembangan dan pelayanan pajak dan rctribusi daerah berbasis teknologi informasi;
+d. penyelenggaraan monitoring dan evaluasi kebijakan di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi;
 
 e. pembinaan dan pengendalian teknis di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi;
 
@@ -421,15 +425,17 @@ b. membagi tugas kepada pejabat struktural, fungsional dan pelaksana di bidang P
 
 c. memberi petunjuk kerja kepada pejabat struktural, fungsional dan pelaksana di bidang Perencanaan, Pengembangan dan Pelayanan Pajak dan Retribusi Daerah Berbasis Teknologi Informasi yang dilakukan secara lisan maupun tulisan agar tugas yang akan dilaksanakan dapat dipahami secara benar;
 
-d. melakukan pengawasan kepada pejabat struktural, fungsional dan pelaksana di bidang Perencanaan, Pengembangan dan Pelayanan Pajak dan Retribusi Daerah Berbasis Teknologi Informasi dalam melaksanakan tugas baik secara preventif maupun represif untuk menghindari terjadinya kesalahan dan penyimpangan dalam pelaksanaan tugas, ce. menpkevuluusi kegiatan yung telali dilaksanakan oleh pejabat struktural, fungsional dan pelaksana di bidang Perencanaan, Pengembangan dan
+d. melakukan pengawasan kepada pejabat struktural, fungsional dan pelaksana di bidang Perencanaan, Pengembangan dan Pelayanan Pajak dan Retribusi Daerah Berbasis Teknologi Informasi dalam melaksanakan tugas baik secara preventif maupun represif untuk menghindari terjadinya kesalahan dan penyimpangan dalam pelaksanaan tugas;
+
+e. mengevaluasi kegiatan yang telah dilaksanakan oleh pejabat struktural, fungsional dan pelaksana di bidang Perencanaan, Pengembangan dan
 
 Pelayanan Pajak dan Retribusi Daerah Berbasis Teknologi Informasi dengan membandingkan antara hasil kerja yang dicapai dengan rencana yang telah ditetapkan untuk mengetahui tingkat kinerja yang dicapai, s11.-
 
-( melaksanakan tugas pembinaan yang berkaitan dengan bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi Informasi, verifikasi dan penetapan pajak dan retribusi daerah dan perencanaan dan pengembangan pajak dan retribusi daerah berdasarkan pxdoman dan ketentuan peraturan perundang-undangan untuk kelancaran pelaksanaan tugas:
+( melaksanakan tugas pembinaan yang berkaitan dengan bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi Informasi, verifikasi dan penetapan pajak dan retribusi daerah dan perencanaan dan pengembangan pajak dan retribusi daerah berdasarkan pedoman dan ketentuan peraturan perundang-undangan untuk kelancaran pelaksanaan tugas:
 
 £. melaksanakan program kerja di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi, verifikasi dan penetapan pajak dan retribusi daerah dan perencanaan dan pengembangan pajak dan retribusi daerah berdasarkan pedoman dan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
 
-h. memfasilitasi kegiatan yang berkaitan dengan bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi, verifikasi dan penetapan pajak dan retribusi dacrah dan perencanaan dan pengembangan pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
+h. memfasilitasi kegiatan yang berkaitan dengan bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi, verifikasi dan penetapan pajak dan retribusi daerah dan perencanaan dan pengembangan pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
 
 i. melaporkan kegiatan di bidang perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi kepada atasan sesuai dengan pedoman dan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
 
@@ -458,7 +464,7 @@ c. penyusunan bahan laporan pelaksanaan tugas di bidang perencanaan dan pengemba
 
 d. pelaksanaan monitoring dan evaluasi di bidang perencanaan dan pengembangan pajak dan retribusi daerah; dan
 
-e. pelaksanaan tugas lain dibidang perencanaan dan pengembangan pajak dan retribusi dacrah yang diberikan oleh Kepala Bidang.
+e. pelaksanaan tugas lain dibidang perencanaan dan pengembangan pajak dan retribusi daerah yang diberikan oleh Kepala Bidang.
 
 ### Pasal 26
 Uraian Tugas Jabatan Kepala Subbidang Perencanaan dan Pengembangan Pajak dan Retribusi Daerah yaitu:
@@ -473,11 +479,11 @@ d. mengevaluasi kegiatan yang telah dilaksanakan oleh pejabat fungsional dan pel
 
 e. melaksanakan penataan kearsipan bidang perencanaan dan pengembangan pajak dan retribusi daerah untuk tertib administrasi;
 
-f. melaksanakan kegiatan yang berkaitan dengan tugas perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis Haa informasi meliputi perencanaan dan pengem bangan pendapa apatan daerah, perumusan standardisasi kebijakan “operasional prosedur pajak dan retribusi daerah, pemeliharaan dan pemutakhiran basis data pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
+f. melaksanakan kegiatan yang berkaitan dengan tugas perencanaan, pengembangan dan pelayanan pajak dan retribusi daerah berbasis teknologi informasi meliputi perencanaan dan pengembangan pendapatan daerah, perumusan standardisasi kebijakan operasional prosedur pajak dan retribusi daerah, pemeliharaan dan pemutakhiran basis data pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
 
 g. memfasilitasi kegiatan yang berkaitan dengan perencanaan dan pengembangan pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundangundangan agar pelaksanaan tugas berjalan dengan lancar;
 
-h. mengajukan saran dan pertimbangan kepada Kepala Bidang mengenai upaya pemecahan masalah yang berkaitan dengan bidang tugas di bidang perencanaan dan penkembungan pajuk dun retribusi dacrah baik securu lisan 1muupun tulisan sebagai bahan pertimbangan dalam pengambilan keputusan;
+h. mengajukan saran dan pertimbangan kepada Kepala Bidang mengenai upaya pemecahan masalah yang berkaitan dengan bidang tugas di bidang perencanaan dan pengembangan pajak dan retribusi daerah baik secara lisan maupun tulisan sebagai bahan pertimbangan dalam pengambilan keputusan;
 
 i. melaporkan kegiatan dibidang perencanaan dan pengembangan pajak dan retribusi daerah sesuai dengan pedoman dan ketentuan peraturan perundangundangan untuk bahan pertimbangan pengambilan keputusan, dan sis
 
@@ -521,7 +527,7 @@ c. melakukan pengawasan dan evaluasi kepada pejabat fungsional dan pelaksana di 
 
 d. mengevaluasi kegiatan yang telah dilaksanakan oleh pejabat fungsional dan pelaksana di Subbidang Pelayanan Pajak dan Retribusi Daerah Berbasis Teknologi Informasi dengan membandingkan antara hasil kerja dicapai dengan rencana yang telah ditetapkan untuk mengetahui tingkat kinerja yang dicapai, ce. melaksanakan penataan kearsipan dalam lingkup bidang pelayanan pajak dan retribusi daerah berbasis teknologi informasi untuk tertib administrasi;
 
-f. melaksanakan kegiatan yang berkaitan dengan tugas pelayanan pajak dan retribusi daerah berbasis teknologi informasi meliputi penyusunan dan evaluasi kebijakan tentang 'sistem administrasi pelayanan pajak dacrah dan retribusi daerah, perumusan kebijakan pelayanan pajak dan retribusi dacrah yang berbasis teknologi informasi, penyelenggaraan sistem informasi “pajak dan retribusi dacrah sesuai dengan petunjuk teknis dan pedoman yang berlaku agar pelaksanaan tugas berjalan dengan lancar;
+f. melaksanakan kegiatan yang berkaitan dengan tugas pelayanan pajak dan retribusi daerah berbasis teknologi informasi meliputi penyusunan dan evaluasi kebijakan tentang 'sistem administrasi pelayanan pajak daerah dan retribusi daerah, perumusan kebijakan pelayanan pajak dan retribusi daerah yang berbasis teknologi informasi, penyelenggaraan sistem informasi “pajak dan retribusi daerah sesuai dengan petunjuk teknis dan pedoman yang berlaku agar pelaksanaan tugas berjalan dengan lancar;
 
 g. memfasilitasi kegiatan yang berkaitan dengan pelayanan pajak dan retribusi daerah berbasis teknologi informasi sesuai dengan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
 
@@ -529,7 +535,7 @@ h. mengajukan saran dan pertimbangan kepada Kepala Bidang mengenai upaya pemecah
 
 i. melaporkan kegiatan dibidang pelayanan pajak dan retribusi daerah berbasis teknologi informasi sesuai dengan pedoman dan ketentuan peraturan perundang-undangan untuk bahan pertimbangan pengambilan keputusan; dan
 
-j. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fungsi bidang pelayanan pajak dan retribusi dacrah berbasis teknologi informasi yang diberikan oleh Kepala Bidanp.
+j. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fungsi bidang pelayanan pajak dan retribusi daerah berbasis teknologi informasi yang diberikan oleh Kepala Bidang.
 
 ### Pasal 31
 Ruang lingkup tugas Subbidang Pelayanan Pajak dan Retribusi Daerah Berbasis
@@ -548,11 +554,15 @@ Untuk melaksanakan tugas pokok sebagaimana dimaksud dalam Pasal 32, Kepala
 
 Bidang Pendataan, Penagihan dan Pemeriksaan Pajak dan Retribusi Daerah mempunyai fungsi:
 
-a. perumusan kebijakan dibidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah, b.perumusan program kerja dibidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah,
+a. perumusan kebijakan dibidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah;
+
+b. perumusan program kerja dibidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah;
+
+> PDF sumber tidak memuat halaman tercetak 15 (dari halaman -14- langsung ke -16-): sisa fungsi Pasal 33, Pasal 34, dan awal uraian tugas berikutnya tidak tersedia. Teks berlanjut dari halaman 16.
 
 j. mengajukan saran dan pertimbangan kepada Kepala Badan mengenai upaya pemecahan masalah yang berkaitan dengan bidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah baik secara lisan maupun tulisan sebagai bahan pertimbangan dalam pengambilan keputusan; dan
 
-k. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fangsi di bidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah yang diberikan oleh kepala badan.
+k. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fungsi di bidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah yang diberikan oleh kepala badan.
 
 ### Pasal 35
 Ruang lingkup tugas bidang pendataan, penagihan dan pemeriksaan pajak dan retribusi daerah meliputi urusan bidang pendataan dan penyuluhan pajak dan retribusi daerah, penagihan dan pemeriksaan pajak dan retribusi daerah.
@@ -584,17 +594,17 @@ Retribusi Daerah yaitu:
 
 a. menyusun rencana kerja Subbidang Pendataan dan Penyuluhan Pajak dan Retribusi Daerah berdasarkan sasaran dan program kerja tahunan Badan yang telah ditetapkan sebagai pedoman pelaksanaan tugas;
 
-b. membagi tugas dan memberi petunjuk kepada pejabat fungsional dan pelaksana di Subbidang Pendataan dan Penyuluhan Pajak dan Retribusi Daerah sesuai dengan tugas pokok, fungsi masing-masing agar tugas dapat dilaksanakan sesuai dengan srencanu yang telah ditetapkan,
+b. membagi tugas dan memberi petunjuk kepada pejabat fungsional dan pelaksana di Subbidang Pendataan dan Penyuluhan Pajak dan Retribusi Daerah sesuai dengan tugas pokok, fungsi masing-masing agar tugas dapat dilaksanakan sesuai dengan rencana yang telah ditetapkan,
 
 c. melakukan pengawasan dan evaluasi kepada pelaksana di Subbidang Pendataan dan Penyuluhan Pajak dan Retribusi Daerah dalam melaksanakan tugas baik secara preventif maupun represif untuk menghindari terjadinya kesalahan dan penyimpangan dalam pelaksanaan tugas;
 
-d. mengevaluasi kegiatan yang telah dilaksanakan oleh pelaksana di Subbidang Pendataan dan Penyuluhan Pajak dan Retribusi Daerah dengan membandingkan antara hasil kerja dicapai dengan rencana yang telah ditetapkan untuk mengetahui tingkat kinerja yang dicapai, ce. melaksanakan penataan kearsipan dalam lingkup bidang pendataan dan penyuluhan pajak dan retribusi dacrah untuk tertib administrasi,
+d. mengevaluasi kegiatan yang telah dilaksanakan oleh pelaksana di Subbidang Pendataan dan Penyuluhan Pajak dan Retribusi Daerah dengan membandingkan antara hasil kerja dicapai dengan rencana yang telah ditetapkan untuk mengetahui tingkat kinerja yang dicapai, ce. melaksanakan penataan kearsipan dalam lingkup bidang pendataan dan penyuluhan pajak dan retribusi daerah untuk tertib administrasi,
 
-(G melaksanakan kegiatan yang berkaitan dengan tugas pendataan dan penyuluhan pajak dan retribusi daerah meliputi perumusan kebijakan strategi penyuluhan dan penyebarluasan informasi pajak daerah dan retribusi dacrah kepada masyarakat, konsultasi dan pendampingan wajib pajak dan retribusi dacrah, monitoring dan cvaluasi pemungutan pajak dan retribusi dacrah, sesuai dengan petunjuk teknis dan pedoman yang berlaku agar pelaksanaan tugas berjalan dengan lancar;
+(G melaksanakan kegiatan yang berkaitan dengan tugas pendataan dan penyuluhan pajak dan retribusi daerah meliputi perumusan kebijakan strategi penyuluhan dan penyebarluasan informasi pajak daerah dan retribusi daerah kepada masyarakat, konsultasi dan pendampingan wajib pajak dan retribusi daerah, monitoring dan evaluasi pemungutan pajak dan retribusi daerah, sesuai dengan petunjuk teknis dan pedoman yang berlaku agar pelaksanaan tugas berjalan dengan lancar;
 
 g. memfasilitasi kegiatan yang berkaitan dengan pendataan dan penyuluhan pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan agar pelaksanaan tugas berjalan dengan lancar;
 
-h. mengajukan saran dan pertimbangan kepada Kepala Bidang mengenai upaya pemecahan masalah yang berkaitan dengan bidang tugas di bidang pendataan dan penyuluhan pajak dan retribusi daerah baik secara lisan maupun tulisan scbagai bahan pertimbangan dalam pengambilan keputusan;
+h. mengajukan saran dan pertimbangan kepada Kepala Bidang mengenai upaya pemecahan masalah yang berkaitan dengan bidang tugas di bidang pendataan dan penyuluhan pajak dan retribusi daerah baik secara lisan maupun tulisan sebagai bahan pertimbangan dalam pengambilan keputusan;
 
 i. melaporkan kegiatan di bidang pendataan dan penyuluhan pajak dan retribusi daerah sesuai dengan pedoman dan ketentuan peraturan perundang-undangan untuk bahan pertimbangan pengambilan keputusan; dan
 
@@ -608,14 +618,14 @@ Daerah meliputi perumusan kebijakan strategi penyuluhan dan penyebarluasan infor
 **Bagian Keduabelas - Kepala Subbidang Penagihan dan Pemeriksaan Pajak dan Retribusi Daerah**
 
 ### Pasal 40
-Kepala Subbidang Penagihan dan Pemeriksaan Pajak dan Retribusi Daerah scbagaimana dimaksud dalam Pasal 6 ayat (1) huruf d angka 2, mempunyai tugas pokok merencanakan kegiatan, melaksanakan kegiatan dan menyusun laporan di bidang penagihan dan pemeriksaan pajak dan retribusi daerah .
+Kepala Subbidang Penagihan dan Pemeriksaan Pajak dan Retribusi Daerah sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf d angka 2, mempunyai tugas pokok merencanakan kegiatan, melaksanakan kegiatan dan menyusun laporan di bidang penagihan dan pemeriksaan pajak dan retribusi daerah .
 
 ### Pasal 41
 Untuk melaksanakan tugas pokok sebagaimana dimaksud dalam Pasal 37,
 
 Kepala Subbidang Penagihan dan Pemeriksaan Pajak dan Retribusi Daerah mempunyai fungsi:
 
-a. penyusunan rencana kerja di bidang penagihan dan pemeriksaan pajak dan retribusi dacrah;
+a. penyusunan rencana kerja di bidang penagihan dan pemeriksaan pajak dan retribusi daerah;
 
 b. penyelenggaraan kegiatan di bidang penagihan dan pemeriksaan pajak dan retribusi daerah berdasarkan rencana kerja yang telah ditetapkan;
 
@@ -642,9 +652,9 @@ f. melaksanakan kegiatan yang berkaitan dengan tugas intensifikasi pajak dan ret
 
 g. memfasilitasi kegiatan yang berkaitan dengan penagihan dan pemeriksaan pajak dan retribusi daerah sesuai dengan ketentuan peraturan perundangundangan agar pelaksanaan tugas berjalan dengan lancar;
 
-h. mengajukan saran dan pertimbangan kepada kepala bidang mengenai upaya pemecahan masalah yang berkaitan dengan bidang tugas di bidang penagihan dan pemeriksaan pajak dan retribusi daerah baik secara lisan maupun tulisan sebagai bahan pertimbangan dalam pengambilan keputusan, ii mclaporkan kegiatan di bidang penagihan dan pemeriksaan pajak dan retribusi daerah sesuai dengan pedoman dan ketentuan peraturan perundang-undangan untuk bahan pertimbangan pengambilan keputusan; dan
+h. mengajukan saran dan pertimbangan kepada kepala bidang mengenai upaya pemecahan masalah yang berkaitan dengan bidang tugas di bidang penagihan dan pemeriksaan pajak dan retribusi daerah baik secara lisan maupun tulisan sebagai bahan pertimbangan dalam pengambilan keputusan, ii melaporkan kegiatan di bidang penagihan dan pemeriksaan pajak dan retribusi daerah sesuai dengan pedoman dan ketentuan peraturan perundang-undangan untuk bahan pertimbangan pengambilan keputusan; dan
 
-j. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fungsi bidang penagihan dan pemeriksaan pajak dan retribusi daerah yang diberikan cien Kepala bidang.
+j. melaksanakan tugas kedinasan lainnya yang berkaitan dengan tugas pokok dan fungsi bidang penagihan dan pemeriksaan pajak dan retribusi daerah yang diberikan oleh Kepala bidang.
 
 ### Pasal 43
 Ruang lingkup tugas Subbidang Penagihan dan Pemeriksaan Pajak dan Retribusi
@@ -667,30 +677,30 @@ Daerah meliputi kegiatan yang berkaitan dengan penyusunan kebijakan tentang inte
 
 (3) Kelompok Jabatan Fungsional sebagaimana dimaksud pada ayat (I) berkedudukan di bawah dan bertanggung jawab secara langsung kepada Pejabat Administrator.
 
-(4) Dalam masa transisi, bagi Perangkat Daerah yang dilakukan penyetaraan dan/atau penghapusan Jabatan Pengawas ke dalam Jabatan Pangsional, dapat ditetapkan Sub Koordinator Kelompok Jabatan Fungsional untuk tugas atau fungsi tertentu yang dipimpin oleh pejabat fungsional atau oleh pejabat pelaksana senior yang ditunjuk, sampai ditetapkannya peraturan perundangundangan yang mengatur tentang Sub Koordinator Jabatan Fungsional.
+(4) Dalam masa transisi, bagi Perangkat Daerah yang dilakukan penyetaraan dan/atau penghapusan Jabatan Pengawas ke dalam Jabatan Fungsional, dapat ditetapkan Sub Koordinator Kelompok Jabatan Fungsional untuk tugas atau fungsi tertentu yang dipimpin oleh pejabat fungsional atau oleh pejabat pelaksana senior yang ditunjuk, sampai ditetapkannya peraturan perundangundangan yang mengatur tentang Sub Koordinator Jabatan Fungsional.
 
 (5) Penetapan, Rincian Tugas dan Fungsi Koordinasi, sebagaimana dimaksud pada ayat (4), ditetapkan dengan Keputusan Walikota sesuai dengan ketentuan peraturan perundang-undangan
 
 (6) Tugas Tambahan dan Pengelolaan Kegiatan Sub Koordinator Kelompok Jabatan Fungsional sebagaimana dimaksud pada ayat (4), ditetapkan dengan Keputusan Kepala Perangkat Daerah sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 46
-(1) Kelompok Jabatan Fungsional yang diangkat melalui penyesuaian/ inpassing berkcdudukuan di bawah dan bertanggung jawab secara langsung kepada Pejabat Pimpinan Tinggi Pratama, Pejabat Administrator, atau Pejabat
+(1) Kelompok Jabatan Fungsional yang diangkat melalui penyesuaian/ inpassing berkedudukan di bawah dan bertanggung jawab secara langsung kepada Pejabat Pimpinan Tinggi Pratama, Pejabat Administrator, atau Pejabat
 
-Pengawas yang memiliki keterkaitan dengan pelaksanaan tugus jabatan fungsional berdasarkan jenjangnya sesuai dengan ketentuan peraturan perundang-undangan.
+Pengawas yang memiliki keterkaitan dengan pelaksanaan tugas jabatan fungsional berdasarkan jenjangnya sesuai dengan ketentuan peraturan perundang-undangan.
 
 (2) Kelompok Jabatan Fungsional sebagaimana dimaksud pada ayat (1) memiliki tugas memberikan pelayanan fungsional yang berdasarkan keahlian dan keterampilan sesuai dengan ketentuan peraturan perundang-undangan.
 
 (3) Jenis dan jumlah Jabatan Fungsional ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 47
-(1) Pada masa transisi, Pejabat Pengawas yang belum maupun sudah diangkat dan dilantik kedalam Jabatan Fungsional melalui mekanismc penyetaraan jabatan diberikan penghasilan yang sama dcngan jabatan yang diduduki sebelumnya sampai dengan ditetapkannya ketentuan peraturan perundangundangan mengenai ketentuan penghasilan Penyetaraan Jabatan.
+(1) Pada masa transisi, Pejabat Pengawas yang belum maupun sudah diangkat dan dilantik kedalam Jabatan Fungsional melalui mekanisme penyetaraan jabatan diberikan penghasilan yang sama dengan jabatan yang diduduki sebelumnya sampai dengan ditetapkannya ketentuan peraturan perundangundangan mengenai ketentuan penghasilan Penyetaraan Jabatan.
 
 (2) Penetapan kelas Jabatan Fungsional yang akan diduduki disetarakan dengan kelas Jabatan Pengawas yang diduduki sebelumnya sampai dengan ditetapkannya ketentuan penghasilan Penyetaraan Jabatan.
 
 ## BAB VIII - KEPEGAWAIAN
 
 ### Pasal 48
-(1) Kepala Badan diangkat dan diberhentikan oleh Wali Kota dari Pegawai Aparatur Sipil Ncgara yang memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+(1) Kepala Badan diangkat dan diberhentikan oleh Wali Kota dari Pegawai Aparatur Sipil Negara yang memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 
 (2) Jabatan Administrasi dan Jabatan Fungsional diangkat dari Pegawai Aparatur Sipil Negara yang memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -705,7 +715,7 @@ Pengawas yang memiliki keterkaitan dengan pelaksanaan tugus jabatan fungsional b
 
 (2) Pelaksanaan mekanisme koordinasi dan pengelolaan kegiatan sebagaimana dimaksud pada ayat (1) merupakan pelimpahan sebagian kewenangan yang diberikan oleh pejabat pimpinan tinggi pratama sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Pelaksanaan mekanisme koordinasi dan pengelolaan kegiatan sebagaimana dimaksud pada ayat (1) diberikan nilai Angka Kredit 25% (dua puluh lima persen) duri Angka Kredit Kumulatif untuk kenaikan pangkat setingkat lebih tinggi dan diakui sebagai tugas pokok dalam penetapan Angka Kredit, yang diperhitungkan sebagai unsur utama meliputi tugas pokok dan pengembangan profesi.
+(3) Pelaksanaan mekanisme koordinasi dan pengelolaan kegiatan sebagaimana dimaksud pada ayat (1) diberikan nilai Angka Kredit 25% (dua puluh lima persen) dari Angka Kredit Kumulatif untuk kenaikan pangkat setingkat lebih tinggi dan diakui sebagai tugas pokok dalam penetapan Angka Kredit, yang diperhitungkan sebagai unsur utama meliputi tugas pokok dan pengembangan profesi.
 
 ## BAB IX - TATA KERJA DAN LAPORAN
 
@@ -778,47 +788,22 @@ SEKRETARIS DAERAH KOTA PONTIANAK,
 ttd
 MULYADI
 BERITA DAERAH KOTA PONTIANAK TAHUN 2023 NOMOR 62
-R) “1 da? PAS . .
-Ka sesuai dengan aslinya
-md IAN HUKUM
-1“(SETDA
-No 4——- s A. SH, MH
-On AL Pembina Tk. I
-SA FT MP/19691121 199503 2 001
-3g || | 7
-25 it £ g
--£ s3 : 2
-43 :
-5 3: CU 2, 2
-F 3 : 3
-Se “ 3
-28x oo Is $ 8
--“
-“2 :
-3 529 5
-2 Sg 3:
-13302 28 03 laga Da 2 HH
-259233 #8) (pasal (Sgp 5 lag HH
-SESAPS iga TE 2533 :: -
-SesR| (a33 | |faa | (P3 PD
-# un il
--.
-: .
-s33 laga (ga (Da ho
-2332 data |22gal lea P7
-tEh 132 2513 H
-“sal
-tiga F8: Dg IA EU
-2
-3 23
--E 25
-2Es (8
-1.
-TP 2
--e s
-2
-&
+Salinan sesuai dengan aslinya
+KEPALA BAGIAN HUKUM
+TTD dan cap
+RUSDALITA, SH, MH
+Pembina Tk. I
+NIP. 19691121 199503 2 001
 
 ## Lampiran
 
-Lampiran berupa bagan struktur organisasi; tidak disalin, lihat PDF.
+LAMPIRAN
+PERATURAN WALI KOTA PONTIANAK
+NOMOR 62 TAHUN 2023
+TENTANG KEDUDUKAN, STRUKTUR ORGANISASI, TUGAS POKOK, FUNGSI, URAIAN TUGAS DAN TATA KERJA BADAN PENDAPATAN DAERAH KOTA PONTIANAK
+
+STRUKTUR ORGANISASI BADAN PENDAPATAN DAERAH KOTA PONTIANAK (bagan; lihat PDF hlm. 22)
+
+WALI KOTA PONTIANAK,
+ttd
+EDI RUSDI KAMTONO

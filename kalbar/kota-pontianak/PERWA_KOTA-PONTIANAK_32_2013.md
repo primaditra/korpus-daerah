@@ -8,11 +8,12 @@ sumber_teks: ocr
 ---
 # Peraturan Walikota Pontianak Nomor 32 Tahun 2013 tentang Petunjuk Pelaksanaan Pemungutan Pajak Parkir
 
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
+
 ## Pembukaan
 
-par “4
 PERATURAN WALIKOTA PONTIANAK
-NOMOR 52 TAHUN 2013
+NOMOR 32 TAHUN 2013
 TENTANG
 PETUNJUK PELAKSANAAN PEMUNGUTAN PAJAK PARKIR
 DENGAN RAHMAT TUHAN YANG MAHA ESA
@@ -377,7 +378,21 @@ Tarif Pajak Parkir ditetapkan sebesar 20% (dua puluh persen).
 
 (3) Kalkulasi dari faktor-faktor sebagaimana dimaksud pada ayat (1) dapat dilihat pada contoh berikut :
 
-Perhitungan rata-rata omset parkir perhari Daya Jumlah Omset Tampung Ae Waktu | Kendaraan Ban Rata2 Lahan Perhari Perhari lawas inwrmal Blaseai tester ifa Misa Koor fav own ptanoet iacn ai Bloom Kis since Ket. Jumlah kendaraan perhari - Daya Tampung Lahan x (Waktu / Turn Over) Perhitungan Pajak Parkir : - Jumlah Omset Rata-rata perhari Rp. 1.440.000,- Jumlah hari pelayanan (hari) 20 - Jumlah Omset Perbulan (OB) Rp. 28.800.000,- Pajak Parkir (20”6) x OB Rp. 5.760.000,-
+Perhitungan rata-rata omset parkir perhari
+
+| | Daya Tampung Lahan | Turn Over | Waktu | Jumlah Kendaraan Perhari | Tarif Parkir | Omset Rata2 Perhari |
+|---|---|---|---|---|---|---|
+| Mobil | 10 buah | 1 jam | 12 Jam | 120 | 2.000 | 240.000 |
+| Motor | 50 buah | 30 menit | 12 Jam | 1.200 | 1.000 | 1.200.000 |
+| Jumlah Omset Rata-rata perhari | | | | | | 1.440.000 |
+
+Ket. Jumlah kendaraan perhari = Daya Tampung Lahan x (Waktu / Turn Over)
+
+Perhitungan Pajak Parkir :
+- Jumlah Omset Rata-rata perhari Rp. 1.440.000,-
+- Jumlah hari pelayanan (hari) 20
+- Jumlah Omset Perbulan (OB) Rp. 28.800.000,-
+- Pajak Parkir (20%) x OB Rp. 5.760.000,-
 
 (4) Hasil taksasi sebagaimana dimaksud pada ayat (1) menjadi acuan penetapan dasar pengenaan pajak parkir sebagaimana dimaksud pada pasal 3 ayat (4).
 
@@ -500,9 +515,9 @@ j. Perhitungan untuk pembayaran angsuran adalah sebagai berikut:
 
 k. Terhadap jumlah angsuran yang harus dibayar tiap bulan tidak dapat dibayar dengan angsuran lagi, tetapi harus dilunasi tiap bulan.
 
-Il. Perhitungan untuk penundaan pembayaran adalah sebagai berikut:
+l. Perhitungan untuk penundaan pembayaran adalah sebagai berikut:
 
-1) Perhitungan bunga dikenakan terhadap seluruh jumlah pajak terutang yang akan ditunda, yaitu hasil perkalian antara bunga 2% (dua persen) dengan jumlah bulan yang ditunda, dikalikan dengan seluruh jumlah utang pajak yang akan ditundal,
+1) Perhitungan bunga dikenakan terhadap seluruh jumlah pajak terutang yang akan ditunda, yaitu hasil perkalian antara bunga 2% (dua persen) dengan jumlah bulan yang ditunda, dikalikan dengan seluruh jumlah utang pajak yang akan ditunda;
 
 2) Besarnya jumlah yang harus dibayar adalah seluruh jumlah utang pajak yang ditunda, ditambah dengan jumlah bunga 2% (dua persen) sebulan,
 
@@ -515,7 +530,7 @@ m. Terhadap Wajib Pajak yang telah mengajukan permohonan pembayaran secara angsu
 ### Pasal 16
 (1) Walikota atau Kepala SKPD-PPD dapat menerbitkan STPD apabila :
 
-a. Pajak Parkir dalam tahun berjalan tidak atau kurang dibayarl;
+a. Pajak Parkir dalam tahun berjalan tidak atau kurang dibayar;
 
 b. Dari hasil penelitian SPTPD terdapat kekurangan pembayaran sebagai akibat salah tulis dan/atau salah hitung;
 
@@ -578,7 +593,7 @@ Tata cara Wajib Pajak menyelenggarakan pencatatan atas setiap transaksi penerima
 
 a. Wajib Pajak menyelenggarakan pencatatan tentang pendapatan bruto usahanya secara lengkap dan benar;
 
-b. Pencatatan diselenggarakan secara kronologis berdasarkan urutan waktul;
+b. Pencatatan diselenggarakan secara kronologis berdasarkan urutan waktu;
 
 c. Apabila Wajib Pajak memiliki lebih dari 1 (satu) unit usaha, maka pencatatan dilakukan secara terpisah;
 
@@ -865,28 +880,53 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan
 Peraturan Walikota ini dengan penempatannya dalam Berita Daerah
 Kota Pontianak.
 Ditetapkan di Pontianak
-pada tanggal: 1 Agustus 2013
+pada tanggal : 1 Agustus 2013 [dicap]
 WALIKOTA PONTIANAK,
 ttd
 SUTARMIDJI
 Diundangkan di Pontianak
-pada so 2 Agustus 2013
-SEKRET AERAH KOTA PONTIANAK,
+pada tanggal 1 Agustus 2013 [dicap]
+SEKRETARIS DAERAH KOTA PONTIANAK,
 ttd
 MOCHAMAD AKIP
-BERITA DAERAH KOTA PONTIANAK TAHUN 2013 NOMOR 32
+BERITA DAERAH KOTA PONTIANAK TAHUN 2013 NOMOR 32 [nomor ditulis tangan]
 
 ## Lampiran
 
-Lampiran berupa format dan formulir; tidak disalin, lihat PDF.
-
 LAMPIRAN
 PERATURAN WALIKOTA PONTIANAK
-NOMOR 52 TAHUN 2013
+NOMOR 32 TAHUN 2013 [nomor ditulis tangan]
 TENTANG
-PETUNJUK PELAKSANAAN
-PEMUNGUTAN PAJAK PARKIR
-KETENTUAN TARIF PARKIR
-1. Tarif Parkir digolongkan berdasarkan jenis kendaraan bermotor
+PETUNJUK PELAKSANAAN PEMUNGUTAN PAJAK PARKIR
 
-(isi lampiran tidak disalin; lihat PDF)
+KETENTUAN TARIF PARKIR
+
+1. Tarif Parkir digolongkan berdasarkan jenis kendaraan bermotor yaitu terdiri dari :
+a. Kendaraan bermotor roda 2 (dua) meliputi Sepeda Motor dan sejenisnya.
+b. Kendaraan bermotor roda 4 (empat) dengan daya angkut dibawah 1 (satu) ton meliputi Sedan, Jeep, Minibus, Picup dan sejenisnya.
+c. Kendaraan bermotor roda 4 (empat) dengan daya angkut lebih dari 1 (satu) ton meliputi Bus, Truk dan sejenisnya.
+d. Kendaraan bermotor roda 6 (enam) keatas.
+e. Kendaraan berbadan besar seperti Tronton, Truk Gandeng, Bis antar negara dan sejenisnya.
+
+2. Besaran tarif parkir ditetapkan sebagai berikut :
+a. Kendaraan bermotor roda 2 (dua) sebesar Rp. 1.000,00 (seribu rupiah).
+b. Kendaraan bermotor roda 4 (empat) dengan daya angkut dibawah 1 (satu) ton sebesar Rp. 2.000,00 (dua ribu rupiah).
+c. Kendaraan bermotor roda 4 (empat) dengan daya angkut lebih dari 1 (satu) ton sebesar Rp. 3.000,00 (tiga ribu rupiah).
+d. Kendaraan bermotor roda 6 (enam) keatas sebesar Rp. 4.000,00 (empat ribu rupiah).
+e. Kendaraan berbadan besar seperti Tronton, Truk Gandeng, Bis antar negara dan sejenisnya sebesar Rp. 6.000,00 (enam ribu rupiah).
+
+3. Untuk tempat-tempat yang mengenakan tarif parkir perjam, maka besaran tarif parkir diatas merupakan tarif parkir pada jam pertama dan dapat digandakan maksimal dengan nilai yang sama pada jam-jam berikutnya.
+
+4. Besaran tarif parkir diatas khusus digunakan untuk perhitungan omset bagi penyelenggara tempat parkir tanpa dipungut bayaran.
+
+5. Bagi penyelenggara tempat parkir yang dipungut bayaran maka tarif diatas dapat dijadikan acuan dalam pemungutan parkir dengan ketentuan sebagai berikut :
+a. Besaran tarif parkir diatas dapat ditingkatkan maksimal 2 (dua) kali tarif yang telah ditetapkan.
+b. Dalam hal penerapan tarif yang lebih besar dari yang telah ditetapkan harus dimohonkan terlebih dahulu kepada Walikota Pontianak atau Kepala SKPD-PPD untuk mendapat persetujuan.
+c. Walikota Pontianak atau Kepala SKPD-PPD dapat mencabut persetujuan yang telah diberikan apabila dalam pelaksanaannya terdapat hal-hal sebagai berikut :
+1) Banyak menimbulkan protes dari pihak konsumen.
+2) Dapat menimbulkan ekonomi biaya tinggi.
+3) Telah terjadi penyalahgunaan persetujuan yang diberikan.
+
+WALIKOTA PONTIANAK,
+ttd
+SUTARMIDJI

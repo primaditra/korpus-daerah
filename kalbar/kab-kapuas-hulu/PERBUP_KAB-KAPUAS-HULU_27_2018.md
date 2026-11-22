@@ -182,7 +182,9 @@ e. Pemeriksa wajib membuat Laporan Pemeriksaan;
 
 f. Pemeriksa wajib memberitahukan secara tertulis kepada Wajib Pajak tentang hasil Pemeriksaan berupa hal-hal yang berbeda antara Surat Pemberitahuan Pajak Daerah dengan hasil pemeriksaan;
 
-g. Pemeriksa wajib mengembalikan buku-buku, catatan dan dokumen pendukung lainnya yang dipinjam dari Wajib Pajak paling lambat 14 (empat belas) hari sejak selesainya pemeriksaan; h.Pemeriksa dilarang memberitahukan kepada pihak lain yang berhak segala sesuatu yang diketahui atau diberitahukan kepadanya oleh Wajib Pajak dalam rangka Pemeriksaan; dan
+g. Pemeriksa wajib mengembalikan buku-buku, catatan dan dokumen pendukung lainnya yang dipinjam dari Wajib Pajak paling lambat 14 (empat belas) hari sejak selesainya pemeriksaan;
+
+h. Pemeriksa dilarang memberitahukan kepada pihak lain yang berhak segala sesuatu yang diketahui atau diberitahukan kepadanya oleh Wajib Pajak dalam rangka Pemeriksaan; dan
 
 i. Pemeriksa wajib memberi petunjuk kepada Wajib Pajak mengenai penyelenggaraan pembukuan atau pencatatan dan petunjuk lainnya mengenai pemenuhan kewajiban perpajakan sehubungan dengan Pemeriksaan yang dilakukan, dengan tujuan agar penyelenggaraan pembukuan atau pencatatan dan pemenuhan kewajiban perpajakan untuk tahun-tahun selanjutnya dilaksanakan sesuai dengan ketentuan yang berlaku.
 
@@ -300,7 +302,9 @@ b. Laporan Pemeriksaan yang berkaitan dengan pengungkapan penyimpanan Surat Pemb
 
 (1) Pemeriksaan lengkap dan/atau di lapangan, dilakukan dengan cara : a. memeriksa Tanda Pelunasan Pajak dan keterangan lainnya sebagai bukti pelunasan kewajiban perpajakan daerah; b.memeriksa buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya; 
 
-c. meminjam buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya, dengan memberikan tanda terima; d.meminta keterangan lisan dan/atau tertulis dari Wajib Pajak yang diperiksa;
+c. meminjam buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya, dengan memberikan tanda terima;
+
+d. meminta keterangan lisan dan/atau tertulis dari Wajib Pajak yang diperiksa;
 
 e. memasuki tempat atau ruangan yang diduga merupakan tempat menyimpan dokumen, uang, barang, yang dapat memberi petunjuk tentang keadaan usaha Wajib Pajak dan/atau tempat-tempat lain yang dianggap penting serta melakukan
 
@@ -312,9 +316,13 @@ g. meminta keterangan dan/atau bukti yang diperlukan dari pihak ketiga yang memp
 
 (2) Pemeriksaan di kantor, dilakukan dengan cara
 
-a. Memberitahukan agar Wajib Pajak membawa tanda pelunasan pajak, buku-buku catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya; b.Meminjam buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya dengan memberikan tanda terima;
+a. Memberitahukan agar Wajib Pajak membawa tanda pelunasan pajak, buku-buku catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya;
 
-c. Memeriksa buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya; d.Meminta keterangan lisan dan atau tertulis dari Wajib Pajak yang diperiksa; dan
+b. Meminjam buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya dengan memberikan tanda terima;
+
+c. Memeriksa buku-buku, catatan dan dokumen pendukung lainnya termasuk keluaran dari media komputer dan perangkat elektronik pengolah data lainnya;
+
+d. Meminta keterangan lisan dan atau tertulis dari Wajib Pajak yang diperiksa; dan
 
 e. Meminta keterangan dan/atau bukti yang diperlukan dari pihak k: g 12
 

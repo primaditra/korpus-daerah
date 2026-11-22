@@ -385,7 +385,9 @@ Uti Jenis Pajak terdiri atas:
 
 a. PBB-P2, bh, BPHTB: ct. /(PBJTatas:
 
-1. Makanan dan/atau Minuman, 2, Tenaga Listrik:
+1. Makanan dan/atau Minuman;
+
+2. Tenaga Listrik:
 
 3. Jasa Perhotelan, 4 Jasa Parkir. dan
 
@@ -415,7 +417,9 @@ l. Makanan dan/atau Minuman.
 
 2. Tenaga Listrik:
 
-3. Jasa Perhotelan, 4, Jasa Parkir; dan
+3. Jasa Perhotelan;
+
+4. Jasa Parkir; dan
 
 5. Jasa Kesenian dan Hiburan: &. Pajak MBLB, dan di. / Pajak Sarang Burung Walet.
 
@@ -531,17 +535,25 @@ a. Pemindahan hak karena:
 
 2. tukar-menukar;
 
-3. hibah, 4, hibah wasiat, 5, waris:
+3. hibah;
+
+4. hibah wasiat;
+
+5. waris:
 
 6. pemasukan dalam perseroan atau Badan hukum lain:
 
-7. pemisahan hak yang mengakibatkan peralihan, 8, penunjukan pembeli dalam lelang: 4, pelaksanaan putusan hakim yang mempunyai kekuatan hukum tetap: 1O penggabungan usaha, 11 peleburan usaha, 12.pemekaran usaha: atau 13.hadizh.
+7. pemisahan hak yang mengakibatkan peralihan;
+
+8. penunjukan pembeli dalam lelang: 4, pelaksanaan putusan hakim yang mempunyai kekuatan hukum tetap: 1O penggabungan usaha, 11 peleburan usaha, 12.pemekaran usaha: atau 13.hadizh.
 
 b. pemberian hak baru karena . kelanjutan pelepasan hak, atau 2, di luar pelepasan hak #3) Hak atas Tanah dan/atau Bangunan sebagaimana dimaksud pada ayat (1| meliputi:
 
 a. hak milik: hb, hak guna usaha:
 
-c. hak guna bangunan: d, hak pakai: Bala Bimepaasika Melania 21 / 3 2 e, hak milik atas satuan rumah susun, dan
+c. hak guna bangunan;
+
+d. hak pakai: Bala Bimepaasika Melania 21 / 3 2 e, hak milik atas satuan rumah susun, dan
 
 £, hak pengelalaan.
 
@@ -753,7 +765,9 @@ b. pelayanan memarkirkan kendaraan (parkir valet.
 
 (2) Yang dikecualikan dari jasa penyediaan tempat parkir sebagaimana dimaksud pada avat (1) meliputi:
 
-a. jasa tempat parkir yang diselenggarakan oleh pemerintah pusat dan Pemerintah Daerah, b, jasa tempat parkir yang diselenggarakan oleh perkantoran yang hanya digurakan untuk karyawannya sendiri: ce, jasa tempat parkir yang diselenggarakan oleh kedutaan, konsulat, dan perwakilan negara asing dengan asas tumbal balik:
+a. jasa tempat parkir yang diselenggarakan oleh pemerintah pusat dan Pemerintah Daerah;
+
+b. jasa tempat parkir yang diselenggarakan oleh perkantoran yang hanya digurakan untuk karyawannya sendiri: ce, jasa tempat parkir yang diselenggarakan oleh kedutaan, konsulat, dan perwakilan negara asing dengan asas tumbal balik:
 
 d. jasa tempat parkir yang diselenggarakan oleh sumah ibadah, dan &: jasa tempat parkir dalam pemukiman penduduk yang disediakan bagi warga kompleks pemukiman bersangkutan.
 
@@ -763,7 +777,13 @@ d. jasa tempat parkir yang diselenggarakan oleh sumah ibadah, dan &: jasa tempat
 
 &. tontonan fila atau bentuk tontonan audio visual lainnya yang dipertontonkan secara langsung di suatu lokasi tertentu;
 
-b. pergelaran kesenian, musik, tari, dan/atau busana, c, kontes kecantikan, d, kontes binaraga, e, pameran,
+b. pergelaran kesenian, musik, tari, dan/atau busana;
+
+c. kontes kecantikan;
+
+d. kontes binaraga;
+
+e. pameran,
 
 I. pertunjukan sirkus, akrobat, dan sulap:
 
@@ -1009,7 +1029,9 @@ b. batu tulis: Cc. / batu setengah permata:
 
 d. batu kapur: &. ” /batwapung: F. batu permata: E. bentonit:
 
-h. dolomut: i, feldapar garam batu | halitej: Is prafit: laa z stater Hukum | pemprakarsa Aan.
+h. dolomut;
+
+i. feldapar garam batu | halitej: Is prafit: laa z stater Hukum | pemprakarsa Aan.
 
 L. granit /andesit, mM. gips:
 
@@ -1225,7 +1247,9 @@ Tn PG EL P7 111
 
 4. penanaman pohon;
 
-b. pembuatan lubang atau sumur resapan: Cc. pelestarian hutan atau pepohonan: dan
+b. pembuatan lubang atau sumur resapan;
+
+c. pelestarian hutan atau pepohonan: dan
 
 d. pengelolaan limbah.
 
