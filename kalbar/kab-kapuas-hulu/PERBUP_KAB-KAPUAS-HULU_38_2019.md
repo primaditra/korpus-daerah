@@ -195,7 +195,7 @@ Ketentuan Pasal 7 huruf f dan huruf m diubah sehingga Pasal 7 berbunyi sebagai b
 
 Pasal 7 Tarif pajak untuk setiap jenis hiburan ditetapkan sebagai berikut:
 
-a. pengenaan pajak untuk tontonan film ditetapkan sebesar 10% (sepuluh persen); ^
+a. pengenaan pajak untuk tontonan film ditetapkan sebesar 10% (sepuluh persen);
 
 b. pengenaan pajak untuk pagelaran kesenian, musik, tari, busana dan sejenisnya ditetapkan sebesar 10% (sepuluh persen);
 

@@ -378,7 +378,7 @@ Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan Ikan sebagaimana dimaksud d
 
 ### Pasal 19
 
-(l) Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan Ikan sebagaimana dimaksud dalam Pasal 18, mempunyai tugas membantu Kepala Dinas dalam merumuskan serta melaksanakan kebijakan teknis di bidang penguatan kelembagaan perikanan dan pengelolaan Tempat Pelelangan Ikan. fo
+(l) Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan Ikan sebagaimana dimaksud dalam Pasal 18, mempunyai tugas membantu Kepala Dinas dalam merumuskan serta melaksanakan kebijakan teknis di bidang penguatan kelembagaan perikanan dan pengelolaan Tempat Pelelangan Ikan.
 
 (2) Untuk melaksanakan tugas sebagaimana dimaksud pada ayat
 

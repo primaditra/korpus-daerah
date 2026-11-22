@@ -110,7 +110,7 @@ KERJA ASING.
 
 Dalam Peraturan Daerah ini yang dimaksud dengan:
 
-1. Daerah adalah Kabupaten Kapuas Hulu. -
+1. Daerah adalah Kabupaten Kapuas Hulu.
 
 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan Kabupaten Kapuas Hulu.
 

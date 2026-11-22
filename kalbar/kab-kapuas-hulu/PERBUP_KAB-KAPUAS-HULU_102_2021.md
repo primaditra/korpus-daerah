@@ -35,7 +35,7 @@ Kalimantan (Lembaran Negara Republik Indonesia
 Tahun 1953 Nomor 9)sebagai Undang-Undang
 (Lembaran Negara Republik Indonesia Tahun 1959
 Nomor 72, Tambahan Lembaran Negara Republik
-Indonesia Nomor 1820); •
+Indonesia Nomor 1820);
 2. Undang-Undang Nomor 2 Tahun 1981 tentang
 Metrologi Legal (Lembaran Negara Republik Indonesia
 Tahun 1981 Nomor 11, Tambahan Lembaran Negara

@@ -493,7 +493,7 @@ c. penyusunan rekomendasi tindak lanjut pemeriksaan pengaduan.
 
 (1) Pelaksanaan monitoring penyelenggaraan perizinan terpadu dilaksanakan oleh Bupati melalui OPD teknis terkait.
 
-(2) Monitoring sebagaimana dimaksud pada ayat (1) dilakukan secara rutin sesuai dengan program kerja OPD teknis dimaksud atau sewaktu-waktu sesuai dengan keperluan. }
+(2) Monitoring sebagaimana dimaksud pada ayat (1) dilakukan secara rutin sesuai dengan program kerja OPD teknis dimaksud atau sewaktu-waktu sesuai dengan keperluan.
 
 **Bagian Kedua - Evaluasi**
 

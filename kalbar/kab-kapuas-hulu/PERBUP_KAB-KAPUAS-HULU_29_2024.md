@@ -23,7 +23,7 @@ ayat (2) Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 1 Tahun 2024 tentang Pajak Daerah dan
 Retribusi Daerah, perlu menetapkan Peraturan
 Bupati tentang Tata Cara Pemungutan Pajak Barang
-dan Jasa Tertentu, .
+dan Jasa Tertentu,
 Mengingat : 1. 11. Pasal 18 ayat (6) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945:
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
@@ -496,7 +496,7 @@ b. tidak sedang mengajukan upaya hukum berupa keberatan, banding, gugatan, atau 
 
 ### Pasal 14
 
-(1) Setiap Wajib Pajak wajib menghitung, memperhitungkan, membayar, dan melaporkan sendiri pajak yang terutang dengan menggunakan SPTPD. .
+(1) Setiap Wajib Pajak wajib menghitung, memperhitungkan, membayar, dan melaporkan sendiri pajak yang terutang dengan menggunakan SPTPD.
 
 (2) SPTPD sebagaimana dimaksud pada ayat (1) harus diisi dengan jelas, benar, lengkap, dan ditandatangani oleh Wajib Pajak atau Kuasanya.
 
@@ -1126,7 +1126,7 @@ b. ada pengakuan Utang Pajak dari Wajib Pajak, baik langsung maupun tidak langsu
 
 ### Pasal 56
 
-(1) Wajib Pajak dapat mengajukan permohonan kepada Bupati untuk mendapatkan pengurangan atau penghapusan sanksi administratif. #
+(1) Wajib Pajak dapat mengajukan permohonan kepada Bupati untuk mendapatkan pengurangan atau penghapusan sanksi administratif.
 
 (2) Pengurangan atau penghapusan sanksi administratif sebagaimana dimaksud pada ayat (1), dalam hal sanksi tersebut dikenakan karena kekhilafan Wajib Pajak atau bukan karena kesalahannya.
 
@@ -1250,7 +1250,7 @@ e. Penagihan Pajak secara aktif telah dilaksanakan dengan penyampaian salinan Su
 
 a. Wajib Pajak bubar, likuidasi, atau pailit dan pengurus, direksi, komisaris, pemegang saham, pemilik modal, atau pihak lain yang dibebani untuk melakukan pemberesan atau likuidator, atau kurator tidak dapat ditemukan,
 
-b. Wajib Pajak dan/atau penanggung Pajak tidak memiliki harta kekayaan lagi, :
+b. Wajib Pajak dan/atau penanggung Pajak tidak memiliki harta kekayaan lagi,
 
 c. Penagihan Pajak secara aktif telah dilaksanakan dengan penyampaian salinan Surat Paksa kepada pengurus, direksi, likuidator, kurator, pengadilan negeri, pengadilan niaga, atau institusi pemerintah setempat, baik secara langsung maupun dengan menempelkan pada papan pengumuman atau media massa, atau
 
@@ -1378,7 +1378,7 @@ d. menambah besarnya jumlah Pajak yang terutang dalam hal Pajak terutang berdasa
 
 ### Pasal 68
 
-(1) Wajib Pajak dapat mengajukan permohonan banding hanya kepada badan peradilan Pajak atas Surat Keputusan Keberatan yang ditetapkan oleh Bupati atau Pejabat yang ditunjuk sebagaimana dimaksud dalam Pasal 66 ayat (3) paling lama 3 (tiga) bulan sejak keputusan diterima dengan dilampiri salinan Surat Keputusan Keberatan. :
+(1) Wajib Pajak dapat mengajukan permohonan banding hanya kepada badan peradilan Pajak atas Surat Keputusan Keberatan yang ditetapkan oleh Bupati atau Pejabat yang ditunjuk sebagaimana dimaksud dalam Pasal 66 ayat (3) paling lama 3 (tiga) bulan sejak keputusan diterima dengan dilampiri salinan Surat Keputusan Keberatan.
 
 (2) Permohonan banding sebagaimana dimaksud pada ayat (1) diajukan secara tertulis dalam bahasa Indonesia dan dengan disertai alasan yang jelas.
 
@@ -1412,7 +1412,7 @@ d. penerbitan surat ketetapan pajak atau Surat Keputusan Keberatan yang dalam pe
 
 ### Pasal 71
 
-Pengajuan gugatan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. :
+Pengajuan gugatan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## BAB XVI - DOKUMEN PEMUNGUTAN PAJAK BARANG DAN JASA TERTENTU
 
@@ -1446,7 +1446,7 @@ l. surat panggilan dalam rangka pemeriksaan,
 
 m. berita acara pembahasan akhir hasil pemeriksaan,
 
-n. surat paksa, .
+n. surat paksa,
 
 Oo. surat pemberitahuan penolakan angsuran atau penundaan pembayaran,
 

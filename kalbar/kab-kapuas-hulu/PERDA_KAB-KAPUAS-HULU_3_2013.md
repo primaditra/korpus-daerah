@@ -818,7 +818,7 @@ h. memotret seseorang yang berkaitan dengan tindak pidana retribusi daerah;
 
 i. memanggil orang untuk didengar keterangannya dan diperiksa sebagai tersangka atau saksi; j . menghentikan penyidikan;
 
-H " ' v. «
+H " ' v.
 
 k. melakukan penyelidikan tindak pidana lain yang perlu untuk kelancaran penyidikan tindak pidana di bidang retribusi daerah sesuai dengan ketentuan perundang-undangan.
 

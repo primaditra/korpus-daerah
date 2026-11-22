@@ -250,7 +250,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan :
 
 43. Penyedia jasa konstruksi adalah orang perseorangan atau badan yang kegiatan usahanya menyediakan layanan jasa konstruksi.
 
-44. Jaringan utama adalah bagian dari jaringan infrastruktur telekomunikasi yang menghubungkan berbagai elemen jaringan telekomunikasi yang dapat berfungsi sebagai central trunk, Mobile Switching Center (MSC), Base Station 7 • . .
+44. Jaringan utama adalah bagian dari jaringan infrastruktur telekomunikasi yang menghubungkan berbagai elemen jaringan telekomunikasi yang dapat berfungsi sebagai central trunk, Mobile Switching Center (MSC), Base Station 7 • .
 
 Controller (BSC)/ RadioNetwork Controller {RNC), dan jaringan transmisi utama (backbone transmission).
 
@@ -392,7 +392,7 @@ b. penghentian sementara kegiatan;
 
 c. penghentian sementara pelayanan umum ;
 
-d. penutupan lokasi; • •
+d. penutupan lokasi;
 
 e. pencabutan perizinan;
 
@@ -420,7 +420,7 @@ e. memperoleh kompensasi dalam hal tidak mendapatkan pelayanan sesuai standar pe
 
 f. menyampaikan pengaduan kepada penyelenggara pelayanan; dan
 
-g. mendapatkan penyelesaian atas pengaduan yang diajukan sesuai mekanisme yang berlaku. n
+g. mendapatkan penyelesaian atas pengaduan yang diajukan sesuai mekanisme yang berlaku.
 
 (2) Standar pelayanan minimal sebagaimana dimaksud pada ayat (1) huruf a dan huru fe, berpedoman pada ketentuan peraturan perundang-undangan.
 

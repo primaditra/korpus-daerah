@@ -220,7 +220,7 @@ d. data transaksi lainnya yang berkaitan dengan pembayaran Pajak Hotel, Pajak Re
 
 ### Pasal 10
 
-(1) Sebelum dilakukan pemasangan jaringan, perangkat dan sistem informasi, BKD melakukan survei terhadap spesifikasi perangkat dan sistem data transaksi usaha Wajib Pajak secara elektronik milik Wajib Pajak yang akan dilaporkan secara elektronik. f
+(1) Sebelum dilakukan pemasangan jaringan, perangkat dan sistem informasi, BKD melakukan survei terhadap spesifikasi perangkat dan sistem data transaksi usaha Wajib Pajak secara elektronik milik Wajib Pajak yang akan dilaporkan secara elektronik.
 
 (2) Terhadap Wajib pajak yang memiliki perangkat dan sistem data transaksi usaha Wajib Pajak secara elektronik dan terpusat, maka pelaksanaan pelaporan secara elektronik dilakukan pada saat perangkat dan sistem informasi yang dimiliki Wajib Pajak sudah terhubung dengan pusat perangkat dan sistem.
 
@@ -238,7 +238,7 @@ d. data transaksi lainnya yang berkaitan dengan pembayaran Pajak Hotel, Pajak Re
 
 (2) Permohonan sebagaimana dimaksud pada ayat (1) diajukan sekurang-kurangnya 2 (dua) bulan sebelum penambahan atau pengurangan perangkat dan sistem data transaksi usaha Wajib Pajak secara elektronik dioperasikan oleh Wajib Pajak.
 
-(3) Berdasarkan permohonan Wajib Pajak sebagaimana dimaksud pada ayat (2), BKD dapat memberikan persetujuan, dengan ketentuan : }
+(3) Berdasarkan permohonan Wajib Pajak sebagaimana dimaksud pada ayat (2), BKD dapat memberikan persetujuan, dengan ketentuan :
 
 a. apabila tersedia perangkat dan sistem dalam tahun berkenaan;
 
@@ -264,7 +264,7 @@ c. Usaha Wajib Pajak dialihkan.
 
 (4) Perangkat dan sistem yang dihentikan dapat dialihkan oleh BKD kepada Wajib Pajak lain.
 
-(5) Dalam hal pengalihan pengelolaan usaha sebagaimana dimaksud pada ayat (1) hurufb, yang tidak merubah atau mengganti perangkat transaksi pembayaran Pajak sebelumnya, maka perangkat dan sistem tetap dapat terpasang berdasarkan surat pemberitahuan terjadinya pengalihan pengelolaan usaha. f
+(5) Dalam hal pengalihan pengelolaan usaha sebagaimana dimaksud pada ayat (1) hurufb, yang tidak merubah atau mengganti perangkat transaksi pembayaran Pajak sebelumnya, maka perangkat dan sistem tetap dapat terpasang berdasarkan surat pemberitahuan terjadinya pengalihan pengelolaan usaha.
 
 BAB IV HAK DAN KEWAJIBAN
 
@@ -292,7 +292,7 @@ Wajib Pajak atau penanggung pajak wajib :
 
 a. memberikan informasi mengenai merk/tipe, sistem informasi data transaksi, jumlah perangkat dan sistem, serta informasi lain yang terkait dengan pelaporan Data Transaksi Usaha Wajib Pajak secara elektronik yang dimiliki Wajib Pajak;
 
-b. menerima jaringan untuk pelaporan Data Transaksi Usaha Wajib Pajak secara elektronik yang dilakukan; }
+b. menerima jaringan untuk pelaporan Data Transaksi Usaha Wajib Pajak secara elektronik yang dilakukan;
 
 c. memberikan kemudahan kepada BKD dalam pelaksanaan pelaporan Data Transaksi Usaha Wajib Pajak secara elektronik berupa menginstal/memasang/menghubungkan perangkat dan sistem pelaporan Data Transaksi Usaha Wajib Pajak secara elektronik;
 
@@ -336,7 +336,7 @@ Dalam hal Wajib Pajak yang menjadi objek pemasangan alat pelaporan data transaks
 
 (4) Dalam hal Wajib Pajak tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (3), BKD menetapkan secara jabatan berdasarkan nilai tertinggi dari data sebagaimana dimaksud pada ayat ( l ) .
 
-(5) Surat Pernyataan Perbedaan data Penjualan/omzet Wajib Pajak sebagaimana dimaksud pada ayat (2) tercantum dalam Lampiran 1 yang merupakan bagian tidak terpisahkan dari Peraturan Bupati ini. }
+(5) Surat Pernyataan Perbedaan data Penjualan/omzet Wajib Pajak sebagaimana dimaksud pada ayat (2) tercantum dalam Lampiran 1 yang merupakan bagian tidak terpisahkan dari Peraturan Bupati ini.
 
 ### Pasal 19
 
@@ -366,7 +366,7 @@ d. Berdasarkan koordinasi bersama sebagaimana dimaksud pada h u r u f c, maka BK
 
 (5) Tindakan penutupan sementara dan penutupan kegiatan usaha yang dilakukan kepada Wajib Pajak sebagaimana dimaksud pada ayat (4) hurufd dilakukan dengan menertibkan Keputusan Kepala BKD .
 
-(6) Sanksi pidana yang diberikan kepada Wajib Pajak sebagaimana dimaksud pada ayat (1) hurufb dan tindakan pencabutan sesuai peraturan perundang-undangan. H'
+(6) Sanksi pidana yang diberikan kepada Wajib Pajak sebagaimana dimaksud pada ayat (1) hurufb dan tindakan pencabutan sesuai peraturan perundang-undangan.
 
 ### Pasal 20
 
