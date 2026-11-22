@@ -43,8 +43,6 @@ Pemungutan Retribusi Penyediaan Tempat
 Pelelangan Ikan,
 Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945:
-Hukum “—...
-BEN milan ma
 2. Undang-Undang Nomor 31 Tahun 2004
 tentang Perikanan (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 118, Tambahan
@@ -96,7 +94,6 @@ Undang-Undang (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 6856),
-Hukum A0 Dekan
 6. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan antara Pemerintah Pusat
 dan Pemerintahan Daerah (Lembaran Negara
@@ -136,8 +133,6 @@ Nomor 1 Tahun 2024 tentang Pajak Daerah
 dan Retribusi Daerah (Lembaran Daerah
 Kabupaten Kapuas Hulu Tahun 2024 Nomor
 1),
-Hukum | &
-A
 MEMUTUSKAN:
 Menetapkan » PERATURAN BUPATI TENTANG PETUNJUK
 PELAKSANAAN PEMUNGUTAN RETRIBUSI
@@ -169,10 +164,6 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 10.Jasa adalah kegiatan Pemerintah Daerah berupa usaha dan pelayanan yang menyebabkan barang, fasilitas, atau kemanfaatan lainnya yang dapat dinikmati oleh orang pribadi atau Badan.
 
-Tang DKAN | Asisten | Sekda Hukum | -. NI! - pa LP TR
-
-Ty
-
 11. Perikanan adalah semua kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya ikan dan lingkungannya mulai dari pra produksi, produksi, pengolahan sampai dengan pemasaran yang dilaksanakan dalam suatu sistem bisnis perikanan.
 
 12. Ikan adalah segala jenis organisme yang seluruh atau sebagian dari siklus hidupnya berada didalam lingkungan perairan.
@@ -196,8 +187,6 @@ Ty
 21. Wajib Retribusi adalah orang pribadi atau Badan yang menurut peraturan perundang-undangan diwajibkan untuk melakukan pembayaran retribusi termasuk pemungut retribusi tertentu.
 
 22. Penyelenggaraan Pelelangan adalah Unit kerja yang sehari-hari bertugas menyelenggarakan Pelelangan Ikan di Tempat Pelelengan Ikan.
-
-Kabag DKAN | Asisten | Sekda Hukum 5 ie mt
 
 23.Jual beli ikan adalah setiap transaksi antara Pembeli, Nelayan/petani ikan dengan pembeli dan atau pedagang pengumpul peserta pelelangan.
 
@@ -233,8 +222,6 @@ d. Lapak/fasilitas TPI lainnya
 
 (2) Subjek Retribusi sebagaimana dimaksud pada ayat (1) merupakan wajib Retribusi, termasuk pemungut dan pemotong Retribusi.
 
-Hukum | - Me ai an Pt Be RN Ae Lu
-
 (3) Wajib Retribusi Pelelangan Ikan adalah pengusaha, penjual, Pengumpul atau penampung ikan yang bertujuan komersial yang menurut ketentuan perundang-undangan Retribusi diwajibkan untuk melakukan pembayaran Retribusi, termasuk pemungut atau pemotong Retribusi Jasa Usaha.
 
 (4) Dikecualikan sebagai Wajib Retribusi sebagaimana dimaksud pada ayat (3) adalah penjual, Pengumpul atau penampung ikan yang memiliki berat total ikan dibawah 20 kilogram, dan nelayan/petani ikan.
@@ -265,9 +252,7 @@ Tingkat penggunaan jasa diukur berdasarkan frekuensi pemakaian dan/atau pengguna
 
 (2) Nilai jual sebagaimana dimaksud pada ayat (1) dihitung dengan mengalikan volume dan/atau berat (kilogram) hasil usaha perikanan dengan harga yang berlaku setempat.
 
-Kabag DKAN | Asisten | Sekda ba Mgpaa ("—Jeamah Ba mama maa 1 Me
-
-(3) Besarnya tarif Retribusi sebagaimana dimaksud pada ayat (1) ditetapkan sebesar 3”o (tiga per seratus) dari nilai jual sebagaimana dimaksud pada ayat (2).
+(3) Besarnya tarif Retribusi sebagaimana dimaksud pada ayat (1) ditetapkan sebesar 3% (tiga per seratus) dari nilai jual sebagaimana dimaksud pada ayat (2).
 
 (4) Retribusi terutang sebagaimana dimaksud pada ayat (1) dibebankan kepada pengusaha penjual, Pengumpul atau penampung ikan yang bertujuan komersial.
 
@@ -282,6 +267,8 @@ Kabag DKAN | Asisten | Sekda ba Mgpaa ("—Jeamah Ba mama maa 1 Me
 (3) Kepala Dinas menugaskan bendahara/petugas TPI untuk memungut Retribusi di wilayah kerjanya.
 
 ## BAB VII - TATA CARA PEMUNGUTAN
+
+**Bagian satu - Tata Cara Pemungutan**
 
 ### Pasal 10
 
@@ -303,8 +290,6 @@ Pembayaran Retribusi sebagaimana dimaksud dalam Pasal 11 diberikan tanda bukti p
 
 (2) SKRD sebagaimana dimaksud pada ayat (1) dibuat dalam 5 (lima) rangkap dengan warna masing-masing rangkap terdiri dari putih, kuning, hijau, biru dan merah jambu.
 
-Kabag DKAN | Asisten | Sekda Hukum |.
-
 ### Pasal 14
 
 (1) Selain menggunakan SKRD dalam pelaksanaan pemungutan Retribusi, bendahara/petugas tempat pelelangan ikan juga menggunakan bukti pembayaran Retribusi lainnya berupa karcis.
@@ -315,17 +300,28 @@ Kabag DKAN | Asisten | Sekda Hukum |.
 
 (4) Besarnya Retribusi yang dikenakan kepada Wajib Retribusi dengan menggunakan karcis adalah sebagai berikut:
 
-Nomor | Berat Total Ikan segar, Nilai kerupuk kering, salai/ikan | Nominal Keterangan asap, ikan asin dan produk | Karcis (Rp) perikanan lainnya 100, 1 Kg — 200 Kg 2. Pembeli/pedagang ikan 200,1 Kg -— 300 Kg 30.000,-
+| Nomor | Berat Total Ikan segar, kerupuk kering, salai/ikan asap, ikan asin dan produk perikanan lainnya | Nilai Nominal Karcis (Rp) | Keterangan |
+|---|---|---|---|
+| 1 | 2 | 3 | 4 |
+| 1 | 20 Kg – 50 Kg | 5.000,- | Wajib retribusi: 1. Penjual/pemilik ikan 2. Pembeli/pedagang ikan |
+| 2 | 50,1 Kg – 100 Kg | 10.000,- | |
+| 3 | 100, 1 Kg – 200 Kg | 20.000 | |
+| 4 | 200,1 Kg – 300 Kg | 30.000,- | |
 
 (5) Retribusi yang dikenakan kepada Wajib Retribusi yang memiliki berat total ikan diatas 300 (tiga ratus) kilogram dipungut dengan menggunakan SKRD.
 
 (6) Retribusi yang dikenakan kepada Wajib Retribusi yang memiliki berat total ikan diatas 300 (tiga ratus) kilogram dipungut dengan menggunakan SKRD.
 
-Tabel Penggolongan Tarif 1.000.000/bulan | Wajib retribusi : 500.000 / bulan Orang pribadi/Badan 3 Lapak/fasilitas | 400.000/bulan hukum TPI lainnya
+Tabel Penggolongan Tarif
+
+| Nomor | Jenis Fasilitas | Nilai Sewa (Rp) | Keterangan |
+|---|---|---|---|
+| 1 | 2 | 3 | 4 |
+| 1 | Kantin | 1.000.000/bulan | Wajib retribusi : Orang pribadi/Badan hukum |
+| 2 | Kios | 500.000/bulan | |
+| 3 | Lapak/fasilitas TPI lainnya | 400.000/bulan | |
 
 (7) Setiap pembayaran dicatat dalam buku penerimaan.
-
-Hukum 2 6 Pee BN
 
 ### Pasal 15
 
@@ -355,8 +351,6 @@ Hukum 2 6 Pee BN
 
 (1) Bupati dalam jangka waktu paling lama 6 (enam) bulan sejak tanggal surat keberatan diterima harus memberi keputusan atas keberatan yang diajukan dengan menerbitkan surat keputusan keberatan.
 
-Hukum ANA SR 3 Tere
-
 (2) Ketentuan sebagaimana dimaksud pada ayat (1) adalah untuk memberikan kepastian hukum bagi Wajib Retribusi bahwa keberatan yang diajukan harus diberi keputusan melalui oleh Bupati.
 
 (3) Keputusan Bupati atas keberatan dapat berupa menerima seluruhnya atau sebagian menolak atau menambah besarnya Retribusi terutang.
@@ -365,7 +359,7 @@ Hukum ANA SR 3 Tere
 
 ### Pasal 20
 
-(1) Jika pengajuan keberatan dikabulkan sebagian atau seluruhnya kelebihan pembayaran Retribusi dikembalikan dengan ditambah imbalan bunga sebesar 0,6”o (nol koma enam persen) sebulan untuk paling lama 12 (dua belas) bulan.
+(1) Jika pengajuan keberatan dikabulkan sebagian atau seluruhnya kelebihan pembayaran Retribusi dikembalikan dengan ditambah imbalan bunga sebesar 0,6% (nol koma enam persen) sebulan untuk paling lama 12 (dua belas) bulan.
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKRDLB.
 
@@ -373,7 +367,7 @@ Hukum ANA SR 3 Tere
 
 ### Pasal 21
 
-(1) Wajib Retribusi yang tidak membayar tepat waktunya atau kurang membayar dikenakan sanksi administratif berupa denda sebesar 1Yo (satu persen) setiap hari dan Retribusi terutang yang tidak atau kurang dibayar dan ditagih dengan menggunakan
+(1) Wajib Retribusi yang tidak membayar tepat waktunya atau kurang membayar dikenakan sanksi administratif berupa denda sebesar 1% (satu persen) setiap hari dan Retribusi terutang yang tidak atau kurang dibayar dan ditagih dengan menggunakan
 
 STRD.
 
@@ -388,8 +382,6 @@ STRD.
 (5) Surat teguran atau peringatan atau surat lain yang sejenis sebagaimana dimaksud pada ayat (1) dikeluarkan oleh Kepala Dinas.
 
 (6) Pelaksanaan penagihan Retribusi sebagaimana dimaksud pada ayat (1) menggunakan SKRD dan atau Karcis.
-
-Kabag DKAN | Asisten | Sekda Hukum PR an
 
 ## BAB IX - PENGURANGAN, KERINGANAN DAN PEMBEBASAN RETRIBUSI
 
@@ -416,8 +408,6 @@ Kabag DKAN | Asisten | Sekda Hukum PR an
 (6) Jika pengembalian kelebihan pembayaran Retribusi dilakukan setelah lewat 2 (dua) bulan, Bupati memberikan imbalan bunga sebesar 0,6 (nol koma enam persen) per bulan atas keterlambatan pembayaran kelebihan pembayaran Retribusi.
 
 (7) Tata cara pengembalian kelebihan pembayaran Retribusi sebagaimana dimaksud pada ayat (1) secara teknis administrasi akan ditetapkan oleh Kepala Perangkat Daerah yang membidangi Pendapatan Daerah dengan persetujuan Bupati.
-
-Hukum A—
 
 ## BAB XI - PENAGIHAN RETRIBUSI DAN PENGHAPUSAN PIUTANG RETRIBUSI KARENA KADALUARSA
 
@@ -449,8 +439,6 @@ a. diterbitkan surat teguran, dan b.ada pengadaan utang Retribusi dan Wajib Retr
 
 (1) Bupati berwenang untuk melakukan pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Retribusi dalam rangka melaksanakan peraturan perundang-undangan perpajakan dan Retribusi Daerah.
 
-Hukum | — D
-
 (2) Wajib Retribusi yang diperiksa wajib:
 
 a. memperlihatkan dan atau meminjamkan buku atau catatan dokumen yang menjadi dasarnya dan dokumen lain yang berhubungan dengan objek Retribusi yang terutang:
@@ -477,9 +465,7 @@ a. tata cara penyelenggaraan pelelangan ikan,
 
 b. peningkatan peningkatan kemampuan teknis dan manajemen penyelenggaraan pelelangan ikan di TPI, dan
 
-c. peningkatan keamanan ketertiban dan kebersihan lingkungan Ta.
-
-Khas DKAN | Asisten | Sekda an na k—— MA, Tn maa mens Oa TN
+c. peningkatan keamanan ketertiban dan kebersihan lingkungan TPI.
 
 ## BAB XIV - KETENTUAN PENUTUP
 
@@ -489,20 +475,16 @@ Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-peraturan Bupati ini dengan penempatannya dalam Berita Daerah
-Kabupaten Kapuas Hulu.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-Pada tanggal 9 aa mber 2004
-—SH BUPATI KAPUAS HULU "
-w3 DIAAN
+Pada tanggal 9 September 2024
+BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
 Diundangkan di Putussibau
-Pada tanggal 19 sftamear men
+Pada tanggal 10 September 2024
 SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
-A nm
 MOHD. ZAINI
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2024
-Nomor 19
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2024 NOMOR 19
 
 ## Lampiran
 

@@ -10,8 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-53
-“Tragedi SL
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
@@ -55,9 +53,6 @@ sebagai Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor 72,
 Tambahan Lembaran Negara Republik Indonesia
 Nomor 1820):
-Kabag | Kadis 1
-& (“Ta p
-: Oa
 3. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2014 Nomor 244,
@@ -109,8 +104,6 @@ Rumah Umum dan Rumah Swadaya,
 10. Keputusan Bersama Menteri Perumahan dan
 Kawasan Permukiman, Menteri Pekerjaan Umum
 dan Menteri Dalam Negeri Nomor
-ir aela
-' | 3
 03.HK/KPTS/Mn/2024, Nomor 3015/KPTS/M/
 2024, Nomor 600.10-4849 Tahun 2024 tentang
 Dukungan Percepatan Pelaksanaan Program
@@ -147,11 +140,7 @@ Dalam Peraturan Bupati ini, yang dimaksud dengan:
 
 9. Badan adalah sekumpulan orang dan/atau modal yang merupakan satu kesatuan, baik yang melakukan usaha, maupun yang tidak melakukan usaha meliputi perseroan terbatas, perseroan komanditer, perseroan lainnya, Badan Usaha Milik Negara, Badan Usaha Milik Daerah atau Badan Usaha Milik Desa dengan nama dan dalam bentuk apapun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi massa, organisasi sosial politik, atau organisasi lainnya, lembaga dan bentuk badan lainnya termasuk kontrak investasi kolektif dan bentuk usaha tetap.
 
-10. Masyarakat Berpenghasian Rendah yang selanjutnya disingkat MBR adalah masyarakat yang mempunyai keterbatasan daya beli
-
-TE 1 y|y Hnla
-
-Ti 4 sehingga perlu mendapatkan dukungan pemerintah untuk memperoleh rumah.
+10. Masyarakat Berpenghasian Rendah yang selanjutnya disingkat MBR adalah masyarakat yang mempunyai keterbatasan daya beli sehingga perlu mendapatkan dukungan pemerintah untuk memperoleh rumah.
 
 11. Retribusi Daerah, yang selanjutnya disebut Retribusi, adalah pungutan Daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh Pemerintah Daerah untuk kepentingan orang pribadi atau Badan.
 
@@ -171,9 +160,7 @@ Ti 4 sehingga perlu mendapatkan dukungan pemerintah untuk memperoleh rumah.
 
 19. Rumah Umum adalah rumah yang diselenggarakan untuk memenuhi kebutuhan rumah bagi orang pribadi Warga Negara Indonesia yang termasuk dalam kriteria MBR sebagaimana diatur dalam Undang-Undang Mengenai Perumahan dan Kawasan Permukiman.
 
-20. Rumah Susun adalah bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagianbagian yang distrukturkan secara fungsional, baik dalam arah horizontal maupun vertikal dan merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, terutama untuk tempat hunian yang dilengkapi dengan bagian bersama, benda bersama, dan tanah bersama
-
-Tan aa
+20. Rumah Susun adalah bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional, baik dalam arah horizontal maupun vertikal dan merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, terutama untuk tempat hunian yang dilengkapi dengan bagian bersama, benda bersama, dan tanah bersama
 
 21. Rumah Swadaya adalah rumah yang dibangun atas prakarsa dan upaya masyarakat baik secara mandiri maupun berkelompok.
 
@@ -217,13 +204,9 @@ b. penghasilan orang perseorangan yang kawin.
 
 (4) Penghasilan orang perseorangan yang tidak kawin sebagaimana dimaksud pada ayat (3) huruf a merupakan seluruh pendapatan bersih yang bersumber dari gaji, upah, dan/atau hasil usaha sendiri.
 
-(S5) Penghasilan orang perseorangan yang kawin sebagaimana dimaksud pada ayat (3) huruf b merupakan seluruh pendapatan bersih yang bersumber dari gaji, upah, dan/atau hasil usaha gabungan suami istri.
+(5) Penghasilan orang perseorangan yang kawin sebagaimana dimaksud pada ayat (3) huruf b merupakan seluruh pendapatan bersih yang bersumber dari gaji, upah, dan/atau hasil usaha gabungan suami istri.
 
 (6) Dalam hal kriteria MBR sebagaimana dimaksud pada ayat (1) digunakan untuk pembangunan atau perolehan Rumah dengan mekanisme tabungan perumahan rakyat, besaran penghasilan sebagaimana dimaksud pada ayat (3) huruf b ditentukan hanya berdasarkan penghasilan 1 (satu) orang.
-
-Kabag | Kadis : Naa
-
-: ' 6
 
 (7) Penghasilan 1 (satu) orang sebagaimana dimaksud pada ayat (6) merupakan seluruh pendapatan bersih yang bersumber dari gaji, upah, dan/atau hasil usaha sendiri.
 
@@ -245,7 +228,7 @@ a. angsuran pembiayaan pembangunan atau perbaikan Rumah Swadaya, dan/atau
 
 b. nilai keswadayaan terhadap biaya pembangunan atau perbaikan Rumah Swadaya.
 
-(S5) Angsuran pembiayaan pembangunan atau perbaikan Rumah Swadaya sebagaimana dimaksud pada ayat (4) huruf a menggunakan:
+(5) Angsuran pembiayaan pembangunan atau perbaikan Rumah Swadaya sebagaimana dimaksud pada ayat (4) huruf a menggunakan:
 
 a. suku bunga dan tenor tertentu: atau
 
@@ -273,11 +256,7 @@ c. harga jual satuan Rumah susun.
 
 (4) Harga jual Rumah Umum dan biaya pembangunan Rumah Swadaya sebagaimana dimaksud pada ayat (1) huruf a dan huruf c dihitung berdasarkan batasan luas lantai Rumah Umum dan Rumah Swadaya.
 
-(S5) Biaya perbaikan Rumah Swadaya sebagaimana dimaksud pada ayat (1) huruf b paling tinggi dihitung berdasarkan biaya pembangunan Rumah Swadaya.
-
-7 55921
-
-" 7
+(5) Biaya perbaikan Rumah Swadaya sebagaimana dimaksud pada ayat (1) huruf b paling tinggi dihitung berdasarkan biaya pembangunan Rumah Swadaya.
 
 ### Pasal 7
 
@@ -311,46 +290,22 @@ Peraturan Bupati Kapuas Hulu mengenai Tata Cara Pemungutan
 
 Retribusi Daerah.
 
-g “4 Tj “1
-
-8 .
-
 ### Pasal 10
 
 Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-Peraturan Bupati ini dengan penempatannya dalam Berita Daerah .
-Kabupaten Kapuas Hulu.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah . Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-pada tanggal 20 /onua' 2025
-2 OPAN
-Bag Peru HULU
-AS Aja : )
-Ko RONSISKUIS DIAAN
----shjundangkan di Putussibau
-ASN Kgeja tanggal 21 Januan' 2028
-(& NSBGRETARIS DAERAH KABUPATEN KAPUAS HULU
-ff tag (5 Lalai 9
-af. hd SN
-Hk | Sx
-2 ana T g le :
-EKA, ZAINI
-Uas a
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN
-NOMOR 1
-Salinan sesuai dengan aslinya
-— Kepala Bagian Hukum
-Setda Kabupaten as Hulu
-9 Ao, "AN 5 ng
-3 ak “ 3 N ee -
-Ira 2g 1. : Eh 5 :
-Su 2)
-& Hernitusi : vPsi F
-Lara ban KW) Pama Hg Ss Ss
-AMP 39771214 200301 1 001
+pada tanggal 20 Januari 2025
+BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
+Diundangkan di Putussibau
+pada tanggal 21 Januari 2025
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU
+MOHD ZAINI
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN [tahun kosong pada naskah] NOMOR 1
 
 ## Lampiran
 

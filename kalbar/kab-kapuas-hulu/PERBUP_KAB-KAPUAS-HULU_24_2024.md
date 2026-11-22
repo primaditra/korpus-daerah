@@ -10,11 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-“1”
-Ne
-Yg 4
-& Pr
-TEA
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
@@ -57,8 +52,6 @@ Bangunan Gedung (Lembaran Negara Republik
 Indonesia Tahun 2002 Nomor 134, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 4247), sebagaimana telah beberapa kali diubah
-' 1,
-F)
 terakhir dengan Undang-Undang Nomor 6 Tahun
 2023 tentang Penetapan Peraturan Pemerintah
 Pengganti Undang-Undang Nomor 2 Tahun 2022
@@ -346,20 +339,16 @@ Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-Peraturan Bupati ini dengan penempatannya dalam Berita Daerah
-Kabupaten Kapuas Hulu.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-pada tanggal 13 Desemuer 2224
-LeeBUPATI KAPUAS HULU, "
-4 FR AN SI SK US DIAAN
+pada tanggal 13 Desember 2024
+BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
 Diundangkan di Putussibau
-pad ggal (6 Desempor 2024
-SE IS DAERAH KABUPATEN KAPUAS HULU,
-: "1
+pada tanggal 16 Desember 2024
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
 MOHD ZAINI
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2024
-NOMOR
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2024 NOMOR [kosong pada naskah]
 
 ## Lampiran
 

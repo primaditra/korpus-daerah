@@ -10,10 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-Pe ea & Pt 5
-TER GTA
-Te
-&1 2 PS
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
@@ -51,8 +47,6 @@ dengan Surat Paksa (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 129, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 3987):
-Kab Kepala .
-S7 |hAII
 4. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2014 Nomor 244,
@@ -66,7 +60,7 @@ menjadi Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 41,
 Tambahan Lembaran Negara Republik Indonesia
 Nomor 6856),
-S5. Undang-Undang Nomor 7 Tahun 2021 tentang
+5. Undang-Undang Nomor 7 Tahun 2021 tentang
 Harmonisasi Peraturan Perpajakan (Lembaran
 Negara Republik Indonesia Tahun 2021 Nomor
 246, Tambahan Lembaran Negara Republik
@@ -88,8 +82,6 @@ tentang Pengelolaan Keuangan Daerah
 . (Lembaran Negara Republik Indonesia Tahun
 2019 Nomor 42, Tambahan Lembaran Negara
 Republik Indonesia Nomor 6322),
-an mera Asisten
-IP o1A Ia
 9. Peraturan Pemerintah Nomor 4 Tahun 2023
 tentang Pemungutan Pajak Barang dan Jasa
 Tertentu Atas Tenaga Listrik (Lembaran Negara
@@ -116,7 +108,7 @@ PEMUNGUTAN PAJAK BARANG DAN JASA TERTENTU.
 
 ### Pasal 1
 
-Dalar Peraturan Bupati ini yang dimaksud dengan:
+Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 1. Daerah adalah Kabupaten Kapuas Hulu.
 
@@ -125,8 +117,6 @@ Dalar Peraturan Bupati ini yang dimaksud dengan:
 3. Bupati adalah Bupati Kapuas Hulu.
 
 4. Perangkat Daerah adalah unsur pembantu Bupati dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan Daerah.
-
-nKepala | Asisten | Sekda 7 |hla
 
 5. Badan Pendapatan Daerah adalah Badan Pendapatan Daerah abupaten Kapuas Hulu.
 
@@ -138,7 +128,7 @@ nKepala | Asisten | Sekda 7 |hla
 
 9. Rekening Kas Umum Daerah adalah rekening tempat penyimpanan uang Daerah yang ditentukan oleh Bupati untuk menampung seluruh penerimaan Daerah dan digunakan untuk membayar seluruh pengeluaran Daerah pada bank yang ditetapkan.
 
-10. Badan adalah sekumpulan orang dan/atau modal yang merupakan kesatuan, baik yang melaxukan usaha maupun yang tidak melakukan usaha yang meliputi perseroan terbatas, perseroan komanditer, perseroan lainnya, Badan Usaha Milik Negara, BUMD, atau Badan Usaha Milik Desa, dengan nama dan dalam bentuk apapun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi masa, organisasi sosial politik, atau organisasi lainnya, lembaga dan bentuk Badan lainnya, termasuk kontrak investasi kolektif dan bentuk usaha tetap.
+10. Badan adalah sekumpulan orang dan/atau modal yang merupakan kesatuan, baik yang melakukan usaha maupun yang tidak melakukan usaha yang meliputi perseroan terbatas, perseroan komanditer, perseroan lainnya, Badan Usaha Milik Negara, BUMD, atau Badan Usaha Milik Desa, dengan nama dan dalam bentuk apapun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi masa, organisasi sosial politik, atau organisasi lainnya, lembaga dan bentuk Badan lainnya, termasuk kontrak investasi kolektif dan bentuk usaha tetap.
 
 11. Pajak Daerah yang selanjutnya disebut Pajak, adalah kontribusi wajib kepada Daerah yang terutang oleh orang pribadi atau Badan yang bersifat memaksa berdasarkan Undang-Undang, dengan tidak mendapatkan imbalan secara langsung dan digunakan untuk keperluan Daerah bagi sebesar-besarnya kemakmuran rakyat.
 
@@ -150,13 +140,9 @@ nKepala | Asisten | Sekda 7 |hla
 
 15.Makanan dan/atau Minuman adalah makanan dan/atau minuman yang disediakan, dijual dan/atau diserahkan, baik secara langsung maupun tidak langsung, atau melalui pesanan oleh restoran.
 
-mana Setda s3 AIA
-
-. 5
-
 16. Restoran adalah fasilitas penyediaan layanan makanan dan/atau minuman dengan dipungut bayaran, yang mencakup juga rumah makan, kafetaria, kantin, warung, bar, dan sejenisnya termasuk jasa boga/katering.
 
-17.Pengusaha Restoran adalah orang pribadi atau Badan yang menyelenggarakan restoran atas narna diri sendiri atau untuk dan atas nama pihak lain yang menjadi tanggungannya.
+17.Pengusaha Restoran adalah orang pribadi atau Badan yang menyelenggarakan restoran atas nama diri sendiri atau untuk dan atas nama pihak lain yang menjadi tanggungannya.
 
 18. Tenaga Listrik adalah tenaga atau energi yang dihasilkan oleh suatu pembangkit tenaga listrik yang didistribusikan untuk bermacam peralatan listrik.
 
@@ -174,8 +160,6 @@ mana Setda s3 AIA
 
 25.Jasa Parkir adalah jasa penyediaan atau penyelenggaraan tempat parkir di luar Badan jalan dan/atau pelayanan memarkirkan kendaraan untuk ditempatkan di area parkir, baik yang disediakan berkaitan dengan pokok usaha maupun yang disediakan sebagai suatu usaha, termasuk penyediaan tempat penitipan Kendaraan Bermotor.
 
-Lapan "—- Asisten | Sekda S1 7 lha
-
 26. Parkir adalah keadaan kendaraan berhenti atau tidak bergerak untuk beberapa saat dan ditinggalkan pengemudinya.
 
 27. Kendaraan Bermotor adalah kendaraan yang digunakan untuk mengangkut orang dan barang yang beroda 2 (dua) atau lebih yang dijalankan dengan tenaga mesin.
@@ -188,7 +172,7 @@ Lapan "—- Asisten | Sekda S1 7 lha
 
 31. Fasilitas Parkir adalah lokasi yang ditentukan sebagai tempat pemberhentian kendaraan yang tidak bersifat sementara untuk melakukan kegiatan pada suatu kurun waktu.
 
-32. Penyelenggara Parkir adalah setiap orang atau badan hukum yang menyelenggarakan tempat parkir diluar badan jalan, baik yang disediakan berkaitan dengan pokok usaha maupun sebagai usaha termasuk penyediaan tempat penitipan "kendaraan bermotor, baik untuk dan atas namanya sendiri atau pun untuk dan atas nama pihak lain yang menjadi tanggingannya.
+32. Penyelenggara Parkir adalah setiap orang atau badan hukum yang menyelenggarakan tempat parkir diluar badan jalan, baik yang disediakan berkaitan dengan pokok usaha maupun sebagai usaha termasuk penyediaan tempat penitipan "kendaraan bermotor, baik untuk dan atas namanya sendiri atau pun untuk dan atas nama pihak lain yang menjadi tanggungannya.
 
 33.Karcis Parkir adalah dokumen bukti pembayaran yang sekaligus sebagai bukti pungutan pajak, yang dibuat oleh Wajib Pajak.
 
@@ -198,11 +182,9 @@ Lapan "—- Asisten | Sekda S1 7 lha
 
 36. Tanda masuk atau tiket atau karcis adalah suatu tanda atau alat yang sah dengan nama dan dalam bentuk apapun yang dapat dipergunakan untuk menonton, menggunakan atau menikmati hiburan.
 
-417 IAlAI
+37. Masa Pajak adalah jangka waktu 1 (satu) bulan kalender atau jangka “waktu lain yang diatur dengan Peraturan Bupati paling lama 3 (tiga) bulan kalender, yang menjadi dasar bagi Wajib Pajak untuk menghitung, menyetor, dan melaporkan Pajak yang terutang.
 
-37. Masa Pajak adalah jangka waktu 1 (satu) bulan kalender atau jangka “yaktu lain yang diatur dengan Peraturan Bupati paling lama 3 (tiga) bulan kalender, yang menjadi dasar bagi Wajib Pajak untuk menghitung, menyetor, dan melaporkan Pajak yang terutang.
-
-38.Tahun Pajak adalah jargka vraktu yang lamanya 1 (satu) tahun kalender, kecuali apabila Wajib Pajak menggunakan tahun buku yang tidak sama dengan tahun kalender.
+38.Tahun Pajak adalah jangka waktu yang lamanya 1 (satu) tahun kalender, kecuali apabila Wajib Pajak menggunakan tahun buku yang tidak sama dengan tahun kalender.
 
 39. Pajak yang terutang adalah pajak yang harus dibayar pada suatu saat dalam Masa Pajak, dalam Tahun Pajak, atau dalam Bagian Tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajakan daerah.
 
@@ -218,8 +200,6 @@ Lapan "—- Asisten | Sekda S1 7 lha
 
 45. Surat Setoran Pajak Daerah yang selanjutnya disingkat SSPD adalah bukti pembayaran atau penyetoran Pajak yang telah dilakukan dengan menggunakan formulir atau telah dilakukan dengan cara lain ke kas Daerah melalui tempat pembayaran yang ditunjuk oleh Bupati.
 
-A
-
 46. Surat Ketetapan Pajak Daerah yang selanjutnya disingkat SKPD adalah surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak yang terutang.
 
 47.Surat Ketetapan Pajak Daerah Kurang Bayar yang selanjutnya disingkat SKPDKB adalah surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak, jumlah kredit Pajak, jumlah kekurangan pembayaran pokok Pajak, besarnya sanksi administratif, dan jumlah Pajak yang masih harus dibayar.
@@ -228,31 +208,25 @@ A
 
 49. Surat Ketetapan Pajak Daerah Nihil yang selanjutnya disingkat SKPDN adalah surat ketetapan Pajak yang menentukan jumlah pokok Pajak sama besarnya dengan jumlah kredit Pajak atau Pajak tidak terutang dan tidak ada kredit Pajak.
 
-50. Surat Ketetapan Pajak Daerah Lebih Bayar yang selanjutnya disingkat SKPDLB adalah surat ketetapan Pajak yang menentukan jumlah kelebihan pembayaran Pajak karena jumlah kredit Pajak lebih besar
-
-. dari pada Pajak yang terutang atau seharusnya tidak terutang.
+50. Surat Ketetapan Pajak Daerah Lebih Bayar yang selanjutnya disingkat SKPDLB adalah surat ketetapan Pajak yang menentukan jumlah kelebihan pembayaran Pajak karena jumlah kredit Pajak lebih besar dari pada Pajak yang terutang atau seharusnya tidak terutang.
 
 51. Surat Tagihan Pajak Daerah yang selanjutnya disingkat STPD adalah surat untuk melakukan tagihan Pajak dan/atau sanksi administratif berupa bunga dan/atau denda.
 
-52.Surat Keputusan Pembetulan adalah surat keputusan yang membetulkan kesalahan tulis, kesalahan hitung, dan/atau kekeliruan dalam penerapan ketentuan tertentu dalam peraturan perundangundangan perpajakan Daerah yang terdapat dalam SPTPD, SKPD, SKPDKB, SKPDKBT, SKPDN, SKPDLB, STPD, Surat Keputusan
-
-Pembetulan, atau Surat Keputusan Keberatan.
+52.Surat Keputusan Pembetulan adalah surat keputusan yang membetulkan kesalahan tulis, kesalahan hitung, dan/atau kekeliruan dalam penerapan ketentuan tertentu dalam peraturan perundang-undangan perpajakan Daerah yang terdapat dalam SPTPD, SKPD, SKPDKB, SKPDKBT, SKPDN, SKPDLB, STPD, Surat Keputusan Pembetulan, atau Surat Keputusan Keberatan.
 
 53. Surat Keputusan Keberatan adalah surat keputusan atas keberatan terhadap SKPD, SKPDKB, SKPDKBT, SKPDN, SKPDLB, atau terhadap pemotongan atau pemungutan oleh pihak ketiga yang diajukan oleh Wajib Pajak.
 
-54. Banding adalah upaya hukum yang dilakukan oleh Wajib Pajak atau penanggung Pajak terhadap suatu keputusan yang dapat diajukan banding, berdasarkan ketentuan peraturan perundang-undangan
-
-. perpajakan yang berlaku. 17 lha
+54. Banding adalah upaya hukum yang dilakukan oleh Wajib Pajak atau penanggung Pajak terhadap suatu keputusan yang dapat diajukan banding, berdasarkan ketentuan peraturan perundang-undangan perpajakan yang berlaku.
 
 55. Putusan Banding adalah putusan Badan peradilan Pajak atas banding terhadap Surat Keputusan Keberatan yang diajukan oleh Wajib Pajak.
 
-56. Peenbukuan adalah suatu pencatatan yang dilakukan secara teratur untuk mengumpulkan data dan informasi keuangan yang meliputi harta, kewajiban, modal, penghasilan dan biaya, serta jumlah harga perolehan dan penyerahan barang atau jasa, yang ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut.
+56. Pembukuan adalah suatu pencatatan yang dilakukan secara teratur untuk mengumpulkan data dan informasi keuangan yang meliputi harta, kewajiban, modal, penghasilan dan biaya, serta jumlah harga perolehan dan penyerahan barang atau jasa, yang ditutup dengan menyusun laporan keuangan berupa neraca dan laporan laba rugi untuk periode Tahun Pajak tersebut.
 
-57. Pencatatan adalah pengumpulan data yang dikumpulkan secara teratur tentang peredaran atau penerimaan bruto dan/atau penghasilan Lruto sebagai dasar untuk menghitung jumlah Pajak yang terutang, termasuk penghasilan yang bukan objek Pajak dan/atau yang dikenai Pajak yang bersifat final.
+57. Pencatatan adalah pengumpulan data yang dikumpulkan secara teratur tentang peredaran atau penerimaan bruto dan/atau penghasilan bruto sebagai dasar untuk menghitung jumlah Pajak yang terutang, termasuk penghasilan yang bukan objek Pajak dan/atau yang dikenai Pajak yang bersifat final.
 
 58. Penagihan adalah serangkaian tindakan agar penanggung Pajak melunasi utang Pajak dan biaya penagihan Pajak dengan menegur atau memperingatkan, melaksanakan penagihan seketika dan sekaligus, memberitahukan surat paksa, mengusulkan pencegahan, melaksanakan penyitaan, melaksanakan penyanderaan, menjual barang yang telah disita.
 
-59. Penagihan Seketika dan Sekaligus adalah tindakan Penagihan pajak yang dilaksanakan oleh jurusita Pajak kepada penanggung Pajak tanpa menunggu tanggal jatuh tempo pembayaran yang meliputi seluran utang Pajak dari semua jenis Pajak, masa Pajak, dan tahun Pajak.
+59. Penagihan Seketika dan Sekaligus adalah tindakan Penagihan pajak yang dilaksanakan oleh jurusita Pajak kepada penanggung Pajak tanpa menunggu tanggal jatuh tempo pembayaran yang meliputi seluruh utang Pajak dari semua jenis Pajak, masa Pajak, dan tahun Pajak.
 
 60. Utang Pajak adalah Pajak yang masih harus dibayar termasuk sanksi administratif berupa bunga, denda, dan/atau kenaikan yang tercantum dalam surat ketetapan Pajak atau surat sejenisnya berdasarkan peraturan perundang-undangan perpajakan Daerah.
 
@@ -262,9 +236,7 @@ Pembetulan, atau Surat Keputusan Keberatan.
 
 63.Jurusita Pajak adalah pelaksana tindakan Penagihan Pajak yang meliputi Penagihan Seketika dan Sekaligus, pemberitahuan Surat Paksa, penyitaan dan penyanderaan.
 
-SI AA
-
-64. Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti yang dilaksanakan secara objektif dan profesional berdasarkan suatu standar pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Pajak dan Retribusi dan/atau untuk tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undangan perpajakan daerah dan Retribusi Daerah. 65.Penyidikan tindak pidana di bidang perpajakan yang selanjutnya disebut Penyidikan adalah serangkaian tindakan yang dilakukan oleh penyidik untuk mencari serta mengumpulkan bukti yang dengan bukti itu membuat terang tindak pidana di bidang perpajakan yang terjadi serta menemukan tersangi:anya.
+64. Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti yang dilaksanakan secara objektif dan profesional berdasarkan suatu standar pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Pajak dan Retribusi dan/atau untuk tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undangan perpajakan daerah dan Retribusi Daerah. 65.Penyidikan tindak pidana di bidang perpajakan yang selanjutnya disebut Penyidikan adalah serangkaian tindakan yang dilakukan oleh penyidik untuk mencari serta mengumpulkan bukti yang dengan bukti itu membuat terang tindak pidana di bidang perpajakan yang terjadi serta menemukan tersangkanya.
 
 ## BAB II - JENIS, OBJEK, SUBJEK DAN WAJIB PBJT
 
@@ -286,7 +258,7 @@ e. Jasa Kesenian dan Hiburan.
 
 (3) Dokumen yang digunakan sebagai dasar pemungutan jenis Pajak sebagaimana dimaksud pada ayat (1) dan ayat (2) adalah SPTPD.
 
-4) Dokumen SPTPD sebagaimana dimaksud pada ayat (3) wajib diisi dengan benar dan lengkap serta disampaikan oleh Wajib Pajak kepada Bupati sesuai dengan ketentuan peraturan perundang-undangan.
+(4) Dokumen SPTPD sebagaimana dimaksud pada ayat (3) wajib diisi dengan benar dan lengkap serta disampaikan oleh Wajib Pajak kepada Bupati sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 3
 
@@ -296,9 +268,11 @@ a. Makanan dan/atau Minuman,
 
 b. Tenaga Listrik,
 
-c. Jasa Perhotelan, tg amat | pkebmpa. | Asisten | Setaa 4 Aja)
+c. Jasa Perhotelan,
 
-d. Jasa Parkir: dan ec. Jasa Kesenian dan Hiburan.
+d. Jasa Parkir; dan
+
+e. Jasa Kesenian dan Hiburan.
 
 ### Pasal 4
 
@@ -314,13 +288,11 @@ b. penyedia jasa boga atau katering yang melakukan:
 
 3. penyajian dilakukan dengan atau tanpa peralatan dan petugasnya.
 
-(2) Yang dikecualikan dari objek PBJT sebagaimana dimaksud pada ayat
+(2) Yang dikecualikan dari objek PBJT sebagaimana dimaksud pada ayat (1) adalah penyerahan Makanan dan/atau Minuman:
 
-(1) adalah penyerahan Makanan dan/atau Minuman:
+a. dengan peredaran usaha yang nilai penjualan tidak melebihi Rp1.500.000,00 (satu juta lima ratus ribu rupiah) per bulan,
 
-a. dengan peredaran usaha yang nilai penjualan tidak muebihi Rp1.500.000,00 (satu juta lima ratus ribu rupiah) per bulan,
-
-b. dilakukan oleh toko swalayan dan sejenisnya yang tidak sematamata menjual Makanan dan/atau Minuman,
+b. dilakukan oleh toko swalayan dan sejenisnya yang tidak semata-mata menjual Makanan dan/atau Minuman,
 
 c. dilakukan oleh pabrik Makanan dan/atau Minuman, atau
 
@@ -332,7 +304,7 @@ d. disediakan oleh penyedia fasilitas yang kegiatan usaha utamanya menyediakan p
 
 (2) Konsumsi Tenaga Listrik sebagaimana dimaksud pada ayat (1) adalah penggunaan Tenaga Listrik oleh pengguna akhir.
 
-(3) Yang dikecualikan dari konsumsi Tenaga Listrik sebagaimana dimaksud pada ayat (2), meliputi: g| 7 Ah
+(3) Yang dikecualikan dari konsumsi Tenaga Listrik sebagaimana dimaksud pada ayat (2), meliputi:
 
 a. konsumsi Tenaga Listrik oleh instansi pemerintah pusat, Pemerintah Daerah dan penyelenggara negara lainnya,
 
@@ -360,25 +332,21 @@ e. motel:
 
 f. losmen,
 
-' g. wisma pariwisata,
+g. wisma pariwisata,
 
 h. pesanggrahan,
 
 i. rumah penginapan/rumah kos/ guesthouse/ bungalo/ resort/ cottage/ homestay,
 
-j. tempvat tinggal pribadi yang difungsikan sebagai hotel, dan
+j. tempat tinggal pribadi yang difungsikan sebagai hotel, dan
 
 k. glamping.
 
 (2) Yang dikecualikan dari Jasa Perhotelan sebagaimana dimaksud pada ayat (1) meliputi:
 
-a. jasa tempat tinggal asrama yang diselenggarakan oleh pemerintah
-
-| pusat atau Pemerintah Daerah,
+a. jasa tempat tinggal asrama yang diselenggarakan oleh pemerintah pusat atau Pemerintah Daerah,
 
 b. jasa tempat tinggal di rumah sakit, asrama perawat, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis,
-
-Asa KA
 
 c. jasa tempat tinggal di pusat pendidikan atau kegiatan keagamaan,
 
@@ -390,7 +358,7 @@ e. jasa persewaan ruangan untuk diusahakan di hotel.
 
 (1) Jasa Parkir sebagaimana dimaksud dalam Pasal 3 huruf d meliputi:
 
-a. penyediaan atau penyeienggaraan tempat parkir, dan/atau
+a. penyediaan atau penyelenggaraan tempat parkir, dan/atau
 
 b. pelayanan memarkirkan kendaraan (parkir valet).
 
@@ -426,9 +394,9 @@ g. pacuan kuda dan perlombaan kendaraan bermotor,
 
 h. permainan ketangkasan,
 
-i. olahraga permainan dengan menggunakan tempat/ruang dan/atau peralatan dan perlengkapan untuk olahraga dan kebugaran, . Asisten eka # : 9
+i. olahraga permainan dengan menggunakan tempat/ruang dan/atau peralatan dan perlengkapan untuk olahraga dan kebugaran,
 
-j. rekreasi wahana air, vahana ekologi, wahana pendidikan, wahana budaya, wahana salju, wahana permainan, pemancingan, agrowisata, dan kebun binatang,
+j. rekreasi wahana air, wahana ekologi, wahana pendidikan, wahana budaya, wahana salju, wahana permainan, pemancingan, agrowisata, dan kebun binatang,
 
 k. panti pijat dan pijat refleksi, dan . diskotik, karaoke, kelab malam, bar, dan mandi uap /spa.
 
@@ -450,7 +418,7 @@ c. penyelenggara jasa kesenian dan hiburan yang bertujuan untuk amal.
 
 ### Pasal 10
 
-(1) Saat terutang Pajak ditetapkan pada saat orang pribadi atau Badan telah memenuhi syarat subjektif dan objektif atas suatu jenis Pajak dalam 1 (satu) kurun waktu tertentu dalam masa Pajak, dalam tahun Pajak, atau dalam bagian tahuan Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajakan daerah.
+(1) Saat terutang Pajak ditetapkan pada saat orang pribadi atau Badan telah memenuhi syarat subjektif dan objektif atas suatu jenis Pajak dalam 1 (satu) kurun waktu tertentu dalam masa Pajak, dalam tahun Pajak, atau dalam bagian tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajakan daerah.
 
 (2) Masa Pajak sebagaimana dimaksud pada ayat (1) merupakan jangka waktu yang menjadi dasar bagi Wajib Pajak untuk menghitung, menyetor, dan melaporkan Pajak yang terutang untuk jenis Pajak yang dipungut berdasarkan perhitungan sendiri Wajib Pajak.
 
@@ -474,15 +442,11 @@ e. PBJT atas Jasa Kesenian dan Hiburan ditetapkan untuk jangka waktu yang lamany
 
 (1) Jenis PBJT merupakan Jenis Pajak yang dipungut berdasarkan perhitungan sendiri oleh Wajib Pajak.
 
-(2) Wajib Pajak untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri oleh Wajib Pajak sebagaimana dimaksud pada ayat (1) wajib mendaftarkan diri dan/atau objek Pajaknya kepada
-
-Bupati atau Pejabat yang ditunjuk dengan menggunakan Formulir
-
-Pendaftaran, dengan dilampiri:
+(2) Wajib Pajak untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri oleh Wajib Pajak sebagaimana dimaksud pada ayat (1) wajib mendaftarkan diri dan/atau objek Pajaknya kepada Bupati atau Pejabat yang ditunjuk dengan menggunakan Formulir Pendaftaran, dengan dilampiri:
 
 a. fotokopi Kartu Tanda Penduduk (KTP) bagi Warga Negara Indonesia (WNI) atau Pasport bagi Warga Negara Asing (WNA),
 
-b. fotokopi akta pendirian perusahaan bagi yang berbadan hukumy,
+b. fotokopi akta pendirian perusahaan bagi yang berbadan hukum,
 
 c. Surat Kuasa bagi Wajib Pajak yang diwakili oleh kuasanya apabila berhalangan dengan disertai fotokopi Kartu Tanda Penduduk (KTP) dari pemberi kuasa,
 
@@ -492,35 +456,27 @@ e. fotokopi Surat Izin Usaha atau Surat Keterangan Usaha (jika diperlukan).
 
 (3) Pendaftaran sebagaimana dimaksud pada ayat (2) dilaksanakan paling lama 7 (tujuh) hari sejak dibuka dan/atau digunakan, Formulir Pendaftaran wajib diambil sendiri oleh Wajib Pajak untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri.
 
-417 AIA
+(4) Formulir Pendaftaran dan lampirannya sebagaimana dimaksud pada ayat (2) wajib diisi dengan benar, jelas, lengkap dan ditandatangani oleh Wajib Pajak, dan disampaikan kepada Bupati atau Pejabat vang ditunjuk, paling lama 7 (tujuh) hari sejak tanggal diterima.
 
-4) Formulir Pendaftaran dan lampirannya sebagaimana dimaksud pada ayat (2) wajib diisi dengan benar, jelas, lengkap dan ditandatangani oleh Wajib Pajak, dan disampaikan kepada Bupati atau Pejabat vang ditunjuk, paling lama 7 (tujuh) hari sejak tanggal diterima.
-
-(S5) Pendaftaran sebagaimana dimaksud pada ayat (2), kepada Wajib Pajak diberikan satu NPWPD yang diterbitkan oleh Pejabat yang ditunjuk.
+(5) Pendaftaran sebagaimana dimaksud pada ayat (2), kepada Wajib Pajak diberikan satu NPWPD yang diterbitkan oleh Pejabat yang ditunjuk.
 
 (6) Selain diberikan NPWPD sebagaimana dimaksud pada ayat (5), Pejabat yang ditunjuk dapat menerbitkan nomor registrasi, NOPD, atau jenis penomoran lain yang dipersamakan untuk jenis Pajak yang memerlukan pendaftaran objek Pajak.
 
 (7) NPWPD sebagaimana dimaksud pada ayat (5) untuk orang pribadi dihubungkan dengan nomor induk kependudukan.
 
-(8) NPWPD sebagaimana dimaksud pada ayat (S5) untuk Badan dihubungkan dengan nomor induk berusaha.
+(8) NPWPD sebagaimana dimaksud pada ayat (5) untuk Badan dihubungkan dengan nomor induk berusaha.
 
-(9) Ketentuan sebagaimana dimaksud pada ayat (2) dikecualikan untuk Wajib Pajak penyedia Tenaga Listrik yang berstatus badan usaha milik pegara atau badan usaha milik daerah.
+(9) Ketentuan sebagaimana dimaksud pada ayat (2) dikecualikan untuk Wajib Pajak penyedia Tenaga Listrik yang berstatus badan usaha milik negara atau badan usaha milik daerah.
 
 (10) Dalam hal Wajib Pajak sebagaimana dimaksud pada ayat (2) tidak mendaftarkan diri, Bupati atau Pejabat yang ditunjuk mendaftarkan secara jabatan dan menerbitkan NPWPD berdasarkan data yang diperoleh atau dimiliki oleh Daerah.
 
 (11) Penetapan sebagai Wajib Pajak secara jabatan sebagaimana dimaksud pada ayat (10) dilaksanakan paling lambat 30 (tiga puluh) hari sejak diterbitkannya surat teguran.
 
-(12) Dalam hal orang pribadi atau Badan sebagaimana dimaksud pada ayat (10) tidak mendaftar arau menolak untuk didaftar secara jabatan oleh Bupati atau Pejabat yang ditunjuk menjadi wajib pajak, maka dikenakan sanksi sesuai dengan ketentuan peraturan perundangundangan.
+(12) Dalam hal orang pribadi atau Badan sebagaimana dimaksud pada ayat (10) tidak mendaftar atau menolak untuk didaftar secara jabatan oleh Bupati atau Pejabat yang ditunjuk menjadi wajib pajak, maka dikenakan sanksi sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 12
 
-Bupati atau Pejabat yang ditunjuk melakukan pendataan Wajib Pajak dan
-
-Objek Pajak untuk mempercleh, melengkapi, dan menatausahakan data
-
-Objek Pajak dan/atau Wajib Pajak, termasuk informasi geografis objek
-
-Pajak untuk keperluan administrasi perpajakan daerah. 7 AIA
+Bupati atau Pejabat yang ditunjuk melakukan pendataan Wajib Pajak dan Objek Pajak untuk memperoleh, melengkapi, dan menatausahakan data Objek Pajak dan/atau Wajib Pajak, termasuk informasi geografis objek Pajak untuk keperluan administrasi perpajakan daerah.
 
 ### Pasal 13
 
@@ -540,13 +496,11 @@ b. tidak sedang mengajukan upaya hukum berupa keberatan, banding, gugatan, atau 
 
 ### Pasal 14
 
-(-) Setiap Wajib Pajak wajib menghitung, memperhitungkan, membayar, dan melaporkan sendiri pajak yang terutang dengan menggunakan SPTPD. .
+(1) Setiap Wajib Pajak wajib menghitung, memperhitungkan, membayar, dan melaporkan sendiri pajak yang terutang dengan menggunakan SPTPD. .
 
 (2) SPTPD sebagaimana dimaksud pada ayat (1) harus diisi dengan jelas, benar, lengkap, dan ditandatangani oleh Wajib Pajak atau Kuasanya.
 
-(3) SPTPD sebagaimana dimaksud pada ayat (2), diambil sendiri oleh Wajib Pajak atau disampaikan oleh Perangkat Daerah ke Wajib Pajak
-
-3 untuk selanjutnya dikembalikan ke Perangkat Daerah sebagai dasar perhitungan. Hukum | marewpa | Asisten | Sekda g Ata
+(3) SPTPD sebagaimana dimaksud pada ayat (2), diambil sendiri oleh Wajib Pajak atau disampaikan oleh Perangkat Daerah ke Wajib Pajak untuk selanjutnya dikembalikan ke Perangkat Daerah sebagai dasar perhitungan.
 
 ### Pasal 15
 
@@ -566,17 +520,13 @@ e. jumlah pembayaran yang diterima oleh penyelenggara Jasa Kesenian dan Hiburan 
 
 (3) Dalam hal tidak terdapat pembayaran sebagaimana dimaksud pada ayat (1), dasar pengenaan PBJT dihitung berdasarkan harga jual barang dan jasa sejenis yang berlaku di wilayah Daerah yang bersangkutan.
 
-(4) Dalam hal Pemerintah Daerah menetapkan kebijakan pengendalian penggunaan kendaraan pribadi dan tingkat kemacetan, khusus untuk
+(4) Dalam hal Pemerintah Daerah menetapkan kebijakan pengendalian penggunaan kendaraan pribadi dan tingkat kemacetan, khusus untuk PBJT atas Jasa Parkir sebagaimana dimaksud pada ayat (1) huruf d, Pemerintah Daerah dapat menetapkan dasar pengenaan sebesar tarif parkir sebelum dikenakan potongan.
 
-PBJT atas Jasa Parkir sebagaimana dimaksud pada ayat (1) huruf d, Pemerintah Daerah dapat menetapkan dasar pengenaan sebesar tarif parkir sebelum dikenakan potongan.
-
-(5) Terhadap penyelenggaraan tempat parkir tanpa dipungut bayaran ' (parkir cuma-cuma), sebagaimana dimaksud pada ayat (1) huruf d, maka dasar pengenaan PBJT atas Jasa Parkir akan ditetapkan dengan
-
-Taksasi.
+(5) Terhadap penyelenggaraan tempat parkir tanpa dipungut bayaran (parkir cuma-cuma), sebagaimana dimaksud pada ayat (1) huruf d, maka dasar pengenaan PBJT atas Jasa Parkir akan ditetapkan dengan Taksasi.
 
 ### Pasal 16
 
-(1) Dalam hal pengenaan pajak sebagaimana dimaksud dalam Pasal 15 ayat (1) huruf d, setiap Wajib Pajak wajib menghitung sendiri jumlah pajak yang terutang dengan menggunakan SPTPD atau dokumen lain yang dipersamakan. Bi7
+(1) Dalam hal pengenaan pajak sebagaimana dimaksud dalam Pasal 15 ayat (1) huruf d, setiap Wajib Pajak wajib menghitung sendiri jumlah pajak yang terutang dengan menggunakan SPTPD atau dokumen lain yang dipersamakan.
 
 (2) Dalam hal jumlah pembayaran atau yang harusnya dibayar yang dilaporkan sebagaimana dimaksud pada ayat (1) dianggap tidak wajar, maka dasar perhitungan nilai pajak yang harus dibayar dapat menggunakan Standar Minimal Nilai Sewa Satuan Ruang Parkir.
 
@@ -586,21 +536,32 @@ Taksasi.
 
 ### Pasal 17
 
-(1) Terhadap penyelenggaraan terapat parkir tanpa dipungut bayaran (parkir cuma-cuma), maka perhitungan nilai omsetnya yaitu dilaksanakan dengan cara taksasi dengan mengka'kulasikan faktorfaktor daya tampung lahan parkir, waktu penyelenggaraan, lama penggantian (turn overj dan tarif parkir perjenis kendaraan.
+(1) Terhadap penyelenggaraan tempat parkir tanpa dipungut bayaran (parkir cuma-cuma), maka perhitungan nilai omsetnya yaitu dilaksanakan dengan cara taksasi dengan mengkalkulasikan faktor-faktor daya tampung lahan parkir, waktu penyelenggaraan, lama penggantian (turn over) dan tarif parkir perjenis kendaraan.
 
 (2) Ketentuan tarif parkir perjenis kendaraan sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran yang merupakan bagian tak terpisahkan dari Peraturan Bupati ini.
 
 (3) Kalkulasi dari faktor-faktor sebagaimana dimaksud pada ayat (1) dapat dilihat pada contoh berikut:
 
-Perhitungan rata-rata omset parkir perhari Daya Jumlah Tarif Omset SOE Lahan Over Perbari (Rp) Perhari (Rp-) Jumlah Omset Rata-rata perhari Ket. Jumlah kendaraan perhari - Daya Tampung Lahan x (Waktu/Turn Over Perhitungan Pajak Parkir: - Jumlah Omset Rata-rata perhari Rp. 2.760.000 - Jumlah hari pelayanan (hari) . 20 - Jumlah Omset Perbulan (OB) Rp. 55.200.000 . - Pajak Parkir (1076) x OB Rp. 5.520.000 Kabat | phsempa. | Asisten | Sekda pg 7 lh
+Perhitungan rata-rata omset parkir perhari
+
+| | Daya Tampung Lahan | Turn Over | Waktu | Jumlah Kendaraan Perhari | Tarif Parkir (Rp.) | Omset Rata-Rata Perhari (Rp.) |
+|---|---|---|---|---|---|---|
+| Mobil | 10 buah | 1 jam | 12 jam | 120 | 3.000 | 360.000 |
+| Motor | 50 buah | 30 menit | 12 jam | 1.200 | 2.000 | 2.400.000 |
+| Jumlah Omset Rata-rata perhari | | | | | | 2.760.000 |
+
+Ket. Jumlah kendaraan perhari = Daya Tampung Lahan x (Waktu/Turn Over Perhitungan Pajak Parkir:
+
+- Jumlah Omset Rata-rata perhari Rp. 2.760.000
+- Jumlah hari pelayanan (hari) 20
+- Jumlah Omset Perbulan (OB) Rp. 55.200.000
+- Pajak Parkir (10%) x OB Rp. 5.520.000
 
 (4) Hasil taksasi sebagaimana dimaksud pada ayat (1) menjadi acuan penetapan dasar pengenaan pajak parkir sebagaimana dimaksud "dalam Pasal 15 ayat (5).
 
 ### Pasal 18
 
-(1) Nilai jual Tenaga Listrik sebagaimana dimaksud dalam Pasal 15 ayat
-
-(1) huruf b ditetapkan untuk:
+(1) Nilai jual Tenaga Listrik sebagaimana dimaksud dalam Pasal 15 ayat (1) huruf b ditetapkan untuk:
 
 a. Tenaga Listrik yang berasal dari sumber lain dengan pembayaran: dan
 
@@ -622,31 +583,25 @@ c. jangka waktu pemakaian listrik, dan
 
 d. harga satuan listrik yang berlaku di wilayah Daerah yang bersangkutan.
 
-(4) Berdasarkan nilai jual Tenaga Listrik yang ditetapkan untuk Tenaga Listrik yang berasal dari sumber lain dengan pembayaran sebagaimana dimaksud pada ayat (1! huruf a dan ketentuan tidak terdapat pembayaran sebagaimana dimaksud dalam Pasal 15 ayat (3), penyedia Tenaga Listrik sebagai Wajib Pajak melakukan penghitungan dan Pemungutan PBJT atas Tenaga Listrik untuk penggunaan Tenaga
-
-Listrik yang dijual atau diserahkan.
+(4) Berdasarkan nilai jual Tenaga Listrik yang ditetapkan untuk Tenaga Listrik yang berasal dari sumber lain dengan pembayaran sebagaimana dimaksud pada ayat (1! huruf a dan ketentuan tidak terdapat pembayaran sebagaimana dimaksud dalam Pasal 15 ayat (3), penyedia Tenaga Listrik sebagai Wajib Pajak melakukan penghitungan dan Pemungutan PBJT atas Tenaga Listrik untuk penggunaan Tenaga Listrik yang dijual atau diserahkan.
 
 ### Pasal 19
 
-(1) Tarif PBJT ditetapkan sebesar 1096 (sepuluh persen).
+(1) Tarif PBJT ditetapkan sebesar 10% (sepuluh persen).
 
-(2) Khusus tarif PBJT atas jasa hiburan pada diskotik, karaoke, kelab malam, bar, dan mandi uap/ spa ditetapkan 40Yo (empat puluh persen).
-
-sa $ | ALA
+(2) Khusus tarif PBJT atas jasa hiburan pada diskotik, karaoke, kelab malam, bar, dan mandi uap/ spa ditetapkan 40% (empat puluh persen).
 
 (3) Khusus tarif PBJT atas Tenaga Listrik untuk:
 
-a. konsumsi Tenaga Listrik dari sumber lain oleh industri, pertambangan minyak bumi dan gas alam, ditetapkan sebesar 3Y6 (tiga persen), dan
+a. konsumsi Tenaga Listrik dari sumber lain oleh industri, pertambangan minyak bumi dan gas alam, ditetapkan sebesar 3% (tiga persen), dan
 
-b. konsumsi Tenaga Listrik yang dihasilkan sendiri, ditetapkan sebesar 1,5x6 (satu koma lima persen).
+b. konsumsi Tenaga Listrik yang dihasilkan sendiri, ditetapkan sebesar 1,5% (satu koma lima persen).
 
 (4) Penghitungan PBJT atas Tenaga Listrik sebagaimana dimaksud pada ayat (3) huruf a dan huruf b tercantum dalam Lampiran yang merupakan bagian tak terpisahkan dari Peraturan Bupati ini.
 
 ### Pasal 20
 
-(4) Besaran pokok PBJT yang terutang dihitung dengan cara mengalikan dasar pengenaan PBJT sebagaimana dimaksud dalam Pasal 15 ayat
-
-(1) dengan tarif PBJT yang telah ditetapkan sebagaimana dimaksud dalam Pasal 19 ayat (Ll), ayat (2) dan ayat (3).
+(1) Besaran pokok PBJT yang terutang dihitung dengan cara mengalikan dasar pengenaan PBJT sebagaimana dimaksud dalam Pasal 15 ayat (1) dengan tarif PBJT yang telah ditetapkan sebagaimana dimaksud dalam Pasal 19 ayat (1), ayat (2) dan ayat (3).
 
 (2) Saat terutang PBJT ditetapkan pada saat:
 
@@ -656,7 +611,7 @@ b. konsumsi atau pembayaran atas Tenaga Listrik untuk PBJT atas Tenaga Listrik,
 
 c. pembayaran atau penyerahan atas jasa perhotelan untuk PBJT atas Jasa Perhotelan,
 
-d. pembayaran atau peryerahan atas jasa penyediaan tempat parkir untuk PBJT atas Jasa Parkir, dan
+d. pembayaran atau penyerahan atas jasa penyediaan tempat parkir untuk PBJT atas Jasa Parkir, dan
 
 e. pembayaran atau penyerahan atas jasa kesenian dan hiburan untuk PBJT atas Jasa Kesenian dan Hiburan.
 
@@ -664,11 +619,7 @@ e. pembayaran atau penyerahan atas jasa kesenian dan hiburan untuk PBJT atas Jas
 
 ### Pasal 21
 
-(1) Saat terutang PBJT atas Tenaga Listrik sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf b ditetapkan pada saat orang pribadi atau Badan telah memenuhi syarat subjektif dan syarat objektif PBJT atas
-
-. Tenaga Listrik dalam 1 (satu) kurun waktu tertentu dalam Masa Pajak, dalam Tahun Pajak atau bagian Tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan mengenai perpajakan Daerah.
-
-817 LA
+(1) Saat terutang PBJT atas Tenaga Listrik sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf b ditetapkan pada saat orang pribadi atau Badan telah memenuhi syarat subjektif dan syarat objektif PBJT atas Tenaga Listrik dalam 1 (satu) kurun waktu tertentu dalam Masa Pajak, dalam Tahun Pajak atau bagian Tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan mengenai perpajakan Daerah.
 
 (2) Masa Pajak sebagaimana dimaksud pada ayat (1) ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender, yang menjadi dasar Wajib Pajak untuk menghitung, menyetor, dan melaporkan PBJT atas Tenaga Listrik yang terutang.
 
@@ -700,11 +651,9 @@ d. apabila SKPDKB/SKPDKBT yang diterbitkan tidak atau kurang bayar dan dikenakan
 
 (2) SPTPD sebagaimana dimaksud pada ayat (1) wajib diisi dan ditandatangani oleh Wajib Pajak atau kuasanya dengan jelas, lengkap dan benar.
 
-Kabag Kepala | keatas au an aka
-
 (3) Pengisian SPTPD sebagaimana dimaksud pada ayat (2) dilakukan dengan tulisan yang jelas agar tidak menimbulkan salah tafsir yang dapat merugikan Daerah maupun Wajib Pajak sendiri.
 
-4) Pengisian SPTPD dengan menyertakan seluruh lampiran dan bukti pendukung yang disyaratkan.
+(4) Pengisian SPTPD dengan menyertakan seluruh lampiran dan bukti pendukung yang disyaratkan.
 
 (5) Pengisian data pada SPTPD harus sesuai dengan keadaan yang sebenarnya.
 
@@ -714,9 +663,7 @@ Kabag Kepala | keatas au an aka
 
 (2) SPTPD Pajak Jasa Kesenian dan Hiburan harus disampaikan kepada Bupati paling lambat 7 (tujuh) hari kerja setelah berakhirnya masa pajak dengan dilampirkan SSPD sebagai bukti pelunasan Pajak atau keterangan dan/atau dokumen pendukung.
 
-(3) Khusus Pajak Jasa Kesenian dan Hiburan insidentil, penyampaian SPTPD harus disampaikan kepada Bupati paling lambat 3 (tiga) hari kerja setelah Kesenian dan Hiburan insidentil diselenggarakan dengan
-
-(dilampirkan SSPD sebagai bukti pelunasan Pajak atau keterangan dan/atau dokumen pendukung.
+(3) Khusus Pajak Jasa Kesenian dan Hiburan insidentil, penyampaian SPTPD harus disampaikan kepada Bupati paling lambat 3 (tiga) hari kerja setelah Kesenian dan Hiburan insidentil diselenggarakan dengan dilampirkan SSPD sebagai bukti pelunasan Pajak atau keterangan dan/atau dokumen pendukung.
 
 (4) Khusus untuk PLN wajib membuat daftar rekapitulasi rekening listrik dengan dilampiri rekening listrik pelanggan yang berfungsi sebagai SPTPD.
 
@@ -728,11 +675,10 @@ Kabag Kepala | keatas au an aka
 
 (2) Dalam hal Wajib Pajak perorangan, SPTPD harus ditandatangani oleh pemilik atau pengelola.
 
-(3) Dalam hal SPTPD diisi dan ditandatangani uvleh bukan Wajib Pajak, harus dilampiri Surat Kuasa.
+(3) Dalam hal SPTPD diisi dan ditandatangani oleh bukan Wajib Pajak, harus dilampiri Surat Kuasa.
 
-sah
 
-4) Pengisian SPTPD oleh Wajib Pajak yang diwajibkan melakukan pembukuan atau pencatatan harus dilengkapi dengan laporan keuangan atau bukti pendukung lainnya, sebagaimana dimaksud dalam Pasal 25 ayat (2), ayat (3) dan ayat (4).
+(4) Pengisian SPTPD oleh Wajib Pajak yang diwajibkan melakukan pembukuan atau pencatatan harus dilengkapi dengan laporan keuangan atau bukti pendukung lainnya, sebagaimana dimaksud dalam Pasal 25 ayat (2), ayat (3) dan ayat (4).
 
 (5) SPTPD dapat disampaikan melalui mekanisme online SPTPD.
 
@@ -746,7 +692,7 @@ sah
 
 (3) ' STPD sebagaimana dimaksud pada ayat (1) diisi oleh Petugas yang melaksanakan kegiatan penagihan pajak daerah berdasarkan catatan pembukuan Badan Pajak dan Retribusi Daerah.
 
-4) STPD sebagaimana dimaksud pada ayat (1), disampaikan kepada wajib pajak oleh Badan Pendapatan Daerah dengan disertai bukti tanda terima.
+(4) STPD sebagaimana dimaksud pada ayat (1), disampaikan kepada wajib pajak oleh Badan Pendapatan Daerah dengan disertai bukti tanda terima.
 
 **Bagian Ketiga - SKPDKB**
 
@@ -762,11 +708,9 @@ c. jika kewajiban mengisi SPTPD tidak dipenuhi, dan pajak yang terutang dihitung
 
 (2) SKPDKB sebagaimana dimaksud pada ayat (1), diisi oleh Petugas yang melaksanakan kegiatan penetapan pajak daerah berdasarkan Hasil Pemeriksaan Pajak Daerah.
 
-(3) Hasil Pemeriksaan sebagaimana dimaksud pada ayat (2) dituangkan dalam Berita Acara Hasil Pemeriksaan yang ditandatangani oleh
+(3) Hasil Pemeriksaan sebagaimana dimaksud pada ayat (2) dituangkan dalam Berita Acara Hasil Pemeriksaan yang ditandatangani oleh Petugas Pemeriksa Pajak dan Wajib Pajak.
 
-Petugas Pemeriksa Pajak dan Wajib Pajak. Kabag Kepala — | acicte Hala Hukum | BApENDA | Asisten | Sekda 8.
-
-4) Penyampaian SKPDKB sebagaimana dimaksud pada ayat (1) kepada wajib pajak dilakukan oleh Badan Pendapatan Daerah dengan tanda terima yang ditandatangani oleh Wajib Pajak atau Kuasanya.
+(4) Penyampaian SKPDKB sebagaimana dimaksud pada ayat (1) kepada wajib pajak dilakukan oleh Badan Pendapatan Daerah dengan tanda terima yang ditandatangani oleh Wajib Pajak atau Kuasanya.
 
 **Bagian Keempat - SKPDKBT**
 
@@ -784,7 +728,7 @@ Petugas Pemeriksa Pajak dan Wajib Pajak. Kabag Kepala — | acicte Hala Hukum | 
 
 ### Pasal 30
 
-(1) Berdasarkan hasil pemeriksaan, Badan Pendapatan Daerah dapat menerbitkan SKPDLB apabila jumiah kredit pajak atau jumlah pajak yang dibayar lebih besar dari jumlah pajak terutang atau telah dilakukan pembayaran pajak yang tidak seharusnya terutang.
+(1) Berdasarkan hasil pemeriksaan, Badan Pendapatan Daerah dapat menerbitkan SKPDLB apabila jumlah kredit pajak atau jumlah pajak yang dibayar lebih besar dari jumlah pajak terutang atau telah dilakukan pembayaran pajak yang tidak seharusnya terutang.
 
 (2) SKPDLB sebagaimana dimaksud pada ayat (1), diisi oleh Petugas yang melaksanakan kegiatan penetapan pajak daerah berdasarkan Berita Acara Hasil Pemeriksaan Pajak Daerah.
 
@@ -794,7 +738,7 @@ Petugas Pemeriksa Pajak dan Wajib Pajak. Kabag Kepala — | acicte Hala Hukum | 
 
 ### Pasal 31
 
-(1) SKPDN diterbitkan oleh Badan Pendapatan Daerah. Kabag Kepala : BAPENDA Asisten | Sekda ) Ih Al
+(1) SKPDN diterbitkan oleh Badan Pendapatan Daerah.
 
 (2) SKPDN sebagaimana dimaksud pada ayat (1) diterbitkan dalam hal jumlah pajak terutang hasil pemeriksaan sama besarnya dengan jumlah kredit pajak atau pajak tidak terutang dan tidak ada kredit pajak.
 
@@ -824,9 +768,7 @@ Petugas Pemeriksa Pajak dan Wajib Pajak. Kabag Kepala — | acicte Hala Hukum | 
 
 (4) Pembayaran dan penyetoran Pajak dilakukan melalui sistem pembayaran berbasis elektronik.
 
-' (5) Dalam hal sistem pembayaran berbasis elektronik belum tersedia, pembayaran atau penyetoran Pajak dapat dilakukan melalui pembayaran tunai.
-
-Kabag Kepala |.
+(5) Dalam hal sistem pembayaran berbasis elektronik belum tersedia, pembayaran atau penyetoran Pajak dapat dilakukan melalui pembayaran tunai.
 
 (6) Pembayaran Pajak yang menggunakan warkat seperti bilyet giro atau cek, atau dengan cara transfer, baru dapat dinyatakan sah apabila telah dibukukan pada Bendahara Penerimaan pada Badan Pendapatan Daerah.
 
@@ -838,31 +780,33 @@ Kabag Kepala |.
 
 (1) Pemungutan Pajak dilarang diborongkan.
 
-(2) Fembayaran Pajak harus dilakukan sekaligus atau lunas.
+(2) Pembayaran Pajak harus dilakukan sekaligus atau lunas.
 
 (3) Pembayaran PBJT dilaksanakan paling lama 10 (sepuluh) hari kerja setelah berakhirnya Masa Pajak.
 
-(4) Dalam hal Wajib Pajak tidak membayar atau menyetor tepat nada waktunya sebagaimana dimaksud pada ayat (3), Wajib Pajak dikenakan sanksi administratif berupa bunga sebesar 14» (satu persen) per bulan dari Pajak terutang yang tidak atau kurang dibayar atau disetor, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan dan ditagih dengan menggunakan STPD.
+(4) Dalam hal Wajib Pajak tidak membayar atau menyetor tepat pada waktunya sebagaimana dimaksud pada ayat (3), Wajib Pajak dikenakan sanksi administratif berupa bunga sebesar 1% (satu persen) per bulan dari Pajak terutang yang tidak atau kurang dibayar atau disetor, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan dan ditagih dengan menggunakan STPD.
 
 ### Pasal 35
 
 (1) Pemerintah melakukan pembayaran PBJT atas Tenaga Listrik yang dikonsumsi oleh Wajib Pajak tertentu.
 
-(2) Wajib Pajak tertentu sebagaimana dimaksud pada ayat (1) merupakan Wajib Pajak yang telah menandatangani perjanjian dengan Pemerintah di bidang kegiatan usaha hulu minyak dan gas bumi atau di bidang kegiatan usaha lain, yang Pajak terutangnya dibebaskan dan ditanggung oleh Pemerintah. ' ..(8) Pembayaran PBJT atas Tenaga Listrik oleh Pemerintah sebagaimana dimaksud pada ayat (1) berasal dari jumlah tertentu yang merupakan bagian penerimaan negara atas setiap kegiatan usaha yang dilakukan oleh Wajib Pajak. og) AA
+(2) Wajib Pajak tertentu sebagaimana dimaksud pada ayat (1) merupakan Wajib Pajak yang telah menandatangani perjanjian dengan Pemerintah di bidang kegiatan usaha hulu minyak dan gas bumi atau di bidang kegiatan usaha lain, yang Pajak terutangnya dibebaskan dan ditanggung oleh Pemerintah.
+
+(3) Pembayaran PBJT atas Tenaga Listrik oleh Pemerintah sebagaimana dimaksud pada ayat (1) berasal dari jumlah tertentu yang merupakan bagian penerimaan negara atas setiap kegiatan usaha yang dilakukan oleh Wajib Pajak.
 
 (4) Pembayaran PBJT atas Tenaga Listrik sebagaimana dimaksud pada ayat (1) dilakukan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara.
 
 ### Pasal 36
 
-(l) Pajak yang masih harus dibayar dalam SKPDKB, SKPDKBT, STPD, Surat Keputusan Pembetulan, Surat Keputusan Keberatan, dan Putusan Banding, yang menyebabkan jumlah Pajak yang harus dibayar bertambah, harus dilunasi dalam jangka waktu paling lama 1 (satu) bulan sejak tanggal diterbitkan.
+(1) Pajak yang masih harus dibayar dalam SKPDKB, SKPDKBT, STPD, Surat Keputusan Pembetulan, Surat Keputusan Keberatan, dan Putusan Banding, yang menyebabkan jumlah Pajak yang harus dibayar bertambah, harus dilunasi dalam jangka waktu paling lama 1 (satu) bulan sejak tanggal diterbitkan.
 
-(2) Wajib Pajak dapat mengajukan permohonan secara tertulis kepada Bupati untuk mengansur atau menunda pembayaran Pajak yang masih harus dibayar sebagaimana dimaksud pada ayat (1) yang selanjutnya disebut utang Pajak, dalam hal Wajib Pajak mengalami kesulitan likuiditas atau mengalami keadaan diluar kekuasaannya (kahar) sehingga Wajib Pajak tidak akan mampu memenuhi kewajiban Pajak pada waktunya.
+(2) Wajib Pajak dapat mengajukan permohonan secara tertulis kepada Bupati untuk mengangsur atau menunda pembayaran Pajak yang masih harus dibayar sebagaimana dimaksud pada ayat (1) yang selanjutnya disebut utang Pajak, dalam hal Wajib Pajak mengalami kesulitan likuiditas atau mengalami keadaan diluar kekuasaannya (kahar) sehingga Wajib Pajak tidak akan mampu memenuhi kewajiban Pajak pada waktunya.
 
 (3) Permohonan Wajib Pajak sebagaimana dimaksud pada ayat (2), harus diajukan secara tertulis paling lambat 9 (sembilan) hari kerja sebelum jatuh tempo pembayaran, disertai dengan alasan dan bukti yang mendukung permohonan, seperti:
 
 a. jumlah pembayaran pajak yang dimohon untuk diangsur, masa angsuran, dan besarnya angsuran, atau
 
-b. jumiah pembayaran Pajak yang dimohon untuk ditunda aan jangka waktu penundaan.
+b. jumlah pembayaran Pajak yang dimohon untuk ditunda dan jangka waktu penundaan.
 
 (4) Jangka waktu sebagaimana dimaksud pada ayat (3) dapat dilampaui dalam hal Wajib Pajak mengalami keadaan diluar kekuasaan (kahar) Wajib Pajak sehingga Wajib Pajak tidak mampu melunasi utang Pajak tepat pada waktunya.
 
@@ -871,8 +815,6 @@ b. jumiah pembayaran Pajak yang dimohon untuk ditunda aan jangka waktu penundaan
 (6) Surat permohonan sebagaimana dimaksud pada ayat (3) diteliti untuk dijadikan bahan dalam Persetujuan Perjanjian Angsuran dan/atau Surat Persetujuan Penundaan Pembayaran.
 
 (7) Berdasarkan hasil penelitian sebagaimana dimaksud pada ayat (6) Bupati atau Pejabat yang ditunjuk dapat menyetujui atau menolak permohonan angsuran dan/atau penundaan pembayaran Pajak.
-
-tw PA
 
 ## BAB VIII - TATA CARA PEMBUKUAN, PELAPORAN, PENELITIAN SPTPD, DAN PEMERIKSAAN PAJAK
 
@@ -892,7 +834,7 @@ tw PA
 
 ### Pasal 39
 
-(4) Wajib Pajak wajib melakukan pembukuan atau pencatatan secara elektronik dan/atau non elektronik, dengan ketentuan:
+(1) Wajib Pajak wajib melakukan pembukuan atau pencatatan secara elektronik dan/atau non elektronik, dengan ketentuan:
 
 a. bagi Wajib Pajak yang melakukan usaha dengan peredaran usaha paling sedikit Rp4.800.000.000,00 (empat miliar delapan ratus juta rupiah) per tahun wajib menyelenggarakan pembukuan, dan
 
@@ -900,19 +842,17 @@ b. bagi Wajib Pajak yang melakukan usaha dengan peredaran usaha kurang dari Rp4.
 
 (2) Pembukuan atau pencatatan harus diselenggarakan dengan memperhatikan itikad baik dan mencerminkan keadaan atau kegiatan usaha yang sebenarnya.
 
-(3) Pembukuan sebagaimana dimaksud pada ayat (1) dilakukan dengan berpedoman pada ketentuan peraturan perundarg-undangan yang terkait dengan pembukuan:
-
-Kepala . - BAPENDA Asisten | Sekda
+(3) Pembukuan sebagaimana dimaksud pada ayat (1) dilakukan dengan berpedoman pada ketentuan peraturan perundang-undangan yang terkait dengan pembukuan:
 
 (4) Pencatatan sebagaimana dimaksud pada ayat (1) huruf b paling sedikit memuat data peredaran usaha atau data penjualan beserta bukti pendukungnya agar dapat digunakan untuk menghitung besaran Pajak yang terutang.
 
-(S5) Buku, catatan, dan dokumen yang menjadi dasar pembukuan atau pencatatan, termasuk dokumen hasil pengolahan data dari pembukuan yang dikelola secara elektronik atau secara program aplikasi online sebagaimana dimaksud pada ayat (1) wajib disimpan selama 5 (lima) tahun di Indonesia di tempat kegiatan atau tempat tinggal Wajib Pajak orang pribadi, atau di tempat kedudukan Wajib Pajak Badan.
+(5) Buku, catatan, dan dokumen yang menjadi dasar pembukuan atau pencatatan, termasuk dokumen hasil pengolahan data dari pembukuan yang dikelola secara elektronik atau secara program aplikasi online sebagaimana dimaksud pada ayat (1) wajib disimpan selama 5 (lima) tahun di Indonesia di tempat kegiatan atau tempat tinggal Wajib Pajak orang pribadi, atau di tempat kedudukan Wajib Pajak Badan.
 
 ### Pasal 40
 
 (1) Pelaporan SPTPD dilakukan setiap masa Pajak.
 
-(2) Masa Pajak sebagaimana dimaksud pada ayat (1) merupakan jangka waktu yang menjadi dasar bagi Wajib Pajak untuk menghi'ung, membayar atau menyetor ke kas Daerah dan melaporkan Pajak yang terutang untuk jenis Pajak yang dipungut berdasarkan perhitungan sendiri Wajib Pajak dalam SPTPD.
+(2) Masa Pajak sebagaimana dimaksud pada ayat (1) merupakan jangka waktu yang menjadi dasar bagi Wajib Pajak untuk menghitung, membayar atau menyetor ke kas Daerah dan melaporkan Pajak yang terutang untuk jenis Pajak yang dipungut berdasarkan perhitungan sendiri Wajib Pajak dalam SPTPD.
 
 (3) Masa Pajak yang menjadi dasar bagi Wajib Pajak untuk menghitung, menyetor, dan melaporkan Pajak yang terutang untuk jenis Pajak yang dipungut berdasarkan perhitungan sendiri Wajib Pajak sebagaimana dimaksud pada ayat (2), ditetapkan:
 
@@ -922,25 +862,19 @@ b. SPTPD Pajak Jasa Kesenian dan Hiburan harus disampaikan Ta kepada Bupati pali
 
 c. Khusus Pajak Jasa Kesenian dan Hiburan insidentil, penyampaian SPTPD harus disampaikan kepada Bupati paling lambat 3 (tiga) hari kerja setelah Kesenian dan Hiburan insidentil diselenggarakan dengan dilampirkan SSPD sebagai bukti pelunasan Pajak atau keterangan dan/atau dokumen pendukung.
 
-SEE #7 Ala
-
 d. Khusus untuk PLN wajib membuat daftar rekapitulasi rekening listrik dengan dilampiri rekening listrik pelanggan yang berfungsi sebagai SPTPD.
 
 (4) Masa Pajak sebagaimana dimaksud pada ayat (2), Bupati menetapkan jangka waktu penyampaian SPTPD sebagaimana dimaksud pada ayat (l) ditetapkan paling lama 15 (lima belas) hari kerja setelah berakhirnya masa Pajak.
 
-(S5) Masa Pajak PBJT atas Tenaga Listrik sebagaimana dimaksud dalam Pasal 21 ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender, yang menjadi dasar Wajib Pajak untuk menghitung, menyetor, dan melaporkan PBJT atas Tenaga Listrik yang terutang.
+(5) Masa Pajak PBJT atas Tenaga Listrik sebagaimana dimaksud dalam Pasal 21 ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender, yang menjadi dasar Wajib Pajak untuk menghitung, menyetor, dan melaporkan PBJT atas Tenaga Listrik yang terutang.
 
 ### Pasal 41
 
 (1) Wajib Pajak yang tidak melaksanakan kewajiban pelaporan SPTPD sebagaimana dimaksud dalam Pasal 40 ayat (1) dapat dikenakan sanksi administratif berupa denda.
 
-(2) Sanksi administratif berupa denda sebagaimana dimaksud pada ayat
+(2) Sanksi administratif berupa denda sebagaimana dimaksud pada ayat (1) ditetapkan dengan STPD dalam satuan rupiah untuk setiap SPTPD.
 
-(1) ditetapkan dengan STPD dalam satuan rupiah untuk setiap SPTPD.
-
-(3) Sanksi administratif berupa denda sebagaimana dimaksud pada ayat
-
-(2) tidak dikenakan jika Wajib Pajak mengalami keadaan kahar (force majeure).
+(3) Sanksi administratif berupa denda sebagaimana dimaksud pada ayat (2) tidak dikenakan jika Wajib Pajak mengalami keadaan kahar (force majeure).
 
 (4) Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa denda sebesar Rp5.000,00 (lima ribu rupiah) untuk setiap SPTPD per masa pajak untuk jangka waktu paling lama 24 (dua puluh empat) bulan dihitung sejak saat terutangnya pajak serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
@@ -950,11 +884,9 @@ d. Khusus untuk PLN wajib membuat daftar rekapitulasi rekening listrik dengan di
 
 (2) Dalam hal pembetulan SPTPD sebagaimana dimaksud pada ayat (1) menyatakan lebih bayar, pembetulan SPTPD harus disampaikan paling lama 2 (dua) tahun sebelum kedaluwarsa penetapan.
 
-(3) Dalam hal pembetulan SPTPD sebagaimana dimaksud pada ayat (1) 1lenyatakan kurang bayar, pembetulan SPTPD dilampiri dengan SSPD sebagai bukti pelunasan Pajak yang kurang dibayar dan sanksi administratif berupa bunga.
+(3) Dalam hal pembetulan SPTPD sebagaimana dimaksud pada ayat (1) menyatakan kurang bayar, pembetulan SPTPD dilampiri dengan SSPD sebagai bukti pelunasan Pajak yang kurang dibayar dan sanksi administratif berupa bunga.
 
-“13 AN
-
-(4) Atas pembetulan SPTPD yang menyatakan kurang bayar sebagaimana dimaksud pada ayat (3) dikenai sanksi administratif berupa bunga sebesar 1o (satu persen) per bulan dari jumlah Pajak yang kurang dibayar, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+(4) Atas pembetulan SPTPD yang menyatakan kurang bayar sebagaimana dimaksud pada ayat (3) dikenai sanksi administratif berupa bunga sebesar 1% (satu persen) per bulan dari jumlah Pajak yang kurang dibayar, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
 (5) “Atas kurang bayar sebagaimana dimaksud pada ayat (3), tidak dikenakan sanksi administratif berupa kenaikan pokok Pajak yang kurang dibayar.
 
@@ -972,17 +904,13 @@ c. kebenaran penulisan, penghitungan, dan/atau administrasi lainnya.
 
 (3) Apabila berdasarkan hasil Penelitian atas SPTPD sebagaimana dimaksud pada ayat (2) diketahui terdapat Pajak terutang yang tidak atau kurang dibayar, Bupati atau Pejabat yang ditunjuk menerbitkan STPD.
 
-(4) STPD sebagaimana dimaksud pada ayat (3) mencantumkan jumlah kekurangan pembayaran Pajak terutang ditambah sanksi administratif berupa bunga sebesar 1Y6 (satu persen) per bulan dari jumlah Pajak yang kurang dibayar, dihitung sejak saat terutangnya Pajak atau berakhirnya masa Pajak, bagian Tahun Pajak, atau Tahun Pajak, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+(4) STPD sebagaimana dimaksud pada ayat (3) mencantumkan jumlah kekurangan pembayaran Pajak terutang ditambah sanksi administratif berupa bunga sebesar 1% (satu persen) per bulan dari jumlah Pajak yang kurang dibayar, dihitung sejak saat terutangnya Pajak atau berakhirnya masa Pajak, bagian Tahun Pajak, atau Tahun Pajak, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
 (5) Dalam hal hasil Penelitian atas SPTPD sebagaimana dimaksud pada ayat (2) terdapat indikasi penyampaian informasi yang tidak sebenarnya dari Wajib Pajak, Bupati atau Pejabat yang ditunjuk dapat melakukan Pemeriksaan.
 
-pepala x | Asisten | Sekda Nana Mana
-
 ### Pasal 44
 
-(1) Bupati atau Pejabat yang ditunjuk berwenang melakukan
-
-Pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Pajak dan tujuan lain dalam rangka melaksanakan ketentuan pera'uran perundang-undangan mengenai Pajak.
+(1) Bupati atau Pejabat yang ditunjuk berwenang melakukan Pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Pajak dan tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undangan mengenai Pajak.
 
 (2) Pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan sebagaimana dimaksud pada ayat (1) dilakukan dalam hal:
 
@@ -998,7 +926,7 @@ a. pemberian NPWPD secara jabatan,
 
 b. penghapusan NPWPD:
 
-c. penvelesaian permohonan keberatan Wajib Pajak,
+c. penyelesaian permohonan keberatan Wajib Pajak,
 
 d. pencocokan data dan/atau alat keterangan, dan/atau
 
@@ -1008,19 +936,11 @@ e. pemeriksaan dalam rangka Penagihan Pajak.
 
 ### Pasal 45
 
-(1) Dalam pelaksanaan Pemeriksaan sebagaimana dimaksud dalam Pasal
+(1) Dalam pelaksanaan Pemeriksaan sebagaimana dimaksud dalam Pasal 44, kewajiban Wajib Pajak yang diperiksa meliputi:
 
-44, kewajiban Wajib Pajak yang diperiksa meliputi:
+a. memperlihatkan dan/atau meminjamkan buku atau catatan, dokumen yang menjadi dasarnya, dan dokumen lain yang berhubungan dengan objek Pajak yang terutang,
 
-a. memperlihatkan dan/atau meminjamkan buku atau catatan, dokumen yang menjadi dasarnya, dan dokumen lain yang
-
-— berhubungan dengan objek Pajak yang terutang,
-
-b. memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu dan memberikan bantuan guna kelancaran Pemeriksaan, dan/atau
-
-Ti meriberikan keterangan yang diperlukan.
-
-Bp Ip A
+b. memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu dan memberikan bantuan guna kelancaran Pemeriksaan, dan/atau memberikan keterangan yang diperlukan.
 
 (2) Dalam pelaksanaan Pemeriksaan sebagaimana dimaksud dalam Pasal 44, hak Wajib Pajak yang diperiksa paling sedikit:
 
@@ -1028,9 +948,9 @@ a. meminta identitas dan bukti penugasan Pemeriksaan kepada pemeriksa,
 
 b. meminta kepada pemeriksa untuk memberikan penjelasan tentang alasan dan tujuan Pemeriksaan, dan
 
-'c. menerima dokumen hasil Pemeriksaan serta memberikan tanggapan atau penjelasan atas hasil Pemeriksaan.
+c. menerima dokumen hasil Pemeriksaan serta memberikan tanggapan atau penjelasan atas hasil Pemeriksaan.
 
-(3) Dalam hal Wajib Pajak tidak memenuhi kewaiiban sebagaimana dimaksud pada ayat (1), besarnya Pajak terutang ditetapkan secara jabatan
+(3) Dalam hal Wajib Pajak tidak memenuhi kewajiban sebagaimana dimaksud pada ayat (1), besarnya Pajak terutang ditetapkan secara jabatan
 
 ## BAB IX - SURAT KETETAPAN PAJAK DAN SURAT TAGIHAN PAJAK
 
@@ -1038,7 +958,7 @@ b. meminta kepada pemeriksa untuk memberikan penjelasan tentang alasan dan tujua
 
 ### Pasal 46
 
-(4) Dalam jangka waktu paling lama S5 (lima) tahun sejak terutangnya Pajak, Bupati atau Pejabat yang ditunjuk dapat menerbitkan SKPDKB, SKPDKBT, SKPDLB, dau SKPDN untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri oleh Wajib Pajak.
+(1) Dalam jangka waktu paling lama 5 (lima) tahun sejak terutangnya Pajak, Bupati atau Pejabat yang ditunjuk dapat menerbitkan SKPDKB, SKPDKBT, SKPDLB, dau SKPDN untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri oleh Wajib Pajak.
 
 (2) SKPDKB sebagaimana dimaksud pada ayat (1) diterbitkan dalam hal terdapat Pajak yang kurang atau tidak dibayar berdasarkan:
 
@@ -1052,29 +972,23 @@ k. penghitungan secara jabatan karena:
 
 (3) SKPDKBT sebagaimana dimaksud pada ayat (1) diterbitkan dalam hal ditemukan data baru dan/atau data yang semula belum terungkap dan menyebabkan penambahan Pajak yang terutang setelah dilakukan pemeriksaan dalam rangka penerbitan SKPDKBT.
 
-AA , Sing
-
 (4) SKPDN sebagaimana dimaksud pada ayat (1) diterbitkan dalam hal jumlah Pajak yang terutang sama besarnya dengan jumlah kredit Pajak atau Pajak tidak terutang dan tidak ada kredit Pajak.
 
 ### Pasal 47
 
-Dalam hal berdasarkan hasil Pemeriksaan sebagaimana dimaksud dalam
-
-Pasal 44 terdapat kelebihan pembayaran Pajak, Bupati atau Pejabat yang ditunjuk menerbitkan SKPDLB.
+Dalam hal berdasarkan hasil Pemeriksaan sebagaimana dimaksud dalam Pasal 44 terdapat kelebihan pembayaran Pajak, Bupati atau Pejabat yang ditunjuk menerbitkan SKPDLB.
 
 ### Pasal 48
 
 (1) Jumlah kekurangan Pajak yang terutang dalam SKPDKB sebagaimana dimaksud dalam Pasal 46 ayat (2) huruf a dikenakan sanksi administratif berupa bunga 1,8” (satu koma delapan persen! per bulan dari Pajak yang kurang atau terlambat dibayar, dihitung sejak saat terutangnya Pajak atau berakhirnya masa Pajak, bagian Tahun Pajak, atau Tahun Pajak sampai dengan diterbitkannya SKPDKB, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
-(2) Jumlah Pajak yang terutang dalam SKPDKB sebagaimana dimaksud dalam Pasal 46 ayat (2) huruf b dikenakan sanksi administratif berupa bunga sebesar 2,2 (dua koma dua persen) per bulan dari Pajak yang kurang atau terlambat dibayar, dihitung sejak saat terutangnya Pajak atau berakhirnya masa Pajak, bagian Tahun Pajak, atau Tahun Pajak sampai dengan diterbitkannya SKPDKB, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan, sejak saat terutangnya Pajak ditambahkan dengan sanksi administratif berupa:
+(2) Jumlah Pajak yang terutang dalam SKPDKB sebagaimana dimaksud dalam Pasal 46 ayat (2) huruf b dikenakan sanksi administratif berupa bunga sebesar 2,2% (dua koma dua persen) per bulan dari Pajak yang kurang atau terlambat dibayar, dihitung sejak saat terutangnya Pajak atau berakhirnya masa Pajak, bagian Tahun Pajak, atau Tahun Pajak sampai dengan diterbitkannya SKPDKB, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan, sejak saat terutangnya Pajak ditambahkan dengan sanksi administratif berupa:
 
-a. kenaikan sebesar 50Y6 (lima puluh persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak sebagaimana dimaksud dalam Pasal 2 ayat (2), atau
+a. kenaikan sebesar 50% (lima puluh persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak sebagaimana dimaksud dalam Pasal 2 ayat (2), atau
 
-b. kenaikan sebesar 2546 (dua puluh lima persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak selain yang dimaksud pada huruf a.
+b. kenaikan sebesar 25% (dua puluh lima persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak selain yang dimaksud pada huruf a.
 
-(3) Jumlah kekurangan Pajak yang terutang dalam  SKPDKBT sebagaimana dimaksud dalam Pasal 46 ayat (3) dikenakan sanksi administratif berupa kenaikan sebesar 100”o (seratus persen) dari jumlah kekurangan Pajak yang terutang dalam SKPDKBT.
-
-£ AA
+(3) Jumlah kekurangan Pajak yang terutang dalam  SKPDKBT sebagaimana dimaksud dalam Pasal 46 ayat (3) dikenakan sanksi administratif berupa kenaikan sebesar 100% (seratus persen) dari jumlah kekurangan Pajak yang terutang dalam SKPDKBT.
 
 (4) SKPDKB sebagaimana dimaksud pada ayat (1) dan ayat (2), dan SKPDKBT sebagaimana dimaksud pada ayat (3) wajib dilunasi dalam jangka waktu paling lama 1 (satu) bulan sejak tanggal diterbitkan.
 
@@ -1094,9 +1008,9 @@ c. SKPDKB, SKPDKBT, Surat Keputusan Pembetulan, Surat Keputusan Keberatan, dan P
 
 d. Wajib Pajak dikenakan sanksi administratif berupa bunga dan/atau denda.
 
-(3) Jumlah tagihan dalam STPD sebagaimana dimaksud pada ayat (2) huruf a dan huruf b, berupa pokok Pajak yang kurang dibayar ditambah dengan pemberian sanksi administratif berupa kanga sebesar 1”b (satu persen) per bulan dihitung dari Pajak yang kurang dibayar, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya Pajak serta bagiar dari bulan dihitung penuh 1 (satu) bulan.
+(3) Jumlah tagihan dalam STPD sebagaimana dimaksud pada ayat (2) huruf a dan huruf b, berupa pokok Pajak yang kurang dibayar ditambah dengan pemberian sanksi administratif berupa bunga sebesar 1% (satu persen) per bulan dihitung dari Pajak yang kurang dibayar, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya Pajak serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
-(4) Jumlah tagihan dalam STPD sebagaimana dimaksud pada ayat (2) huruf c, dikenakan sanksi administiatif berupa bunga sebesar 0,6Yo (nol koma enam persen) per bulan dari Pajak yang tidak atau kurang dibayar, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya Pajak serta bagian dari bulan dihitung penuh 1 (satu) bulan. una AJA
+(4) Jumlah tagihan dalam STPD sebagaimana dimaksud pada ayat (2) huruf c, dikenakan sanksi administratif berupa bunga sebesar 0,6% (nol koma enam persen) per bulan dari Pajak yang tidak atau kurang dibayar, dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya Pajak serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
 ## BAB X - TATA CARA PENAGIHAN PAJAK
 
@@ -1106,17 +1020,15 @@ d. Wajib Pajak dikenakan sanksi administratif berupa bunga dan/atau denda.
 
 (2) Atas dasar Penagihan Pajak sebagaimana dimaksud pada ayat (1) yang belum jatuh tempo pembayaran atau pelunasan, dapat dilakukan imbauan.
 
-(3) Dalam hal dasar Penagihan Pajak sebagaimana dimaksud pada ayat
-
-(1) tidak dilunasi setelah jatuh tempo pembayaran atau pelunasan, dapat dilakukan Penagihan Pajak sesuai dengan ketentuan peraturan perundang-undangan dibidang perpajakan.
+(3) Dalam hal dasar Penagihan Pajak sebagaimana dimaksud pada ayat (1) tidak dilunasi setelah jatuh tempo pembayaran atau pelunasan, dapat dilakukan Penagihan Pajak sesuai dengan ketentuan peraturan perundang-undangan dibidang perpajakan.
 
 ### Pasal 51
 
-(l) Dalam rangka melaksanakan Penagihan sebagaimana dimaksud dalam Pasal 50 ayat (3) Bupati berwenang menunjuk Pejabat untuk melaksanakan Penagihan.
+(1) Dalam rangka melaksanakan Penagihan sebagaimana dimaksud dalam Pasal 50 ayat (3) Bupati berwenang menunjuk Pejabat untuk melaksanakan Penagihan.
 
-(2) , Pejabat sebagaimana dimaksud pada ayat (1) berwenang:
+(2) Pejabat sebagaimana dimaksud pada ayat (1) berwenang:
 
-a. mengangkat dan memberhentikan Jurusita Pajak,dan
+a. mengangkat dan memberhentikan Jurusita Pajak, dan
 
 b. menerbitkan:
 
@@ -1136,13 +1048,15 @@ b. menerbitkan:
 
 8. surat penentuan harga limit,
 
-9. pembatalan lelang, dan 10.surat lain yang diperlukan untuk pelaksanaan Penagihan Pajak. Y
+9. pembatalan lelang, dan
+
+10. surat lain yang diperlukan untuk pelaksanaan Penagihan Pajak.
 
 (3) Jurusita Pajak melaksanakan Penagihan Pajak sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 52
 
-(1) Tata cata Penagihan Pajak sebagaimana dimaksud dalam Paszl S1 ayat (3) diawali dengan penerbitan Surat Teguran.
+(1) Tata cata Penagihan Pajak sebagaimana dimaksud dalam Pasal 51 ayat (3) diawali dengan penerbitan Surat Teguran.
 
 (2) Surat Teguran sebagai awal tindakan pelaksanaan Penagihan Pajak sebagaimana dimaksud pada ayat (1), dikeluarkan 7 (tujuh) hari kerja sejak saat jatuh tempo pembayaran.
 
@@ -1150,7 +1064,7 @@ b. menerbitkan:
 
 (4) “Dalam hal batas waktu sebagaimana dimaksud pada ayat (3) terlampaui dan Wajib Pajak belum melunasi Utang Pajaknya, terhadap penanggung Pajak diterbitkan Surat Paksa.
 
-(5) Khusus untuk penanggung Paiak yang telah disetujui untuk mengargsur atau menunda pembayaran Pajak, atas Utang Pajak yzr.g diangsur atau ditunda pembayarannya tidak diterbitkan Surat Teguran.
+(5) Khusus untuk penanggung Pajak yang telah disetujui untuk mengangsur atau menunda pembayaran Pajak, atas Utang Pajak yang diangsur atau ditunda pembayarannya tidak diterbitkan Surat Teguran.
 
 (6) Dalam hal kewajiban pembayaran Utang Pajak sebagaimana dimaksud pada ayat (5) belum dilakukan setelah melewati jatuh tempo, diterbitkan Surat Paksa tanpa didahului Surat Teguran.
 
@@ -1158,11 +1072,11 @@ b. menerbitkan:
 
 (8) Dalam hal penanggung Pajak tidak melunasi Utang Pajaknya setelah melewati jangka waktu 2 x 24 jam (dua kali dua puluh empat jam) sejak Surat Paksa disampaikan sebagaimana dimaksud pada ayat (7), diterbitkan surat perintah melaksanakan penyitaan.
 
-(9) Dalam hal Utang Pajak dan/atau biaya Penagihan Pajak tidak dilunasi setelah dilaksanakan penyitaan berdasarkan surat perintah melaksanakan penyitaan sebagaimana dimaksud pada ayat (8), Pejabat sebagaimana dimaksud dalam Pasal S1 ayat (2) berwenang melaksanakan penjualan secara lelang melalui kantor lelang terhadap barang yang disita.
+(9) Dalam hal Utang Pajak dan/atau biaya Penagihan Pajak tidak dilunasi setelah dilaksanakan penyitaan berdasarkan surat perintah melaksanakan penyitaan sebagaimana dimaksud pada ayat (8), Pejabat sebagaimana dimaksud dalam Pasal 51 ayat (2) berwenang melaksanakan penjualan secara lelang melalui kantor lelang terhadap barang yang disita.
 
-(10) Penjualan secara lelang dilaksanakan paling cepat setelah jangka waktu 14 (empat belas) hari terhitung sejak pengumuman lelang. r17 Ala
+(10) Penjualan secara lelang dilaksanakan paling cepat setelah jangka waktu 14 (empat belas) hari terhitung sejak pengumuman lelang.
 
-(41) Pengumuman lelang sebagaimana dimaksud pada ayat (10), dilaksanakan paling cepat setelah lewat jangka waktu 14 (empat belas) hari terhitung sejak dilakukan penyitaan.
+(11) Pengumuman lelang sebagaimana dimaksud pada ayat (10), dilaksanakan paling cepat setelah lewat jangka waktu 14 (empat belas) hari terhitung sejak dilakukan penyitaan.
 
 (12) Hasil lelang dipergunakan terlebih dahulu untuk membayar biaya “Penagihan Pajak dan sisanya untuk membayar Utang Pajak yang belum dibayar.
 
@@ -1170,7 +1084,7 @@ b. menerbitkan:
 
 Jurusita Pajak melaksanakan Penagihan Seketika dan Sekaligus berdasarkan surat perintah Penagihan Seketika dan Sekaligus apabila:
 
-a. penanggung Pajak akan meninggalkan Indonesia untuk selamalamanya atau berniat untuk itu,
+a. penanggung Pajak akan meninggalkan Indonesia untuk selama-lamanya atau berniat untuk itu,
 
 b. penanggung Pajak memindahtangankan barang yang dimiliki atau yang dikuasai dalam rangka menghentikan atau mengecilkan kegiatan usahanya atau pekerjaan yang dilakukannya di Indonesia,
 
@@ -1182,13 +1096,11 @@ e. terjadi penyitaan atas barang penanggung Pajak oleh pihak ketiga atau terdapa
 
 ### Pasal 54
 
-(l) Dalam rangkaian proses pelaksanaan Penagihan, terhadap penanggung Pajak yang tidak menunjukan itikad baik melunasi ''tang Pajak dan memiliki Utang Pajak dengan besaran minimal tertentu, dapat dilakukan pencegahan dan/atau penyanderaan.
+(1) Dalam rangkaian proses pelaksanaan Penagihan, terhadap penanggung Pajak yang tidak menunjukan itikad baik melunasi ''tang Pajak dan memiliki Utang Pajak dengan besaran minimal tertentu, dapat dilakukan pencegahan dan/atau penyanderaan.
 
 (2) Pencegahan dan/atau penyanderaan terhadap penanggung Pajak tidak mengakibatkan hapusnya Utang Pajak atau terhentinya pelaksanaan Penagihan Pajak.
 
-(3) Pencegahan dan/atau penyanderaan sebagaimana dimaksud pada ayat (1) dan ayat (2) diisikan sesuai dengan ketentuan peraturan perundang-undangan.
-
-pipa
+(3) Pencegahan dan/atau penyanderaan sebagaimana dimaksud pada ayat (1) dan ayat (2) dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ## BAB XI - KEDALUWARSA PENAGIHAN PAJAK
 
@@ -1206,7 +1118,7 @@ b. ada pengakuan Utang Pajak dari Wajib Pajak, baik langsung maupun tidak langsu
 
 (4) Pengakuan Utang Pajak secara langsung sebagaimana dimaksud pada ayat (2) huruf b merupakan Wajib Pajak dengan kesadarannya menyatakan masih mempunyai Utang Pajak dan belum melunasinya kepada Pemerintah Daerah.
 
-(5) Pengakuan Utang Pajak secara tidak langsung sebagaimana dimaksud pada ayat (2) huruf b dapat diketahui dari pengajuan permohonan angsuran atau penundaan pembayaran dan permohonan kebe-atan oleh Wajib Pajak.
+(5) Pengakuan Utang Pajak secara tidak langsung sebagaimana dimaksud pada ayat (2) huruf b dapat diketahui dari pengajuan permohonan angsuran atau penundaan pembayaran dan permohonan keberatan oleh Wajib Pajak.
 
 (6) Dalam hal terdapat pengakuan Utang Pajak dari Wajib Pajak sebagaimana dimaksud pada ayat (2) huruf b, kedaluwarsa Penagihan dihitung sejak tanggal pengakuan.
 
@@ -1214,7 +1126,7 @@ b. ada pengakuan Utang Pajak dari Wajib Pajak, baik langsung maupun tidak langsu
 
 ### Pasal 56
 
-1) Wajib Pajak dapat mengajukan permohonan kepada Bupati untuk mendapatkan pengurangan atau penghapusan sanksi administratif. #
+(1) Wajib Pajak dapat mengajukan permohonan kepada Bupati untuk mendapatkan pengurangan atau penghapusan sanksi administratif. #
 
 (2) Pengurangan atau penghapusan sanksi administratif sebagaimana dimaksud pada ayat (1), dalam hal sanksi tersebut dikenakan karena kekhilafan Wajib Pajak atau bukan karena kesalahannya.
 
@@ -1228,13 +1140,13 @@ c. Wajib Pajak telah melunasi pajak yang terutang, dan
 
 d. surat permohonan ditandatangani oleh Wajib Pajak, dan dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permohonan tersebut harus dilampiri dengan surat kuasa khusus.
 
-4) Permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pada ayat (3), tidak dapat dipertimbangkan.
+(4) Permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pada ayat (3), tidak dapat dipertimbangkan.
 
 ### Pasal 57
 
-: (4) Wajib Pajak dapat mengajukan permohonan kepada Bupati untuk mendapatkan pengurangan atau pembatalan ketetapan pajak.
+(1) Wajib Pajak dapat mengajukan permohonan kepada Bupati untuk mendapatkan pengurangan atau pembatalan ketetapan pajak.
 
-(2) Pengurangan atau pernbatalan ketetapan pajak sebagaimana dimaksud pada ayat (1), dalam hal:
+(2) Pengurangan atau pembatalan ketetapan pajak sebagaimana dimaksud pada ayat (1), dalam hal:
 
 a. mengurangkan atau membatalkan SKPDKB, SKPDKBT atau STPD, SKPDN atau SKPDLB yang tidak benar,
 
@@ -1250,17 +1162,15 @@ a. 1 (satu) permohonan untuk 1 (satu) pengurangan atau pembatalan sebagaimana di
 
 b. diajukan secara tertulis dalam Bahasa Indonesia,
 
-AA
-
 c. mencantumkan jumlah pajak yang seharusnya terutang menurut penghitungan Wajib Pajak disertai dengan alasan yang mendukung permohonannya, dan
 
-d. dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permohonan harus dilampiri dengan surat Luasa khusus.
+d. dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permohonan harus dilampiri dengan surat kuasa khusus.
 
 (4) permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pada ayat (3) tidak dapat dipertimbangkan.
 
 ### Pasal 58
 
-(l) Permohonan sebagaimana dimaksud dalam Pasal 57, hanya dapat diajukan oleh Wajib Pajak 1 (satu) kali.
+(1) Permohonan sebagaimana dimaksud dalam Pasal 57, hanya dapat diajukan oleh Wajib Pajak 1 (satu) kali.
 
 (2) Bupati atau Pejabat yang ditunjuk harus memberi keputusan atas permohonan sebagaimana dimaksud pada ayat (1) dalam jangka waktu paling lama 6 (enam) bulan sejak tanggal diterimanya permohonan.
 
@@ -1272,13 +1182,9 @@ d. dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permo
 
 (1) Keputusan sebagaimana dimaksud dalam Pasal 58 ayat (2) dapat berupa mengabulkan sebagian atau seluruhnya atau menolak permohonan Wajib Pajak.
 
-(2) Wajib Pajak dapat meminta secara tertulis kepada Bupati mengenai alasan yang menjadi dasar untuk menolak atau mengabulkan sebagian permohonan Wajib Pajak sebagaimana dimaksud pada ayat
+(2) Wajib Pajak dapat meminta secara tertulis kepada Bupati mengenai alasan yang menjadi dasar untuk menolak atau mengabulkan sebagian permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1).
 
-(4).
-
-(3) bupati atau Pejabat yang ditunjuk memberikan keterangan secara tertulis atas permintaan Wajib Pajak sebagaimana dimaksud pada ayat (2). Kaka | akitipa | an | e-ata EP ANA
-
-.
+(3) Bupati atau Pejabat yang ditunjuk memberikan keterangan secara tertulis atas permintaan Wajib Pajak sebagaimana dimaksud pada ayat (2).
 
 ## BAB XIII - PENGEMBALIAN KELEBIHAN PEMBAYARAN PAJAK
 
@@ -1288,7 +1194,7 @@ d. dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permo
 
 (2) Bupati atau Pejabat yang ditunjuk dalam jangka waktu paling lama 12 .(dua belas) bulan sejak diterimanya permohonan pengembalian kelebihan pembayaran Pajak sebagaimana dimaksud pada ayat (1), harus memberikan keputusan.
 
-(3) Apabila jangka waktu sebagaimana dimaksud pada ayat (2) telah dilampaui dan Bupati atau Pejabat yang ditunjuk tidak memberikan suatu keputusan, permohonan pengembalian pimbayaran Pajak dianggap dikabulkan dan SKPDLB harus diterbitkan dalam jangka » waktu paling lama 1 (satu) bulan.
+(3) Apabila jangka waktu sebagaimana dimaksud pada ayat (2) telah dilampaui dan Bupati atau Pejabat yang ditunjuk tidak memberikan suatu keputusan, permohonan pengembalian pembayaran Pajak dianggap dikabulkan dan SKPDLB harus diterbitkan dalam jangka » waktu paling lama 1 (satu) bulan.
 
 (4) Permohonan pengembalian kelebihan pembayaran pajak diajukan dengan ketentuan:
 
@@ -1306,13 +1212,13 @@ f. mencantumkan alasan permohonan pengembalian pembayaran pajak yang seharusnya 
 
 (5) Terhadap permohonan pengembalian kelebihan pembayaran Pajak, Bupati atau Pejabat yang ditunjuk wajib melakukan penelitian atau pemeriksaan.
 
-(6) Dalam hal hasil penelitian atau pemeriksaan membuktikan adanya kelebihan pembayaran Pajak, maka diterbitkan Surat Keputusan Pengembalian Kelebihan Pembayaran Pajak sebagaimana dimaksud pada ayat (2). 13 AIA)
+(6) Dalam hal hasil penelitian atau pemeriksaan membuktikan adanya kelebihan pembayaran Pajak, maka diterbitkan Surat Keputusan Pengembalian Kelebihan Pembayaran Pajak sebagaimana dimaksud pada ayat (2).
 
 (7) Apabila Wajib Pajak mempunyai Utang Pajak lainnya, kelebihan pembayaran Pajak sebagaimana dimaksud pada ayat (1) langsung diperhitungkan untuk melunasi terlebih dahulu Utang Pajak lainnya.
 
-(8) Pengembalian kelebihan pembayaran Pajak sebagaimana dimaksud pada ayat (1) dilakukan calam jangka waktu paling lama 2 (dua) bulan sejak diterbitkannya SKPDLB.
+(8) Pengembalian kelebihan pembayaran Pajak sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 2 (dua) bulan sejak diterbitkannya SKPDLB.
 
-(9) Jika pengembalian kelebihan pembayaran Pajak dilakukan setelah lewat 2 (dua) bulan, Bupati atau Pejabat yang ditunjuk memberikan imbalan bunga sebesar 0,66 (nol koma enam persen) per bulan atas keterlambatan pembayaran kelebihan pembayaran Pajak.
+(9) Jika pengembalian kelebihan pembayaran Pajak dilakukan setelah lewat 2 (dua) bulan, Bupati atau Pejabat yang ditunjuk memberikan imbalan bunga sebesar 0,6% (nol koma enam persen) per bulan atas keterlambatan pembayaran kelebihan pembayaran Pajak.
 
 ## BAB XIV - PENGHAPUSAN PIUTANG PAJAK
 
@@ -1332,7 +1238,7 @@ b. Wajib Pajak dan/atau penanggung Pajak tidak mempunyai harta kekayaan lagi,
 
 c. Wajib Pajak dan/atau penanggung Pajak dinyatakan pailit berdasarkan keputusan pengadilan, dan dari hasil penjualan harta tidak mencukupi untuk melunasi utang pajaknya,
 
-d. Wajib Pajak dan/atau penanggung Pajak tidak dapat diketemukan lagi karena: 5 | A.A ng
+d. Wajib Pajak dan/atau penanggung Pajak tidak dapat diketemukan lagi karena:
 
 1. Wajib Pajak dan/atau penanggung Pajak pindah alamat dan tidak mungkin diketemukan lagi berdasarkan surat keterangan dari kepala lingkungan/dusun mengetahui kepala desa/lurah,
 
@@ -1356,7 +1262,7 @@ d. sebab lain sesuai hasil penelitian.
 
 (2) Penghapusan piutang pajak sebagaimana dimaksud pada ayat (1) ditetapkan dengan keputusan Bupati.
 
-(3) Keputusan Bupati sebagaimana dimaksud pada ayat (2) ditetapkan dengan mempertimbangkan: BEN AA
+(3) Keputusan Bupati sebagaimana dimaksud pada ayat (2) ditetapkan dengan mempertimbangkan:
 
 a. pelaksanaan Penagihan sebagaimana dimaksud dalam Pasal 51 ayat (3) sampai dengan batas waktu kedaluwarsa Penagihan sebagaimana dimaksud dalam Pasal 55 ayat (1): dan
 
@@ -1398,11 +1304,11 @@ b. Bupati dengan persetujuan Dewan Perwakilan Rakyat Daerah untuk jumlah lebih d
 
 ### Pasal 64
 
-(1) Kepala Badan Pendapatan Daerah setelah menerima Daftar Usulan Penghapusan Piutang Pajak segera membentuk Tim untuk melakukan penelitian terhadap Wajib Pajak yang ada dalam daftar usulan Penghapusan Piutang Pajak. APA
+(1) Kepala Badan Pendapatan Daerah setelah menerima Daftar Usulan Penghapusan Piutang Pajak segera membentuk Tim untuk melakukan penelitian terhadap Wajib Pajak yang ada dalam daftar usulan Penghapusan Piutang Pajak.
 
 (2) Pembentukan Tim sebagaimana dimaksud pada ayat (1) diatur dalam Keputusan Bupati.
 
-(8) Dalam hal tertentu Kepala Badan Pendapatan Daerah dapat memerintahkan Penyidik Pegawai Negeri Sipil Pajak Daerah dan Jurusita Pajak untuk mendampingi Tim.
+(3) Dalam hal tertentu Kepala Badan Pendapatan Daerah dapat memerintahkan Penyidik Pegawai Negeri Sipil Pajak Daerah dan Jurusita Pajak untuk mendampingi Tim.
 
 (4) Dalam melaksanakan tugasnya Tim wajib membawa Surat Perintah yang diterbitkan Badan Pendapatan Daerah.
 
@@ -1430,7 +1336,7 @@ d. wabah penyakit, dan/atau
 
 c. keadaan lain berdasarkan pertimbangan Bupati.
 
-(5) Keberatan dapat diajukan apabila Wajib Pajak telah membayar Pajak terutang dalam SKPD, SKPDKB, SKPDKBT, SKPDLB, SKPDN, atau pemotongan atau Pemungutan oleh pihak ketiga paling sedikit sejumlah yang telah disetujui Wajib Pajak. Pa 1 maros Sekda A1
+(5) Keberatan dapat diajukan apabila Wajib Pajak telah membayar Pajak terutang dalam SKPD, SKPDKB, SKPDKBT, SKPDLB, SKPDN, atau pemotongan atau Pemungutan oleh pihak ketiga paling sedikit sejumlah yang telah disetujui Wajib Pajak.
 
 (6) Keberatan yang tidak memenuhi persyaratan sebagaimana dimaksud pada ayat (1), ayat (2), avat (3), dan ayat (5) tidak dianggap sebagai surat keberatan.
 
@@ -1438,11 +1344,11 @@ c. keadaan lain berdasarkan pertimbangan Bupati.
 
 (8) Dalam hal Wajib Pajak mengajukan keberatan, jangka waktu pelunasan atas jumlah Pajak yang belum dibayar pada saat pengajuan keberatan tertangguh sampai dengan 1 (satu) bulan sejak tanggal penerbitan Surat Keputusan Keberatan.
 
-(9) Jumlah Pajak yang beluin dibayar pada saat pengajuan permohonan keberatan sebagaimana dimaksud pada ayat (8) tidak termasuk sebagai Utang Pajak sebagaimana dimaksud dalam Pasal 50 ayat (1).
+(9) Jumlah Pajak yang belum dibayar pada saat pengajuan permohonan keberatan sebagaimana dimaksud pada ayat (8) tidak termasuk sebagai Utang Pajak sebagaimana dimaksud dalam Pasal 50 ayat (1).
 
 ### Pasal 66
 
-(l) Bupati atau Pejabat yang ditunjuk harus memberi keputusan atas keberatan yang diajukan oleh Wajib Pajak sebagaimana dimaksud dalam Pasal 65 ayat (1).
+(1) Bupati atau Pejabat yang ditunjuk harus memberi keputusan atas keberatan yang diajukan oleh Wajib Pajak sebagaimana dimaksud dalam Pasal 65 ayat (1).
 
 (2) Dalam memberikan keputusan sebagaimana dimaksud pada ayat (1), Bupati atau Pejabat yang ditunjuk dapat melakukan Pemeriksaan.
 
@@ -1454,7 +1360,7 @@ a. menerima seluruhnya dalam hal Pajak terutang berdasarkan hasil penelitian sam
 
 b. menerima sebagian dalam hal Pajak terutang berdasarkan hasil penelitian sebagian sama dengan Pajak yang terutang menurut Wajib Pajak,
 
-c. menolak dalam hal Pajak terutang berdasarkan hasil penriitian sama “.dengan ' Pajak yang terutang dalam surat keputusan/ketetapan yang diajukan keberatan oleh Wajib Pajak, atau An Len pg) ATA PP
+c. menolak dalam hal Pajak terutang berdasarkan hasil penelitian sama “.dengan ' Pajak yang terutang dalam surat keputusan/ketetapan yang diajukan keberatan oleh Wajib Pajak, atau
 
 d. menambah besarnya jumlah Pajak yang terutang dalam hal Pajak terutang berdasarkan hasil penelitian lebih besar dari Pajak yang terutang dalam surat keputusan/ketetapan yang diajukan keberatan oleh Wajib Pajak.
 
@@ -1462,11 +1368,11 @@ d. menambah besarnya jumlah Pajak yang terutang dalam hal Pajak terutang berdasa
 
 ### Pasal 67
 
-(1) Dalam hal pengajuan keberatan Pajak dikabulkan sebagian atau seluruhnya, kelebihan pembayaran Pajak dikembalikan dengan ditambah imbalan bunga sebesar 0,6Y6 (nol koma enam persen) per bulan dihitung dari Pajak yang lebih bayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+(1) Dalam hal pengajuan keberatan Pajak dikabulkan sebagian atau seluruhnya, kelebihan pembayaran Pajak dikembalikan dengan ditambah imbalan bunga sebesar 0,6% (nol koma enam persen) per bulan dihitung dari Pajak yang lebih bayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
-(2) Imbalan bunga sebagaimara dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya Surat Keputusan Keberatan.
+(2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya Surat Keputusan Keberatan.
 
-(3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 306 (tiga puluh persen) dari jumlah Pajak berdasarkan keputusan : keberatan dikurangi dengan Pajak yang telah dibayar sebelum mengajukan keberatan.
+(3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 30% (tiga puluh persen) dari jumlah Pajak berdasarkan keputusan : keberatan dikurangi dengan Pajak yang telah dibayar sebelum mengajukan keberatan.
 
 **Bagian Kedua - Banding**
 
@@ -1476,19 +1382,19 @@ d. menambah besarnya jumlah Pajak yang terutang dalam hal Pajak terutang berdasa
 
 (2) Permohonan banding sebagaimana dimaksud pada ayat (1) diajukan secara tertulis dalam bahasa Indonesia dan dengan disertai alasan yang jelas.
 
-(3) Permohonan banding sebagaimana dimaksud pada ayat (1) menangguhkan kewajiban membayar Pajak sampai dengan 1 (satu) bulan sejak tanggal penerbitan Putusan Banding. 414 LAI
+(3) Permohonan banding sebagaimana dimaksud pada ayat (1) menangguhkan kewajiban membayar Pajak sampai dengan 1 (satu) bulan sejak tanggal penerbitan Putusan Banding.
 
-4) Pengajuan banding dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+(4) Pengajuan banding dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 ### Pasal 69
 
-(4) Dalam hal permohonan banding dikabulkan sebagian atau seluruhnya, kelebihan pembayaran Pajak dikembalikan dengan ditambah imbalan bunga sebesar 0,646 (nol koma enam persen) per bulan dihitung dari Pajak yang lebih dibayar untuk jangka waktu paling lama 24 (dua puiuh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+(1) Dalam hal permohonan banding dikabulkan sebagian atau seluruhnya, kelebihan pembayaran Pajak dikembalikan dengan ditambah imbalan bunga sebesar 0,6% (nol koma enam persen) per bulan dihitung dari Pajak yang lebih dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya Putusan Banding.
 
-(3) Dalam hal Wajib Pajak mengajukan permohonan banding, sanksi administratif berupa denda sebesar 3046 (tiga puluh persen) sebagaimana dimaksud dalam Pasal 67 ayat (3) tidak dikenakan.
+(3) Dalam hal Wajib Pajak mengajukan permohonan banding, sanksi administratif berupa denda sebesar 30% (tiga puluh persen) sebagaimana dimaksud dalam Pasal 67 ayat (3) tidak dikenakan.
 
-4) Dalam hal permohonan banding ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 60Y5 (enam puluh persen) dari jumlah Pajak berdasarkan Putusan Bandir'g dikurangi dengan Pajak yang telah dibayar sebelum mengajukan keberatan.
+(4) Dalam hal permohonan banding ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 60% (enam puluh persen) dari jumlah Pajak berdasarkan Putusan Banding dikurangi dengan Pajak yang telah dibayar sebelum mengajukan keberatan.
 
 **Bagian Ketiga - Gugatan Pajak**
 
@@ -1500,15 +1406,13 @@ Gugatan Wajib Pajak atau penanggung Pajak terhadap:
 
 b. keputusan pencegahan dalam rangka Penagihan Pajak,
 
-c. keputusan yang berkaitan dengan pelaksanaan keputusan perpajakan, selain yang ditetapkan dalam Pasai 65 ayat (1) dan Pasal 66, dan
+c. keputusan yang berkaitan dengan pelaksanaan keputusan perpajakan, selain yang ditetapkan dalam Pasal 65 ayat (1) dan Pasal 66, dan
 
 d. penerbitan surat ketetapan pajak atau Surat Keputusan Keberatan yang dalam penerbitannya tidak sesuai dengan prosedur atau tata cara yang telah diatur dalam ketentuan peraturan perundang-undangan, hanya dapat diajukan ke badan peradilan Pajak.
 
 ### Pasal 71
 
-Pengajuan gugatan dilaksanakan sesuai dengan ketentuan pers'uran perundang-undangan. :
-
-1 bag Kepala . Pia ni Kn 1 Na Asisten | Sekda
+Pengajuan gugatan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. :
 
 ## BAB XVI - DOKUMEN PEMUNGUTAN PAJAK BARANG DAN JASA TERTENTU
 
@@ -1516,7 +1420,7 @@ Pengajuan gugatan dilaksanakan sesuai dengan ketentuan pers'uran perundang-undan
 
 Dokumen Pemungutan PBJT antara lain:
 
-a. .ormulir pendaftaran:
+a. formulir pendaftaran:
 
 b. NPWPD,
 
@@ -1538,7 +1442,7 @@ j. SSPD,
 
 k. surat teguran,
 
-Il. surat panggilan dalam rangka pemeriksaan,
+l. surat panggilan dalam rangka pemeriksaan,
 
 m. berita acara pembahasan akhir hasil pemeriksaan,
 
@@ -1560,8 +1464,6 @@ Pada saat Peraturan Bupati ini mulai berlaku:
 
 a. Peraturan Bupati Kapuas Hulu Nomor 65 Tahun 2017 tentang Perubahan Atas Peraturan Bupati Nomor 27 Tahun 2011 tentang Prosedur Pemungutan Pajak Restoran di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2017 Nomor 65),
 
-DAFENDA tj
-
 b. Peraturan Bupati Kapuas Hulu Nomor 31 Tahun 2011 tentang Sistem dan Prosedur Pemungutan Pajak Penerangan Jalan di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2011 Nomor 309),
 
 c. Peraturan Bupati Kapuas Hulu Nomor 25 Tahun 2011 tentang Prosedur Pemungutan Pajak Hotel di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2011 Nomor 303):
@@ -1576,24 +1478,16 @@ Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-Peraturan Bupati ini dengan penempatannya dalam Berita Daerah
-Kabupaten Kapuas Hulu.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-peda-tanggal 20 Desember 2024
-2 sup 33 PUAS HULU,7
-0 :
-1 Gan
-NA LIA SAP US DIAAN
+pada tanggal 30 Desember 2024
+BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
 Diundangkan di Putussibau
-PA singanggal 3 Desember 2024
-S Fa RIS DAERAH KABUPATEN KAPUAS HULU
-CN
-aU. AINI
-Kun . 4
-ASyETA DAERAH KABUPATEN KAPUAS HULU TAHUN 2024
-NOMOR 29
-La
+pada tanggal 31 Desember 2024
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU
+MOHD. ZAINI
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2024 NOMOR 29
 
 ## Lampiran
 
