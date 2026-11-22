@@ -27,7 +27,7 @@ dan Pemerintahan Daerah, Pasal 99 dan Pasal
 Tahun 2023 tentang Ketentuan Umum Pajak
 Daerah dan Retribusi Daerah, perlu memberikan
 insentif fiscal berupa pembebasan Retribusi
-Persetujuan Bangunan Gedung (PBG),
+Persetujuan Bangunan Gedung (PBG);
 b. bahwa untuk melaksanakan Keputusan Bersama
 Menteri Perumahan dan Kawasan Permukiman,
 Menteri Pekerjaan Umum dan Menteri Dalam
@@ -36,14 +36,14 @@ Negeri Nomor: 03.HK/KPTS/Mn/2024, Nomor:
 2024, perlu menetapkan peraturan kepala daerah
 mengenai pembebasan retribusi PBG dalam
 mendukung percepatan pelaksanaan program
-tiga juta rumah,
+tiga juta rumah;
 c. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a dan huruf b, perlu
 menetapkan Peraturan Bupati tentang
 Pembebasan Retribusi PBG bagi Masyarakat
 Berpenghasilan Rendah.
 Mengingat: 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
@@ -65,49 +65,49 @@ Tahun 2022 tentang Cipta Kerja menjadi
 Undang-Undang (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6856),
+6856);
 4. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan Antara Pemerintah Pusat
 dan Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2022 Nomor 4,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 6757),
+Nomor 6757);
 5. Peraturan Pemerintah Nomor 12 Tahun 2019
 tentang Pengelolaan Keuangan Daerah
 (Lembaran Negara Republik Indonesia Tahun
 2019 Nomor 42, Tambahan Lembaran Negera
-Republik Indonesia Nomor 6322),
+Republik Indonesia Nomor 6322);
 6. Peraturan Pemerintah Nomor 35 Tahun 2023
 tentang Ketentuan Umum Pajak Daerah dan
 Retribusi Daerah (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 85, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6881),
+6881);
 7. Peraturan Pemerintah Nomor 16 Tahun 2021
 tentang Peraturan Pelaksanaan Undang-Undang
 Nomor 28 Tahun 2002 tentang Bangunan
 Gedung (Lembaran Negara Republik Indonesia
 Tahun 2021 Nomor 26, Tambahan Lembaran
-Negara Republik Indonesia Nomor 6628),
+Negara Republik Indonesia Nomor 6628);
 8. Peraturan Menteri Pekerjaan Umum dan
 Perumahan Rakyat Republik Indonesia Nomor 1
 Tahun 2021 tentang Kriteria Masyarakat
 Berpenghasilan Rendah dan Persyaratan
 Kemudahan Pembangunan dan Perolehan
 Rumah (Berita Negara Republik Indonesia Tahun
-2021 Nomor 44),
+2021 Nomor 44);
 9. Keputusan Menteri Pekerjaan Umum dan
 Perumahan Rakyat Nomor 22/KPTS/M/2023
 tentang Besaran Penghasilan Masyarakat
 Berpenghasilan Rendah dan Batasan Luas Lantai
-Rumah Umum dan Rumah Swadaya,
+Rumah Umum dan Rumah Swadaya;
 10. Keputusan Bersama Menteri Perumahan dan
 Kawasan Permukiman, Menteri Pekerjaan Umum
 dan Menteri Dalam Negeri Nomor
 03.HK/KPTS/Mn/2024, Nomor 3015/KPTS/M/
 2024, Nomor 600.10-4849 Tahun 2024 tentang
 Dukungan Percepatan Pelaksanaan Program
-Pembangunan Tiga Juta Rumah,
+Pembangunan Tiga Juta Rumah;
 11. Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 1 Tahun 2024 tentang Pajak Daerah Dan
 Retribusi Daerah,
@@ -172,7 +172,7 @@ Dalam Peraturan Bupati ini, yang dimaksud dengan:
 
 Ruang lingkup dalam Peraturan Bupati Kabupaten Kapuas Hulu ini adalah:
 
-a. Pembebasan Retribusi PBG bagi MBR, dan
+a. Pembebasan Retribusi PBG bagi MBR; dan
 
 b. Kriteria MBR.
 
@@ -198,7 +198,7 @@ Retribusi Persetujuan Bangunan Gedung.
 
 (3) Besaran penghasilan sebagaimana dimaksud pada ayat (2) ditentukan berdasarkan:
 
-a. penghasilan orang perseorangan yang tidak kawin, atau
+a. penghasilan orang perseorangan yang tidak kawin; atau
 
 b. penghasilan orang perseorangan yang kawin.
 
@@ -248,7 +248,7 @@ c. biaya pembangunan Rumah Swadaya.
 
 a. harga jual Rumah tunggal:
 
-b. harga jual satuan Rumah deret, dan
+b. harga jual satuan Rumah deret; dan
 
 c. harga jual satuan Rumah susun.
 

@@ -23,13 +23,13 @@ berdasarkan Peraturan Daerah Nomor 4 Tahun 2012
 tentang perubahan Peraturan Daerah Nomor 6
 Tahun 2010 tentang Pajak Daerah Kota Pontianak,
 maka perlu diatur Petunjuk Pelaksanaan
-Pemungutan Pajak Parkir,
+Pemungutan Pajak Parkir;
 b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, perlu menetapkan
 Peraturan Walikota tentang Petunjuk Pelaksanaan
-Pemungutan Pajak Parkir,
+Pemungutan Pajak Parkir;
 Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun
 1953 tentang Pembentukan Daerah Tingkat II Di
@@ -43,7 +43,7 @@ Penetapan Undang-Undang Darurat Nomor 3 Tahun
 1953 tentang Pembentukan Daerah Tingkat II Di
 Kalimantan (Lembaran Negara Republik Indonesia
 Tahun 1965 Nomor 51, Tambahan Lembaran Negara
-Nomor 2756),
+Nomor 2756);
 3. Undang-Undang Nomor 19 Tahun 1997 tentang
 Penagihan Pajak dengan Surat Paksa (Lembaran
 Negara Republik Indonesia Tahun 1997 Nomor 42,
@@ -54,24 +54,24 @@ Perubahan atas Undang-Undang Nomor 19 Tahun
 1997 tentang Penagihan Pajak dengan Surat Paksa
 (Lembaran Negara Republik Indonesia Tahun 2000
 Nomor 129, Tambahan Lembaran Negara Republik
-Indonesia Nomor 3987),
+Indonesia Nomor 3987);
 4. Undang-Undang Nomor 14 Tahun 2002 tentang
 Pengadilan Pajak (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 27, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4189),
+Lembaran Negara Republik Indonesia Nomor 4189);
 5. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik
 Indonesia Tahun 2003 Nomor 47, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4286),
+Lembaran Negara Republik Indonesia Nomor 4286);
 6. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 5, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4355),
+Lembaran Negara Republik Indonesia Nomor 4355);
 7. Undang-Undang Nomor 15 Tahun 2004 tentang
 Pemeriksaan Pengelolaan dan Tanggung Jawab
 Keuangan Negara (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 66, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4400),
+Lembaran Negara Republik Indonesia Nomor 4400);
 8. Undang-Undang Nomor 32 Tahun 2004 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 125, Tambahan
@@ -82,81 +82,81 @@ tentang Perubahan Kedua atas Undang-Undang
 Nomor 32 Tahun 2004 tentang Pemerintahan
 Daerah (Lembaran Negara Republik Indonesia Tahun
 2008 Nomor 59, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4844),
+Republik Indonesia Nomor 4844);
 9. Undang-Undang Nomor 28 Tahun 2009 tentang
 Pajak Daerah dan Retribusi Daerah (Lembaran
 Negara Republik Indonesia Tahun 2009 Nomor 130,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 5049),
+Nomor 5049);
 10. Undang-Undang Nomor 12 Tahun 2011 tentang
 Pembentukan Peraturan  Perundang-undangan
 (Lembaran Negara Republik Indonesia Tahun 2011
 Nomor 82, Tambahan Lembaran Negara Republik
-Indonesia Nomor 5234),
+Indonesia Nomor 5234);
 11. Peraturan Pemerintah Nomor 31 Tahun 1986
 tentang Tata Cara Pemeriksaan Di Bidang
 Perpajakan (Lembaran Negara Republik Indonesia
 Tahun 1986 Nomor 46, Tambahan Lembaran Negara
-Republik Indonesia Nomor 3339),
+Republik Indonesia Nomor 3339);
 12. Peraturan Pemerintah Nomor 135 Tahun 2000
 tentang Tata Cara Penyitaan dalam rangka
 Penagihan Pajak dengan Surat Paksa (Lembaran
 Negara Republik Indonesia Tahun 2000 Nomor 247,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4049),
+Nomor 4049);
 13. Peraturan Pemerintah Nomor 136 Tahun 2000
 tentang Tata Cara Penjualan Barang Sitaan Yang
 Dikecualikan Dari Penjualan Secara Lelang Dalam
 Rangka Penagihan Pajak Dengan Surat Paksa
 (Lembaran Negara Republik Indonesia Tahun 2000
 Nomor 248, Tambahan Lembaran Negara Nomor
-4050),
+4050);
 14. Peraturan Pemerintah Nomor 14 Tahun 2005
 tentang Tata Cara Penghapusan Piutang
 Negara/Daerah (Lembaran Negara Republik
 Indonesia Tahun 2005 Nomor 31, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4488),
+Lembaran Negara Republik Indonesia Nomor 4488);
 15. Peraturan Pemerintah Nomor 58 Tahun 2005
 tentang Pengelolaan Keuangan Daerah (Lembaran
 Negara Republik Indonesia Tahun 2005 Nomor 140,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4578),
+Nomor 4578);
 16. Peraturan Pemerintah Nomor 38 Tahun 2007
 tentang Pembagian Urusan Pemerintahan antara
 Pemerintah, Pemerintahan Daerah Provinsi dan
 Pemerintahan Daerah Kabupaten/Kota (Lembaran
 Negara Republik Indonesia Tahun 2007 Nomor 82,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4737),
+Nomor 4737);
 17. Peraturan Pemerintah Nomor 69 Tahun 2010
 tentang Tata Cara Pemberian dan Pemanfaatan
 Insentif Pemungutan Pajak Daerah dan Retribusi
 Daerah (Lembaran Negara Republik Indonesia Tahun
 2010 Nomor 119, Tambahan Lembaran Negara
-Republik Indonesia Nomor 5161),
+Republik Indonesia Nomor 5161);
 18. Peraturan Pemerintah Nomor 91 Tahun 2010
 tentang Jenis Pajak Daerah yang Dipungut
 Berdasarkan Penetapan Kepala Daerah atau Dibayar
 sendiri oleh Wajib Pajak (Lembaran Negara Republik
 Indonesia Tahun 2010 Nomor 153, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5179),
+Lembaran Negara Republik Indonesia Nomor 5179);
 19. Peraturan Presiden Nomor 1 Tahun 2007 tentang
 Pengesahan, Pengundangan dan Penyebarluasan
-Peraturan Perundang-undangan,
+Peraturan Perundang-undangan;
 20. Peraturan Menteri Dalam Negeri Nomor 53 tahun
 2011 tentang Pembentukan Produk Hukum Daerah
 (Berita Negara Republik Indonesia Tahun 2011
-Nomor 694),
+Nomor 694);
 21. Peraturan Daerah Kota Pontianak Nomor 2 Tahun
 1987 tentang Penyidik Pegawai Negeri Sipil Di
 Lingkungan Pemerintah Kota Pontianak (Lembaran
 Daerah Kota Pontianak Tahun 1988 Nomor 14 Seri
-D Nomor 10),
+D Nomor 10);
 22. Peraturan Daerah Kota Pontianak Nomor 8 Tahun
 2008 tentang Bidang Urusan Pemerintah Yang
 Menjadi Kewenangan Pemerintah Kota Pontianak
 (Lembaran Daerah Tahun 2008 Nomor 7 Seri E
-Nomor 7),
+Nomor 7);
 23. Peraturan Daerah Kota Pontianak Nomor 11 Tahun
 2008 tentang Pembentukan Organisasi Perangkat
 Daerah di Kota Pontianak (Lembaran Daerah Tahun
@@ -167,7 +167,7 @@ Kedua Atas Peraturan Daerah Kota Pontianak Nomor
 11 Tahun 2008 tentang Pembentukan Organisasi
 Perangkat Daerah Kota Pontianak (Lembaran
 Daerah Tahun 2011 Nomor 13, Tambahan Lembaran
-Daerah Nomor 105),
+Daerah Nomor 105);
 24. Peraturan Daerah Kota Pontianak Nomor 6 Tahun
 2010 tentang Pajak Daerah Kota Pontianak
 (Lembaran Daerah Kota Pontianak Tahun 2010
@@ -177,7 +177,7 @@ Kota Pontianak Nomor 4 Tahun 2012 tentang
 Perubahan Atas Peraturan Daerah Kota Pontianak
 Nomor 6 Tahun 2010 tentang Pajak Daerah Kota
 Pontianak (Lembar Daerah Kota Pontianak Tahun
-2012 Nomor 4),
+2012 Nomor 4);
 MEMUTUSKAN :
 Menetapkan : PERATURAN WALIKOTA PONTIANAK TENTANG
 PETUNJUK PELAKSANAAN PEMUNGUTAN PAJAK
@@ -186,7 +186,6 @@ PARKIR
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Walikota ini, yang dimaksud dengan :
 
 1. Daerah adalah Daerah Kota Pontianak.
@@ -294,7 +293,6 @@ Tahun Pajak dan Bagian Tahun Pajak.
 **Bagian Kesatu - Pendaftaran**
 
 ### Pasal 2
-
 (1) Setiap Penyelenggara Parkir wajib mendaftarkan dirinya dan melaporkan tempat parkirnya dengan media SPOPD.
 
 (2) Pendaftaran Penyelenggara Parkir sebagaimana dimaksud ayat (1) dilaksanakan paling lama 7 (tujuh) hari sejak dibuka dan/atau digunakan.
@@ -326,7 +324,6 @@ c. Surat pemberitahuan pemungutan.
 **Bagian Kedua - Pelaporan**
 
 ### Pasal 3
-
 (1) Setiap Wajib Pajak Parkir, wajib mengisi SPTPD dengan benar, jelas, lengkap dan ditandatangani oleh Wajib Pajak serta menyampaikannya kepada SKPD-PPD.
 
 (2) SPTPD sebagaimana dimaksud pada ayat (1), wajib diambil sendiri oleh Wajib Pajak.
@@ -350,25 +347,21 @@ b. Rekapitulasi penggunaan karcis parkir.
 (9) Lampiran dokumen dalam penyampaian SPTPD sebagaimana dimaksud pada ayat (8) tidak diberlakukan bagi penyelenggaraan tempat parkir tanpa dipungut bayaran (parkir cuma-cuma).
 
 ### Pasal 4
-
 (1) Walikota atau Kepala SKPD-PPD atas permohonan Wajib Pajak dapat memberikan perpanjangan jangka waktu penyampaian SPTPD paling lama 7 (tujuh) hari kerja.
 
 (2) Permohonan perpanjangan penyampaian SPTPD sebagaimana dimaksud pada ayat (1) diajukan secara tertulis disertai alasan yang jelas sebelum berakhirnya batas waktu penyampaian SPTPD sebagaimana dimaksud dalam Pasal 3 ayat (5).
 
 ### Pasal 5
-
 (1) Wajib Pajak dengan kemauan sendiri dapat membetulkan SPTPD yang telah disampaikan dengan menyampaikan surat pernyataan tertulis kepada Kepala SKPD-PPD, sepanjang belum dilakukan tindakan pemeriksaan untuk masa pajak atau tahun pajak yang dimaksud.
 
-(2) Dalam hal Wajib Pajak membetulkan sendiri SPTPD sebagaimana dimaksud pada ayat (1), yang mengakibatkan utang pajak menjadi lebih besar, maka dikenakan sanksi administrasi berupa bunga sebesar 2”o (dua persen) sebulan atas jumlah pajak yang kurang dibayar, dihitung sejak saat berakhirnya penyampaian SPTPD yang dibetulkan sampai dengan tanggal pembayaran akibat dari pembetulan SPTPD tersebut.
+(2) Dalam hal Wajib Pajak membetulkan sendiri SPTPD sebagaimana dimaksud pada ayat (1), yang mengakibatkan utang pajak menjadi lebih besar, maka dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan atas jumlah pajak yang kurang dibayar, dihitung sejak saat berakhirnya penyampaian SPTPD yang dibetulkan sampai dengan tanggal pembayaran akibat dari pembetulan SPTPD tersebut.
 
 ## BAB III - TATA CARA PERHITUNGAN PAJAK
 
 ### Pasal 6
-
-Tarif Pajak Parkir ditetapkan sebesar 2076 (dua puluh persen).
+Tarif Pajak Parkir ditetapkan sebesar 20% (dua puluh persen).
 
 ### Pasal 7
-
 (1) Dasar pengenaan Pajak Parkir adalah jumlah pembayaran yang diterima atau yang seharusnya diterima oleh Penyelenggara Parkir.
 
 (2) Jumlah yang seharusnya diterima oleh Penyelenggara Parkir sebagaimana dimaksud pada ayat (1) antara lain meliputi pemberian potongan harga, pembebasan pengenaan biaya parkir (parkir gratis), termasuk pengenaan biaya atas jasa-jasa lainnya yang pengenaannya dipisahkan dari perhitungan parkir.
@@ -378,7 +371,6 @@ Tarif Pajak Parkir ditetapkan sebesar 2076 (dua puluh persen).
 (4) Apabila Wajib Pajak tidak menarik pembayaran parkir sebagaimana dimaksud pada ayat (1) dari pengguna jasa parkir, maka Pajak Parkir yang terhutang menjadi tanggung jawab Wajib Pajak.
 
 ### Pasal 8
-
 (1) Terhadap penyelenggaraan tempat parkir tanpa dipungut bayaran (parkir cuma-cuma), maka perhitungan nilai omsetnya yaitu dilaksanakan dengan cara taksasi dengan mengkalkulasikan faktor-faktor Daya tampung lahan parkir, Waktu penyelenggaraan, Lama penggantian (turn over) dan tarif parkir perjenis kendaraan.
 
 (2) Ketentuan tarif parkir perjenis kendaraan sebagaimana dimaksud pada ayat (1) diatas ditentukan dalam lampiran peraturan ini.
@@ -394,13 +386,11 @@ Perhitungan rata-rata omset parkir perhari Daya Jumlah Omset Tampung Ae Waktu | 
 **Bagian Kesatu - Penetapan**
 
 ### Pasal 9
-
 (1) Pajak Parkir dipungut dengan System Self Assessment yang memberikan kepercayaan kepada Wajib Pajak untuk menghitung, memperhitungkan, membayar dan melaporkan sendiri pajak terutang kepada SKPD-PPD.
 
 (2) Wajib Pajak dalam menghitung, memperhitungkan, dan melaporkan sendiri pajak yang terutang sebagaimana dimaksud pada ayat (1), menggunakan SPTPD.
 
 ### Pasal 10
-
 (1) Dalam jangka waktu paling lama 5 (lima) tahun sesudah saat terutangnya pajak Walikota atau Kepala SKPD-PPD dapat menerbitkan:
 
 a. SKPDKB dalam hal:
@@ -415,11 +405,11 @@ b. SKPDKBT, apabila ditemukan data baru dan/atau data yang semula belum terungka
 
 c. SKPDN, apabila jumlah pajak yang terutang sama besarnya dengan jumlah kredit pajak atau pajak tidak terutang dan tidak ada kredit pajak.
 
-(2) Jumlah kekurangan pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 1 dan angka 2, dikenakan sanksi administrasi berupa bunga sebesar 2” (dua persen) sebulan dihitung dari pajak yang kurang atau terlambat dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan dihitung sejak saat terutang pajak sampai dengan diterbitkannya SKPDKB.
+(2) Jumlah kekurangan pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 1 dan angka 2, dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan dihitung dari pajak yang kurang atau terlambat dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan dihitung sejak saat terutang pajak sampai dengan diterbitkannya SKPDKB.
 
-(3) Jumlah pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 3, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 25Yo (dua puluh lima persen) dari pokok pajak dan ditambah sanksi administrasi berupa bunga sebesar 26 (dua persen) sebulan dihitung dari pajak yang tidak dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya pajak.
+(3) Jumlah pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 3, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 25% (dua puluh lima persen) dari pokok pajak dan ditambah sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan dihitung dari pajak yang tidak dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya pajak.
 
-(4) Jumlah kekurangan pajak yang terutang dalam SKPDKBT sebagaimana dimaksud pada ayat (1) huruf b, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 1006 (seratus persen) dari jumlah kekurangan pajak tersebut.
+(4) Jumlah kekurangan pajak yang terutang dalam SKPDKBT sebagaimana dimaksud pada ayat (1) huruf b, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 100% (seratus persen) dari jumlah kekurangan pajak tersebut.
 
 (5) Kenaikan sebagaimana dimaksud pada ayat (4), tidak dikenakan apabila Wajib Pajak melaporkan sendiri kekurangan pajak yang terutang sebelum dilakukan tindakan pemeriksaan.
 
@@ -430,18 +420,17 @@ c. SKPDN, apabila jumlah pajak yang terutang sama besarnya dengan jumlah kredit 
 (8) Kewajiban mengisi SPTPD dianggap tidak terpenuhi sebagaimana dimaksud pada ayat (1) huruf a angka 3, apabila SPTPD tidak disampaikan kepada SKPD-PPD dalam jangka waktu 30 (tiga puluh) hari sejak berakhirnya masa pajak.
 
 ### Pasal 11
-
 (1) Penetapan Pajak terutang yang dihitung secara jabatan sebagaimana dimaksud dalam Pasal 10 ayat (1) huruf a angka 3) dilakukan oleh Walikota atau Kepala SKPD-PPD, berdasarkan data yang ada atau keterangan lain yang dimiliki SKPD-PPD.
 
 (2) Penetapan pajak terutang yang dihitung secara jabatan sebagaimana dimaksud pada ayat (1) dapat juga dilakukan apabila :
 
-a. Wajib Pajak tidak menyelenggarakan pembukuan dan pencatatan omzet usahanya,
+a. Wajib Pajak tidak menyelenggarakan pembukuan dan pencatatan omzet usahanya;
 
-b. Wajib Pajak menyelenggarakan pembukuan dan pencatatan tetapi tidak lengkap dan/atau tidak benar,
+b. Wajib Pajak menyelenggarakan pembukuan dan pencatatan tetapi tidak lengkap dan/atau tidak benar;
 
-c. Wajib Pajak tidak mau menunjukkan pembukuan dan/atau menolak untuk diperiksa dan/atau menolak memberikan keterangan pada saat dilakukan pemeriksaan,
+c. Wajib Pajak tidak mau menunjukkan pembukuan dan/atau menolak untuk diperiksa dan/atau menolak memberikan keterangan pada saat dilakukan pemeriksaan;
 
-d. Wajib Pajak tidak menggunakan bon penjualan atau bill yang berseri dan bernomor urut dan/atau,
+d. Wajib Pajak tidak menggunakan bon penjualan atau bill yang berseri dan bernomor urut dan/atau;
 
 e. Wajib Pajak yang wajib melegalisasi bon penjualan atau bill tetapi tidak melegalisasinya tanpa ada persetujuan Kepala SKPD-PPD.
 
@@ -449,9 +438,9 @@ e. Wajib Pajak yang wajib melegalisasi bon penjualan atau bill tetapi tidak mele
 
 (4) Penetapan pajak terutang yang dihitung secara jabatan dapat didasarkan pada data omzet yang diperoleh melalui salah satu atau lebih dari 3 (tiga) cara/metode pemeriksaan sebagai berikut :
 
-a. Berdasarkan hasil Pembukuan,
+a. Berdasarkan hasil Pembukuan;
 
-b. Berdasarkan hasil pengamatan langsung di lokasi tempat usaha Wajib Pajak,
+b. Berdasarkan hasil pengamatan langsung di lokasi tempat usaha Wajib Pajak;
 
 c. Berdasarkan data pembanding.
 
@@ -460,46 +449,42 @@ c. Berdasarkan data pembanding.
 **Bagian Kedua - Pembayaran**
 
 ### Pasal 12
-
 (1) Pembayaran pajak terutang dengan media SPTPD harus dilakukan sekaligus dan lunas di Kas Daerah atau melalui Bendahara Penerima SKPD-PPD, paling lambat 14 (empat belas) hari setelah berakhirnya masa pajak dengan menggunakan SSPD.
 
 (2) Apabila batas waktu pembayaran jatuh pada hari libur, maka batas waktu pembayaran jatuh pada satu hari kerja berikutnya.
 
-(3) Apabila pembayaran masa pajak terutang dilakukan setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga keterlambatan sebesar 26 (dua persen) sebulan untuk jangka waktu paling lama 15 (lima belas) bulan.
+(3) Apabila pembayaran masa pajak terutang dilakukan setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga keterlambatan sebesar 2% (dua persen) sebulan untuk jangka waktu paling lama 15 (lima belas) bulan.
 
 ### Pasal 13
-
 (1) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD wajib dilunasi dalam jangka waktu paling lama 30 (tiga puluh) hari sejak tanggal diterbitkan.
 
-(2) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD, yang tidak atau kurang dibayar setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga sebesar 2Yo (dua persen).
+(2) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD, yang tidak atau kurang dibayar setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen).
 
 ### Pasal 14
-
 Pemilik Parkir selaku Wajib Pajak Parkir bertanggung jawab terhadap pemungutan dan pembayaran pajak atas penyelenggaraan usaha Parkir tersebut.
 
 **Bagian Ketiga - Pembayaran Angsuran Dan Penundaan Pembayaran**
 
 ### Pasal 15
-
-(1) Walikota atau Kepala SKPD-PPD atas permohonan Wajib Pajak setelah memenuhi persyaratan yang ditentukan, dapat memberikan persetujuan untuk mengangsur atau menunda pembayaran pajak yang terutang dalam SKPDKB, SKPDKBT atau STPD, dengan dikenakan bunga sebesar 2Y6 (dua persen) sebulan.
+(1) Walikota atau Kepala SKPD-PPD atas permohonan Wajib Pajak setelah memenuhi persyaratan yang ditentukan, dapat memberikan persetujuan untuk mengangsur atau menunda pembayaran pajak yang terutang dalam SKPDKB, SKPDKBT atau STPD, dengan dikenakan bunga sebesar 2% (dua persen) sebulan.
 
 (2) Tata cara pembayaran angsuran dan penundaan pembayaran pajak terutang dilakukan sebagai berikut:
 
-a. Wajib Pajak yang akan melakukan pembayaran secara angsuran maupun menunda pembayaran pajak, harus mengajukan permohonan secara tertulis kepada Walikota atau Kepala SKPD-PPD dengan disertai alasan yang jelas dan melampirkan fotocopy SKPDKB, SKPDKBT, atau STPD yang diajukan permohonannya,
+a. Wajib Pajak yang akan melakukan pembayaran secara angsuran maupun menunda pembayaran pajak, harus mengajukan permohonan secara tertulis kepada Walikota atau Kepala SKPD-PPD dengan disertai alasan yang jelas dan melampirkan fotocopy SKPDKB, SKPDKBT, atau STPD yang diajukan permohonannya;
 
-b. Permohonan sebagaimana dimaksud pada huruf a harus sudah diterima SKPD-PPD paling lama 7 (tujuh) hari sebelum jatuh tempo pembayaran yang ditentukan,
+b. Permohonan sebagaimana dimaksud pada huruf a harus sudah diterima SKPD-PPD paling lama 7 (tujuh) hari sebelum jatuh tempo pembayaran yang ditentukan;
 
-c. Permohonan sebagaimana dimaksud pada huruf a harus melampirkan rincian utang pajak untuk masa pajak atau tahun pajak yang bersangkutan serta alasan-alasan yang mendukung diajukannya permohonan,
+c. Permohonan sebagaimana dimaksud pada huruf a harus melampirkan rincian utang pajak untuk masa pajak atau tahun pajak yang bersangkutan serta alasan-alasan yang mendukung diajukannya permohonan;
 
-d. Permohonan pembayaran secara angsuran maupun penundaan pembayaran yang disetujui SKPD-PPD dituangkan dalam Surat Keputusan, baik Surat Keputusan pembayaran secara angsuran maupun penundaan pembayaran, baru dapat dikeluarkan setelah terlebih dahulu mendapat telaahan dari pejabat yang ditunjuk oleh Kepala SKPD-PPD,
+d. Permohonan pembayaran secara angsuran maupun penundaan pembayaran yang disetujui SKPD-PPD dituangkan dalam Surat Keputusan, baik Surat Keputusan pembayaran secara angsuran maupun penundaan pembayaran, baru dapat dikeluarkan setelah terlebih dahulu mendapat telaahan dari pejabat yang ditunjuk oleh Kepala SKPD-PPD;
 
-e. Persetujuan terhadap angsuran pajak sebagaimana dimaksud pada huruf d dinyatakan lebih lanjut dalam Surat Perjanjian,
+e. Persetujuan terhadap angsuran pajak sebagaimana dimaksud pada huruf d dinyatakan lebih lanjut dalam Surat Perjanjian;
 
-f. Pembayaran angsuran diberikan paling lama untuk 5 (lima) kali angsuran dalam jangka waktu 5 (lima) bulan terhitung sejak tanggal Surat Keputusan angsuran, kecuali ditetapkan lain oleh Kepala SKPD-PPD berdasarkan alasan Wajib Pajak yang dapat diterima,
+f. Pembayaran angsuran diberikan paling lama untuk 5 (lima) kali angsuran dalam jangka waktu 5 (lima) bulan terhitung sejak tanggal Surat Keputusan angsuran, kecuali ditetapkan lain oleh Kepala SKPD-PPD berdasarkan alasan Wajib Pajak yang dapat diterima;
 
-g. Pemberian angsuran tidak menunda kewajiban Wajib Pajak untuk melaksanakan pembayaran pajak terutang dalam masa pajak berjalan,
+g. Pemberian angsuran tidak menunda kewajiban Wajib Pajak untuk melaksanakan pembayaran pajak terutang dalam masa pajak berjalan;
 
-h. Penundaan pembayaran diberikan paling lama 4 (empat) bulan terhitung mulai tanggal jatuh tempo pembayaran yang termuat dalam SKPDKB, SKPDKBT dan STPD, kecuali ditetapkan lain oleh Kepala SKPD-PPD berdasarkan alasan Wajib Pajak yang dapat diterima, ii Pembayaran angsuran atau penundaan pembayaran dikenakan bunga sebesar 2» (dua persen) sebulan,
+h. Penundaan pembayaran diberikan paling lama 4 (empat) bulan terhitung mulai tanggal jatuh tempo pembayaran yang termuat dalam SKPDKB, SKPDKBT dan STPD, kecuali ditetapkan lain oleh Kepala SKPD-PPD berdasarkan alasan Wajib Pajak yang dapat diterima, ii Pembayaran angsuran atau penundaan pembayaran dikenakan bunga sebesar 2% (dua persen) sebulan;
 
 j. Perhitungan untuk pembayaran angsuran adalah sebagai berikut:
 
@@ -509,17 +494,17 @@ j. Perhitungan untuk pembayaran angsuran adalah sebagai berikut:
 
 3) Pokok pajak angsuran adalah hasil pembagian antara jumlah pajak terutang yang akan diangsur, dengan jumlah bulan angsuran.
 
-4) Bunga adalah hasil perkalian antara jumlah sisa angsuran dengan bunga sebesar 2Yo (dua persen).
+4) Bunga adalah hasil perkalian antara jumlah sisa angsuran dengan bunga sebesar 2% (dua persen).
 
-5) Besarnya jumlah yang harus dibayar tiap bulan angsuran adalah pokok pajak angsuran ditambah dengan bunga sebesar 2”o (dua persen).
+5) Besarnya jumlah yang harus dibayar tiap bulan angsuran adalah pokok pajak angsuran ditambah dengan bunga sebesar 2% (dua persen).
 
 k. Terhadap jumlah angsuran yang harus dibayar tiap bulan tidak dapat dibayar dengan angsuran lagi, tetapi harus dilunasi tiap bulan.
 
 Il. Perhitungan untuk penundaan pembayaran adalah sebagai berikut:
 
-1) Perhitungan bunga dikenakan terhadap seluruh jumlah pajak terutang yang akan ditunda, yaitu hasil perkalian antara bunga 2Yo (dua persen) dengan jumlah bulan yang ditunda, dikalikan dengan seluruh jumlah utang pajak yang akan ditundal,
+1) Perhitungan bunga dikenakan terhadap seluruh jumlah pajak terutang yang akan ditunda, yaitu hasil perkalian antara bunga 2% (dua persen) dengan jumlah bulan yang ditunda, dikalikan dengan seluruh jumlah utang pajak yang akan ditundal,
 
-2) Besarnya jumlah yang harus dibayar adalah seluruh jumlah utang pajak yang ditunda, ditambah dengan jumlah bunga 2Y6 (dua persen) sebulan,
+2) Besarnya jumlah yang harus dibayar adalah seluruh jumlah utang pajak yang ditunda, ditambah dengan jumlah bunga 2% (dua persen) sebulan,
 
 3) Penundaan pembayaran harus dilunasi sekaligus paling lambat pada saat jatuh tempo penundaan yang telah ditentukan dan tidak dapat diangsur.
 
@@ -528,47 +513,41 @@ m. Terhadap Wajib Pajak yang telah mengajukan permohonan pembayaran secara angsu
 ## BAB V - PENAGIHAN
 
 ### Pasal 16
-
 (1) Walikota atau Kepala SKPD-PPD dapat menerbitkan STPD apabila :
 
-a. Pajak Parkir dalam tahun berjalan tidak atau kurang dibayarl,
+a. Pajak Parkir dalam tahun berjalan tidak atau kurang dibayarl;
 
-b. Dari hasil penelitian SPTPD terdapat kekurangan pembayaran sebagai akibat salah tulis dan/atau salah hitung,
+b. Dari hasil penelitian SPTPD terdapat kekurangan pembayaran sebagai akibat salah tulis dan/atau salah hitung;
 
 c. Wajib Pajak dikenakan sanksi administrasi berupa denda atau bunga.
 
-(2) Jumlah kekurangan pajak yang terutang dalam STPD sebagaimana dimaksud pada ayat (1) huruf a dan huruf b, ditambah dengan sanksi administrasi berupa bunga sebesar 2” (dua persen) setiap bulan untuk paling lama 15 (lima belas) bulan sejak saat terutangnya pajak.
+(2) Jumlah kekurangan pajak yang terutang dalam STPD sebagaimana dimaksud pada ayat (1) huruf a dan huruf b, ditambah dengan sanksi administrasi berupa bunga sebesar 2% (dua persen) setiap bulan untuk paling lama 15 (lima belas) bulan sejak saat terutangnya pajak.
 
-(3) Pajak yang tidak atau kurang dibayar setelah jatuh tempo pembayaran atau terlambat dibayar dikenakan sanksi administrasi berupa bunga sebesar 2”6 (dua persen) sebulan, dan ditagih dengan STPD.
+(3) Pajak yang tidak atau kurang dibayar setelah jatuh tempo pembayaran atau terlambat dibayar dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan, dan ditagih dengan STPD.
 
 ### Pasal 17
-
 (1) Penagihan pajak dilakukan terhadap pajak yang terutang dalam SKPDKB, SKPDKBT, STPD, Surat Keputusan Pembetulan, Surat Keputusan Keberatan dan Putusan Banding yang tidak atau kurang dibayar setelah jatuh tempo pembayaran.
 
 (2) Tahapan pelaksanaan penagihan pajak terutang yang tidak atau kurang dibayar setelah jatuh tempo pembayaran, diatur sebagai berikut:
 
-a. Kepala SKPD-PPD atau pejabat yang ditunjuk menerbitkan dan menyampaikan Surat Teguran atau Surat Peringatan atau surat lain yang sejenis kepada Wajib Pajak dalam waktu sekurang-kurangnya 7 (tujuh) hari setelah berakhirnya tanggal jatuh tempo pembayaran yang tercantum dalam Surat Ketetapan Pajak, Surat Pembetulan, Surat Keputusan Keberatan, dan putusan banding dengan meminta tanda penerimaan Surat Teguran,
+a. Kepala SKPD-PPD atau pejabat yang ditunjuk menerbitkan dan menyampaikan Surat Teguran atau Surat Peringatan atau surat lain yang sejenis kepada Wajib Pajak dalam waktu sekurang-kurangnya 7 (tujuh) hari setelah berakhirnya tanggal jatuh tempo pembayaran yang tercantum dalam Surat Ketetapan Pajak, Surat Pembetulan, Surat Keputusan Keberatan, dan putusan banding dengan meminta tanda penerimaan Surat Teguran;
 
-b. Pejabat yang ditunjuk menerbitkan surat paksa setelah lewat 21 (dua puluh satu) hari sejak tanggal dikeluarkannya surat teguran / peringatan atau sejenisnya yang terakhir,
+b. Pejabat yang ditunjuk menerbitkan surat paksa setelah lewat 21 (dua puluh satu) hari sejak tanggal dikeluarkannya surat teguran / peringatan atau sejenisnya yang terakhir;
 
 c. Jika dalam jangka waktu 21 (dua puluh satu) hari sejak diterbitkannya surat paksa sebagaimana dimaksud ayat (2) belum dilaksanakan pembayaran, maka Walikota dapat menutup sementara usaha wajib pajak.
 
 ## BAB VI - KARCIS PARKIR
 
 ### Pasal 18
-
 (1) Setiap Wajib Pajak Parkir dalam mencatat transaksi atau penerimaan pembayaran atas pelayanan penyediaan tempat penyelenggaraan parkir, wajib menggunakan karcis parkir atau cash register kecuali ada izin persetujuan dari Kepala SKPD-PPD.
 
-(2) Karcis parkir atau cash register sebagaimana dimaksud pada ayat
-
-(1) dapat dibuat atau dicetak atas biaya yang ditanggung sendiri oleh Wajib Pajak.
+(2) Karcis parkir atau cash register sebagaimana dimaksud pada ayat (1) dapat dibuat atau dicetak atas biaya yang ditanggung sendiri oleh Wajib Pajak.
 
 (3) Karcis parkir yang pengadaannya dibuat atau dicetak sendiri oleh Wajib Pajak sebelum digunakan dalam transaksi atau penerimaan pembayaran, terlebih dahulu diporporasi oleh SKPD-PPD.
 
-(4) Wajib Pajak yang menggunakan Karcis parkir yang tidak diporporasi oleh SKPD-PPD, dikenakan sanksi administrasi denda berupa kenaikan sebesar 256 (dua puluh lima persen) dari pokok pajak terutang.
+(4) Wajib Pajak yang menggunakan Karcis parkir yang tidak diporporasi oleh SKPD-PPD, dikenakan sanksi administrasi denda berupa kenaikan sebesar 25% (dua puluh lima persen) dari pokok pajak terutang.
 
 ### Pasal 19
-
 (1) Untuk menampung perkembangan teknologi perekaman data transaksi usaha, Wajib Pajak dapat menggunakan peralatan komputer atau mesin cash register dengan terlebih dahulu mengajukan permohonan secara tertulis kepada Kepala SKPD-PPD untuk dikecualikan atau dibebaskan dari kewajiban melegalisasi bon penjualan atau bill dan faktur.
 
 (2) Kepala SKPD-PPD dapat menyetujui atau menolak permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1), secara tertulis berdasarkan pertimbangan, antara lain peredaran usaha dan tingkat kepatuhan Wajib Pajak, intensitas pelayanan dalam transaksi usahanya, dan kapasitas serta kemampuan teknis peralatan komputer atau mesin cash register.
@@ -584,7 +563,6 @@ b. Menghubungkan perangkat komputer atau mesin cash register yang digunakannya d
 **Bagian Kesatu - Pembukuan**
 
 ### Pasal 20
-
 (1) Wajib Pajak dengan peredaran usaha atau omset lebih dari Rp 300.000.000,00 (tiga ratus juta rupiah) dalam 1 (satu) tahun, wajib menyelenggarakan pembukuan sesuai dengan Standar Akuntansi Keuangan Indonesia atau prinsip pembukuan yang berlaku secara umum.
 
 (2) Wajib Pajak dengan peredaran usaha atau omset sampai dengan Rp 300.000.000,00 (tiga ratus juta rupiah) dalam 1 (satu) tahun, dapat dibebaskan dari kewajiban pembukuan, dengan persyaratan tetap diwajibkan menyelenggarakan pencatatan nilai peredaran usaha berupa pendapatan bruto secara teratur, yang menjadi dasar untuk penghitungan pajak.
@@ -594,23 +572,21 @@ b. Menghubungkan perangkat komputer atau mesin cash register yang digunakannya d
 (4) Pembukuan dan pencatatan serta dokumen lain yang berhubungan dengan kegiatan usaha atau pekerjaan dari Wajib Pajak harus disimpan selama 5 (lima) tahun.
 
 ### Pasal 21
-
 Tata cara Wajib Pajak menyelenggarakan pencatatan atas setiap transaksi penerimaan pembayaran sebagaimana dimaksud dalam pasal
 
 20 ayat (2) adalah sebagai berikut:
 
-a. Wajib Pajak menyelenggarakan pencatatan tentang pendapatan bruto usahanya secara lengkap dan benar,
+a. Wajib Pajak menyelenggarakan pencatatan tentang pendapatan bruto usahanya secara lengkap dan benar;
 
-b. Pencatatan diselenggarakan secara kronologis berdasarkan urutan waktul:
+b. Pencatatan diselenggarakan secara kronologis berdasarkan urutan waktul;
 
-c. Apabila Wajib Pajak memiliki lebih dari 1 (satu) unit usaha, maka pencatatan dilakukan secara terpisah,
+c. Apabila Wajib Pajak memiliki lebih dari 1 (satu) unit usaha, maka pencatatan dilakukan secara terpisah;
 
 d. Pencatatan didukung dengan dokumen yang menjadi dasar penghitungan pajak berupa bon penjualan atau bill dan faktur serta cash resgister atau dokumen lainnya.
 
 **Bagian Kedua - Pemeriksaan**
 
 ### Pasal 22
-
 (1) Walikota atau Kepala SKPD-PPD berwenang melakukan pemeriksaan untuk menguji kepatuhan dan kewajaran pelaksanaan perpajakan daerah yang dilaksanakan oleh Wajib Pajak Parkir.
 
 (2) Pelaksanaan pemeriksaan sebagaimana dimaksud ayat (1), dapat dilaksanakan dengan cara menurunkan petugas pemeriksa untuk melaksanakan pemeriksaan.
@@ -619,11 +595,11 @@ d. Pencatatan didukung dengan dokumen yang menjadi dasar penghitungan pajak beru
 
 (4) Wajib Pajak yang diperiksa atau kuasanya wajib membantu Petugas Pemeriksa dalam hal :
 
-a. Memperlihatkan dan atau meminjamkan dokumen yang berhubungan dengan pajak terutang,
+a. Memperlihatkan dan atau meminjamkan dokumen yang berhubungan dengan pajak terutang;
 
-b. Memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu guna kelancaran pemeriksaan,
+b. Memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu guna kelancaran pemeriksaan;
 
-c. Memberi kesempatan kepada petugas untuk melakukan pemeriksaan kas (kas opname), stock bon penjualan atau bill dan faktur maupun mesin cash register,
+c. Memberi kesempatan kepada petugas untuk melakukan pemeriksaan kas (kas opname), stock bon penjualan atau bill dan faktur maupun mesin cash register;
 
 d. Memberikan data potensi dan keterangan yang diperlukan secara benar, lengkap dan jelas.
 
@@ -640,7 +616,6 @@ d. Memberikan data potensi dan keterangan yang diperlukan secara benar, lengkap 
 **Bagian Ketiga - Pengawasan**
 
 ### Pasal 23
-
 (1) Walikota atau Kepala SKPD-PPD berwenang melaksanakan pengawasan terhadap pelaksanaan usaha atau penyelenggaraan tempat parkir yang dilaksanakan oleh wajib pajak.
 
 (2) Kepala SKPD-PPD berwenang menempatkan Petugas pengawas yang dilengkapi surat tugas dan/atau peralatan (eguipment) baik sistem manual dan/atau sistem on line (komputerisasi) di tempat parkir.
@@ -648,10 +623,7 @@ d. Memberikan data potensi dan keterangan yang diperlukan secara benar, lengkap 
 (3) Penggunaan peralatan dengan komputerisasi sebagaimana dimaksud pada ayat (2) dilakukan dengan cara menghubungkan mesin komputer Wajib Pajak dengan komputer milik Pemerintah Kota melalui sistem jaringan informasi SKPD-PPD secara on line.
 
 ### Pasal 24
-
-(1) Penempatan peralatan sebagaimana dimaksud dalam Pasal 23 ayat
-
-(2) berfungsi sebagai alat kontrol setiap transaksi, dengan biaya pengadaan peralatan tersebut menjadi kewajiban Pemerintah Kota dan/atau SKPD-PPD.
+(1) Penempatan peralatan sebagaimana dimaksud dalam Pasal 23 ayat (2) berfungsi sebagai alat kontrol setiap transaksi, dengan biaya pengadaan peralatan tersebut menjadi kewajiban Pemerintah Kota dan/atau SKPD-PPD.
 
 (2) Wajib Pajak harus memelihara peralatan (eguipment) sebagaimana dimaksud dalam Pasal 23 ayat (2) dan tidak mengubah program yang telah ditentukan oleh SKPD-PPD.
 
@@ -666,29 +638,26 @@ d. Memberikan data potensi dan keterangan yang diperlukan secara benar, lengkap 
 **Bagian Kesatu - Keberatan**
 
 ### Pasal 25
-
 Wajib Pajak dapat mengajukan keberatan hanya kepada Walikota atau
 
 Kepala SKPD-PPD atas suatu SKPDKB, SKPDKBT, SKPDKLB, SKPDN atau STPD Pajak Parkir.
 
 ### Pasal 26
-
 (1) Penyelesaian keberatan atas Surat Ketetapan Pajak sebagaimana dimaksud dalam Pasal 25, dilaksanakan oleh SKPD-PPD.
 
 (2) Permohonan keberatan yang diajukan Wajib Pajak harus memenuhi persyaratan sebagai berikut:
 
-a. Permohonan diajukan secara tertulis dalam bahasa Indonesia, dengan disertai alasan-alasan yang jelas,
+a. Permohonan diajukan secara tertulis dalam bahasa Indonesia, dengan disertai alasan-alasan yang jelas;
 
-b. Dalam hal Wajib Pajak mengajukan keberatan atas Ketetapan pajak secara jabatan, Wajib Pajak harus dapat membuktikan ketidakbenaran ketetapan pajak tersebut,
+b. Dalam hal Wajib Pajak mengajukan keberatan atas Ketetapan pajak secara jabatan, Wajib Pajak harus dapat membuktikan ketidakbenaran ketetapan pajak tersebut;
 
-c. Surat permohonan keberatan ditandatangani oleh Wajib Pajak, dan dalam hal permohonan keberatan dikuasakan kepada pihak lain harus dengan melampirkan Surat Kuasa,
+c. Surat permohonan keberatan ditandatangani oleh Wajib Pajak, dan dalam hal permohonan keberatan dikuasakan kepada pihak lain harus dengan melampirkan Surat Kuasa;
 
-d. Surat permohonan keberatan diajukan untuk satu Surat Ketetapan Pajak dan untuk satu tahun pajak atau masa pajak dengan melampirkan fotocopinya,
+d. Surat permohonan keberatan diajukan untuk satu Surat Ketetapan Pajak dan untuk satu tahun pajak atau masa pajak dengan melampirkan fotocopinya;
 
 e. Permohonan keberatan diajukan dalam jangka waktu paling lama 3 (tiga) bulan sejak Surat Ketetapan Pajak diterima oleh Wajib Pajak, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena di luar kekuasaannya.
 
 ### Pasal 27
-
 (1) Pengajuan keberatan yang tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 26 ayat (2), tidak dianggap sebagai pengajuan keberatan sehingga tidak dipertimbangkan.
 
 (2) Dalam hal pengajuan keberatan yang belum memenuhi persyaratan tetapi masih dalam jangka waktu sebagaimana dimaksud dalam Pasal 26 ayat (2) huruf e, Kepala SKPD-PPD dapat meminta Wajib Pajak melengkapi persyaratan tersebut.
@@ -696,11 +665,9 @@ e. Permohonan keberatan diajukan dalam jangka waktu paling lama 3 (tiga) bulan s
 (3) Dalam hal pengajuan keberatan memerlukan pemeriksaan lapangan, maka SKPD-PPD dapat melaksanakan pemeriksaan lapangan dan hasilnya dituangkan dalam laporan hasil pemeriksaan lapangan.
 
 ### Pasal 28
-
 Pengajuan keberatan tidak menunda kewajiban membayar pajak dan pelaksanaan penagihan pajak sesuai ketentuan peraturan perundang- undangan.
 
 ### Pasal 29
-
 (1) Dalam jangka waktu 12 (dua belas) bulan sejak tanggal Surat Keberatan diterima, Walikota atau Kepala SKPD-PPPD harus memberikan Keputusan atas keberatan yang diajukan oleh Wajib Pajak, yang dituangkan dalam Surat Keputusan Keberatan.
 
 (2) Surat Keputusan sebagaimana dimaksud pada ayat (1), dapat berupa menerima seluruhnya atau sebagian, menolak, atau menambah besarnya pajak yang terutang.
@@ -714,17 +681,15 @@ Pengajuan keberatan tidak menunda kewajiban membayar pajak dan pelaksanaan penag
 (6) Keputusan keberatan tidak menghilangkan hak Wajib Pajak untuk mengajukan permohonan mengangsur pembayaran.
 
 ### Pasal 30
-
-(1) Jika pengajuan keberatan sebagimana dimaksud pasal 25 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2x (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
+(1) Jika pengajuan keberatan sebagimana dimaksud pasal 25 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKPDLB.
 
-(3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 506 (lima puluh persen) dari jumlah pajak berdasarkan keputusan keberatan dikurangi dengan pajak yang telah dibayar sebelum mengajukan keberatan.
+(3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 50% (lima puluh persen) dari jumlah pajak berdasarkan keputusan keberatan dikurangi dengan pajak yang telah dibayar sebelum mengajukan keberatan.
 
 **Bagian Kedua - Pengurangan, Keringanan Dan Pembebasan Pajak**
 
 ### Pasal 31
-
 (1) Wajib Pajak dapat mengajukan permohonan pengurangan, keringanan atau pembebasan pajak Parkir hanya kepada Walikota.
 
 (2) Tata cara pengajuan pengurangan, keringanan, pembebasan pajak diatur dengan Peraturan Walikota tersendiri.
@@ -732,7 +697,6 @@ Pengajuan keberatan tidak menunda kewajiban membayar pajak dan pelaksanaan penag
 **Bagian Ketiga - Banding**
 
 ### Pasal 32
-
 (1) Wajib Pajak dapat mengajukan permohonan banding hanya kepada Pengadilan Pajak terhadap Keputusan mengenai keberatan yang ditetapkan oleh Walikota atau Kepala SKPD-PPD.
 
 (2) Permohonan sebagaimana dimaksud pada ayat (1), diajukan secara tertulis dalam bahasa Indonesia, dengan alasan yang jelas dalam jangka waktu paling lama 3 (tiga) bulan sejak Keputusan Keberatan diterima, dengan dilampirkan salinan Surat Keputusan tersebut.
@@ -740,7 +704,6 @@ Pengajuan keberatan tidak menunda kewajiban membayar pajak dan pelaksanaan penag
 (3) Pengajuan permohonan banding menangguhkan kewajiban membayar pajak sampai dengan 1 (satu) bulan sejak tanggal penerbitan Putusan Banding.
 
 ### Pasal 33
-
 (1) Terhadap satu Keputusan keberatan, diajukan 1 (satu) Surat banding.
 
 (2) Wajib Pajak dapat mengajukan Surat Pernyataan Pencabutan kepada Pengadilan Pajak.
@@ -752,37 +715,34 @@ a. Penetapan Ketua dalam Surat Pernyataan Pencabutan diajukan sebelum sidang dil
 b. Putusan Majelis Hakim/Hakim Tunggal melalui pemeriksaan dalam Surat Pernyataan Pencabutan diajukan dalam sidang atas persetujuan terbanding.
 
 ### Pasal 34
+(1) Jika permohonan banding sebagimana dimaksud pasal 32 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
 
-(1) Jika permohonan banding sebagimana dimaksud pasal 32 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 20 (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
+(2) Dalam hal Wajib Pajak mengajukan permohonan banding, sanksi administratif berupa denda sebesar 50% (lima puluh persen) sebagaimana dimaksud pada pasal 30 ayat (3) tidak dikenakan.
 
-(2) Dalam hal Wajib Pajak mengajukan permohonan banding, sanksi administratif berupa denda sebesar 505 (lima puluh persen) sebagaimana dimaksud pada pasal 30 ayat (3) tidak dikenakan.
-
-(3) Dalam hal permohonan banding ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 1000 (seratus persen) dari jumlah pajak berdasarkan Putusan Banding dikurangi dengan pembayaran pajak yang telah dibayar sebelum mengajukan keberatan.
+(3) Dalam hal permohonan banding ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 100% (seratus persen) dari jumlah pajak berdasarkan Putusan Banding dikurangi dengan pembayaran pajak yang telah dibayar sebelum mengajukan keberatan.
 
 ## BAB IX - PEMBETULAN, PEMBATALAN, PENGURANGAN KETETAPAN, DAN PENGHAPUSAN ATAU PENGURANGAN SANKSI ADMINISTRASI
 
 ### Pasal 35
-
 (1) Walikota atau Kepala SKPD-PPD atas permohonan Wajib Pajak atau karena jabatannya dapat membetulkan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD yang dalam penerbitannya terdapat kesalahan tulis, kesalahan hitung dan/atau kekeliruan penerapan peraturan daerah.
 
 (2) Pelaksanaan pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD atas permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1) dilakukan sebagai berikut:
 
-a. Permohonan diajukan kepada Walikota atau Kepala SKPD-PPD dalam jangka waktu 30 (tiga puluh) hari setelah Surat Ketetapan Pajak sebagaimana dimaksud pada ayat (1) diterima, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena keadaan di luar kekuasaannya,
+a. Permohonan diajukan kepada Walikota atau Kepala SKPD-PPD dalam jangka waktu 30 (tiga puluh) hari setelah Surat Ketetapan Pajak sebagaimana dimaksud pada ayat (1) diterima, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena keadaan di luar kekuasaannya;
 
-b. Terhadap SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD yang akan dibetulkan baik karena jabatan atau atas permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1), dilakukan penelitian administrasi atas kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Parkir,
+b. Terhadap SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD yang akan dibetulkan baik karena jabatan atau atas permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1), dilakukan penelitian administrasi atas kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Parkir;
 
-c. Apabila dari hasil penelitian sebagaimana dimaksud pada huruf b ternyata terdapat kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Parkir, maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD tersebut dapat dibetulkan,
+c. Apabila dari hasil penelitian sebagaimana dimaksud pada huruf b ternyata terdapat kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Parkir, maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD tersebut dapat dibetulkan;
 
-d. Pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD sebagaimana dimaksud pada huruf c dilakukan dengan menerbitkan Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak oleh Walikota atau Kepala SKPD-PPD yang disampaikan kepada Wajib Pajak paling lambat 3 (tiga) hari kerja sejak diterbitkan,
+d. Pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD sebagaimana dimaksud pada huruf c dilakukan dengan menerbitkan Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak oleh Walikota atau Kepala SKPD-PPD yang disampaikan kepada Wajib Pajak paling lambat 3 (tiga) hari kerja sejak diterbitkan;
 
-e. Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak harus dilunasi dalam jangka waktu paling lambat 30 (tiga puluh) hari sejak diterbitkan,
+e. Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak harus dilunasi dalam jangka waktu paling lambat 30 (tiga puluh) hari sejak diterbitkan;
 
-f. ' Setelah diterbitkannya Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD semula dibatalkan dan disimpan sebagai arsip dalam administrasi perpajakan yang diberi tanda silang dan paraf serta dicantumkan kata-kata “Dibatalkan”,
+f. ' Setelah diterbitkannya Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD semula dibatalkan dan disimpan sebagai arsip dalam administrasi perpajakan yang diberi tanda silang dan paraf serta dicantumkan kata-kata “Dibatalkan”;
 
 g. Dalam hal permohonan Wajib Pajak ditolak maka Kepala SKPD-PPD segera menerbitkan Surat Keputusan Penolakan Pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD.
 
 ### Pasal 36
-
 (1) Walikota atau Kepala SKPD-PPD dapat mengurangkan atau membatalkan ketetapan pajak, apabila terdapat:
 
 a. Novum atau fakta baru yang belum terungkap pada waktu pemeriksaan untuk menentukan besarnya pajak terutang sementara batas waktu pengajuan keberatan telah terlampaui.
@@ -794,8 +754,6 @@ b. Novum atau fakta baru yang belum terungkap disebabkan tidak dipertimbangkanny
 (3) Pengurangan atau pembatalan Ketetapan pajak atas dasar permohonan Wajib Pajak, ditentukan sebagai berikut:
 
 a. Surat permohonan Wajib Pajak didukung oleh novum atau fakta baru yang meyakinkan sebagaimana dimaksud pada ayat
-
-(1).
 
 b. Dalam Surat Permohonan Wajib Pajak harus dilampirkan dokumen berupa fotocopy:
 
@@ -814,12 +772,11 @@ c. Pengajuan permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pad
 (6) Apabila diterbitkan Surat Keputusan Penolakan pengurangan atau pembatalan Ketetapan Pajak, maka Surat Ketetapan Pajak yang lama dikukuhkan dengan surat keputusan ini.
 
 ### Pasal 37
-
 (1) Walikota atau Kepala SKPD-PPD karena jabatannya atau atas permohonan Wajib Pajak dapat mengurangkan atau menghapus sanksi administrasi berupa bunga, denda, dan/atau kenaikan pajak yang terutang.
 
 (2) Pengurangan atau penghapusan sanksi administrasi sebagaimana dimaksud pada ayat (1), dapat dilakukan terhadap :
 
-a. sanksi administrasi berupa bunga disebabkan keterlambatan pembayaran pada masa pajak,
+a. sanksi administrasi berupa bunga disebabkan keterlambatan pembayaran pada masa pajak;
 
 b. sanksi administrasi berupa bunga, denda dan/atau kenaikan pajak dalam surat ketetapan pajak atau STPD.
 
@@ -846,7 +803,6 @@ d. Berdasarkan hasil penelitian, Walikota atau Kepala SKPD-PPD dapat menyetujui 
 (6) Wajib pajak melakukan pembayaran pajak paling lambat 7 (tujuh) hari setelah menerima Surat Keputusan Pengurangan dan Penghapusan Sanksi Administrasi.
 
 ### Pasal 38
-
 (1) Walikota atau Kepala SKPD-PPD paling lama 3 (tiga) bulan sejak surat permohonan pembetulan, pembatalan, pengurangan ketetapan dan penghapusan atau pengurangan sanksi administrasi diterima, sudah harus memberikan keputusan.
 
 (2) Apabila setelah lewat waktu 3 (tiga) bulan, Walikota atau Kepala SKPD-PPD tidak memberikan keputusan, permohonan sebagaimana dimaksud pada ayat (1) dianggap dikabulkan.
@@ -854,36 +810,35 @@ d. Berdasarkan hasil penelitian, Walikota atau Kepala SKPD-PPD dapat menyetujui 
 ## BAB X - PENGEMBALIAN KELEBIHAN PEMBAYARAN
 
 ### Pasal 39
-
 (1) Wajib Pajak dapat mengajukan permohonan pengembalian atas kelebihan pembayaran Pajak Parkir kepada Walikota melalui Kepala SKPD-PPD.
 
 (2) Pengembalian kelebihan pembayaran sebagaimana dimaksud pada ayat (1) disebabkan adanya kelebihan pembayaran pajak yang telah disetorkan ke Kas Daerah atau Bendahara Khusus Penerimaan SKPD-PPD berdasarkan:
 
-a. Perhitungan dari Wajib Pajak:
+a. Perhitungan dari Wajib Pajak;
 
-b. Surat Keputusan Keberatan atau Surat Keputusan pembetulan, pembatalan dan pengurangan ketetapan, dan pengurangan atau penghapusan sanksi administrasi:
+b. Surat Keputusan Keberatan atau Surat Keputusan pembetulan, pembatalan dan pengurangan ketetapan, dan pengurangan atau penghapusan sanksi administrasi;
 
-Cc. Putusan banding atau putusan peninjauan kembali,
+c. Putusan banding atau putusan peninjauan kembali;
 
 d. Kebijakan pemberian pengurangan, keringanan, dan/atau pembebasan pajak berdasarkan peraturan perundangundangan.
 
-(3) Permohonan Wajib pajak sebagaimana dimaksud pada ayat 1), diajukan secara tertulis paling lambat 2 (dua) bulan sejak saat timbulnya kelebihan pembayaran pajak dengan menyebutkan sekurang-kurangnya :
+(3) Permohonan Wajib pajak sebagaimana dimaksud pada ayat (1), diajukan secara tertulis paling lambat 2 (dua) bulan sejak saat timbulnya kelebihan pembayaran pajak dengan menyebutkan sekurang-kurangnya :
 
-a. Nama dan alamat wajib pajak,
+a. Nama dan alamat wajib pajak;
 
-b. Masa pajak,
+b. Masa pajak;
 
 c. Besarnya kelebihan pembayaran pajak.
 
 (4) Surat permohonan Wajib Pajak yang dimaksud pada ayat (1) harus melampirkan dokumen :
 
-a. Identitas penduduk/KTP pemohon Wajib Pajak,
+a. Identitas penduduk/KTP pemohon Wajib Pajak;
 
-b. Surat Pemberitahuan Pajak Daerah (SPTPD),
+b. Surat Pemberitahuan Pajak Daerah (SPTPD);
 
-c. Dokumen perpajakan,
+c. Dokumen perpajakan;
 
-d. Bukti pembayaran pajak,
+d. Bukti pembayaran pajak;
 
 e. Uraian perhitungan pajak menurut Wajib Pajak.
 
@@ -895,14 +850,13 @@ e. Uraian perhitungan pajak menurut Wajib Pajak.
 
 (8) Pengembalian kelebihan pembayaran Pajak sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 2 (dua) bulan sejak diterbitkannya SKPDLB dengan menerbitkan Surat Perintah Membayar Kelebihan Pajak (SPMKP).
 
-(9) Jika pengembalian kelebihan pembayaran Pajak dilakukan setelah lewat 2 (dua) bulan, Walikota atau pejabat yang ditunjuk memberikan imbalan bunga sebesar 2”0 (dua persen) sebulan atas keterlambatan pembayaran kelebihan pembayaran Pajak.
+(9) Jika pengembalian kelebihan pembayaran Pajak dilakukan setelah lewat 2 (dua) bulan, Walikota atau pejabat yang ditunjuk memberikan imbalan bunga sebesar 2% (dua persen) sebulan atas keterlambatan pembayaran kelebihan pembayaran Pajak.
 
 (10) Apabila kelebihan pembayaran pajak diperhitungkan dengan utang pajak lainnya sebagaimana dimaksud pada ayat (7), pembayarannya dilakukan dengan cara pemindahbukuan dan bukti pemindahbukuan juga berlaku sebagai bukti pembayaran.
 
 ## BAB XII - KETENTUAN PENUTUP
 
 ### Pasal 40
-
 Peraturan Walikota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup

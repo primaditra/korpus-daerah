@@ -26,7 +26,7 @@ Undang Nomor 23 Tahun 2014 tentang
 pemerintahan daerah, pajak dacrah dan
 retribusi daerah ditetapkan dengan Undang-
 Undang vang pelaksanaan di daerah diatur
-lebih lanjut dengan peraturan daerah,
+lebih lanjut dengan peraturan daerah;
 b. (bahwa sesuai ketentuan Pasal 94 Undang-
 Undang Nomor 1 Tahun 2042 tentang
 Hubungan Keuangan antara Pemerintah Pusat
@@ -48,7 +48,7 @@ Hukum | Pemprakarsa Ben
 #11 Aa
 :
 dengingat l. Pasal IS avat (9) Undang-Undang Dasar
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959
 tentang Penetapan Undang-Undang Darurat
 Nomor 3 Tahun 1953 tentang Pembentukan
@@ -79,7 +79,7 @@ S5 Peraturan Pemenntah Nomor 12 Tahun 2019
 tentang Pengelolaan Keuangan  Deerah
 (Lembaran Negara Republik Indonesia Tahur.
 2019 Nomor 42, Tambahan Lembaran Negara
-Republik Indonesia Nomor 6322),
+Republik Indonesia Nomor 6322);
 6. Peraturan Pemerintah Nomor 34 Tahun 2021
 tentang Penggunaan Tenaga Kerja Asing
 (Lembaran Negara Republik Indonesia Tahun
@@ -177,7 +177,7 @@ ELF AMA f
 
 23. Barang dan Jasa Tertentu adalah berang dan jasa tertentu yang dijual dan/atau diserahkan kepaca konsumen akhir
 
-28 Makanan dan/atau Minuman adalah makanan danjfarau minuman yang disediakan, dijual dan/atau diserahkan, baik secara langsung maupun tidak langsung, atau melalui pesanan oleh restoran,
+28 Makanan dan/atau Minuman adalah makanan danjfarau minuman yang disediakan, dijual dan/atau diserahkan, baik secara langsung maupun tidak langsung, atau melalui pesanan oleh restoran;
 
 37. Restoran “adalah fasilitas penyediaan lasanan makanan danfatau minuman dengan cipungut bayaran, yang mencasup juga rumah makan, kafetaria. dantin. warung, bar, dan sejenisnya termasuk jasa hoga/ katering.
 
@@ -221,7 +221,7 @@ Yee | dombukaaen | dh | pedas 4 1 "
 
 "1
 
-45. Nilai Jual Objek Pajak vang selanjutnya disingkat NJOP adalah harga rata-rata yang diperoleh dan transaksi jual beli yang terjadi secara wajar, dan bilamana ndak terdapat transaksi jual beli, NJOP ditentukan melalLi perbandingan harga dengan objek lain yang sejenis. atau nilai perolehan baru, atau NJOP pengganti,
+45. Nilai Jual Objek Pajak vang selanjutnya disingkat NJOP adalah harga rata-rata yang diperoleh dan transaksi jual beli yang terjadi secara wajar, dan bilamana ndak terdapat transaksi jual beli, NJOP ditentukan melalLi perbandingan harga dengan objek lain yang sejenis. atau nilai perolehan baru, atau NJOP pengganti;
 
 48. “Pemungutan adalah suatu rangkaian kegiatan mula dari penghimpunan data objek dan subjek pajak atau rernbusi, penentuan besarnya pajak atau remibusi yang terutang sampa! kegiatan penagihan pajak atau retribusi kepada Wajib Pajak atau Wajib Retribusi serta pengawasan penyetorannya.
 
@@ -273,7 +273,7 @@ Aa Surat Teguran adalah surat yang diterbirkan oleh Pejabat untuk menegur Wajib 
 
 66. Jurusita Pajak adalah pelaksana tindakan Penagihan Pajak yang meliputi Penagihan Seketika dan Sekaligus, pemberitahuan Surat Paksa, penvitaan dan penyanderaan:
 
-67, Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti yang dilaksanakan secara objektif dan profesional berdasarkan suatu standar pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Pajak dan Retribusi dan/atau untuk tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undargan perpajakan daerah dan Retribusi Daerah,
+67, Pemeriksaan adalah serangkaian kegiatan menghimpun dan mengolah data, keterangan, dan/atau bukti yang dilaksanakan secara objektif dan profesional berdasarkan suatu standar pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban Pajak dan Retribusi dan/atau untuk tujuan lain dalam rangka melaksanakan ketentuan peraturan perundang-undargan perpajakan daerah dan Retribusi Daerah;
 
 68. Penyidikan tindak pidana Cc: bidang perpajakan yang selanjutnya disebut Penyidikan adalah serangkaian undakan yang dilakukan oleh penyidik untuk mencan setia mengumpulkan bukti yang dengan bukti itu membuat terang tindak pidana di bidang perpajakan yang terjadi serta menemukan tersangkenya tem. | Pemprakarsa | ta # | 1
 
@@ -393,7 +393,7 @@ a. PBB-P2, bh, BPHTB: ct. /(PBJTatas:
 
 d. Pajak Reklame:
 
-e. PAT L Pajak MBLB: g Pajak Sarang Burung Walet,
+e. PAT L Pajak MBLB: g Pajak Sarang Burung Walet;
 
 h. Opsen PKB: dan
 
@@ -415,7 +415,7 @@ l. Makanan dan/atau Minuman.
 
 2. Tenaga Listrik:
 
-3. Jasa Perhotelan, 4, Jasa Parkir, dan
+3. Jasa Perhotelan, 4, Jasa Parkir; dan
 
 5. Jasa Kesenian dan Hiburan: &. Pajak MBLB, dan di. / Pajak Sarang Burung Walet.
 
@@ -435,17 +435,17 @@ TE me PR KJ MELALI
 
 (2 Bumi sebagaimana dimaksut pada avat (1) termasuk permukaan Bumi hasil kepiatan reklamasi atau penguru kan (31 Yang dikecualikan dari objek PBB-P2 sebagaimana dimaksud pada ayat (I| adalah kepemilikan, penguasaan. dan/atau pemanfaatan atas:
 
-a. Bumi dan/atau Banguran kantor Pemerintah, kantor Pemerintahan Daerah, dan kantor penyelenggara negara lainnya yang dicatat sebagai barang milik megara atau barang milik Daerah,
+a. Bumi dan/atau Banguran kantor Pemerintah, kantor Pemerintahan Daerah, dan kantor penyelenggara negara lainnya yang dicatat sebagai barang milik megara atau barang milik Daerah;
 
 b. Bumi dan/atau Bangunan vang digunakan semata-mata untuk melayani kepentingan umum di bidang keagamaan, panti sosial, kesehatan. pendidikan, dan kebudayaan nasional, yang tidak dirsaksudkan untuk memperoleh keuntungan:
 
-c. Bumi danfatau Bangunan tang semata-mata digunakan untuk tempat makam (kuburan), peninggalan purbakala, atau vang sejenis,
+c. Bumi danfatau Bangunan tang semata-mata digunakan untuk tempat makam (kuburan), peninggalan purbakala, atau vang sejenis;
 
 d. Bumi yang merupakan hutar lindung, huian suaka alam. hutan wisata, taman nasional, tanah penggembalaan yang dikuasai oleh desa, dan tanah negara yang belum dibebani suatu hak:
 
 e Bumi dan/atau Bangunar vang digunakan olsh perwalulan diplomatik dan konsulat berdasarkan asas perlakuan timbal lea lik
 
-Bumi dan/atau Bangunan yang digunakan oleh Bagan atau perwakilan lembaga internasional yang ditetapkan dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang kesangan,
+Bumi dan/atau Bangunan yang digunakan oleh Bagan atau perwakilan lembaga internasional yang ditetapkan dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang kesangan;
 
 g. Bumi dan/atau Bangunan untuk jalur kereta api, moda rava terpadu (Mass Rapid Transit, lintas raya terpadu (Lighr Sai Transif|, atau yang sejenis.
 
@@ -465,7 +465,7 @@ PS Toon Den | en BN MN ANN GI
 
 ### Pasal 6
 
-(Il Dasar pengenaan PBB-P2 adalah NP,
+(Il Dasar pengenaan PBB-P2 adalah NP;
 
 (3) NJOP sebagaimana dimaksud pada ayat (1) ditetapkan berdasarkan proses permlaian PBB-P2.
 
@@ -499,7 +499,7 @@ b. bentuk pemanfaatan objek Pajak: dan/atau tu klasternsasi NJOP dalam satu wila
 
 Tanf PBB-P2 ditetapkan sebagai berikut
 
-a. sebesar 0,125 95 (nol koma satu dua lima persen) dam Nilai Jual Objek Pajak apabila Nilai Jual Objek Pajaknya kurang dari Rp.1.000-000.000,00 (satu miliar rupiah|,
+a. sebesar 0,125 95 (nol koma satu dua lima persen) dam Nilai Jual Objek Pajak apabila Nilai Jual Objek Pajaknya kurang dari Rp.1.000-000.000,00 (satu miliar rupiah|;
 
 b. sebesar 0,21 95 (nol koma dua satu persen) dari Milaa Jual Olbek Patak apabila Nilai Jual Objek Pajaknya Rp.1.000.000.000,00 (satu milier rupiah) atau lebih:dan
 
@@ -529,7 +529,7 @@ a. Pemindahan hak karena:
 
 1. jual beli:
 
-2. tukar-menukar,
+2. tukar-menukar;
 
 3. hibah, 4, hibah wasiat, 5, waris:
 
@@ -547,19 +547,19 @@ c. hak guna bangunan: d, hak pakai: Bala Bimepaasika Melania 21 / 3 2 e, hak mil
 
 (#H Yang dikecualikan dari objek BPHTB adalah Perolehan Hak atas Tanah dan/atau Bangunan:
 
-a. untuk kantor pemenntah pusat, Pemerintah Daerah, penyelenggara negara dan lembaga negara lainnya vang dicatat sebagai barang milik negara atau barang milik daerah,
+a. untuk kantor pemenntah pusat, Pemerintah Daerah, penyelenggara negara dan lembaga negara lainnya vang dicatat sebagai barang milik negara atau barang milik daerah;
 
 b. oleh negara untuk penvelenggsraan pemerintahan dan /atau untuk pelaksanaan pembangunan guna kepentingan umum:
 
-c. untuk Badan atau perwakilan lembaga internasional dengan syara: tidak menjalankan usaha atau melakukan kegiatan lain di luar fungsi dan tugas Badan atau perwakilan lembaga tersebut yang diatur dengan peraturan menteri yang menyelenggarakan Urusan Pemerintah di bidang keuangan,
+c. untuk Badan atau perwakilan lembaga internasional dengan syara: tidak menjalankan usaha atau melakukan kegiatan lain di luar fungsi dan tugas Badan atau perwakilan lembaga tersebut yang diatur dengan peraturan menteri yang menyelenggarakan Urusan Pemerintah di bidang keuangan;
 
 d. untuk perwakilan diplomatik dan konsulat berdasarkan asas perlakuan timbal balik:
 
-e. oleh orang pribadi atau Badan karena konversi hak atau karena perbuatan hukum lain dengan bdak adanya perubahan nama,
+e. oleh orang pribadi atau Badan karena konversi hak atau karena perbuatan hukum lain dengan bdak adanya perubahan nama;
 
 f. oleh orang pribadi atau Badan karena wakaf:
 
-BE. oleh orang pribadi atau Badan yang digunakan untuk kepentingan ibadah, dan
+BE. oleh orang pribadi atau Badan yang digunakan untuk kepentingan ibadah; dan
 
 h. untuk masyarakat berpenghasilan rendah sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -581,7 +581,7 @@ Hukum | #emapralearsa ai El Tia
 
 (2) Milai perolehan objek pajak sebagaimana dimaksud pada ayat (1 ditetapkan sebagai beriklit:
 
-a. harga transaksi untuk jual beli,
+a. harga transaksi untuk jual beli;
 
 b. nilai pasar untuk tukar menukar, hibah, hibah wasiat, waris, pemasukan dalam perseroan atau badan hukum lainnya, pemisahan hak yang mengakibatkan peralinan, peralihan hak karena pelaksanaan putusan hakim vang mempunyai kekuatan hukum tetap, pemberian hak baru atas tanah sebagai kelanjutan dari pelepasan hak, pemberian hak baru atas tanah di luar pelepasan hak, penggabungan usaha, peleburan usaha, pemekaran usaha, dan hadiah, dan
 
@@ -613,13 +613,13 @@ Aa. pada tanggal dibuat dan ditandatanganinya perjanjian pengikatan jual beli un
 
 &. pada tanggal penerima waris atau yang diberi kuasa oleh penerima waris mendaftarkan peralihan haknya ke kantor bidang pertanahan untuk waris:
 
-ul. pada tanggal putusan pengadilan yang mempunyai kekuatan hukum yang tetap untuk putusan hakim,
+ul. pada tanggal putusan pengadilan yang mempunyai kekuatan hukum yang tetap untuk putusan hakim;
 
 e. pada tanggal diterbitkannya surat keputusan pemberian hak untuk pemberian hak baru atas tanah sebagai kelanjutan dari pelepasan hak:
 
 f j/pada tanggal diterbitkannya surat keputusan pemberian hak untuk pemberian hak baru di luar pelepasan hak: atau ge. pada tanggal penunjukan pemenang lelang untuk lelang.
 
-(al Dalam hal pada saat transaksi jual beli tanah/atau bangunan tidak menggunakan perjanjian pengikatan jual beli sebagaimana dimaksud pada avat (2) huruf a, maka saat terutang BPHTB untuk jual be adalah pada saat ditandatanganinya akta jual beli,
+(al Dalam hal pada saat transaksi jual beli tanah/atau bangunan tidak menggunakan perjanjian pengikatan jual beli sebagaimana dimaksud pada avat (2) huruf a, maka saat terutang BPHTB untuk jual be adalah pada saat ditandatanganinya akta jual beli;
 
 (4) Dalam hal terjadi perubahan atau pembatalan perjanjian pengikatan jual beli sebelum ditandatanganinya akta jual beli mengakibatkan:
 
@@ -643,7 +643,7 @@ a, meminta bukti pembayaran BPHTB kepada Wajib Pajak, sebelum menandatangani akt
 
 If
 
-b. melaporkan pembuatan perjanjian pengikatan jual beli danfatau akta atas tanah danfatau Bangunan kepada Bupati paling lambat pada tanggal 10 (sepuluh) bulan berikutnya,
+b. melaporkan pembuatan perjanjian pengikatan jual beli danfatau akta atas tanah danfatau Bangunan kepada Bupati paling lambat pada tanggal 10 (sepuluh) bulan berikutnya;
 
 (2) Dalam hal pejabat pembuat akta tanah/notaris melanggar kewajiban sebagaimana dimaksud pada ayat (1), dikenakan sanksi administratif berupa:
 
@@ -661,7 +661,7 @@ a. meminta bukti »embayaran BPHTB kepada Wajib Pajak, sebelurn menandatangani r
 
 ### Pasal 17
 
-(1) Kepala kantor bidang pertanahan hanya dapat melakukan pendaftaran hak atas tanah atau pendaftaran peralihan hak atas tanah setelah Wajib Pajak menyerahkan bukti pembayaran BPHTB,
+(1) Kepala kantor bidang pertanahan hanya dapat melakukan pendaftaran hak atas tanah atau pendaftaran peralihan hak atas tanah setelah Wajib Pajak menyerahkan bukti pembayaran BPHTB;
 
 (2) Kepala kantor bidang pertanahan yang melanggar ketentuan sebagaimana dimaksud pada avat (1) dikenakan sanksi sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -685,7 +685,7 @@ a. Restoran yang paling sedikit menyediakan layanan penyajian Makanan dan/atau M
 
 b: penvedia jasa boga atau katering vang melakukan:
 
-I. proses penyediaan bahan baku dan bahan setengah jadi. pembuatan, penyimpanan. srrta penyajian berdasarkan pesanan,
+I. proses penyediaan bahan baku dan bahan setengah jadi. pembuatan, penyimpanan. srrta penyajian berdasarkan pesanan;
 
 2. penyajian di lokasi yang diinginkan oleh pemesan dan berbeda dengan lokasi dimana proses pembuatan dan penyimpanan dilakukan: dan
 
@@ -693,7 +693,7 @@ I. proses penyediaan bahan baku dan bahan setengah jadi. pembuatan, penyimpanan.
 
 (2) Yang dikecuelikan dari objek PEJT sebagaimana dimaksud pada ayat (1) adalah penyerahan Makanan dan/atau Minuman:
 
-a. dengan peredaran usaha yang nilai penjualan tidak melebihi Rp.1.500.000,00 (satu juta lima rats ribu rupiah) per bulan,
+a. dengan peredaran usaha yang nilai penjualan tidak melebihi Rp.1.500.000,00 (satu juta lima rats ribu rupiah) per bulan;
 
 b. dilakukan oleh toko swalayan dan sejenisnya yang tdak semata-mata menjual Makanan dan/atau Minuman,
 
@@ -717,7 +717,7 @@ a. konsumsi Tenaga Listrik oleh instans: pemerintah pusat, Pemenntah Daerah dan 
 
 b. korsumsi Tenaga Listrik pada tempat yang digunakan oleh kedutaan, konsulat, dan perwakilan negara asing berdasarkan asas timbal balik:
 
-Cc. konsumsi Tenaga Listrik pada rumah ibadah, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis,
+Cc. konsumsi Tenaga Listrik pada rumah ibadah, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis;
 
 d. konsumsi Tenaga Listrik yang dihasilkan sendiri: dengan kapasitas tertentu yang tidak memerlukan izin dari instansi teknis terkait: dan e, konsumsi tenaga listrik di kawasan terpencil dengan menggunakan pembangkit tenaga listrik bantuan dari pemerintah pusat, Pemerintah Daerah dan/atau Pemenntah Desa.
 
@@ -725,7 +725,7 @@ d. konsumsi Tenaga Listrik yang dihasilkan sendiri: dengan kapasitas tertentu ya
 
 (11 Jasa Perhotelan sebagaimana dimaksud dalam Pasal 18 huruf c meliputi jasa penyediaan akomodasi dan fasilitas penunjangnya, serta penyewaan ruang rapat/ pertemuan pada penyedia jasa perhotelan seperti
 
-a. hotel,
+a. hotel;
 
 b. hostel:
 
@@ -733,11 +733,11 @@ c. vila:
 
 d, pondok wisata:
 
-e. motel,
+e. motel;
 
-f. losmen,
+f. losmen;
 
-g. wisma pariwisata,
+g. wisma pariwisata;
 
 h. pesanggrahan, i rumah pengmapan/rumah kos/ guesthouse/ bungalo / resort (| cottage/ homestay, ra bere naa Ja Sekda 17 11N 1 £
 
@@ -761,7 +761,7 @@ d. jasa tempat parkir yang diselenggarakan oleh sumah ibadah, dan &: jasa tempat
 
 (1 Jasa Kesenian dan Hiburan sebagaimana dimaksud dalam Pasal 18 huruf e meliputi: kanag: flem ae arsa | Asisten | Sekda aa a
 
-&. tontonan fila atau bentuk tontonan audio visual lainnya yang dipertontonkan secara langsung di suatu lokasi tertentu,
+&. tontonan fila atau bentuk tontonan audio visual lainnya yang dipertontonkan secara langsung di suatu lokasi tertentu;
 
 b. pergelaran kesenian, musik, tari, dan/atau busana, c, kontes kecantikan, d, kontes binaraga, e, pameran,
 
@@ -773,7 +773,7 @@ h, permainan ketangkasan:
 
 IL Olahraga permainan dengan menggunakan tempat/ruang dan/atau peralatan dan perlengkapan untuk olahraga dan kebugaran,
 
-. rekreasi wahana air, wahana ekologi, wahana pendidikan, wahana budaya, wahana salju, wahana permainan, pemancingan, agrowisata. dan kebun binatang,
+. rekreasi wahana air, wahana ekologi, wahana pendidikan, wahana budaya, wahana salju, wahana permainan, pemancingan, agrowisata. dan kebun binatang;
 
 k. panti pijat dan pijat refleksi, dan
 
@@ -781,7 +781,7 @@ k. panti pijat dan pijat refleksi, dan
 
 (2) Yang dikecualikan dari Jasa Kesenian dan Hiburan sebagaimana dimaksud pada avat (1| adalah Jasa Kesenian dan Hiburan yang semata-mata untuk:
 
-a. promosi budaya tradisional dengan tidak dipungut bavaran,
+a. promosi budaya tradisional dengan tidak dipungut bavaran;
 
 h. kegiatan pelavanan masyarakat dengan tdak dipungut bayaran: dan fatau
 
@@ -831,7 +831,7 @@ b. jumlah pembelian Tenaga Listrik untuk prabayar.
 
 (31 Milai jual Tenaga Listrik yang ditetapkan untuk Tenaga Listrik yang dihasilkan sendin sebagaimana dimaksud pada ayat (Jl: huruf b dihitung berdasarkan:
 
-2, kapasitas tersedia,
+2, kapasitas tersedia;
 
 b. tingkat penggunaan listrik:
 
@@ -847,7 +847,7 @@ c. jangka waktu pemakaian listrik, dan cd. harga satuan listrik yang berlaku di 
 
 (3) Khusus tarif PBJT atas Tenaga Listrik untuk:
 
-a. konsumsi Tenaga Listrik dari sumber lam oleh industn, pertambangan minyak bumi dan gas alam, ditetapkan sebesar 3 (aga persenj|, dan
+a. konsumsi Tenaga Listrik dari sumber lam oleh industn, pertambangan minyak bumi dan gas alam, ditetapkan sebesar 3 (aga persenj|; dan
 
 b. konsurnsi Tenaga Listrik yang dihasilkan sendiri, ditetapkan sebesar 1,54 (satu koma lima persen),
 
@@ -887,9 +887,9 @@ ci. Reklame selebaran,
 
 f. Reklame udara,
 
-BE. Reklame apung,
+BE. Reklame apung;
 
-h. Reklame film/ side, dan
+h. Reklame film/ side; dan
 
 1. Reklame peragaan.
 
@@ -955,9 +955,9 @@ Tanah. Kabag PD an ea Hukum pem | | a 3 | TN
 
 (2) Yang dikecualikan dari objek PAT adalah pengambilan untuk:
 
-a. keperluan dasar rumah tangga,
+a. keperluan dasar rumah tangga;
 
-b. pengairan pertanian rakyat,
+b. pengairan pertanian rakyat;
 
 c. perikanan rakyat: di. peternakan rakyat, 8, keperluan keagamaan, . (keperluan pemadam kebakaran, &. keperluan panti asuhan:
 
@@ -981,7 +981,7 @@ P3 Wajib PAT adalah orang pribadi atau Badan yang melakukan pengambilan danfatau
 
 (4) Bobot Air Tanah sebagaimana dimaksud pada avat 12) dinyatakan dalam koefisien yang didasarkan atas faktor-faktor berikut:
 
-Aa. jenis sumber air, b, lokasi sumber air, Cc. tujuan pengambilan dan/atau pemanfaatan air,
+Aa. jenis sumber air, b, lokasi sumber air, Cc. tujuan pengambilan dan/atau pemanfaatan air;
 
 d. volume air yang diambil dan/atau dimanfaatkan: &, kualitas air, dan £ (tingkat kerusakan lingkungan yang diakibatkan oleh pengambilan dan/atau pemanfaatan air. Na 1 | Pa ta NS | Asisten | Sekda $ | 7 (Na
 
@@ -1003,7 +1003,7 @@ L1) Besaran pokok PAT yang terutang dihitung dengan cara mengalikan dasar pengen
 
 il Objek Pajak MBLB adalah kegiatan pengambilan MBLB yang meliputi:
 
-8. asbes,
+8. asbes;
 
 b. batu tulis: Cc. / batu setengah permata:
 
@@ -1119,7 +1119,7 @@ Zi
 
 ### Pasal 46
 
-(1) Dasar pengenaan Pajak Sarang Buring Walet merupakan nilai jual Sarang Burung Walet,
+(1) Dasar pengenaan Pajak Sarang Buring Walet merupakan nilai jual Sarang Burung Walet;
 
 (2) Nilai jual Sarang Burung Walet sebagaimana dimaksud pada ayat (1) dihitung berdasarkan perkalian antara harga pasaran umum Sarang Burung Walet yang berlaku di Kabupaten Kapuas Hulu dengan volume Sarang Burung Walet.
 
@@ -1135,7 +1135,7 @@ Tarif Pajak Sarang Burung Walet ditetapkan sebesar 84 (delapan persen|.
 
 (1 Besaran pokok Pajak Sarang Burung Walet yang terutang Uihitung dengan cara mengalikan dasar pengenaan Pajak Sarang Burung Walet sebagaimana dimaksud dalam Pasal 46 ayat (1) dengan tarif Pajak Sarang Burung Walet sebagaimana dimaksud dalam Pasal 47.
 
-(2) Saat terutang Pajak Sarang Burung Walet ditetapkan pada saat terjadinya pengambilan dan/atau pengusahaan Sarang Burung Walet,
+(2) Saat terutang Pajak Sarang Burung Walet ditetapkan pada saat terjadinya pengambilan dan/atau pengusahaan Sarang Burung Walet;
 
 (3) Pajak Sarang Burung Walet yang terutang dipungut di wilayah Daerah tempat pengambilan dan/atau pengusahaan Sarang Burung Walet.
 
@@ -1223,7 +1223,7 @@ Tn PG EL P7 111
 
 (#l Hasil penerimaan PAT senbagaimana dimaksud dalam Pasal 3 ayat (1) huruf c, dialokasikan palmg sedikit 104 (sepuluh persen) untuk pencegahan, penanggulangan, dan pemulihan pencemaran danfatau kerusakan lingkungan hidup dalam Daerah yang berdampak terhadap kwalitas air tanah, meliputi:
 
-4. penanaman pohon,
+4. penanaman pohon;
 
 b. pembuatan lubang atau sumur resapan: Cc. pelestarian hutan atau pepohonan: dan
 
@@ -1239,7 +1239,7 @@ d. pengelolaan limbah.
 
 a. Retribusi Jasa Umum:
 
-b. Retribusi Jasa Usaha, dan
+b. Retribusi Jasa Usaha; dan
 
 c. Retribusi Perizinan Tertentu, is) Objek Retnibusi adalah penyediaan // pelayanan barang can /atau jasa dan pembenan jgn tertentu kepada orang pnibadi atau Badan oleh Pemerintah Daerah,
 
@@ -1257,7 +1257,7 @@ Aa. pelayanan kesehatan:
 
 b. pelayanan kebersihan:
 
-Co. pelayanan parkir di tepi jalan umum,
+Co. pelayanan parkir di tepi jalan umum;
 
 d. pelayanan pasar: dan e, pengendalian lalu lintas.
 
@@ -1347,7 +1347,7 @@ Struktur besaran tarif Retribusi Jasa Umum berupa pelayanan kebersihan tercantum
 
 ### Pasal 73
 
-(1) Pelayanan parkir di tepi jalan umum sebagaimana dimaksud dalam Pasal 52 ayat (ll huruf c merupakan penyediaan pelayanan parkir di tepi jalan umum yang ditentukan oleh Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan,
+(1) Pelayanan parkir di tepi jalan umum sebagaimana dimaksud dalam Pasal 52 ayat (ll huruf c merupakan penyediaan pelayanan parkir di tepi jalan umum yang ditentukan oleh Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan;
 
 (2) Objek Retribusi Pelayanan Parlar ditepi jalan umum adalah lokasi tempat parkir kendaraan bermotor, baik kendaraan roda dua atau lebih yang berada di tepi jalan umum ditetapkan oleh Pemerintah Kabupaten Kapuas Hulu dengan Peraturan Bupati Kapuas Hulu.
 
@@ -1435,7 +1435,7 @@ r. tidak menimbulkan ekonomi bizya tinggi.
 
 ### Pasal 82
 
-?1j Subjek Retribusi Jasa Usaha merupakan orang pribadi atau Badan yang menggunakan atau menikmati pelayansan Jasa Usaha,
+?1j Subjek Retribusi Jasa Usaha merupakan orang pribadi atau Badan yang menggunakan atau menikmati pelayansan Jasa Usaha;
 
 (2) Wajib Retribusi Jasa Usaha merupakan orang pribadi atau Badan yang menurut ketentuan peraturan perundangundangan diwajibkan untuk melakukan pembayaran Retribusi atas jenis pelayanan Jasa Usaha.
 
@@ -1593,7 +1593,7 @@ Yi
 
 (31 Bentuk pemanfaatan barang milik Daerah dan tata cara penghitungan besaran tarif dengan Peraturan Bupati sebapaimana dimaksud pada ayat (2), dilaksanakan untuk pemanfaatan barang milik Daerah yang berupa:
 
-Aa. sewa yang masa sewanya lebih dari 1 (satu| tahun,
+Aa. sewa yang masa sewanya lebih dari 1 (satu| tahun;
 
 b. kerja sama pemanfaatan:
 
@@ -1627,7 +1627,7 @@ Struktur besaran tarif Retribusi Jasa Usaha berupa pemanfaatan aset daerah terca
 
 (li Jenis pelayanan pemberian izin yang merupakan oljek Retribusi Perizinan Tertentu sebagaimana dimaksud dalam Pasal 60 avat (1) huruf c meliputi:
 
-Aa persetujuan bangunan gedung, dan
+Aa persetujuan bangunan gedung; dan
 
 b. penggunaan tenaga kerja asing.
 
@@ -1669,7 +1669,7 @@ UN Besaran Retribusi Pernzinan Tertentu yang terutang dihitung dengan cara menga
 
 ### Pasal 118
 
-(1) Pelayanan PBG sebagaimana dimaksud dalam Pasal 113 ayat (11 huruf a meliputi penerbitan PBG dan SLPF oleh Pemerintah Daerah sesuai dengan ketentuan peraturan perundangundangan,
+(1) Pelayanan PBG sebagaimana dimaksud dalam Pasal 113 ayat (11 huruf a meliputi penerbitan PBG dan SLPF oleh Pemerintah Daerah sesuai dengan ketentuan peraturan perundangundangan;
 
 (2) Penerbitan PBG dan SLF sebagaimana dimaksud pada ayat Il) meliputi kegiatan layanan konsultasi pemenuhan standar leknis, penerbitan PBG, inspeksi bangunan gedung, penerbitan SLF dan SBKBG, serta pencetakan Plakat SLP.
 
@@ -1689,9 +1689,9 @@ c. FPBG perubahan untuk:
 
 4, perubahan tampak Bangunan Gedung:
 
-53, perubahan spesifikasi dan dimensi komponen pada Bangunan Gedung yang mempengaruhi aspek keselamatan dan/atau kesehatan,
+53, perubahan spesifikasi dan dimensi komponen pada Bangunan Gedung yang mempengaruhi aspek keselamatan dan/atau kesehatan;
 
-6. perkuatan Bangunan Gedung terhadap tingkat kerusakan sedang atau berat,
+6. perkuatan Bangunan Gedung terhadap tingkat kerusakan sedang atau berat;
 
 7. perlindungan dan/atau pengembangan Bangunan Gedung cagar budaya: atau
 
@@ -1791,7 +1791,7 @@ BAB Iv TATA CARA PEMUNGUTAN PAJAK DAN RETRIBUSI
 
 LL) Dokumen yang digunakan sebagai dasar pemungutan jenis Pajak berdasarkan penetapan Bupati antara lain adalah Surat Ketetapan Pajak Daerah dan Surat Pemberitahuan Pajak Terutang.
 
-P4 Dokumen yang digunakan sebagai dasar pemungutan jenis Pajak berdasarkan perhitungan sendiri oleh Wajib Pajak antara lain adalah Surat Pemberitahuan Pajak Daerah,
+P4 Dokumen yang digunakan sebagai dasar pemungutan jenis Pajak berdasarkan perhitungan sendiri oleh Wajib Pajak antara lain adalah Surat Pemberitahuan Pajak Daerah;
 
 (3) Dokumen surat pemberitahuan pajak daerah sebagaimana dimaksud pada ayat (2) wajib diisi dengan benar dan lengkap serta disampaikan oleh Wajib Pajak kepada Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
 
@@ -1801,7 +1801,7 @@ P4 Dokumen yang digunakan sebagai dasar pemungutan jenis Pajak berdasarkan perhi
 
 ### Pasal 128
 
-(1) Pemungutan Pajak dan Retribusi dilaksanakan sesua! dengan ketentuan umum dan tata cara pemungutan Pajak dan Retribusi,
+(1) Pemungutan Pajak dan Retribusi dilaksanakan sesua! dengan ketentuan umum dan tata cara pemungutan Pajak dan Retribusi;
 
 (2) Ketentuan umum dan tata cara pemungutan Pajak dan Retribusi sebagaimana dimaksud pada ayat (11 meliput pengaturan mengenai:
 
@@ -1809,7 +1809,7 @@ a. pendaftaran dan pendataan:
 
 bh. penetapan besaran Pajak dan Retribusi terutang:
 
-c. pembayaran dan penyetoran,
+c. pembayaran dan penyetoran;
 
 d. pelaporan:
 
@@ -1817,7 +1817,7 @@ e. pengurangan, pemberulan, dan pembatalan ketetapan:
 
 f, jpemeriksaan Pajak:
 
-2. penagihan Pajak dan Retrihusi,
+2. penagihan Pajak dan Retrihusi;
 
 h. keberatan: dukam | rem sa Sekda an)
 
@@ -1881,13 +1881,13 @@ af
 
 1Z1 Pemberitahuan kepada DPRD sebagaimana dimaksud pada ayat
 
-(1) disertai dengan pertimbangan Bupati dalam memberikan insentif fiskal,
+(1) disertai dengan pertimbangan Bupati dalam memberikan insentif fiskal;
 
 (3) Ketentuan lebih lanjut mengenai administrasi dan tata cara pemberian insentif fiskal diatur dengan Peraturan Bupati,
 
 ### Pasal 131
 
-(1) Dalam hal pemberian Insentif fiskal sebagaimana dimaksud dalam Pasal 129 ayat (1) merupakan permohonan Wajib Pajak dan/atau Wajib Retribusi, apabila diperlukan Bupati catau Pejabat yang ditunjuk dapat melakukan Pemeriksaan Pajak dan/atau Retribusi untuk tujuan lam,
+(1) Dalam hal pemberian Insentif fiskal sebagaimana dimaksud dalam Pasal 129 ayat (1) merupakan permohonan Wajib Pajak dan/atau Wajib Retribusi, apabila diperlukan Bupati catau Pejabat yang ditunjuk dapat melakukan Pemeriksaan Pajak dan/atau Retribusi untuk tujuan lam;
 
 (2) Pemeriksan Pajak dan/atau Retribusi sebagaimana dimeksud pada ayat (1) bertujuan untuk memastikan bahwa Wajib Pajak dan/atau Wajib Retribusi yang mengajukan permohonan insentif fiskal berhak uniuk menerima insentif fiskal sesuai dengan pertimbangan dan faktor sebagaimana dimaksud dalam Pasal 129 ayat (3) dan ayat (5S).
 
@@ -1933,7 +1933,7 @@ hb, menyetujui sebagian jumlah angsuran Pajak dan/atau masa angsuran atav lamany
 
 (8) Persetujuan atau persetujuan sebagian angsuran atau penundaan sebagaimana dimaksud pada avat (7) huruf aa dan huruf b paling lama diberikan untuk jangka waktu 24 (dua puluh empati bulan.
 
-(3) Pembayaran angsuran setiap masa angsuran dan pembayaran Pajak yang ditunda disertai bunga sebesar 0,8 (nol koma enam persen) per bulan dan jumlah Pajak yang masih harus dibayar, untuk jangka waktu paling lama 24 (dua puluh smpati bulan serta bagian dari bulan dihitung penuh 1 (satu/| bulan,
+(3) Pembayaran angsuran setiap masa angsuran dan pembayaran Pajak yang ditunda disertai bunga sebesar 0,8 (nol koma enam persen) per bulan dan jumlah Pajak yang masih harus dibayar, untuk jangka waktu paling lama 24 (dua puluh smpati bulan serta bagian dari bulan dihitung penuh 1 (satu/| bulan;
 
 (10) Keadaan kahar sebagaimana dimaksud pada ayat (2) dan avat (4| meliputi:
 
@@ -1995,7 +1995,7 @@ Aa menerima, mencan, mengumpulkan, dan  meneht keterangan atau laporan berkenaan
 
 Pi Pan HE Asisten Sea 8 Ka mi : 1
 
-2. meminta keterangan dan bahan bukti dar orang pribadi atau Badan sehubungan dengan tindak pidana d: bidang perpajakan Daerah dan Retribusi,
+2. meminta keterangan dan bahan bukti dar orang pribadi atau Badan sehubungan dengan tindak pidana d: bidang perpajakan Daerah dan Retribusi;
 
 d. memeriksa buku, catatan, dan dokumen lain berkenaan dengan tindak pidana di bidang perpajakan Daerah dan Retribusi:
 
@@ -2125,7 +2125,7 @@ h. Peraturan Daerah Kabupaten Kapuas Hulu Nomor 6 Tahun 2015 tentang Retribusi I
 
 i. / Peraturan Daerah Kabupaten kapuas Hulu Komar 7 Tahun 2015 tentang Retribusi Izin Travek (Lembaran Daerah Kabupaten Kapuas Hulu Tahun 2015 Nomor 8j:
 
-. Peraturan Daerah kabupaten kapuas Hulu Nemor 8 Tahun 2015 tentang Retribusi Pelayanan Kepelabuhan (Lembaran Daerah kabupaten Kapuas Hulu Tahun 24015 Nomor SJ,
+. Peraturan Daerah kabupaten kapuas Hulu Nemor 8 Tahun 2015 tentang Retribusi Pelayanan Kepelabuhan (Lembaran Daerah kabupaten Kapuas Hulu Tahun 24015 Nomor SJ;
 
 k. Peraturan Daerah Kabupaten Kapuas Hulu Nomor 9 Tahun 2015 tentang Retribusi Penyeberangan Air (Lembaran Daerah Kabupaten Kapuas Hulu Tahun 2015 Nomar 101:
 
@@ -13091,7 +13091,7 @@ Pasien
 f. Konsultasi Psikologi Kali Per
 Pasien
 s0.000 tanpa obat
-<,
+<;
 b. Konsultasi dokter Spesialis Kali Per
 Pasien
 100.000 tanpa obat
@@ -14372,7 +14372,7 @@ Rekomendasi Medik
 Pengujian Kesehatan
 Lengkap
 Tindakan r.800.000 tanpa obat
-;.;;T ,=r"r;T -"r, ,,*,
+;.;;T ,=r"r;T -"r, ,,*;
 1. Pemeriksaan normlrl
 meliputi tekanan
 darah, berat badan,

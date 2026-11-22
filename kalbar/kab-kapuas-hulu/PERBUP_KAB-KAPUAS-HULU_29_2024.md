@@ -23,7 +23,7 @@ ayat (2) Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 1 Tahun 2024 tentang Pajak Daerah dan
 Retribusi Daerah, perlu menetapkan Peraturan
 Bupati tentang Tata Cara Pemungutan Pajak Barang
-dan Jasa Tertentu,
+dan Jasa Tertentu;
 Mengingat : 1. 11. Pasal 18 ayat (6) Undang-Undang Dasar Negara
 Republik Indonesia Tahun 1945:
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
@@ -34,7 +34,7 @@ Republik Indonesia Tahun 1953 Nomor 9)
 sebagai Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor 72,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 1820),
+Nomor 1820);
 3. Undang-Undang Nomor 19 Tahun 1997 tentang
 Penagihan Pajak dengan Surat Paksa (Lembaran
 Negara Republik Indonesia Tahun 1997 Nomor
@@ -59,41 +59,41 @@ Nomor 2 Tahun 2022 tentang Cipta Kerja
 menjadi Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 41,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 6856),
+Nomor 6856);
 5. Undang-Undang Nomor 7 Tahun 2021 tentang
 Harmonisasi Peraturan Perpajakan (Lembaran
 Negara Republik Indonesia Tahun 2021 Nomor
 246, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6736),
+Indonesia Nomor 6736);
 6. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan antara Pemerintah Pusat
 dan Pemerintah Daerah (Lembaran Negara
 Republik Indonesia Tahun 2022 Nomor 4,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 6757),
+Nomor 6757);
 7. Peraturan Pemerintah Nomor 69 Tahun 2010
 tentang Tata Cara Pemberian dan Pemanfaatan
 Insentif Pemungutan Pajak Daerah dan Retribusi
 Daerah (Lembaran Negara Republik Indonesia
 Tahun 2010 Nomor 119, Tambahan Lembaran
-Negara Republik Indonesia Nomor 5161),
+Negara Republik Indonesia Nomor 5161);
 8. Peraturan Pemerintah Nomor 12 Tahun 2019
 tentang Pengelolaan Keuangan Daerah
 . (Lembaran Negara Republik Indonesia Tahun
 2019 Nomor 42, Tambahan Lembaran Negara
-Republik Indonesia Nomor 6322),
+Republik Indonesia Nomor 6322);
 9. Peraturan Pemerintah Nomor 4 Tahun 2023
 tentang Pemungutan Pajak Barang dan Jasa
 Tertentu Atas Tenaga Listrik (Lembaran Negara
 Republik Indonesia Tahun 2023 Nomor 17,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 6848),
+Nomor 6848);
 10. Peraturan Pemerintah Nomor 35 Tahun 2023
 tentang Ketentuan Umum Pajak Daerah dan
 Retribusi Daerah (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 85, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6881),
+6881);
 11. Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 1 Tahun 2024 tentang Pajak Daerah dan
 Retribusi Daerah (Lembaran Daerah Kabupaten
@@ -246,13 +246,13 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 (2) Jenis PBJT sebagaimana dimaksud pada ayat (1) terdiri atas:
 
-a. Makanan dan/atau Minuman,
+a. Makanan dan/atau Minuman;
 
-b. Tenaga Listrik,
+b. Tenaga Listrik;
 
-c. Jasa Perhotelan,
+c. Jasa Perhotelan;
 
-d. Jasa Parkir, dan
+d. Jasa Parkir; dan
 
 e. Jasa Kesenian dan Hiburan.
 
@@ -264,11 +264,11 @@ e. Jasa Kesenian dan Hiburan.
 
 Objek PBJT merupakan penjualan, penyerahan, dan/atau konsumsi barang dan jasa tertentu yang meliputi:
 
-a. Makanan dan/atau Minuman,
+a. Makanan dan/atau Minuman;
 
-b. Tenaga Listrik,
+b. Tenaga Listrik;
 
-c. Jasa Perhotelan,
+c. Jasa Perhotelan;
 
 d. Jasa Parkir; dan
 
@@ -278,11 +278,11 @@ e. Jasa Kesenian dan Hiburan.
 
 (1) Penjualan dan/atau penyerahan Makanan dan/atau Minuman sebagaimana dimaksud dalam Pasal 3 huruf a meliputi Makanan dan/atau Minuman yang disediakan oleh:
 
-a. Restoran yang paling sedikit menyediakan layanan penyajian Makanan dan/atau Minuman berupa meja, kursi, dan/atau peralatan makan dan minum,
+a. Restoran yang paling sedikit menyediakan layanan penyajian Makanan dan/atau Minuman berupa meja, kursi, dan/atau peralatan makan dan minum;
 
 b. penyedia jasa boga atau katering yang melakukan:
 
-1. proses penyediaan bahan baku dan bahan setengah jadi, pembuatan, penyimpanan, serta penyajian berdasarkan pesanan,
+1. proses penyediaan bahan baku dan bahan setengah jadi, pembuatan, penyimpanan, serta penyajian berdasarkan pesanan;
 
 2. penyajian di lokasi yang diinginkan oleh pemesan dan berbeda dengan lokasi dimana proses pembuatan dan penyimpanan dilakukan: dan
 
@@ -290,11 +290,11 @@ b. penyedia jasa boga atau katering yang melakukan:
 
 (2) Yang dikecualikan dari objek PBJT sebagaimana dimaksud pada ayat (1) adalah penyerahan Makanan dan/atau Minuman:
 
-a. dengan peredaran usaha yang nilai penjualan tidak melebihi Rp1.500.000,00 (satu juta lima ratus ribu rupiah) per bulan,
+a. dengan peredaran usaha yang nilai penjualan tidak melebihi Rp1.500.000,00 (satu juta lima ratus ribu rupiah) per bulan;
 
-b. dilakukan oleh toko swalayan dan sejenisnya yang tidak semata-mata menjual Makanan dan/atau Minuman,
+b. dilakukan oleh toko swalayan dan sejenisnya yang tidak semata-mata menjual Makanan dan/atau Minuman;
 
-c. dilakukan oleh pabrik Makanan dan/atau Minuman, atau
+c. dilakukan oleh pabrik Makanan dan/atau Minuman; atau
 
 d. disediakan oleh penyedia fasilitas yang kegiatan usaha utamanya menyediakan pelayanan jasa menunggu pesawat (lounge) pada bandar udara.
 
@@ -306,13 +306,13 @@ d. disediakan oleh penyedia fasilitas yang kegiatan usaha utamanya menyediakan p
 
 (3) Yang dikecualikan dari konsumsi Tenaga Listrik sebagaimana dimaksud pada ayat (2), meliputi:
 
-a. konsumsi Tenaga Listrik oleh instansi pemerintah pusat, Pemerintah Daerah dan penyelenggara negara lainnya,
+a. konsumsi Tenaga Listrik oleh instansi pemerintah pusat, Pemerintah Daerah dan penyelenggara negara lainnya;
 
-b. konsumsi Tenaga Listrik pada tempat yang digunakan oleh kedutaan, konsulat, dan perwakilan negara asing berdasarkan asas timbal balik,
+b. konsumsi Tenaga Listrik pada tempat yang digunakan oleh kedutaan, konsulat, dan perwakilan negara asing berdasarkan asas timbal balik;
 
-c. konsumsi Tenaga Listrik pada rumah ibadah, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis,
+c. konsumsi Tenaga Listrik pada rumah ibadah, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis;
 
-d. konsumsi Tenaga Listrik yang dihasilkan sendiri dengan kapasitas tertentu yang tidak memerlukan izin dari instansi teknis terkait, dan
+d. konsumsi Tenaga Listrik yang dihasilkan sendiri dengan kapasitas tertentu yang tidak memerlukan izin dari instansi teknis terkait; dan
 
 e. konsumsi tenaga listrik di kawasan terpencil dengan menggunakan pembangkit tenaga listrik bantuan dari pemerintah pusat, Pemerintah Daerah dan/atau Pemerintah Desa.
 
@@ -322,35 +322,35 @@ e. konsumsi tenaga listrik di kawasan terpencil dengan menggunakan pembangkit te
 
 a. hotel:
 
-b. hostel,
+b. hostel;
 
-c. vila,
+c. vila;
 
-d. pondok wisata,
+d. pondok wisata;
 
 e. motel:
 
-f. losmen,
+f. losmen;
 
-g. wisma pariwisata,
+g. wisma pariwisata;
 
-h. pesanggrahan,
+h. pesanggrahan;
 
-i. rumah penginapan/rumah kos/ guesthouse/ bungalo/ resort/ cottage/ homestay,
+i. rumah penginapan/rumah kos/ guesthouse/ bungalo/ resort/ cottage/ homestay;
 
-j. tempat tinggal pribadi yang difungsikan sebagai hotel, dan
+j. tempat tinggal pribadi yang difungsikan sebagai hotel; dan
 
 k. glamping.
 
 (2) Yang dikecualikan dari Jasa Perhotelan sebagaimana dimaksud pada ayat (1) meliputi:
 
-a. jasa tempat tinggal asrama yang diselenggarakan oleh pemerintah pusat atau Pemerintah Daerah,
+a. jasa tempat tinggal asrama yang diselenggarakan oleh pemerintah pusat atau Pemerintah Daerah;
 
-b. jasa tempat tinggal di rumah sakit, asrama perawat, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis,
+b. jasa tempat tinggal di rumah sakit, asrama perawat, panti jompo, panti asuhan, dan panti sosial lainnya yang sejenis;
 
-c. jasa tempat tinggal di pusat pendidikan atau kegiatan keagamaan,
+c. jasa tempat tinggal di pusat pendidikan atau kegiatan keagamaan;
 
-d. jasa biro perjalanan atau perjalanan wisata, dan
+d. jasa biro perjalanan atau perjalanan wisata; dan
 
 e. jasa persewaan ruangan untuk diusahakan di hotel.
 
@@ -364,13 +364,13 @@ b. pelayanan memarkirkan kendaraan (parkir valet).
 
 (2) Yang dikecualikan dari jasa penyediaan tempat parkir sebagaimana dimaksud pada ayat (1) meliputi:
 
-a. jasa tempat parkir yang diselenggarakan oleh pemerintah pusat dan Pemerintah Daerah,
+a. jasa tempat parkir yang diselenggarakan oleh pemerintah pusat dan Pemerintah Daerah;
 
-b. jasa tempat parkir yang diselenggarakan oleh perkantoran yang hanya digunakan untuk karyawannya sendiri,
+b. jasa tempat parkir yang diselenggarakan oleh perkantoran yang hanya digunakan untuk karyawannya sendiri;
 
 0. jasa tempat parkir yang diselenggarakan oleh kedutaan, konsulat, dan perwakilan negara asing dengan asas timbal balik:
 
-d. jasa tempat parkir yang diselenggarakan oleh rumah ibadah, dan
+d. jasa tempat parkir yang diselenggarakan oleh rumah ibadah; dan
 
 e. jasa tempat parkir dalam pemukiman penduduk yang disediakan bagi warga kompleks pemukiman bersangkutan.
 
@@ -378,31 +378,31 @@ e. jasa tempat parkir dalam pemukiman penduduk yang disediakan bagi warga komple
 
 (1) Jasa Kesenian dan Hiburan sebagaimana dimaksud dalam Pasal 3 huruf e meliputi:
 
-a. tontonan film atau bentuk tontonan audio visual lainnya yang dipertontonkan secara langsung:di suatu lokasi tertentu,
+a. tontonan film atau bentuk tontonan audio visual lainnya yang dipertontonkan secara langsung:di suatu lokasi tertentu;
 
-b. pergelaran kesenian, musik, tari, dan/atau busana,
+b. pergelaran kesenian, musik, tari, dan/atau busana;
 
 c. kontes kecantikan:
 
-d. kontes binaraga,
+d. kontes binaraga;
 
-e. pameran,
+e. pameran;
 
 f. pertunjukan sirkus, akrobat, dan sulap:
 
-g. pacuan kuda dan perlombaan kendaraan bermotor,
+g. pacuan kuda dan perlombaan kendaraan bermotor;
 
-h. permainan ketangkasan,
+h. permainan ketangkasan;
 
-i. olahraga permainan dengan menggunakan tempat/ruang dan/atau peralatan dan perlengkapan untuk olahraga dan kebugaran,
+i. olahraga permainan dengan menggunakan tempat/ruang dan/atau peralatan dan perlengkapan untuk olahraga dan kebugaran;
 
-j. rekreasi wahana air, wahana ekologi, wahana pendidikan, wahana budaya, wahana salju, wahana permainan, pemancingan, agrowisata, dan kebun binatang,
+j. rekreasi wahana air, wahana ekologi, wahana pendidikan, wahana budaya, wahana salju, wahana permainan, pemancingan, agrowisata, dan kebun binatang;
 
 k. panti pijat dan pijat refleksi, dan . diskotik, karaoke, kelab malam, bar, dan mandi uap /spa.
 
 (2) Yang dikecualikan dari Jasa Kesenian dan Hiburan sebagaimana dimaksud pada ayat (1) adalah Jasa Kesenian dan Hiburan yang semata-mata untuk:
 
-a. promosi budaya tradisional dengan tidak dipungut bayaran,
+a. promosi budaya tradisional dengan tidak dipungut bayaran;
 
 b. kegiatan pelayanan masyarakat dengan tidak dipungut bayaran, dan/atau
 
@@ -424,13 +424,13 @@ c. penyelenggara jasa kesenian dan hiburan yang bertujuan untuk amal.
 
 (3) Masa Pajak ditetapkan sebagai berikut:
 
-a. PBJT atas Makanan dan/atau Minuman ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender,
+a. PBJT atas Makanan dan/atau Minuman ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender;
 
 b. PBJT atas Tenaga Listrik ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender, Kabag Kepala
 
-c. PBJT atas Jasa Perhotelan ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender,
+c. PBJT atas Jasa Perhotelan ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender;
 
-d. PBJT atas Jasa Parkir ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender, dan
+d. PBJT atas Jasa Parkir ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender; dan
 
 e. PBJT atas Jasa Kesenian dan Hiburan ditetapkan untuk jangka waktu yang lamanya 1 (satu) bulan kalender.
 
@@ -444,13 +444,13 @@ e. PBJT atas Jasa Kesenian dan Hiburan ditetapkan untuk jangka waktu yang lamany
 
 (2) Wajib Pajak untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri oleh Wajib Pajak sebagaimana dimaksud pada ayat (1) wajib mendaftarkan diri dan/atau objek Pajaknya kepada Bupati atau Pejabat yang ditunjuk dengan menggunakan Formulir Pendaftaran, dengan dilampiri:
 
-a. fotokopi Kartu Tanda Penduduk (KTP) bagi Warga Negara Indonesia (WNI) atau Pasport bagi Warga Negara Asing (WNA),
+a. fotokopi Kartu Tanda Penduduk (KTP) bagi Warga Negara Indonesia (WNI) atau Pasport bagi Warga Negara Asing (WNA);
 
-b. fotokopi akta pendirian perusahaan bagi yang berbadan hukum,
+b. fotokopi akta pendirian perusahaan bagi yang berbadan hukum;
 
-c. Surat Kuasa bagi Wajib Pajak yang diwakili oleh kuasanya apabila berhalangan dengan disertai fotokopi Kartu Tanda Penduduk (KTP) dari pemberi kuasa,
+c. Surat Kuasa bagi Wajib Pajak yang diwakili oleh kuasanya apabila berhalangan dengan disertai fotokopi Kartu Tanda Penduduk (KTP) dari pemberi kuasa;
 
-d. fotokopi Kartu Tanda Penduduk (KTP) yang dikuasakan bagi Wajib Pajak yang diwakili oleh kuasanya, dan
+d. fotokopi Kartu Tanda Penduduk (KTP) yang dikuasakan bagi Wajib Pajak yang diwakili oleh kuasanya; dan
 
 e. fotokopi Surat Izin Usaha atau Surat Keterangan Usaha (jika diperlukan).
 
@@ -488,7 +488,7 @@ Bupati atau Pejabat yang ditunjuk melakukan pendataan Wajib Pajak dan Objek Paja
 
 (4) Penonaktifan atau penghapusan NPWPD, nomor registrasi, NOPD, dan/atau jenis permohonan lain yang dipersamakan secara jabatan atau atas dasar permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1) dapat dilakukan sepanjang Wajib Pajak:
 
-a. tidak memiliki tunggakan Pajak, dan
+a. tidak memiliki tunggakan Pajak; dan
 
 b. tidak sedang mengajukan upaya hukum berupa keberatan, banding, gugatan, atau peninjauan Kembali.
 
@@ -506,13 +506,13 @@ b. tidak sedang mengajukan upaya hukum berupa keberatan, banding, gugatan, atau 
 
 (1) Dasar pengenaan PBJT merupakan jumlah yang dibayarkan oleh konsumen barang atau jasa tertentu, meliputi:
 
-a. jumlah pembayaran yang diterima oleh penyedia Makanan dan/atau Minuman untuk PBJT atas Makanan dan/atau Minuman,
+a. jumlah pembayaran yang diterima oleh penyedia Makanan dan/atau Minuman untuk PBJT atas Makanan dan/atau Minuman;
 
-b. nilai jual Tenaga Listrik untuk PBJT atas Tenaga Listrik,
+b. nilai jual Tenaga Listrik untuk PBJT atas Tenaga Listrik;
 
-c. jumlah pembayaran kepada penyedia Jasa Perhotelan untuk PBJT atas Jasa Perhotelan,
+c. jumlah pembayaran kepada penyedia Jasa Perhotelan untuk PBJT atas Jasa Perhotelan;
 
-d. jumlah pembayaran kepada penyedia atau penyelenggara tempat parkir dan/atau penyedia pelayanan memarkirkan kendaraan untuk PBJT atas Jasa Parkir, termasuk potongan harga parkir dan parkir cuma-cuma yang diberikan kepada penerima jasa parkir, dan
+d. jumlah pembayaran kepada penyedia atau penyelenggara tempat parkir dan/atau penyedia pelayanan memarkirkan kendaraan untuk PBJT atas Jasa Parkir, termasuk potongan harga parkir dan parkir cuma-cuma yang diberikan kepada penerima jasa parkir; dan
 
 e. jumlah pembayaran yang diterima oleh penyelenggara Jasa Kesenian dan Hiburan untuk PBJT atas Kesenian dan Hiburan.
 
@@ -569,17 +569,17 @@ b. Tenaga Listrik yang dihasilkan sendiri.
 
 (2) Nilai jual Tenaga Listrik yang ditetapkan untuk Tenaga Listrik yang berasal dari sumber lain dengan pembayaran sebagaimana dimaksud pada ayat (1) huruf a, dihitung berdasarkan:
 
-a. jumlah tagihan biaya/beban tetap ditambah dengan biaya pemakaian kWh/variabel yang ditagihkan dalam rekening listrik, untuk pasca bayar, dan
+a. jumlah tagihan biaya/beban tetap ditambah dengan biaya pemakaian kWh/variabel yang ditagihkan dalam rekening listrik, untuk pasca bayar; dan
 
 b. jumlah pembelian Tenaga Listrik untuk prabayar.
 
 (3) Nilai jual Tenaga Listrik yang ditetapkan untuk Tenaga Listrik yang dihasilkan sendiri sebagaimana dimaksud pada ayat (1) huruf b dihitung berdasarkan:
 
-a. kapasitas tersedia,
+a. kapasitas tersedia;
 
-b. tingkat penggunaan listrik,
+b. tingkat penggunaan listrik;
 
-c. jangka waktu pemakaian listrik, dan
+c. jangka waktu pemakaian listrik; dan
 
 d. harga satuan listrik yang berlaku di wilayah Daerah yang bersangkutan.
 
@@ -593,7 +593,7 @@ d. harga satuan listrik yang berlaku di wilayah Daerah yang bersangkutan.
 
 (3) Khusus tarif PBJT atas Tenaga Listrik untuk:
 
-a. konsumsi Tenaga Listrik dari sumber lain oleh industri, pertambangan minyak bumi dan gas alam, ditetapkan sebesar 3% (tiga persen), dan
+a. konsumsi Tenaga Listrik dari sumber lain oleh industri, pertambangan minyak bumi dan gas alam, ditetapkan sebesar 3% (tiga persen); dan
 
 b. konsumsi Tenaga Listrik yang dihasilkan sendiri, ditetapkan sebesar 1,5% (satu koma lima persen).
 
@@ -605,13 +605,13 @@ b. konsumsi Tenaga Listrik yang dihasilkan sendiri, ditetapkan sebesar 1,5% (sat
 
 (2) Saat terutang PBJT ditetapkan pada saat:
 
-a. pembayaran atau penyerahan atas Makanan dan/atau Minuman untuk PBJT atas Makanan dan/atau Minuman,
+a. pembayaran atau penyerahan atas Makanan dan/atau Minuman untuk PBJT atas Makanan dan/atau Minuman;
 
-b. konsumsi atau pembayaran atas Tenaga Listrik untuk PBJT atas Tenaga Listrik,
+b. konsumsi atau pembayaran atas Tenaga Listrik untuk PBJT atas Tenaga Listrik;
 
-c. pembayaran atau penyerahan atas jasa perhotelan untuk PBJT atas Jasa Perhotelan,
+c. pembayaran atau penyerahan atas jasa perhotelan untuk PBJT atas Jasa Perhotelan;
 
-d. pembayaran atau penyerahan atas jasa penyediaan tempat parkir untuk PBJT atas Jasa Parkir, dan
+d. pembayaran atau penyerahan atas jasa penyediaan tempat parkir untuk PBJT atas Jasa Parkir; dan
 
 e. pembayaran atau penyerahan atas jasa kesenian dan hiburan untuk PBJT atas Jasa Kesenian dan Hiburan.
 
@@ -635,9 +635,9 @@ Kegiatan Penetapan secara jabatan terdiri dari:
 
 a. membuat Nota Perhitungan Pajak atas dasar Kartu Data dari hasil pemeriksaan dan/atau keterangan lain, karena SPTPD tidak disampaikan dan telah disampaikan Surat Teguran untuk memasukan SPTPD:
 
-b. menerbitkan SKPDKB dan membuat Daftar SKPDKB atas dasar Nota Perhitungan Pajak Daerah,
+b. menerbitkan SKPDKB dan membuat Daftar SKPDKB atas dasar Nota Perhitungan Pajak Daerah;
 
-c. menerbitkan SKPDKBT jika ditemukan data baru dan/atau data yang semula belum terungkap yang menyebabkan penambahan jumlah pajak yang terutang, dan
+c. menerbitkan SKPDKBT jika ditemukan data baru dan/atau data yang semula belum terungkap yang menyebabkan penambahan jumlah pajak yang terutang; dan
 
 d. apabila SKPDKB/SKPDKBT yang diterbitkan tidak atau kurang bayar dan dikenakan sanksi administratif berupa bunga dengan menerbitkan STPD.
 
@@ -700,9 +700,9 @@ d. apabila SKPDKB/SKPDKBT yang diterbitkan tidak atau kurang bayar dan dikenakan
 
 (1) SKPDKB diterbitkan oleh Badan Pendapatan Daerah dalam hal:
 
-a. jika berdasarkan hasil pemeriksaan atau keterangan lain, pajak yang terutang tidak atau kurang dibayar,
+a. jika berdasarkan hasil pemeriksaan atau keterangan lain, pajak yang terutang tidak atau kurang dibayar;
 
-b. jika SPTPD tidak disampaikan sesuai waktu yang ditentukan, dan
+b. jika SPTPD tidak disampaikan sesuai waktu yang ditentukan; dan
 
 c. jika kewajiban mengisi SPTPD tidak dipenuhi, dan pajak yang terutang dihitung secara jabatan.
 
@@ -804,7 +804,7 @@ c. jika kewajiban mengisi SPTPD tidak dipenuhi, dan pajak yang terutang dihitung
 
 (3) Permohonan Wajib Pajak sebagaimana dimaksud pada ayat (2), harus diajukan secara tertulis paling lambat 9 (sembilan) hari kerja sebelum jatuh tempo pembayaran, disertai dengan alasan dan bukti yang mendukung permohonan, seperti:
 
-a. jumlah pembayaran pajak yang dimohon untuk diangsur, masa angsuran, dan besarnya angsuran, atau
+a. jumlah pembayaran pajak yang dimohon untuk diangsur, masa angsuran, dan besarnya angsuran; atau
 
 b. jumlah pembayaran Pajak yang dimohon untuk ditunda dan jangka waktu penundaan.
 
@@ -836,7 +836,7 @@ b. jumlah pembayaran Pajak yang dimohon untuk ditunda dan jangka waktu penundaan
 
 (1) Wajib Pajak wajib melakukan pembukuan atau pencatatan secara elektronik dan/atau non elektronik, dengan ketentuan:
 
-a. bagi Wajib Pajak yang melakukan usaha dengan peredaran usaha paling sedikit Rp4.800.000.000,00 (empat miliar delapan ratus juta rupiah) per tahun wajib menyelenggarakan pembukuan, dan
+a. bagi Wajib Pajak yang melakukan usaha dengan peredaran usaha paling sedikit Rp4.800.000.000,00 (empat miliar delapan ratus juta rupiah) per tahun wajib menyelenggarakan pembukuan; dan
 
 b. bagi Wajib Pajak yang melakukan usaha dengan peredaran usaha kurang dari Rp4.800.000.000,00 (empat miliar delapan ratus juta rupiah) per tahun dapat memilih menyelenggarakan pembukuan atau pencatatan.
 
@@ -896,9 +896,9 @@ d. Khusus untuk PLN wajib membuat daftar rekapitulasi rekening listrik dengan di
 
 (2) Penelitian atas SPTPD sebagaimana dimaksud pada ayat (1) meliputi:
 
-a. kesesuaian batas akhir pembayaran dan/atau penyetoran dengan tanggal pelunasan dalam SSPD,
+a. kesesuaian batas akhir pembayaran dan/atau penyetoran dengan tanggal pelunasan dalam SSPD;
 
-b. kesesuaian antara SSPD dengan SPTPD, dan
+b. kesesuaian antara SSPD dengan SPTPD; dan
 
 c. kebenaran penulisan, penghitungan, dan/atau administrasi lainnya.
 
@@ -914,19 +914,19 @@ c. kebenaran penulisan, penghitungan, dan/atau administrasi lainnya.
 
 (2) Pemeriksaan untuk menguji kepatuhan pemenuhan kewajiban perpajakan sebagaimana dimaksud pada ayat (1) dilakukan dalam hal:
 
-a. Wajib Pajak mengajukan pengembalian atau kompensasi kelebihan pembayaran Pajak,
+a. Wajib Pajak mengajukan pengembalian atau kompensasi kelebihan pembayaran Pajak;
 
-b. terdapat keterangan lain berupa data konkret yang menunjukan bahwa Pajak yang terutang tidak atau kurang dibayar, atau
+b. terdapat keterangan lain berupa data konkret yang menunjukan bahwa Pajak yang terutang tidak atau kurang dibayar; atau
 
 c. Wajib Pajak yang terpilih untuk dilakukan Pemeriksaan berdasarkan analisis risiko.
 
 (3) . Pemeriksaan untuk tujuan lain sebagaimana dimaksud pada ayat (1) dilakukan paling sedikit untuk:
 
-a. pemberian NPWPD secara jabatan,
+a. pemberian NPWPD secara jabatan;
 
 b. penghapusan NPWPD:
 
-c. penyelesaian permohonan keberatan Wajib Pajak,
+c. penyelesaian permohonan keberatan Wajib Pajak;
 
 d. pencocokan data dan/atau alat keterangan, dan/atau
 
@@ -938,15 +938,15 @@ e. pemeriksaan dalam rangka Penagihan Pajak.
 
 (1) Dalam pelaksanaan Pemeriksaan sebagaimana dimaksud dalam Pasal 44, kewajiban Wajib Pajak yang diperiksa meliputi:
 
-a. memperlihatkan dan/atau meminjamkan buku atau catatan, dokumen yang menjadi dasarnya, dan dokumen lain yang berhubungan dengan objek Pajak yang terutang,
+a. memperlihatkan dan/atau meminjamkan buku atau catatan, dokumen yang menjadi dasarnya, dan dokumen lain yang berhubungan dengan objek Pajak yang terutang;
 
 b. memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu dan memberikan bantuan guna kelancaran Pemeriksaan, dan/atau memberikan keterangan yang diperlukan.
 
 (2) Dalam pelaksanaan Pemeriksaan sebagaimana dimaksud dalam Pasal 44, hak Wajib Pajak yang diperiksa paling sedikit:
 
-a. meminta identitas dan bukti penugasan Pemeriksaan kepada pemeriksa,
+a. meminta identitas dan bukti penugasan Pemeriksaan kepada pemeriksa;
 
-b. meminta kepada pemeriksa untuk memberikan penjelasan tentang alasan dan tujuan Pemeriksaan, dan
+b. meminta kepada pemeriksa untuk memberikan penjelasan tentang alasan dan tujuan Pemeriksaan; dan
 
 c. menerima dokumen hasil Pemeriksaan serta memberikan tanggapan atau penjelasan atas hasil Pemeriksaan.
 
@@ -962,11 +962,11 @@ c. menerima dokumen hasil Pemeriksaan serta memberikan tanggapan atau penjelasan
 
 (2) SKPDKB sebagaimana dimaksud pada ayat (1) diterbitkan dalam hal terdapat Pajak yang kurang atau tidak dibayar berdasarkan:
 
-a. hasil Pemeriksaan sebagaimana dimaksud dalam Pasal 44, atau
+a. hasil Pemeriksaan sebagaimana dimaksud dalam Pasal 44; atau
 
 k. penghitungan secara jabatan karena:
 
-1. Wajib Pajak tidak menyampaikan SPTPD dalam jangka waktu tertentu sebagaimana dimaksud dalam Pasal 40 ayat (4) dan telah ditegur secara tertulis namun tidak disampaikan pada waktunya sebagaimana ditentukan dalam Surat Teguran, atau
+1. Wajib Pajak tidak menyampaikan SPTPD dalam jangka waktu tertentu sebagaimana dimaksud dalam Pasal 40 ayat (4) dan telah ditegur secara tertulis namun tidak disampaikan pada waktunya sebagaimana ditentukan dalam Surat Teguran; atau
 
 2. Wajib Pajak tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 39 ayat (1) atau Pasal 45 ayat (1).
 
@@ -984,7 +984,7 @@ Dalam hal berdasarkan hasil Pemeriksaan sebagaimana dimaksud dalam Pasal 44 terd
 
 (2) Jumlah Pajak yang terutang dalam SKPDKB sebagaimana dimaksud dalam Pasal 46 ayat (2) huruf b dikenakan sanksi administratif berupa bunga sebesar 2,2% (dua koma dua persen) per bulan dari Pajak yang kurang atau terlambat dibayar, dihitung sejak saat terutangnya Pajak atau berakhirnya masa Pajak, bagian Tahun Pajak, atau Tahun Pajak sampai dengan diterbitkannya SKPDKB, untuk jangka waktu paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan, sejak saat terutangnya Pajak ditambahkan dengan sanksi administratif berupa:
 
-a. kenaikan sebesar 50% (lima puluh persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak sebagaimana dimaksud dalam Pasal 2 ayat (2), atau
+a. kenaikan sebesar 50% (lima puluh persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak sebagaimana dimaksud dalam Pasal 2 ayat (2); atau
 
 b. kenaikan sebesar 25% (dua puluh lima persen) dari pokok Pajak yang kurang dibayar untuk jenis Pajak selain yang dimaksud pada huruf a.
 
@@ -1000,11 +1000,11 @@ b. kenaikan sebesar 25% (dua puluh lima persen) dari pokok Pajak yang kurang dib
 
 (2) Bupati atau Pejabat yang ditunjuk dapat menerbitkan STPD untuk jenis Pajak yang dipungut berdasarkan penghitungan sendiri oleh Wajib Pajak sebagaimana dimaksud dalam Pasal 2 ayat (2) dalam hal:
 
-a. Pajak terutang tidak atau kurang dibayar,
+a. Pajak terutang tidak atau kurang dibayar;
 
-b. hasil Penelitian SPTPD sebagaimana dimaksud dalam Pasal 43 terdapat kekurangan pembayaran sebagai akibat salah tulis, salah hitung, atau kesalahan administratif lainnya oleh Wajib Pajak,
+b. hasil Penelitian SPTPD sebagaimana dimaksud dalam Pasal 43 terdapat kekurangan pembayaran sebagai akibat salah tulis, salah hitung, atau kesalahan administratif lainnya oleh Wajib Pajak;
 
-c. SKPDKB, SKPDKBT, Surat Keputusan Pembetulan, Surat Keputusan Keberatan, dan Putusan Banding yang tidak atau kurang dibayar setelah jatuh tempo pembayaran, atau
+c. SKPDKB, SKPDKBT, Surat Keputusan Pembetulan, Surat Keputusan Keberatan, dan Putusan Banding yang tidak atau kurang dibayar setelah jatuh tempo pembayaran; atau
 
 d. Wajib Pajak dikenakan sanksi administratif berupa bunga dan/atau denda.
 
@@ -1028,27 +1028,27 @@ d. Wajib Pajak dikenakan sanksi administratif berupa bunga dan/atau denda.
 
 (2) Pejabat sebagaimana dimaksud pada ayat (1) berwenang:
 
-a. mengangkat dan memberhentikan Jurusita Pajak, dan
+a. mengangkat dan memberhentikan Jurusita Pajak; dan
 
 b. menerbitkan:
 
-1. Surat Teguran,
+1. Surat Teguran;
 
-2. surat perintah Penagihan Seketika dan Sekaligus,
+2. surat perintah Penagihan Seketika dan Sekaligus;
 
-3. Surat Paksa,
+3. Surat Paksa;
 
-4. surat perintah melaksanakan penyitaan,
+4. surat perintah melaksanakan penyitaan;
 
-5. surat perintah penyanderaan,
+5. surat perintah penyanderaan;
 
-6. surat pencabutan sita,
+6. surat pencabutan sita;
 
-7. pengumuman lelang,
+7. pengumuman lelang;
 
-8. surat penentuan harga limit,
+8. surat penentuan harga limit;
 
-9. pembatalan lelang, dan
+9. pembatalan lelang; dan
 
 10. surat lain yang diperlukan untuk pelaksanaan Penagihan Pajak.
 
@@ -1084,13 +1084,13 @@ b. menerbitkan:
 
 Jurusita Pajak melaksanakan Penagihan Seketika dan Sekaligus berdasarkan surat perintah Penagihan Seketika dan Sekaligus apabila:
 
-a. penanggung Pajak akan meninggalkan Indonesia untuk selama-lamanya atau berniat untuk itu,
+a. penanggung Pajak akan meninggalkan Indonesia untuk selama-lamanya atau berniat untuk itu;
 
-b. penanggung Pajak memindahtangankan barang yang dimiliki atau yang dikuasai dalam rangka menghentikan atau mengecilkan kegiatan usahanya atau pekerjaan yang dilakukannya di Indonesia,
+b. penanggung Pajak memindahtangankan barang yang dimiliki atau yang dikuasai dalam rangka menghentikan atau mengecilkan kegiatan usahanya atau pekerjaan yang dilakukannya di Indonesia;
 
-c. terdapat tanda-tanda bahwa penanggung Pajak akan membubarkan badan usahanya, menggabungkan usahanya, atau memekarkan usahanya, atau memindahtangankan perusahaan yang dimiliki atau dikuasainya, atau melakukan perubahan bentuk lainnya,
+c. terdapat tanda-tanda bahwa penanggung Pajak akan membubarkan badan usahanya, menggabungkan usahanya, atau memekarkan usahanya, atau memindahtangankan perusahaan yang dimiliki atau dikuasainya, atau melakukan perubahan bentuk lainnya;
 
-d. badan usaha akan dibubarkan oleh negara, atau
+d. badan usaha akan dibubarkan oleh negara; atau
 
 e. terjadi penyitaan atas barang penanggung Pajak oleh pihak ketiga atau terdapat tanda-tanda kepailitan.
 
@@ -1110,7 +1110,7 @@ e. terjadi penyitaan atas barang penanggung Pajak oleh pihak ketiga atau terdapa
 
 (2) Kedaluwarsa Penagihan Pajak sebagairnana dimaksud pada ayat (1) tertangguh apabila:
 
-a. diterbitkan Surat Teguran dan/atau Surat Paksa, STPD, atau
+a. diterbitkan Surat Teguran dan/atau Surat Paksa, STPD; atau
 
 b. ada pengakuan Utang Pajak dari Wajib Pajak, baik langsung maupun tidak langsung.
 
@@ -1132,11 +1132,11 @@ b. ada pengakuan Utang Pajak dari Wajib Pajak, baik langsung maupun tidak langsu
 
 (3) Permohonan sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan sebagai berikut:
 
-a. 1 (satu) permohonan untuk 1 (satu) SKPDKB, SKPDKBT, atau STPD,
+a. 1 (satu) permohonan untuk 1 (satu) SKPDKB, SKPDKBT, atau STPD;
 
-b. permohonan harus diajukan secara tertulis dalam Bahasa Indonesia dengan memberikan alasan yang mendukung permohonannya,
+b. permohonan harus diajukan secara tertulis dalam Bahasa Indonesia dengan memberikan alasan yang mendukung permohonannya;
 
-c. Wajib Pajak telah melunasi pajak yang terutang, dan
+c. Wajib Pajak telah melunasi pajak yang terutang; dan
 
 d. surat permohonan ditandatangani oleh Wajib Pajak, dan dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permohonan tersebut harus dilampiri dengan surat kuasa khusus.
 
@@ -1148,11 +1148,11 @@ d. surat permohonan ditandatangani oleh Wajib Pajak, dan dalam hal surat permoho
 
 (2) Pengurangan atau pembatalan ketetapan pajak sebagaimana dimaksud pada ayat (1), dalam hal:
 
-a. mengurangkan atau membatalkan SKPDKB, SKPDKBT atau STPD, SKPDN atau SKPDLB yang tidak benar,
+a. mengurangkan atau membatalkan SKPDKB, SKPDKBT atau STPD, SKPDN atau SKPDLB yang tidak benar;
 
-b. mengurangkan atau membatalkan STPD,
+b. mengurangkan atau membatalkan STPD;
 
-c. membatalkan hasil pemeriksaan atau ketetapan Pajak yang dilaksanakan atau diterbitkan tidak sesuai dengan tata cara yarg ditentukan, dan
+c. membatalkan hasil pemeriksaan atau ketetapan Pajak yang dilaksanakan atau diterbitkan tidak sesuai dengan tata cara yarg ditentukan; dan
 
 d. mengurangkan ketetapan Pajak terutang berdasarkan pertimbangan kemampuan membayar Wajib Pajak atau kondisi tertentu objek pajak.
 
@@ -1160,9 +1160,9 @@ d. mengurangkan ketetapan Pajak terutang berdasarkan pertimbangan kemampuan memb
 
 a. 1 (satu) permohonan untuk 1 (satu) pengurangan atau pembatalan sebagaimana dimaksud pada ayat (2):
 
-b. diajukan secara tertulis dalam Bahasa Indonesia,
+b. diajukan secara tertulis dalam Bahasa Indonesia;
 
-c. mencantumkan jumlah pajak yang seharusnya terutang menurut penghitungan Wajib Pajak disertai dengan alasan yang mendukung permohonannya, dan
+c. mencantumkan jumlah pajak yang seharusnya terutang menurut penghitungan Wajib Pajak disertai dengan alasan yang mendukung permohonannya; dan
 
 d. dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permohonan harus dilampiri dengan surat kuasa khusus.
 
@@ -1198,15 +1198,15 @@ d. dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak, surat permo
 
 (4) Permohonan pengembalian kelebihan pembayaran pajak diajukan dengan ketentuan:
 
-a. diajukan secara tertulis dalam bahasa Indonesia dengan disertai alasan yang mendukung permohonannya,
+a. diajukan secara tertulis dalam bahasa Indonesia dengan disertai alasan yang mendukung permohonannya;
 
-b. diajukan kepada Bupati atau Pejabat yang ditunjuk,
+b. diajukan kepada Bupati atau Pejabat yang ditunjuk;
 
-c. melampirkan asli bukti pembayaran pajak,
+c. melampirkan asli bukti pembayaran pajak;
 
-d. surat permohonan ditandatangani oleh Wajib Pajak, dan dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak harus dilampiri dengan surat kuasa bermaterai cukup,
+d. surat permohonan ditandatangani oleh Wajib Pajak, dan dalam hal surat permohonan ditandatangani oleh bukan Wajib Pajak harus dilampiri dengan surat kuasa bermaterai cukup;
 
-e. melampirkan perhitungan pajak yang seharusnya tidak terutang, dan
+e. melampirkan perhitungan pajak yang seharusnya tidak terutang; dan
 
 f. mencantumkan alasan permohonan pengembalian pembayaran pajak yang seharusnya tidak terutang.
 
@@ -1232,15 +1232,15 @@ f. mencantumkan alasan permohonan pengembalian pembayaran pajak yang seharusnya 
 
 (1) Piutang pajak yang sudah tidak mungkin ditagih lagi sebagaimana dimaksud dalam Pasal 61 ayat 2, yang berkaitan dengan Wajib Pajak orang pribadi, dapat disebabkan:
 
-a. Wajib Pajak dan/atau penanggung Pajak tidak dapat ditemukan atau meninggal dunia dengan tidak meninggalkan harta warisan dan tidak mempunyai ahli waris, atau ahli waris tidak dapat ditemukan,
+a. Wajib Pajak dan/atau penanggung Pajak tidak dapat ditemukan atau meninggal dunia dengan tidak meninggalkan harta warisan dan tidak mempunyai ahli waris, atau ahli waris tidak dapat ditemukan;
 
-b. Wajib Pajak dan/atau penanggung Pajak tidak mempunyai harta kekayaan lagi,
+b. Wajib Pajak dan/atau penanggung Pajak tidak mempunyai harta kekayaan lagi;
 
-c. Wajib Pajak dan/atau penanggung Pajak dinyatakan pailit berdasarkan keputusan pengadilan, dan dari hasil penjualan harta tidak mencukupi untuk melunasi utang pajaknya,
+c. Wajib Pajak dan/atau penanggung Pajak dinyatakan pailit berdasarkan keputusan pengadilan, dan dari hasil penjualan harta tidak mencukupi untuk melunasi utang pajaknya;
 
 d. Wajib Pajak dan/atau penanggung Pajak tidak dapat diketemukan lagi karena:
 
-1. Wajib Pajak dan/atau penanggung Pajak pindah alamat dan tidak mungkin diketemukan lagi berdasarkan surat keterangan dari kepala lingkungan/dusun mengetahui kepala desa/lurah,
+1. Wajib Pajak dan/atau penanggung Pajak pindah alamat dan tidak mungkin diketemukan lagi berdasarkan surat keterangan dari kepala lingkungan/dusun mengetahui kepala desa/lurah;
 
 2. Wajib Pajak dan/atau penanggung Pajak meninggalkan Indonesia untuk selamanya berdasarkan surat keterangan dari kepala lingkungan/dusun mengetahui kepala desa /lurah.
 
@@ -1248,11 +1248,11 @@ e. Penagihan Pajak secara aktif telah dilaksanakan dengan penyampaian salinan Su
 
 (2) Piutang pajak yang sudah tidak mungkin ditagih sebagaimana dimaksud dalam Pasal 6' ayat (2), yang berkaitan dengan Wajib Pajak badan, dapat disebabkan:
 
-a. Wajib Pajak bubar, likuidasi, atau pailit dan pengurus, direksi, komisaris, pemegang saham, pemilik modal, atau pihak lain yang dibebani untuk melakukan pemberesan atau likuidator, atau kurator tidak dapat ditemukan,
+a. Wajib Pajak bubar, likuidasi, atau pailit dan pengurus, direksi, komisaris, pemegang saham, pemilik modal, atau pihak lain yang dibebani untuk melakukan pemberesan atau likuidator, atau kurator tidak dapat ditemukan;
 
-b. Wajib Pajak dan/atau penanggung Pajak tidak memiliki harta kekayaan lagi,
+b. Wajib Pajak dan/atau penanggung Pajak tidak memiliki harta kekayaan lagi;
 
-c. Penagihan Pajak secara aktif telah dilaksanakan dengan penyampaian salinan Surat Paksa kepada pengurus, direksi, likuidator, kurator, pengadilan negeri, pengadilan niaga, atau institusi pemerintah setempat, baik secara langsung maupun dengan menempelkan pada papan pengumuman atau media massa, atau
+c. Penagihan Pajak secara aktif telah dilaksanakan dengan penyampaian salinan Surat Paksa kepada pengurus, direksi, likuidator, kurator, pengadilan negeri, pengadilan niaga, atau institusi pemerintah setempat, baik secara langsung maupun dengan menempelkan pada papan pengumuman atau media massa; atau
 
 d. sebab lain sesuai hasil penelitian.
 
@@ -1272,9 +1272,9 @@ b. hasil koordinasi dengan aparat pengawas internal Daerah.
 
 (5) Penghapusan piutang pajak sebagaimana dimaksud pada ayat (1), sekurang-kurangnya memuat:
 
-a. nama dan alamat Wajib Pajak atau penanggung Pajak,
+a. nama dan alamat Wajib Pajak atau penanggung Pajak;
 
-b. jumlah piutang Pajak, dan
+b. jumlah piutang Pajak; dan
 
 c. masa Pajak.
 
@@ -1282,19 +1282,19 @@ c. masa Pajak.
 
 (7) Daftar usulan Penghapusan Piutang Pajak sebagaimana dimaksud pada ayat (6), sekurang-kurangnya memuat:
 
-a. nama Wajib Pajak dan penanggung Pajak,
+a. nama Wajib Pajak dan penanggung Pajak;
 
-b. alamat Wajib Pajak dan/atau penangung Pajak,
+b. alamat Wajib Pajak dan/atau penangung Pajak;
 
 c. NPWPD:
 
-d. jenis Pajak,
+d. jenis Pajak;
 
-e. tahun Pajak,
+e. tahun Pajak;
 
-f. jumlah Piutang Pajak yang akan dihapuskan,
+f. jumlah Piutang Pajak yang akan dihapuskan;
 
-g. tindakan Penagihan yang pernah dilakukan, dan
+g. tindakan Penagihan yang pernah dilakukan; dan
 
 h. alasan dihapuskan.
 
@@ -1326,11 +1326,11 @@ b. Bupati dengan persetujuan Dewan Perwakilan Rakyat Daerah untuk jumlah lebih d
 
 (4) Keadaan kahar sebagaimana dimaksud pada ayat (3) meliputi:
 
-a. bencana alam,
+a. bencana alam;
 
 b. kebakaran:
 
-c. kerusuhan massal atau huru hara,
+c. kerusuhan massal atau huru hara;
 
 d. wabah penyakit, dan/atau
 
@@ -1356,11 +1356,11 @@ c. keadaan lain berdasarkan pertimbangan Bupati.
 
 (4) Keputusan Bupati atau Pejabat yang ditunjuk atas keberatan dapat berupa:
 
-a. menerima seluruhnya dalam hal Pajak terutang berdasarkan hasil penelitian sama dengan Pajak yang terutang menurut Wajib Pajak,
+a. menerima seluruhnya dalam hal Pajak terutang berdasarkan hasil penelitian sama dengan Pajak yang terutang menurut Wajib Pajak;
 
-b. menerima sebagian dalam hal Pajak terutang berdasarkan hasil penelitian sebagian sama dengan Pajak yang terutang menurut Wajib Pajak,
+b. menerima sebagian dalam hal Pajak terutang berdasarkan hasil penelitian sebagian sama dengan Pajak yang terutang menurut Wajib Pajak;
 
-c. menolak dalam hal Pajak terutang berdasarkan hasil penelitian sama “.dengan ' Pajak yang terutang dalam surat keputusan/ketetapan yang diajukan keberatan oleh Wajib Pajak, atau
+c. menolak dalam hal Pajak terutang berdasarkan hasil penelitian sama “.dengan ' Pajak yang terutang dalam surat keputusan/ketetapan yang diajukan keberatan oleh Wajib Pajak; atau
 
 d. menambah besarnya jumlah Pajak yang terutang dalam hal Pajak terutang berdasarkan hasil penelitian lebih besar dari Pajak yang terutang dalam surat keputusan/ketetapan yang diajukan keberatan oleh Wajib Pajak.
 
@@ -1402,11 +1402,11 @@ d. menambah besarnya jumlah Pajak yang terutang dalam hal Pajak terutang berdasa
 
 Gugatan Wajib Pajak atau penanggung Pajak terhadap:
 
-. a. pelaksanaan Surat Paksa, surat perintah melaksanakan penyitaan, atau pengumuman lelang,
+. a. pelaksanaan Surat Paksa, surat perintah melaksanakan penyitaan, atau pengumuman lelang;
 
-b. keputusan pencegahan dalam rangka Penagihan Pajak,
+b. keputusan pencegahan dalam rangka Penagihan Pajak;
 
-c. keputusan yang berkaitan dengan pelaksanaan keputusan perpajakan, selain yang ditetapkan dalam Pasal 65 ayat (1) dan Pasal 66, dan
+c. keputusan yang berkaitan dengan pelaksanaan keputusan perpajakan, selain yang ditetapkan dalam Pasal 65 ayat (1) dan Pasal 66; dan
 
 d. penerbitan surat ketetapan pajak atau Surat Keputusan Keberatan yang dalam penerbitannya tidak sesuai dengan prosedur atau tata cara yang telah diatur dalam ketentuan peraturan perundang-undangan, hanya dapat diajukan ke badan peradilan Pajak.
 
@@ -1422,35 +1422,35 @@ Dokumen Pemungutan PBJT antara lain:
 
 a. formulir pendaftaran:
 
-b. NPWPD,
+b. NPWPD;
 
 c. SPTPD:
 
 «. SKPD:
 
-e. STPD,
+e. STPD;
 
-f. 'SKPDKB,
+f. 'SKPDKB;
 
-g. SKPDKBT,
+g. SKPDKBT;
 
-h. SKPDLB,
+h. SKPDLB;
 
-i. 'SKPDN,
+i. 'SKPDN;
 
-j. SSPD,
+j. SSPD;
 
-k. surat teguran,
+k. surat teguran;
 
-l. surat panggilan dalam rangka pemeriksaan,
+l. surat panggilan dalam rangka pemeriksaan;
 
-m. berita acara pembahasan akhir hasil pemeriksaan,
+m. berita acara pembahasan akhir hasil pemeriksaan;
 
 n. surat paksa,
 
-Oo. surat pemberitahuan penolakan angsuran atau penundaan pembayaran,
+Oo. surat pemberitahuan penolakan angsuran atau penundaan pembayaran;
 
-p. keputusan atas permohonan penundaan pembayaran atau permohonan angsuran,
+p. keputusan atas permohonan penundaan pembayaran atau permohonan angsuran;
 
 g. keputusan atas permohonan pengurangan atau pembebasan Pajak: dan
 
@@ -1462,13 +1462,13 @@ r. surat permohonan penundaan pembayaran angsuran.
 
 Pada saat Peraturan Bupati ini mulai berlaku:
 
-a. Peraturan Bupati Kapuas Hulu Nomor 65 Tahun 2017 tentang Perubahan Atas Peraturan Bupati Nomor 27 Tahun 2011 tentang Prosedur Pemungutan Pajak Restoran di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2017 Nomor 65),
+a. Peraturan Bupati Kapuas Hulu Nomor 65 Tahun 2017 tentang Perubahan Atas Peraturan Bupati Nomor 27 Tahun 2011 tentang Prosedur Pemungutan Pajak Restoran di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2017 Nomor 65);
 
-b. Peraturan Bupati Kapuas Hulu Nomor 31 Tahun 2011 tentang Sistem dan Prosedur Pemungutan Pajak Penerangan Jalan di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2011 Nomor 309),
+b. Peraturan Bupati Kapuas Hulu Nomor 31 Tahun 2011 tentang Sistem dan Prosedur Pemungutan Pajak Penerangan Jalan di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2011 Nomor 309);
 
 c. Peraturan Bupati Kapuas Hulu Nomor 25 Tahun 2011 tentang Prosedur Pemungutan Pajak Hotel di Kabupaten Kapuas Hulu (Berita Daerah Kabupaten Kapuas Hulu Tahun 2011 Nomor 303):
 
-d. Peraturan Bupati Kapuas Hulu Nomor 25 Tahun 2014 tentang Petunjuk Pelaksanaan Pemungutan Pajak Parkir (Berita Daerah Kabupaten Kapuas Hulu Tahun 2014 Nomor 25),
+d. Peraturan Bupati Kapuas Hulu Nomor 25 Tahun 2014 tentang Petunjuk Pelaksanaan Pemungutan Pajak Parkir (Berita Daerah Kabupaten Kapuas Hulu Tahun 2014 Nomor 25);
 
 e. Peraturan Bupati Kapuas Hulu Nomor 30 Tahun 2014 tentang Petunjuk Pelaksanaan Pemungutan Pajak Hiburan (Berita Daerah Kabupaten Kapuas Hulu Tahun 2014 Nomor 30), dicabut dan dinyatakan tidak berlaku.
 

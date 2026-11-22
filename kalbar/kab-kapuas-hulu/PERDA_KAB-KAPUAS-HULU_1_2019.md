@@ -282,7 +282,7 @@ e. pelayanan puskesmas keliling;
 
 f. pelayanan home care/ perkesmas;
 
-g. pelayanan pemeriksaan penunjang kedokteran (laboratorium, Radiologi, pemeriksaan USG, pemeriksaan O i - oC Cl / I j ,
+g. pelayanan pemeriksaan penunjang kedokteran (laboratorium, Radiologi, pemeriksaan USG, pemeriksaan CT-Scan);
 
 h. pelayanan instalasi gawat darurat;
 

@@ -24,20 +24,20 @@ Peraturan Pemerintah Nomor 35 Tahun 2023
 tentang Ketentuan Umum Pajak Daerah dan
 Retribusi Daerah bahwa tata cara pelaksanaan
 pemungutan retribusi ditetapkan dengan
-perkada,
+perkada;
 b. bahwa untuk melaksanakan ketentuan Pasal 128
 ayat (3) Peraturan Daerah Kabupaten Kapuas
 Hulu Nomor 1 Tahun 2024 tentang Pajak Daerah
 dan Retribusi Daerah perlu disusun Peraturan
 Bupati yang berpedoman pada ketentuan dan
-peraturan perundang-undangan,
+peraturan perundang-undangan;
 c. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a dan huruf b, perlu
 menetapkan Peraturan Bupati tentang Tata Cara
 Pelaksanaan Pemungutan Retribusi Persetujuan
 Bangunan Gedung,
 Mengingat: 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
@@ -46,7 +46,7 @@ Republik Indonesia Tahun 1953 Nomor 9)
 sebagai Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor 72,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 1820),
+Nomor 1820);
 3. Undang-Undang Nomor 28 Tahun 2002 tentang
 Bangunan Gedung (Lembaran Negara Republik
 Indonesia Tahun 2002 Nomor 134, Tambahan
@@ -58,7 +58,7 @@ Pengganti Undang-Undang Nomor 2 Tahun 2022
 tentang Cipta Kerja menjadi Undang-undang
 (Lembaran Negara Republik Indonesia Tahun
 2023 Nomor 41, Tambahan Lembaran Negara
-Republik Indonesia Nomor 6856),
+Republik Indonesia Nomor 6856);
 4. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2014 Nomor 244,
@@ -71,19 +71,19 @@ Tahun 2022 tentang Cipta Kerja menjadi
 Undang-Undang (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6856),
+6856);
 5. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan antara Pemerintah Pusat
 dan Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2022 Nomor 4,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 6757),
+Nomor 6757);
 6. Peraturan Pemerintah Nomor 16 Tahun 2021
 tentang Peraturan Pelaksanaan Undang-Undang
 Nomor 28 Tahun 2002 tentang Bangunan
 Gedung (Lembaran Negara Republik Indonesia
 Tahun 2021 Nomor 26, Tambahan Lembaran
-Negara Republik Indonesia Nomor 6628),
+Negara Republik Indonesia Nomor 6628);
 7. Peraturan Pemerintah Nomor 35 Tahun 2023
 tentang Ketentuan Umum Pajak Daerah dan
 Retribusi Daerah (Lembaran Negara Republik
@@ -245,9 +245,9 @@ Tata cara permohonan keringanan, pengurangan, dan pembebasan
 
 Retribusi adalah sebagai berikut:
 
-a. Wajib Retribusi mengajukan permohonan kepada Bupati melalui Kepala Dinas,
+a. Wajib Retribusi mengajukan permohonan kepada Bupati melalui Kepala Dinas;
 
-b. permohonan yang diajukan oleh Wajib Retribusi akan ditindaklanjuti oleh Kepala Dinas dalam waktu 12 (dua belas) hari kerja, dan
+b. permohonan yang diajukan oleh Wajib Retribusi akan ditindaklanjuti oleh Kepala Dinas dalam waktu 12 (dua belas) hari kerja; dan
 
 c. dalam waktu paling lama 6 (enam) bulan sejak permohonan diterima, Kepala Dinas harus memberikan jawaban diterima atau ditolak atas permohonan dari Wajib Retribusi.
 
@@ -257,11 +257,11 @@ Ketentuan pemberian pengurangan, keringanan, dan pembebasan retribusi adalah seb
 
 a. Bupati melalui Kepala Dinas menetapkan besarnya pemberian pengurangan, keringanan, dan pembebasan Retribusi berdasarkan hasil pemeriksaan dan pencermatan dengan instansi terkait:
 
-b. besarnya pemberian pengurangan, keringanan, dan pembebasan Retribusi memperhatikan kondisi Wajib Retribusi,
+b. besarnya pemberian pengurangan, keringanan, dan pembebasan Retribusi memperhatikan kondisi Wajib Retribusi;
 
-c. kondisi wajib Retribusi sebagaimana dimaksud pada poin b paling sedikit berupa kemampuan membayar dari Wajib Retribusi atau tingkat likuiditas Wajib Retribusi,
+c. kondisi wajib Retribusi sebagaimana dimaksud pada poin b paling sedikit berupa kemampuan membayar dari Wajib Retribusi atau tingkat likuiditas Wajib Retribusi;
 
-d. pemberian pengurangan, keringanan, dan pembebasan Retribusi hanya diberikan sekali pada saat Retribusi terutang, dan
+d. pemberian pengurangan, keringanan, dan pembebasan Retribusi hanya diberikan sekali pada saat Retribusi terutang; dan
 
 e. pemberian pengurangan, keringanan, dan pembebasan Retribusi pada saat Wajib Retribusi sudah membayar retribusi, maka dapat dikembalikan sesuai besarnya pemberian pengurangan, keringanan, dan pembebasan retribusi yang dikabulkan.
 
@@ -289,7 +289,7 @@ a. Wajib Retribusi mengajukan permohonan pengembalian kelebihan pembayaran Retri
 
 b. permohonan dilakukan dengan melampirkan SKRDLB:
 
-c. Kepala Dinas melakukan penelitian atas permohonan dari Wajib Retribusi, dan
+c. Kepala Dinas melakukan penelitian atas permohonan dari Wajib Retribusi; dan
 
 d. Kepala Dinas harus mengembalikan kelebihan pembayaran Retribusi dalam jangka waktu paling lama 2 (dua) bulan sejak diterbitkan SKRDLB.
 
@@ -323,9 +323,9 @@ b. Inspektur Kabupaten Kapuas Hulu.
 
 (2) Berita Acara Pemeriksaan Kas dan Register Penutupan Kas sebagaimana dimaksud pada ayat (1), disampaikan kepada Bupati dengan tembusan kepada:
 
-a. Kepala Perangkat Daerah yang menyelenggarakan urusan bidang keuangan daerah,
+a. Kepala Perangkat Daerah yang menyelenggarakan urusan bidang keuangan daerah;
 
-b. Kepala Perangkat Daerah yang menyelenggarakan urusan bidang Pajak Daerah dan Retribusi Daerah, dan
+b. Kepala Perangkat Daerah yang menyelenggarakan urusan bidang Pajak Daerah dan Retribusi Daerah; dan
 
 c. Inspektur Kabupaten Kapuas Hulu.
 

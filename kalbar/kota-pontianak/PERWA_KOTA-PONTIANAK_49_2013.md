@@ -10,8 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-2
-La Y
 PERATURAN WALIKOTA PONTIANAK
 NOMOR /() TAHUN 2013
 TENTANG
@@ -25,15 +23,15 @@ daerah, khususnya meningkatkan pelayanan
 pemungutan Pajak Restoran, maka perlu
 penyesuaian beberapa ketentuan dalam Peraturan
 Walikota Pontianak Nomor 21 Tahun 2012 tentang
-Petunjuk Pelaksanaan Pemungutan Pajak Restoran,
+Petunjuk Pelaksanaan Pemungutan Pajak Restoran;
 b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, perlu menetapkan
 Peraturan Walikota tentang Perubahan Atas
 Peraturan Walikota Pontianak Nomor 21 Tahun
 2012 tentang Petujuk Pelaksanaan Pemungutan
-Pajak Restoran,
+Pajak Restoran;
 Mengingat : 1. Pasal 18 ayat 6 Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun
 Era 1953 tentang Pembentukan Daerah Tingkat II Di
@@ -49,8 +47,6 @@ De Daerah Tingkat II Di Kalimantan (Lembaran Negara
 . Kat Ng Lg Republik Indonesia Tahun 1965 Nomor Si,
 : ag TN pa 5 — Tambahan Lembaran Negara Republik Indonesia
 aa Mmor 2756 Ot
-Kn ja aa 1 H P3 4
-TN an ar E
 3. Undang-Undang Nomor 19 Tahun 1997 tentang
 Penagihan Pajak dengan Surat Paksa (Lembaran
 Negara Republik Indonesia Tahun 1997 Nomor 42,
@@ -69,7 +65,7 @@ Lembaran Negara Republik Indonesia Nomor 4189):
 5. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik
 Indonesia Tahun 2003 Nomor 47, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4286),
+Lembaran Negara Republik Indonesia Nomor 4286);
 6. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 5, Tambahan
@@ -89,35 +85,32 @@ MO tentang Perubahan Kedua atas Undang-Undang
 3 kanan Nomor 32 Tahun 2004 tentang Pemerintahan
 Pi ae 0.0 Daerah (Lembaran Negara Republik Indonesia Tahun
 (9008 Nomor 59, Tambahan Lembaran Negara
-So ae, .
 2 Negara Republik Indonesia Tahun 2009 Nomor 130,
 7 0 Tambahan Lembaran Negara Republik Pr
-Ban
-an £
 Nomor 5049):
 10. Undang-Undang Nomor 12 Tahun 2011 tentang
 Pembentukan Peraturan Perundang-undangan
 (Lembaran Negara Republik Indonesia Tahun 2011
 Nomor 82, Tambahan Lembaran Negara Republik
-Indonesia Nomor 5234),
+Indonesia Nomor 5234);
 11. Peraturan Pemerintah Nomor 31 Tahun 1986
 tentang Tata Cara Pemeriksaan Di Bidang
 Perpajakan (Lembaran Negara Republik Indonesia
 Tahun 1986 Nomor 46, Tambahan Lembaran Negara
-Republik Indonesia Nomor 3339),
+Republik Indonesia Nomor 3339);
 12. Peraturan Pemerintah Nomor 135 Tahun 2000
 tentang Tata Cara Penyitaan dalam rangka
 Penagihan Pajak dengan Surat Paksa (Lembaran
 Negara Republik Indonesia Tahun 2000 Nomor 247,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4049),
+Nomor 4049);
 13. Peraturan Pemerintah Nomor 136 Tahun 2000
 tentang Tata Cara Penjualan Barang Sitaan Yang
 Dikecualikan Dari Penjualan Secara Lelang Dalam
 Rangka Penagihan Pajak Dengan Surat Paksa
 (Lembaran Negara Republik Indonesia Tahun 2000
 Nomor 248, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4050),
+Indonesia Nomor 4050);
 14. Peraturan Pemerintah Nomor 14 Tahun 2005
 tentang “ Tata Cara Penghapusan Piutang
 Negara/Daerah — (Lembaran Negara Republik
@@ -127,38 +120,38 @@ Lembaran Negara Republik Indonesia Nomor 4488):
 tentang Pengelolaan Keuangan Daerah (Lembaran
 Negara Republik Indonesia Tahun 2005 Nomor 140,
 Tambahan Letnbaran Negara Republik Indonesia
-Nomor 4578),
+Nomor 4578);
 16. Peraturan Pemerintah Nomor 38 Tahun 2007
 tentang Pembagian Urusan Pemerintahan antara
 Pemerintah, Pemerintahan Daerah Provinsi dan
 Pemerintahan Daerah Kabupaten/Kota (Lembaran
 Negara Republik Indonesia Tahun 2007 Nomor 82,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4737), U
+Nomor 4737),
 17. Peraturan Pemerintah Nomor 69 Tahun 2010
 tentang Tata Cara Pemberian dan Pemanfaatan
 Insentif Pemungutan Pajak Daerah dan Retribusi
 Daerah (Lembaran Negara Republik Indonesia Tahun
 2010 Nomor 119, Tambahan Lembaran Negara
-Republik Indonesia Nomor 516 1),
+Republik Indonesia Nomor 516 1);
 18. Peraturan Pemerintah Nomor 91 Tahun 2010
 tentang Jenis Pajak Daerah yang Dipungut
 Berdasarkan Penetapan Kepala Daerah atau Dibayar
 sendiri oleh Wajib Pajak (Lembaran Negara Republik
 Indonesia Tahun 2010 Nomor 153, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5179),
+Lembaran Negara Republik Indonesia Nomor 5179);
 19. Peraturan Presiden Nomor 1 Tahun 2007 tentang
 Pengesahan, Pengundangan dan Penyebarluasan
-Peraturan Perundang-undangan,
+Peraturan Perundang-undangan;
 20. Peraturan Menteri Dalam Negeri Nomor 53 tahun
 2011 tentang Pembentukan Produk Hukum Daerah
 (Berita Negara Republik Indonesia Tahun 2011
-Nomor 694),
+Nomor 694);
 21. Peraturan Daerah Kota Pontianak Nomor 2 Tahun
 1987 tentang Penyidik Pegawai Negeri Sipil Di
 Lingkungan Pemerintah Kota Pontianak (Lembaran
 Daerah Kota Pontianak Tahun 1988 Nomor 14 Seri
-D Nomor 10),
+D Nomor 10);
 22. Peraturan Daerah Kota Pontianak Nomor 8 Tahun
 2008 tentang Bidang Urusan Pemerintah Yang
 Menjadi Kewenangan Pemerintah Kota Pontianak
@@ -175,8 +168,6 @@ Lt Tahun 2008 tentang Pembentukan Organisasi
 berangkat Daerah Kota Pontianak (Lembaran
 “ paerah Kota Pontianak Tahun 2011 Nomor 13,
 — #ambahan Lembaran Daerah Kota Pontianak Nomor
-Ta 2 Sa “2 Of
-Tr An L
 24. Peraturan Daerah Kota Pontianak Nomor 6 Tahun
 2010 tentang Pajak Daerah Kota Pontianak
 (Lembaran Daerah Kota Pontianak Tahun 2010
@@ -186,7 +177,7 @@ Kota Pontianak Nomor 4 Tahun 2012 tentang
 Perubahan Atas Peraturan Daerah Kota Pontianak
 Nomor 6 Tahun 2010 tentang Pajak Daerah Kota
 Pontianak (Lembar Daerah Kota Pontianak Tahun
-2012 Nomor 4),
+2012 Nomor 4);
 25. Peraturan Walikota Pontianak Nomor 21 Tahun
 2012 tentang Petunjuk Pelaksanaan Pemungutan
 Pajak Restoran (Berita Daerah Kota Pontianak
@@ -204,8 +195,6 @@ Beberapa ketentuan dalam Peraturan Walikota Pontianak Nomor 21 Tahun 2012 tentan
 Pasal 1 Dalam Peraturan Walikota ini, yang dimaksud dengan :
 
 1. Daerah adalah Daerah Kota Pontianak. FE dalah Walikota dan Perangkat Daerah 000.09, Pemerintah Daerah a : : Oei Na ara Pemerintah Kota Pontianak. NG: ba sebagai unsur Penyelengg an Da. Walikota adalah Walikota Pontianak, Of Kk Ag Ba II Fi 5 Nana £ Ph Ge Eh sg
-
--
 
 4. kg Kerja Perangkat Daerah Pelayanan Pajak Daerah yang - segan disingkat SKPD-PPD adalah Instansi yang melakukan pelayanan pajak daerah.
 
@@ -242,8 +231,6 @@ Bagian Tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajak
 19. Self Assessment adalah sistem pemungutan pajak dimana is pajak dihitung, diperhitungkan, dibayar, dan dilaporkan un sendiri oleh Wajib Pajak. e Pe 3 20. Kas Daerah adalah Kas Daerah Kota Pontianak. ! — 91. Nomor Pokok Wajib Pajak Daerah yang selanjutnya disebut "aa NPWPD, adalah nomor registrasi yang diberikan kepada Wajib il, , ka rat Pendaftaran Objek Pajak Daerah yang bner 1 ta sapaan 1 SPOPD adalah surat yang digunakan aji jak
 
 “daftarkan diri dan melaporkan objek pajak atau anwa ke SKPD-PPD.
-
-“esis NN . .
 
 TA ab Na BO y adalah Surat yang diterbitkan oleh Kepala are hagai dasar untuk melakukan pemungutan ng 1g Hang ian Of EN ea AN
 
@@ -297,7 +284,7 @@ Be melmusanakan “ketentuan peraturan perundang-undangan Pa AE ar PUN ME Ti
 
 43. Surat Paksa adalah surat perintah membayar utang pajak dan biaya penagihan pajak.
 
-2. Ketentuan Pasal 3 ayat (3) dan ayat (7) diubah serta ayat (8) dihapus, sehingga Pasal 3 berbunyi sebagai berikut : ,
+2. Ketentuan Pasal 3 ayat (3) dan ayat (7) diubah serta ayat (8) dihapus, sehingga Pasal 3 berbunyi sebagai berikut :
 
 Pasal 3
 
@@ -323,14 +310,12 @@ P" 5) Contoh Perhitungan Pajak Restoran sebagai : pada ayat (1) ditetapkan denga
 
 (6) Apabila Wajib Pajak tidak menarik Pajak Restoran dari pengunjung Restoran dan tidak mencantumkan pada setiap bon penjualan atau bill, faktur, cash register atau sejenisnya yang dikeluarkan oleh Wajib Pajak, maka Pajak Restoran yang terhutang menjadi tanggung jawab Wajib Pajak dan dianggap sudah termasuk dalam nilai penjualan Restoran tersebut.
 
-(7) Perhitungan Pajak Restoran sebagaimana dimaksud pada ayat
-
-(6) adalah dengan mengalikan omset Restoran tersebut pada : setiap masa pajak dengan 100 /110 (seratur per seratus aa sepuluh) dari Tarif Pajak Restoran sebagaimana dimaksud pad". pada pasal 6. . e (8) Contoh Perhitungan Pajak Restoran sebagaimana dimaksud ai pada ayat (7) sebagai berikut : 1 Anu - Nasi putih -4porsi@ 3.000 - Rp 12.000 Ng : - Sate ayam - 3 porsi @ 20.000 - Rp 60.000 Gulai Kambing  -1porsi@ 25.000 - Rp — 25.000 (000 balapan - 1porsi@ 7.500 - Rp 7.500 Da Lemon tea »4gelas @ 1.500 -R 6.000 pa Jumlah omset Rp 110.000 2 Tg — Pajak Restoran (100/110) x 1076 x omset - Rp 11.000
+(7) Perhitungan Pajak Restoran sebagaimana dimaksud pada ayat (6) adalah dengan mengalikan omset Restoran tersebut pada : setiap masa pajak dengan 100 /110 (seratur per seratus aa sepuluh) dari Tarif Pajak Restoran sebagaimana dimaksud pad". pada pasal 6. . e (8) Contoh Perhitungan Pajak Restoran sebagaimana dimaksud ai pada ayat (7) sebagai berikut : 1 Anu - Nasi putih -4porsi@ 3.000 - Rp 12.000 Ng : - Sate ayam - 3 porsi @ 20.000 - Rp 60.000 Gulai Kambing  -1porsi@ 25.000 - Rp — 25.000 (000 balapan - 1porsi@ 7.500 - Rp 7.500 Da Lemon tea »4gelas @ 1.500 -R 6.000 pa Jumlah omset Rp 110.000 2 Tg — Pajak Restoran (100/110) x 1076 x omset - Rp 11.000
 
 Ketentuan Pasal 11 ayat (1) diubah, sehingga Pasal 11 berbunyi
 
 Pasal 11 mba jaran pajak terutang dengan media SPTPD harus ikan sekaligus dan lunas di Kas Daerah atau melalui hara Penerima SKPD-PPD, paling lambat 14 (empat sr 3 ' stelah t khirnya masa pajak dengan ME Wobayaran jatuh pada hari libur, Mara Kabayaran jatuh pada satu hari ef) 4
 
-4 (3) Apabila pembayaran masa pajak terutang dilakukan setelah 1 jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), R dikenakan sanksi administrasi berupa bunga keterlambatan Ka . sebesar 2”s (dua persen) sebulan untuk jangka waktu paling "3 lama 15 (lima belas) bulan. Peraturan Walikota ini mulai berlaku pada tanggal diundangkan. 3 Agar setiap orang mengetahuinya, memerintahkan pengundangan —. Peraturan Walikota ini dengan penempatannya dalam Berita Daerah Kota Pontianak. 3 Ditetapkan di Pontianak h pada tanggal 23 Ipt 7019 “.. | 4 SUTARMIDJI Diundangkan di Pontianak ) SEKRETARIS DAERAH KOTA PONTIANAK, f AK TAHUN 2013 NOMOR
+4 (3) Apabila pembayaran masa pajak terutang dilakukan setelah 1 jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), R dikenakan sanksi administrasi berupa bunga keterlambatan Ka . sebesar 2% (dua persen) sebulan untuk jangka waktu paling "3 lama 15 (lima belas) bulan. Peraturan Walikota ini mulai berlaku pada tanggal diundangkan. 3 Agar setiap orang mengetahuinya, memerintahkan pengundangan —. Peraturan Walikota ini dengan penempatannya dalam Berita Daerah Kota Pontianak. 3 Ditetapkan di Pontianak h pada tanggal 23 Ipt 7019 “.. | 4 SUTARMIDJI Diundangkan di Pontianak ) SEKRETARIS DAERAH KOTA PONTIANAK, f AK TAHUN 2013 NOMOR
 
 ## Penutup

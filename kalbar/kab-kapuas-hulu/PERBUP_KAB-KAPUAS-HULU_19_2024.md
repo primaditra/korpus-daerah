@@ -34,13 +34,13 @@ penyediaan tempat pelelangan ikan,
 C. bahwa untuk melaksanakan ketentuan Pasal
 89, Pasal 90 dan Pasal 91 Peraturan Daerah
 Kabupaten Kapuas Hulu Nomor 1 Tahun 2024
-tentang Pajak Daerah dan Retribusi Daerah,
+tentang Pajak Daerah dan Retribusi Daerah;
 d. bahwa berdasarkan pertimbangan
 sebagaimana dimaksud dalam huruf a, huruf
 b, dan huruf c perlu menetapkan Peraturan
 Bupati tentang Petunjuk Pelaksanaan
 Pemungutan Retribusi Penyediaan Tempat
-Pelelangan Ikan,
+Pelelangan Ikan;
 Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar
 Negara Republik Indonesia Tahun 1945:
 2. Undang-Undang Nomor 31 Tahun 2004
@@ -55,7 +55,7 @@ Undang Nomor 2 Tahun 2022 tentang Cipta
 Kerja menjadi Undang-Undang (Lembaran
 Negara Republik Indonesia Tahun 2023 Nomor
 41, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6856),
+Indonesia Nomor 6856);
 3. Undang-Undang Nomor 23 Tahun 2014
 tentang Pemerintahan Daerah (Lembaran
 Negara Republik Indonesia Tahun 2014 Nomor
@@ -79,7 +79,7 @@ Pemerintah Pengganti Undnag-Undang Nomor
 Undang-Undang (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6856),
+6856);
 5. Undang-Undang Nomor 7 Tahun 2016 tentang
 Perlindungan dan Pemberdayaan Nelayan,
 Pembudi Daya Ikan dan Petambak Garam
@@ -93,18 +93,18 @@ Pemerintah Pengganti Undang-Undang Nomor
 Undang-Undang (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 41, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6856),
+6856);
 6. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan antara Pemerintah Pusat
 dan Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2022 Nomor 4,
 Tambahan Lembaran Negara Republik
-Indonesia Nomor 6757),
+Indonesia Nomor 6757);
 7. Peraturan Pemerintah Nomor 54 Tahun 2002
 tentang Usaha Perikanan (Lembaran Negara
 Republik Indonesia Tahun 2002 Nomor 100,
 Tambahan Lembaran Negara Republik
-Indonesia Nomor 4230),
+Indonesia Nomor 4230);
 8. Peraturan Pemerintah Nomor 12 Tahun 2017
 tentang Pembinaan dan Pengawasan
 Penyelenggaraan Pemerintah Daerah
@@ -115,19 +115,19 @@ Republik Indonesia Nomor 6041):
 tentang Pengelolaan Keuangan Daerah
 (Lembaran Negara Republik Indonesia Tahun
 2019 Nomor 42, Tambahan Lembaran Negara
-Republik Nomor 6322),
+Republik Nomor 6322);
 10. Peraturan Pemerintah Nomor 27 Tahun 2021
 tentang Penyelenggaraan Bidang Kelautan dan
 Perikanan (Lembaran Negara Republik
 Indonesia Tahun 2021 Nomor 37, Tambahan
 Lembaran Negara Republik Indonesia Nomor
-6639),
+6639);
 11. Peraturan Pemerintah Nomor 35 Tahun 2023
 Tahun 2023 tentang Ketentuan Umum Pajak
 Daerah dan Retribusi Daerah (Lembaran
 Negara Republik Indonesia Tahun 2023
 Nomor 85, Tambahan Lembaran Negara
-Republik Indonesia Tahun 6881),
+Republik Indonesia Tahun 6881);
 12. Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 1 Tahun 2024 tentang Pajak Daerah
 dan Retribusi Daerah (Lembaran Daerah
@@ -200,7 +200,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 (2) Objek Retribusi adalah:
 
-a. Jasa Lelang Ikan segar, kerupuk kering, salai/ikan asap, ikan asin dan produk perikanan lainnya,
+a. Jasa Lelang Ikan segar, kerupuk kering, salai/ikan asap, ikan asin dan produk perikanan lainnya;
 
 b. Kios, co. Kantin:
 
@@ -429,7 +429,7 @@ a. diterbitkan surat teguran, dan b.ada pengadaan utang Retribusi dan Wajib Retr
 
 (1) Piutang Retribusi yang tidak mungkin lagi ditagih karena hak untuk melakukan penagihan sudah kadaluarsa dapat dihapus.
 
-(2) Bupati menetapkan keputusan penghapusan piutang Retribusi Daerah yang sudah kadaluarsa sebagaimana dimaksud pada ayat ,
+(2) Bupati menetapkan keputusan penghapusan piutang Retribusi Daerah yang sudah kadaluarsa sebagaimana dimaksud pada ayat ;
 
 (3) Tata cara penghapusan piutang Retribusi yang sudah kadaluarsa sebagaimana dimaksud pada ayat (1) secara teknis administrasi akan ditetapkan oleh Kepala Perangkat Daerah yang membidangi Pendapatan Daerah dengan persetujuan Bupati.
 
@@ -461,9 +461,9 @@ c. memberi keterangan yang diperlukan.
 
 (4) Pembinaan sebagaimana dimaksud pada ayat (3) meliputi:
 
-a. tata cara penyelenggaraan pelelangan ikan,
+a. tata cara penyelenggaraan pelelangan ikan;
 
-b. peningkatan peningkatan kemampuan teknis dan manajemen penyelenggaraan pelelangan ikan di TPI, dan
+b. peningkatan peningkatan kemampuan teknis dan manajemen penyelenggaraan pelelangan ikan di TPI; dan
 
 c. peningkatan keamanan ketertiban dan kebersihan lingkungan TPI.
 

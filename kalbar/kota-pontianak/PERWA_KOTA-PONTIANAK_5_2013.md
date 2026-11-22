@@ -11,8 +11,6 @@ sumber_teks: ocr
 ## Pembukaan
 
 A 1
-P h
-Taha
 PERATURAN WALIKOTA PONTIANAK
 NOMOR 5 TAHUN 2013
 TENTANG
@@ -33,7 +31,7 @@ dan b, perlu menetapkan Peraturan Walikota
 tentang Tata Cara Penghapusan Piutang Pajak
 Daerah.
 Mengingat : 1. Pasal 18 ayat 6 Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun
 1953 tentang Pembentukan Daerah Tingkat II Di
@@ -42,7 +40,7 @@ Tahun 1953 Nomor 9) sebagai mana telah diubah
 dengan Undang-Undang Nomor 8 Tahun 1965
 (Lembaran Negara Republik Indonesia Tahun 1965
 Nomor 51, Tambahan Lembaran Negara Republik
-Indonesia Nomor 2756),
+Indonesia Nomor 2756);
 3. Undang-Undang Nomor 19 Tahun 1997 tentang
 Penagihan Pajak dengan Surat Paksa (Lembaran
 Negara Republik Indonesia Tahun 1997 Nomor 42,
@@ -51,7 +49,7 @@ Nomor 3686) sebagaimana telah diubah dengan
 Undang-Undang Nomor 19 Tahun 2000 (Lembaran
 Negara Republik Indonesia Tahun 2000 Nomor 129,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 3987),
+Nomor 3987);
 4. Undang-Undang Nomor 14 Tahun 2002 tentang
 Pengadilan Pajak (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 27, Tambahan
@@ -117,7 +115,7 @@ Pemerintah, Pemerintahan Daerah Provinsi dan
 Pemerintahan Daerah Kabupaten/Kota (Lembaran
 Negara Republik Indonesia Tahun 2007 Nomor 82,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4737),
+Nomor 4737);
 16. Peraturan Pemerintah Nomor 45 Tahun 2008
 tentang Pedoman Pemberian Insentif dan Pemberian
 Kemudahan Penanaman Modal Di Daerah
@@ -129,7 +127,7 @@ tentang Tata Cara Pemberian dan Pemanfaatan
 Insentif Pemungutan Pajak Daerah dan Retribusi
 Daerah (Lembaran Negara Republik Indonesia
 Tahun 2010 Nomor 119, Tambahan Lembaran
-Negara Republik Indonesia Nomor 5161),
+Negara Republik Indonesia Nomor 5161);
 18. Peraturan Pemerintah Nomor 91 Tahun 2010
 tentang Jenis Pajak Daerah yang Dipungut
 Berdasarkan Penetapan Kepala Daerah atau
@@ -139,7 +137,7 @@ Tambahan Lembaran Negara Republik Indonesia
 Nomor 5179):
 19. Peraturan Presiden Nomor 1 Tahun 2007 tentang
 Pengesahan, Pengundangan dan Penyebarluasan
-Peraturan Perundang-undangan,
+Peraturan Perundang-undangan;
 20. Peraturan Menteri Dalam Negeri Nomor 53 tahun
 2011 tentang Pembentukan Produk Hukum Daerah
 (Berita Negara Republik Indonesia Tahun 2011
@@ -148,19 +146,19 @@ Nomor 694):
 19087 tentang Penyidik Pegawai Negeri Sipil Di
 Lingkungan Pemerintah Kota Pontianak (Lembaran
 Daerah Kota Pontianak Tahun 1988 Nomor 14 Seri
-D Nomor 10),
+D Nomor 10);
 22. Peraturan Daerah Kota Pontianak Nomor 8 Tahun
 2008 tentang Bidang Urusan Pemerintah Yang
 Menjadi Kewenangan Pemerintah Kota Pontianak
 (Lembaran Daerah Tahun 2008 Nomor 7 Seri E
-Nomor 7),
+Nomor 7);
 23. Peraturan Daerah Kota Pontianak Nomor 11 Tahun
 2008 tentang Pembentukan Organisasi Perangkat
 Daerah di Kota Pontianak (Lembaran Daerah Tahun
 2008 Nomor 10 Seri D Nomor 1) sebagaimana telah
 diubah dengan Peraturan Daerah Nomor 13 Tahun
 2011 (Lembaran Daerah Tahun 2011 Nomor 1 Seri
-D Nomor 1),
+D Nomor 1);
 24. Peraturan Daerah Kota Pontianak Nomor 6 Tahun
 2010 tentang Pajak Daerah Kota Pontianak
 (Lembaran Daerah Kota Pontianak Tahun 2010
@@ -186,7 +184,6 @@ PENGHAPUSAN PIUTANG PAJAK DAERAH
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Walikota ini, yang dimaksud dengan:
 
 1. Daerah adalah Kota Pontianak.
@@ -242,31 +239,28 @@ Dalam Peraturan Walikota ini, yang dimaksud dengan:
 **Bagian Kesatu - Ruang Lingkup Penghapusan Piutang Pajak**
 
 ### Pasal 2
-
 (1) Ruang lingkup penghapusan piutang pajak meliputi semua jenis piutang pajak yang menjadi kewenangan Pemerintah Daerah.
 
 (2) Piutang pajak sebagaimana dimaksud pada ayat (1) meliputi kewajiban pokok pajak, bunga dan/atau denda administrasi yang tertunggak sampai dengan tanggal terakhir perhitungan pembebanan hutang yang telah tercantum dalam :
 
-a. Surat Pemberitahuan Pajak Terutang Pajak Bumi Bangunan (SPPT),
+a. Surat Pemberitahuan Pajak Terutang Pajak Bumi Bangunan (SPPT);
 
 b. Surat Ketetapan Pajak Daerah (SKPD): Cc. Surat Ketetapan Pajak Daerah Kurang Bayar (SKPDKB):
 
-d. Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan (SKPDKBT),
+d. Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan (SKPDKBT);
 
-e. Surat Tagihan Pajak Daerah (STPD):
+e. Surat Tagihan Pajak Daerah (STPD);
 
 f. ' Surat Keputusan Pembetulan, Surat Keputusan Keberatan, dan Putusan Banding.
 
 **Bagian Kedua - Syarat Penghapusan Piutang Pajak**
 
 ### Pasal 3
-
 (1) Piutang pajak dapat dihapuskan apabila hak untuk melakukan penagihan sudah kedaluwarsa tanpa menghilangkan hak membayarnya.
 
 (2) Hak untuk melakukan penagihan pajak menjadi kedaluwarsa setelah melampaui waktu S5 (lima) tahun terhitung sejak saat terutangnya pajak, kecuali apabila Wajib Pajak melakukan tindak pidana di bidang Perpajakan Daerah.
 
 ### Pasal 4
-
 (1) Piutang pajak dapat juga dihapuskan walaupun hak untuk melakukan penagihan belum kedaluwarsa jika piutang pajak tersebut tidak dapat dan/atau tidak mungkin ditagih lagi.
 
 (2) Piutang pajak tidak dapat dan/atau tidak mungkin ditagih kembali sebagaimana dimaksud pada ayat (1) dikarenakan hal — hal sebagai berikut :
@@ -280,31 +274,29 @@ b. Walikota dengan persetujuan Dewan Perwakilan Rakyat Daerah untuk jumlah lebih
 ## BAB V - TATA CARA PENGHAPUSAN PIUTANG
 
 ### Pasal 7
-
 (1) Setiap akhir tahun takwim, Kepala SKPD-PPD membuat daftar usulan penghapusan piutang pajak daerah.
 
 (2) Daftar usulan penghapusan piutang pajak daerah sekurangkurangnya memuat :
 
-a. Nama dan alamat Wajib Pajak atau Penanggung Pajak:
+a. Nama dan alamat Wajib Pajak atau Penanggung Pajak;
 
 b. Nomor Pokok Wajib Pajak Daerah atau Nomor Objek Pajak
 
-c. Nomor dan Tanggai STPD/SKPD/SKPDKB/SKPDKBT/ Surat Keputusan Pembetulan/Surat Keputusan Keberatan / Putusan Banding,
+c. Nomor dan Tanggai STPD/SKPD/SKPDKB/SKPDKBT/ Surat Keputusan Pembetulan/Surat Keputusan Keberatan / Putusan Banding;
 
-d. Jenis Pajak Daerah,
+d. Jenis Pajak Daerah;
 
-e. Masa pajak atau Tahun Pajak:
+e. Masa pajak atau Tahun Pajak;
 
-f. ' Jumlah piutang pajak yang akan dihapuskan:
+f. ' Jumlah piutang pajak yang akan dihapuskan;
 
-g. Tindakan penagihan yang pernah dilakukan:
+g. Tindakan penagihan yang pernah dilakukan;
 
-h. Alasan Penghapusan Piutang Pajak:
+h. Alasan Penghapusan Piutang Pajak;
 
 i. Keterangan hasil penelitian administrasi dan penelitian lapangan
 
 ### Pasal 8
-
 (1) Berdasarkan daftar usulan penghapusan piutang pajak daerah sebagaimana dimaksud pada pasal 7, Kepala SKPD-PPD mengajukan permohonan Penghapusan Piutang Pajak Daerah dengan disertai pertimbangan kepada Walikota.
 
 (2) Terhadap piutang pajak daerah yang dihapuskan dengan jumlah sampai dengan Rp. 5.000.000.000,00 (Lima Milyar Rupiah) ditetapkan dengan Keputusan Walikota.
@@ -320,7 +312,6 @@ d. Wajib Pajak/Penanggung Pajak dinyatakan pailit berdasarkan putusan pengadilan
 ## BAB III - PENATAUSAHAAN PIUTANG PAJAK
 
 ### Pasal 5
-
 (1) Piutang pajak yang akan dihapuskan merupakan piutang pajak yang telah dibukukan sebagai piutang pajak daerah.
 
 (2) Penghapusan piutang pajak sebagaimana dimaksud pada ayat (1) dapat dilaksanakan setelah dilaksanakannya penagihan pajak daerah secara aktif kepada Wajib Pajak berdasarkan ketentuan perpajak daerah yang berlaku.
@@ -334,7 +325,6 @@ d. Wajib Pajak/Penanggung Pajak dinyatakan pailit berdasarkan putusan pengadilan
 ## BAB IV - KEWENANGAN
 
 ### Pasal 6
-
 (1) Penghapusan Piutang Pajak dilakukan oleh :
 
 a. Walikota untuk jumlah sampai dengan Rp. 5.000.000.000,00 (Lima Milyar Rupiah):
@@ -342,7 +332,6 @@ a. Walikota untuk jumlah sampai dengan Rp. 5.000.000.000,00 (Lima Milyar Rupiah)
 ## BAB VIII - KETENTUAN PENUTUP
 
 ### Pasal 9
-
 Peraturan Walikota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup

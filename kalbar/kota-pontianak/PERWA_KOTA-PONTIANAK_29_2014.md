@@ -10,11 +10,6 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-Aa 4
-St
-NAK IG
-r.a
-Ne1 R3 LM
 WALIKOTA PONTIANAK
 PROVINSI KALIMANTAN BARAT
 PERATURAN WALIKOTA PONTIANAK
@@ -32,13 +27,13 @@ Peraturan Daerah Kota Pontianak Nomor 4 Tahun
 2012 tentang Perubahan Atas Peraturan Daerah
 Kota Pontianak Nomor 6 Tahun 2010 tentang Pajak
 Daerah Kota Pontianak, maka perlu diatur Petunjuk
-Pelaksanaan Pemungutan Pajak Hiburan,
+Pelaksanaan Pemungutan Pajak Hiburan;
 b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a perlu menetapkan
 Peraturan Walikota tentang Petunjuk Pelaksanaan
-Pemungutan Pajak Hiburan,
+Pemungutan Pajak Hiburan;
 Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun
 1953 tentang Pembentukan Daerah Tingkat II di
@@ -67,7 +62,7 @@ Indonesia Nomor 3987):
 4. Undang-Undang Nomor 14 Tahun 2002 tentang
 Pengadilan Pajak (Lembaran Negara Republik
 Indonesia Tahun 2000 Nomor 27, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4189),
+Lembaran Negara Republik Indonesia Nomor 4189);
 5. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik
 Indonesia Tahun 2003 Nomor 47, Tambahan
@@ -106,7 +101,7 @@ Indonesia Nomor 5234):
 tentang Tata Cara Pemeriksaan di Bidang
 Perpajakan (Lembaran Negara Republik Indonesia
 Tahun 1986 Nomor 46, Tambahan Lembaran
-Negara Republik Indonesia Nomor 3339),
+Negara Republik Indonesia Nomor 3339);
 12. Peraturan Pemerintah Nomor 135 Tahun 2000
 tentang Tata Cara Penyitaan Dalam Rangka
 Penagihan Pajak dengan Surat Paksa (Lembaran
@@ -129,14 +124,14 @@ Lembaran Negara Republik Indonesia Nomor 4488):
 tentang Pengelolaan Keuangan Daerah (Lembaran
 Negara Republik Indonesia Tahun 2005 Nomor 140,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4578),
+Nomor 4578);
 16. Peraturan Pemerintah Nomor 38 Tahun 2007
 tentang Pembagian Urusan Pemerintahan antara
 Pemerintah, Pemerintahan Daerah Provinsi dan
 Pemerintahan Daerah Kabupaten/Kota (Lembaran
 Negara Republik Indonesia Tahun 2007 Nomor 82,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 4737),
+Nomor 4737);
 17. Peraturan Pemerintah Nomor 69 Tahun 2010
 tentang Tata Cara Pemberian dan Pemanfaatan
 Insentif Pemungutan Pajak Daerah dan Retribusi
@@ -149,14 +144,14 @@ Berdasarkan Penetapan Kepala Daerah atau
 Dibayar sendiri oleh Wajib Pajak (Lembaran Negara
 Republik Indonesia Tahun 2010 Nomor 153,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 5179),
+Nomor 5179);
 19. Peraturan Presiden Nomor 1 Tahun 2007 tentang
 Pengesahan, Pengundangan dan Penyebarluasan
-Peraturan Perundang-undangan,
+Peraturan Perundang-undangan;
 20. Peraturan Menteri Dalam Negeri Nomor 1 tahun
 2014 tentang Pembentukan Produk Hukum Daerah
 (Berita Negara Republik Indonesia Tahun 2014
-Nomor 32),
+Nomor 32);
 21. Peraturan Daerah Nomor 2 Tahun 1987 tentang
 Penyidik Pegawai Negeri Sipil Di Lingkungan
 Pemerintah Kota Pontianak (Lembaran Daerah Kota
@@ -165,7 +160,7 @@ Pontianak Tahun 1988 Nomor 14 Seri D Nomor 10):
 Bidang Urusan Pemerintah Yang Menjadi
 Kewenangan Pemerintah Kota Pontianak (Lembaran
 Daerah Kota Pontianak Tahun 2008 Nomor 7 Seri E
-Nomor 7),
+Nomor 7);
 23. Peraturan Daerah Nomor 11 Tahun 2008 tentang
 Pembentukan Organisasi Perangkat Daerah di Kota
 Pontianak (Lembaran Daerah Tahun 2008 Nomor 10
@@ -195,7 +190,6 @@ BABI
 KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Walikota ini, yang dimaksud dengan:
 
 1. Daerah adalah Daerah Kota Pontianak.
@@ -323,26 +317,25 @@ i 46. Surat Ketetapan Pajak Daerah Kurang Bayar yang selanjutnya disingkat SKPDK
 BAB Il TUJUAN DAN RUANG LINGKUP
 
 ### Pasal 2
-
 (1) Tujuan penyusunan Peraturan Walikota ini adalah untuk memberi pedoman kepada Petugas dan Wajib Pajak dalam pelaksanaan pemungutan Pajak Hiburan.
 
 (2) Ruang lingkup Peraturan Walikota ini meliputi :
 
-a. tujuan dan ruang lingkup,
+a. tujuan dan ruang lingkup;
 
 b. tata cara pendaftaran dan pelaporan,
 
-Cc. tata cara perhitungan pajak,
+c. tata cara perhitungan pajak;
 
-d. tata cara pemungutan pajak,
+d. tata cara pemungutan pajak;
 
-e. penagihan,
+e. penagihan;
 
-f. ' bon penjualan (Bill),
+f. ' bon penjualan (Bill);
 
-g. pembukuan, pemeriksaan dan pengawasan,
+g. pembukuan, pemeriksaan dan pengawasan;
 
-h. keberatan dan banding, ii pembetulan, pembatalan, pengurangan ketetapan dan penghapusan atau pengurangan sanksi administrasi, j- pengembalian kelebihan bayar,
+h. keberatan dan banding, ii pembetulan, pembatalan, pengurangan ketetapan dan penghapusan atau pengurangan sanksi administrasi, j- pengembalian kelebihan bayar;
 
 k. ketentuan penutup,
 
@@ -351,7 +344,6 @@ k. ketentuan penutup,
 **Bagian Kesatu - Pendaftaran**
 
 ### Pasal 3
-
 (1) Setiap penyelenggara Hiburan wajib mendaftarkan dirinya dan melaporkan tempat hiburannya dengan media SPOPD.
 
 (2) Pendaftaran Penyelenggara Hiburan sebagaimana dimaksud pada ayat (1), dilaksanakan paling lama 7 (tujuh) hari setelah kegiatan usaha dimulai.
@@ -360,9 +352,9 @@ k. ketentuan penutup,
 
 (4) SPOPD sebagaimana dimaksud pada ayat (1) wajib diisi dengan benar, jelas, lengkap dan ditandatangani oleh Penyelenggara Hiburan dengan melampirkan:
 
-a. fotocopy identitas diri / penanggung jawab / penyelenggara / penerima kuasa (KTP, SIM, paspor),
+a. fotocopy identitas diri / penanggung jawab / penyelenggara / penerima kuasa (KTP, SIM, paspor);
 
-b. surat Kuasa apabila pemilik / pengelola usaha / penyelenggara / penanggung jawab berhalangan dengan disertai fotocopy KTP/ SIM / paspor dari pemberi kuasa, dan
+b. surat Kuasa apabila pemilik / pengelola usaha / penyelenggara / penanggung jawab berhalangan dengan disertai fotocopy KTP/ SIM / paspor dari pemberi kuasa; dan
 
 c. fotocopy Surat Izin Usaha atau Surat Keterangan Usaha (Jika diperlukan).
 
@@ -370,22 +362,19 @@ c. fotocopy Surat Izin Usaha atau Surat Keterangan Usaha (Jika diperlukan).
 
 (6) Pengusaha Hiburan yang telah mendaftarkan dirinya dan melaporkan usahanya serta telah melengkapi persyaratan sebagaimana dimaksud pada ayat (4) diatas, maka kepala SKPD-PPD menerbitkan :
 
-a. surat Pengukuhan sebagai Wajib Pajak,
+a. surat Pengukuhan sebagai Wajib Pajak;
 
-b. kartu NPWPD dan NOPD, dan
+b. kartu NPWPD dan NOPD; dan
 
 c. surat Pemberitahuan pemungutan.
 
 (7) Apabila Penyelenggara Hiburan tidak melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan telah diberikan teguran secara tertulis, maka Kepala SKPD-PPD dapat menerbitkan NPWPD secara jabatan.
 
-(8) Penerbitan NPWPD secara jabatan sebagaimana dimaksud pada ayat
-
-(7) diatas, dilaksanakan paling lambat 30 (tiga puluh) hari sejak diterbitkannya surat teguran.
+(8) Penerbitan NPWPD secara jabatan sebagaimana dimaksud pada ayat (7) diatas, dilaksanakan paling lambat 30 (tiga puluh) hari sejak diterbitkannya surat teguran.
 
 **Bagian Kedua - Pelaporan**
 
 ### Pasal 4
-
 (1) Setiap Wajib Pajak Hiburan, wajib mengisi SPTPD dengan benar, jelas, lengkap, ditandatangani oleh Wajib Pajak dan disampaikan kepada SKPD-PPD.
 
 (2) SPTPD sebagaimana dimaksud pada ayat (1), diambil sendiri oleh Wajib Pajak.
@@ -402,62 +391,58 @@ c. surat Pemberitahuan pemungutan.
 
 (8 Penyampaian SPTPD sebagaimana dimaksud pada ayat (1) harus disertai lampiran dokumen berupa:
 
-a. rekapitulasi omzet penerimaan bulan yang bersangkutan, atau
+a. rekapitulasi omzet penerimaan bulan yang bersangkutan; atau
 
-b. realisasi penggunaan tanda masuk bagi penyelenggara hiburan yang menggunakan tanda masuk, atau
+b. realisasi penggunaan tanda masuk bagi penyelenggara hiburan yang menggunakan tanda masuk; atau
 
 c. rekapitulasi penggunaan bon penjualan atau bill berikut tindasan atau struk cash register (bagi penyelenggara hiburan yang menggunakan bill atau struk register),
 
 ### Pasal 5
-
 (1) Walikota melalui Kepala SKPD-PPD atas permohonan Wajib Pajak dapat memberikan perpanjangan jangka waktu penyampaian SPTPD paling lama 7 (tujuh) hari kerja.
 
 (2) Permohonan perpanjangan penyampaian SPTPD sebagaimana dimaksud pada ayat (1) diajukan secara tertulis disertai alasan yang jelas sebelum berakhirnya batas waktu penyampaian SPTPD sebagaimana dimaksud dalam Pasal 4 ayat (5).
 
 ### Pasal 6
-
 (1) Wajib Pajak dengan kemauan sendiri dapat membetulkan SPTPD yang telah disampaikan dengan menyampaikan surat pernyataan tertulis kepada Kepala SKPD-PPD, sepanjang belum dilakukan tindakan pemeriksaan untuk masa pajak atau tahun pajak yang dimaksud.
 
-(2) Dalam hal Wajib Pajak membetulkan sendiri SPTPD sebagaimana dimaksud pada ayat (1), yang mengakibatkan utang pajak menjadi lebih besar, maka dikenakan sanksi administrasi berupa bunga sebesar 26 (dua persen) sebulan atas jumlah pajak yang kurang dibayar, dihitung sejak saat berakhirnya penyampaian SPTPD yang dibetulkan sampai dengan tanggal pembayaran akibat dari pembetulan SPTPD tersebut.
+(2) Dalam hal Wajib Pajak membetulkan sendiri SPTPD sebagaimana dimaksud pada ayat (1), yang mengakibatkan utang pajak menjadi lebih besar, maka dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan atas jumlah pajak yang kurang dibayar, dihitung sejak saat berakhirnya penyampaian SPTPD yang dibetulkan sampai dengan tanggal pembayaran akibat dari pembetulan SPTPD tersebut.
 
 ## BAB IV - TATA CARA PERHITUNGAN PAJAK
 
 ### Pasal 7
-
 Tarif pajak untuk setiap jenis hiburan ditetapkan sebagai berikut:
 
-a. jenis tontonan film ditetapkan, sebesar 1076 (sepuluh persen),
+a. jenis tontonan film ditetapkan, sebesar 10% (sepuluh persen);
 
-b. jenis pagelaran kesenian, musik, tari, busana dan sejenisnya ditetapkan, sebesar 20”6 (dua puluh persen),
+b. jenis pagelaran kesenian, musik, tari, busana dan sejenisnya ditetapkan, sebesar 20% (dua puluh persen),
 
-Cc. jenis kontes kecantikan, binaraga, dan sejenisnya ditetapkan, sebesar 20”6 (dua puluh persen),
+c. jenis kontes kecantikan, binaraga, dan sejenisnya ditetapkan, sebesar 20% (dua puluh persen);
 
-d. jenis pameran dan sejenisnya ditetapkan sebesar 1046 (sepuluh persen),
+d. jenis pameran dan sejenisnya ditetapkan sebesar 10% (sepuluh persen);
 
-e. jenis diskotik, klab malam dan sejenisnya sebesar 3576 (tiga puluh lima persen),
+e. jenis diskotik, klab malam dan sejenisnya sebesar 35% (tiga puluh lima persen);
 
-f. jenis karaoke dan sejenisnya ditetapkan sebesar 30 (tiga puluh persen),
+f. jenis karaoke dan sejenisnya ditetapkan sebesar 30% (tiga puluh persen);
 
-g. jenis sirkus, akrobat, sulap dan sejenisnya ditetapkan sebesar 20Y6 (dua puluh persen),
+g. jenis sirkus, akrobat, sulap dan sejenisnya ditetapkan sebesar 20% (dua puluh persen);
 
-h. jenis permainan billyar, golf, bowling dan sejenisnya ditetapkan sebesar 2076 (sepuluh persen),
+h. jenis permainan billyar, golf, bowling dan sejenisnya ditetapkan sebesar 2076 (sepuluh persen);
 
-i. jenis pacuan kuda, kendaraan bermotor dan sejenisnya ditetapkan sebesar 2076 (dua puluh persen), j- jenis permainan ketangkasan keluarga dan sejenisnya ditetapkan sebesar 1576 (lima belas persen),
+i. jenis pacuan kuda, kendaraan bermotor dan sejenisnya ditetapkan sebesar 20% (dua puluh persen), j- jenis permainan ketangkasan keluarga dan sejenisnya ditetapkan sebesar 15% (lima belas persen);
 
 k. jenis permainan ketangkasan amusement dan sejenisnya ditetapkan sebesar 75Y6 (tujuh puluh puluh lima persen),
 
-Il. jenis panti pijat, mandi uap/spa dan sejenisnya ditetapkan sebesar 3544 (tiga puluh lima persen),
+Il. jenis panti pijat, mandi uap/spa dan sejenisnya ditetapkan sebesar 35% (tiga puluh lima persen);
 
-m. jenis pusat kebugaran (fitness center) dan sejenisnya ditetapkan sebesar 206 (dua puluh persen),
+m. jenis pusat kebugaran (fitness center) dan sejenisnya ditetapkan sebesar 20% (dua puluh persen);
 
 n. jenis pijat refleksi dan sejenisnya ditetapkan sebesar 10Y6 (sepuluh lima persen),
 
-Oo. jenis pertandingan/pertunjukan olah raga dan mencakup juga tempat olahraga yang dilengkapi fasilitas hiburan dan sejenisnya ditetapkan sebesar 206 (tiga puluh lima persen),
+Oo. jenis pertandingan/pertunjukan olah raga dan mencakup juga tempat olahraga yang dilengkapi fasilitas hiburan dan sejenisnya ditetapkan sebesar 206 (tiga puluh lima persen);
 
-p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesar 10Y6 (sepuluh persen),
+p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesar 10% (sepuluh persen),
 
 ### Pasal 8
-
 (1) Dasar pengenaan Pajak Hiburan adalah jumlah pembayaran yang diterima atau yang seharusnya diterima oleh Penyelenggara Hiburan.
 
 (2) Jumlah yang seharusnya diterima oleh Penyelenggara Hiburan sebagaimana dimaksud pada ayat (1) antara lain meliputi pemberian potongan harga dan tiket cuma-cuma yang diberikan kepada penerima jasa Hiburan.
@@ -466,17 +451,13 @@ p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesa
 
 (4) Pajak Hiburan sebagaimana dimaksud pada ayat (3), harus dicantumkan pada setiap bon penjualan atau bill, faktur, tiket masuk, cash register atau sejenisnya yang dikeluarkan oleh Wajib Pajak atas jumlah yang akan dibayar oleh penerima jasa Hiburan.
 
-(5) Contoh Perhitungan Pajak Hiburan sebagaimana dimaksud pada ayat
-
-(1) ditetapkan dengan cara sebagai berikut :
+(5) Contoh Perhitungan Pajak Hiburan sebagaimana dimaksud pada ayat (1) ditetapkan dengan cara sebagai berikut :
 
 - Refleksi Dewasa - 2 Orang @Rp 50.000,00 - Rp 100.000,00 - Pijat anak -1Orang@Rp25.000,00 - Rp 25.000,00 - Jumlah harga (Dasar pengenaan pajak) - Rp 125.000,00 - Pajak Hiburan 10Y6 x jumlah harga - Rp 12.500,00 - Jumlah dibayar pengunjung hiburan - Rp 137.500,00
 
 (6) Apabila Wajib Pajak tidak menarik Pajak Hiburan dari penerima jasa hiburan dan tidak mencantumkan pada setiap bon penjualan atau bill, faktur, tiket masuk, cash register atau sejenisnya yang dikeluarkan oleh Wajib Pajak, maka Pajak Hiburan yang terhutang menjadi tanggung jawab Wajib Pajak dan dianggap sudah termasuk dalam nilai penjualan Hiburan tersebut.
 
-(7) Contoh Perhitungan Pajak Hiburan sebagaimana dimaksud pada ayat
-
-(6) sebagai berikut :
+(7) Contoh Perhitungan Pajak Hiburan sebagaimana dimaksud pada ayat (6) sebagai berikut :
 
 - Refleksi Dewasa-2 Orang @ Rp 50.000,00 - Rp 100.000,00 - Pijat anak -1Orang@Rp25.000,00 - Rp 25.000,00 - Jumlah Omzet sz Rp 125.000,00 - Pajak Hiburan (100/110) x 10x» x Omzet - Rp 11.364,00
 
@@ -485,13 +466,11 @@ p. khusus hiburan pertunjukan kesenian rakyat/tradisional dikenakan tarif sebesa
 **Bagian Kesatu - Penetapan**
 
 ### Pasal 9
-
 (1) Pajak Hiburan dipungut dengan System Self Assessment yang memberikan kepercayaan kepada Wajib Pajak untuk menghitung, memperhitungkan, membayar dan melaporkan sendiri pajak terutang kepada SKPD-PPD.
 
 (2) Wajib Pajak dalam menghitung, memperhitungkan, dan melaporkan sendiri pajak yang terutang sebagaimana dimaksud pada ayat (1), menggunakan SPTPD.
 
 ### Pasal 10
-
 (1) Dalam jangka waktu paling lama 5 (lima) tahun sesudah saat terutangnya pajak, Walikota melalui Kepala SKPD-PPD dapat menerbitkan :
 
 a. SKPDKB dalam hal:
@@ -506,11 +485,11 @@ b. SKPDKBT, apabila ditemukan data baru dan/atau data yang semula belum terungka
 
 c. SKPDN, apabila jumlah pajak yang terutang sama besarnya dengan jumlah kredit pajak atau pajak tidak terutang dan tidak ada kredit pajak.
 
-(2) Jumlah kekurangan pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 1 dan angka 2, dikenakan sanksi administrasi berupa bunga sebesar 250 (dua persen) sebulan dihitung dari pajak yang kurang atau terlambat dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan dihitung sejak saat terutang pajak sampai dengan diterbitkannya SKPDKB.
+(2) Jumlah kekurangan pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 1 dan angka 2, dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan dihitung dari pajak yang kurang atau terlambat dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan dihitung sejak saat terutang pajak sampai dengan diterbitkannya SKPDKB.
 
-(3) Jumlah pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 3, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 25x (dua puluh lima persen) dari pokok pajak dan ditambah sanksi administrasi berupa bunga sebesar 26 (dua persen) sebulan dihitung dari pajak yang tidak dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya pajak.
+(3) Jumlah pajak yang terutang dalam SKPDKB sebagaimana dimaksud pada ayat (1) huruf a angka 3, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 25% (dua puluh lima persen) dari pokok pajak dan ditambah sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan dihitung dari pajak yang tidak dibayar untuk jangka waktu paling lama 24 (dua puluh empat) bulan sejak saat terutangnya pajak.
 
-(4) Jumlah kekurangan pajak yang terutang dalam SKPDKBT sebagaimana dimaksud pada ayat (1) huruf b, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 10076 (seratus persen) dari jumlah kekurangan pajak tersebut.
+(4) Jumlah kekurangan pajak yang terutang dalam SKPDKBT sebagaimana dimaksud pada ayat (1) huruf b, dikenakan sanksi administrasi berupa kenaikan pajak sebesar 100% (seratus persen) dari jumlah kekurangan pajak tersebut.
 
 (5) Kenaikan sebagaimana dimaksud pada ayat (4), tidak dikenakan apabila Wajib Pajak melaporkan sendiri kekurangan pajak yang terutang sebelum dilakukan tindakan pemeriksaan.
 
@@ -523,16 +502,15 @@ c. SKPDN, apabila jumlah pajak yang terutang sama besarnya dengan jumlah kredit 
 (9) Kewajiban mengisi SPTPD dianggap tidak terpenuhi sebagaimana dimaksud pada ayat (1) huruf a angka 3, apabila SPTPD tidak disampaikan kepada SKPD-PPD dalam jangka waktu 30 (tiga puluh) hari sejak berakhirnya masa pajak.
 
 ### Pasal 11
-
 (1) Penetapan Pajak terutang yang dihitung secara jabatan sebagaimana dimaksud dalam Pasal 10 ayat (4) dilakukan oleh Kepala SKPD-PPD, berdasarkan data yang ada atau keterangan lain yang dimiliki SKPDPPD.
 
 (2) Penetapan pajak terutang yang dihitung secara jabatan sebagaimana dimaksud pada ayat (1) dapat juga dilakukan apabila :
 
-a. Wajib Pajak tidak menyelenggarakan pembukuan dan pencatatan omzet usahanya,
+a. Wajib Pajak tidak menyelenggarakan pembukuan dan pencatatan omzet usahanya;
 
-b. Wajib Pajak menyelenggarakan pembukuan dan pencatatan tetapi tidak lengkap dan/atau tidak benar,
+b. Wajib Pajak menyelenggarakan pembukuan dan pencatatan tetapi tidak lengkap dan/atau tidak benar;
 
-c. Wajib Pajak tidak mau menunjukkan pembukuan dan/atau menolak untuk diperiksa dan/atau menolak memberikan keterangan pada saat dilakukan pemeriksaan,
+c. Wajib Pajak tidak mau menunjukkan pembukuan dan/atau menolak untuk diperiksa dan/atau menolak memberikan keterangan pada saat dilakukan pemeriksaan;
 
 d. Wajib Pajak tidak menggunakan bon penjualan atau bill / tiket masuk yang berseri dan bernomor urut, dan/atau
 
@@ -542,7 +520,7 @@ e. Wajib Pajak yang wajib melegalisasikan bon penjualan atau bill atau tiket mas
 
 (4) Penetapan pajak terutang yang dihitung secara jabatan dapat didasarkan pada data omzet yang diperoleh melalui salah satu atau lebih dari 3 (tiga) cara/metode pemeriksaan sebagai berikut :
 
-a. berdasarkan hasil Pembukuan,
+a. berdasarkan hasil Pembukuan;
 
 b. berdasarkan hasil pengamatan langsung di lokasi tempat usaha Wajib Pajak, dan/atau
 
@@ -553,30 +531,26 @@ c. berdasarkan data pembanding.
 **Bagian Kedua - Pembayaran**
 
 ### Pasal 12
-
 (1) Pembayaran pajak terutang dengan media SPTPD harus dilakukan sekaligus dan lunas di Kas Daerah atau melalui Bendahara Penerima SKPD-PPD, paling lambat 14 (empat belas) hari setelah berakhirnya masa pajak dengan menggunakan SSPD.
 
 (2) Apabila batas waktu pembayaran jatuh pada hari libur, maka batas waktu pembayaran jatuh pada satu hari kerja berikutnya.
 
-(3) Apabila pembayaran masa pajak terutang dilakukan setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga keterlambatan sebesar 2” (dua persen) sebulan untuk jangka waktu paling lama 15 (lima belas) bulan.
+(3) Apabila pembayaran masa pajak terutang dilakukan setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga keterlambatan sebesar 2% (dua persen) sebulan untuk jangka waktu paling lama 15 (lima belas) bulan.
 
 ### Pasal 13
-
 (1) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD wajib dilunasi dalam jangka waktu paling lama 30 (tiga puluh) hari sejak tanggal diterbitkan.
 
-(2) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD, yang tidak atau kurang bayar setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga sebesar 2”o (dua persen) sebulan.
+(2) Pajak terutang dalam SKPDKB, SKPDKBT, dan STPD, yang tidak atau kurang bayar setelah jatuh tempo pembayaran sebagaimana dimaksud pada ayat (1), dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan.
 
 ### Pasal 14
-
 Penyelenggara Hiburan selaku Wajib Pajak Hiburan bertanggung jawab terhadap pemungutan dan pembayaran pajak atas penyelenggaraan usaha Hiburan tersebut.
 
 **Bagian Ketiga - Pembayaran Pajak Atas Penyelenggaraan Hiburan Insidentil**
 
 ### Pasal 15
-
 (1) Setiap penyelenggara hiburan insidentil yang dipungut bayaran, wajib menggunakan tanda masuk dan membayar uang jaminan Pajak Hiburan dengan pembayaran di muka sebelum tanda masuk diperporasi SKPD-PPD.
 
-(2) Besarnya uang jaminan Pajak Hiburan insidentil sebagaimana dimaksud pada ayat (1) sekurang-kurangnya sebesar 10076 (seratus persen) dari jumlah harga tanda masuk yang akan diperporasi dan dititipkan sementara pada Bendahara Penerimaan SKPD-PPD.
+(2) Besarnya uang jaminan Pajak Hiburan insidentil sebagaimana dimaksud pada ayat (1) sekurang-kurangnya sebesar 100% (seratus persen) dari jumlah harga tanda masuk yang akan diperporasi dan dititipkan sementara pada Bendahara Penerimaan SKPD-PPD.
 
 (3) Jangka waktu penitipan uang jaminan sebagaimana dimaksud pada ayat (2), akan disesuaikan dengan waktu penyampaian SPTPD sebagaimana dimaksud dalam Pasal 4 ayat (7).
 
@@ -593,44 +567,43 @@ Penyelenggara Hiburan selaku Wajib Pajak Hiburan bertanggung jawab terhadap pemu
 **Bagian Keempat - Pembayaran Angsuran Dan Penundaan Pembayaran**
 
 ### Pasal 16
-
-(1) Walikota atas permohonan Wajib Pajak, dapat memberikan persetujuan untuk mengangsur atau menunda pembayaran pajak yang terutang dalam SKPDKB, SKPDKBT atau STPD, yang sudah dikenakan bunga sebesar 2» (dua persen) sebulan sebagaimana dimaksud pada pasal 13 ayat (2).
+(1) Walikota atas permohonan Wajib Pajak, dapat memberikan persetujuan untuk mengangsur atau menunda pembayaran pajak yang terutang dalam SKPDKB, SKPDKBT atau STPD, yang sudah dikenakan bunga sebesar 2% (dua persen) sebulan sebagaimana dimaksud pada pasal 13 ayat (2).
 
 (2) Tata cara pembayaran angsuran dan penundaan pembayaran pajak terutang dilakukan sebagai berikut:
 
-a. Wajib Pajak yang akan melakukan pembayaran secara angsuran maupun menunda pembayaran pajak, harus mengajukan permohonan secara tertulis kepada Walikota melalui Kepala SKPD-PPD dengan disertai alasan yang jelas dan melampirkan fotocopy SKPDKB, SKPDKBT, atau STPD yang diajukan permohonannya,
+a. Wajib Pajak yang akan melakukan pembayaran secara angsuran maupun menunda pembayaran pajak, harus mengajukan permohonan secara tertulis kepada Walikota melalui Kepala SKPD-PPD dengan disertai alasan yang jelas dan melampirkan fotocopy SKPDKB, SKPDKBT, atau STPD yang diajukan permohonannya;
 
 b. permohonan sebagaimana dimaksud pada huruf a harus sudah diterima SKPD-PPD paling lama 7 (tujuh) hari sebelum jatuh tempo pembayaran yang ditentukan,
 
-Cc. permohonan sebagaimana dimaksud pada huruf a harus melampirkan rincian utang pajak untuk masa pajak atau tahun pajak yang bersangkutan serta alasan-alasan yang mendukung diajukannya permohonan,
+c. permohonan sebagaimana dimaksud pada huruf a harus melampirkan rincian utang pajak untuk masa pajak atau tahun pajak yang bersangkutan serta alasan-alasan yang mendukung diajukannya permohonan;
 
-d. permohonan pembayaran secara angsuran maupun penundaan pembayaran yang disetujui Walikota dituangkan dalam Surat Keputusan, baik Surat Keputusan pembayaran secara angsuran maupun penundaan pembayaran, baru dapat dikeluarkan setelah terlebih dahulu mendapat telaahan dari Kepala SKPDPPD,
+d. permohonan pembayaran secara angsuran maupun penundaan pembayaran yang disetujui Walikota dituangkan dalam Surat Keputusan, baik Surat Keputusan pembayaran secara angsuran maupun penundaan pembayaran, baru dapat dikeluarkan setelah terlebih dahulu mendapat telaahan dari Kepala SKPDPPD;
 
 e. persetujuan terhadap angsuran pajak sebagaimana dimaksud pada huruf d dinyatakan lebih lanjut dalam Surat Perjanjian.
 
-f. pembayaran angsuran diberikan paling lama untuk 5 (lima) kali angsuran dalam jangka waktu 5 (lima) bulan terhitung sejak tanggal Surat Keputusan angsuran, kecuali ditetapkan lain oleh Walikota berdasarkan alasan Wajib Pajak yang dapat diterima,
+f. pembayaran angsuran diberikan paling lama untuk 5 (lima) kali angsuran dalam jangka waktu 5 (lima) bulan terhitung sejak tanggal Surat Keputusan angsuran, kecuali ditetapkan lain oleh Walikota berdasarkan alasan Wajib Pajak yang dapat diterima;
 
-g. pemberian angsuran tidak menunda kewajiban Wajib Pajak untuk melaksanakan pembayaran pajak terutang dalam masa pajak berjalan,
+g. pemberian angsuran tidak menunda kewajiban Wajib Pajak untuk melaksanakan pembayaran pajak terutang dalam masa pajak berjalan;
 
-h. penundaan pembayaran diberikan paling lama 4 (empat) bulan terhitung mulai tanggal jatuh tempo pembayaran yang termuat dalam SKPDKB, SKPDKBT dan STPD, kecuali ditetapkan lain oleh Walikota berdasarkan alasan Wajib Pajak yang dapat diterima,
+h. penundaan pembayaran diberikan paling lama 4 (empat) bulan terhitung mulai tanggal jatuh tempo pembayaran yang termuat dalam SKPDKB, SKPDKBT dan STPD, kecuali ditetapkan lain oleh Walikota berdasarkan alasan Wajib Pajak yang dapat diterima;
 
-i. pembayaran angsuran atau penundaan pembayaran dikenakan bunga sebesar 296 (dua persen) sebulan dari jumlah pajak yang belum atau kurang dibayar, j- perhitungan untuk pembayaran angsuran adalah sebagai berikut:
+i. pembayaran angsuran atau penundaan pembayaran dikenakan bunga sebesar 2% (dua persen) sebulan dari jumlah pajak yang belum atau kurang dibayar, j- perhitungan untuk pembayaran angsuran adalah sebagai berikut:
 
-1. perhitungan sanksi bunga dikenakan hanya terhadap jumlah sisa angsuran,
+1. perhitungan sanksi bunga dikenakan hanya terhadap jumlah sisa angsuran;
 
-2. jumlah sisa angsuran adalah hasil pengurangan antara besarnya sisa pajak yang belum atau akan diangsur dengan pokok pajak angsuran,
+2. jumlah sisa angsuran adalah hasil pengurangan antara besarnya sisa pajak yang belum atau akan diangsur dengan pokok pajak angsuran;
 
-3. pokok pajak angsuran adalah hasil pembagian antara jumlah pajak terutang yang akan diangsur, dengan jumlah bulan angsuran,
+3. pokok pajak angsuran adalah hasil pembagian antara jumlah pajak terutang yang akan diangsur, dengan jumlah bulan angsuran;
 
-4. bunga adalah hasil perkalian antara jumlah sisa angsuran dengan bunga sebesar 276 (dua persen),
+4. bunga adalah hasil perkalian antara jumlah sisa angsuran dengan bunga sebesar 2% (dua persen);
 
-5. besarnya jumlah yang harus dibayar tiap bulan angsuran adalah pokok pajak angsuran ditambah dengan bunga sebesar 20 (dua persen),
+5. besarnya jumlah yang harus dibayar tiap bulan angsuran adalah pokok pajak angsuran ditambah dengan bunga sebesar 2% (dua persen);
 
 k. terhadap jumlah angsuran yang harus dibayar tiap bulan tidak dapat dibayar dengan angsuran lagi, tetapi harus dilunasi tiap bulan, ll perhitungan untuk penundaan pembayaran adalah sebagai berikut:
 
-1. perhitungan bunga dikenakan terhadap seluruh jumlah pajak terutang yang akan ditunda, yaitu hasil perkalian antara bunga 290 (dua persen) dengan jumlah bulan yang ditunda, dikalikan dengan seluruh jumlah utang pajak yang akan ditunda,
+1. perhitungan bunga dikenakan terhadap seluruh jumlah pajak terutang yang akan ditunda, yaitu hasil perkalian antara bunga 2% (dua persen) dengan jumlah bulan yang ditunda, dikalikan dengan seluruh jumlah utang pajak yang akan ditunda;
 
-2. besarnya jumlah yang harus dibayar adalah seluruh jumlah utang pajak yang ditunda, ditambah dengan jumlah bunga 2Yo (dua persen) sebulan,
+2. besarnya jumlah yang harus dibayar adalah seluruh jumlah utang pajak yang ditunda, ditambah dengan jumlah bunga 2% (dua persen) sebulan;
 
 3. penundaan pembayaran harus dilunasi sekaligus paling lambat pada saat jatuh tempo penundaan yang telah ditentukan dan tidak dapat diangsur.
 
@@ -639,26 +612,24 @@ m. terhadap Wajib Pajak yang telah mengajukan permohonan pembayaran secara angsu
 ## BAB VI - PENAGIHAN
 
 ### Pasal 17
-
 (1) Walikota melalui Kepala SKPD-PPD dapat menerbitkan STPD apabila:
 
-a. pajak Hiburan dalam tahun berjalan tidak atau kurang dibayar,
+a. pajak Hiburan dalam tahun berjalan tidak atau kurang dibayar;
 
-b. dari hasil penelitian SPTPD terdapat kekurangan pembayaran sebagai akibat salah tulis dan/atau salah hitung,
+b. dari hasil penelitian SPTPD terdapat kekurangan pembayaran sebagai akibat salah tulis dan/atau salah hitung;
 
 c. Wajib Pajak dikenakan sanksi administrasi berupa denda atau bunga.
 
-(2) Jumlah kekurangan pajak yang terutang dalam STPD sebagaimana dimaksud pada ayat (1) huruf a dan huruf b, ditambah dengan sanksi administrasi berupa bunga sebesar 2» (dua persen) sebulan untuk paling lama 15 (lima belas) bulan sejak saat terutangnya pajak.
+(2) Jumlah kekurangan pajak yang terutang dalam STPD sebagaimana dimaksud pada ayat (1) huruf a dan huruf b, ditambah dengan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan untuk paling lama 15 (lima belas) bulan sejak saat terutangnya pajak.
 
-(3) Pajak yang tidak atau kurang dibayar setelah jatuh tempo pembayaran atau terlambat dibayar dikenakan sanksi administrasi berupa bunga sebesar 2Y6 (dua persen) sebulan, dan ditagih dengan STPD.
+(3) Pajak yang tidak atau kurang dibayar setelah jatuh tempo pembayaran atau terlambat dibayar dikenakan sanksi administrasi berupa bunga sebesar 2% (dua persen) sebulan, dan ditagih dengan STPD.
 
 ### Pasal 18
-
 (1) Penagihan pajak dilakukan terhadap pajak yang terutang dalam SKPDKB, SKPDKBT, STPD, Surat Keputusan Pembetulan, Surat Keputusan Keberatan dan Putusan Banding yang tidak atau kurang dibayar setelah jatuh tempo pembayaran.
 
 (2) Tahapan pelaksanaan penagihan pajak terutang yang tidak atau kurang dibayar setelah jatuh tempo pembayaran, diatur sebagai berikut:
 
-a. Kepala SKPD-PPD atau pejabat yang ditunjuk menerbitkan dan menyampaikan Surat Teguran atau Surat Peringatan atau surat lain yang sejenis kepada Wajib Pajak dalam waktu sekurangkurangnya 7 (tujuh) hari setelah berakhirnya tanggal jatuh tempo pembayaran yang tercantum dalam Surat Ketetapan Pajak, Surat Pembetulan, Surat Keputusan Keberatan, dan putusan banding dengan meminta tanda penerimaan Surat Teguran,
+a. Kepala SKPD-PPD atau pejabat yang ditunjuk menerbitkan dan menyampaikan Surat Teguran atau Surat Peringatan atau surat lain yang sejenis kepada Wajib Pajak dalam waktu sekurangkurangnya 7 (tujuh) hari setelah berakhirnya tanggal jatuh tempo pembayaran yang tercantum dalam Surat Ketetapan Pajak, Surat Pembetulan, Surat Keputusan Keberatan, dan putusan banding dengan meminta tanda penerimaan Surat Teguran;
 
 b. pejabat yang ditunjuk menerbitkan surat paksa setelah lewat 21 (dua puluh satu) hari sejak tanggal dikeluarkannya surat teguran / peringatan atau sejenisnya yang terakhir.
 
@@ -667,106 +638,97 @@ c. jika dalam jangka waktu 21 (dua puluh satu) hari sejak diterbitkannya surat p
 ## BAB VII - 
 
 ### Pasal 19
-
 (1) Setiap penyelenggara hiburan berupa diskotik, klab malam, karaoke, ruang musik (music room), balai gita (singing hall), pub, ruang musik (music lounge), dan kegiatan hiburan lainnya yang menyatu dengan penyelenggaraan hiburan tersebut, wajib menggunakan bon penjualan atau bill yang memperlihatkan terjadinya pesanan atau transaksi pembayaran, kecuali ditentukan lain dengan persetujuan Kepala SKPD-PPD.
 
 (2) Bon penjualan atau bill sebagaimana dimaksud pada ayat (1) dibuat/dicetak atas biaya yang ditanggung sendiri oleh Wajib Pajak dan sebelum digunakan dalam transaksi/penerimaan pembayaran, terlebih dahulu diperporasi SKPD-PPD.
 
-(3) Wajib Pajak yang menggunakan bon penjualan atau bill yang tidak diperporasi oleh SKPD-PPD, dikenakan sanksi administrasi berupa kenaikan sebesar 25” (dua puluh lima persen) dari dasar pengenaan pajak.
+(3) Wajib Pajak yang menggunakan bon penjualan atau bill yang tidak diperporasi oleh SKPD-PPD, dikenakan sanksi administrasi berupa kenaikan sebesar 25% (dua puluh lima persen) dari dasar pengenaan pajak.
 
 ### Pasal 20
-
 Tata cara penggunaan bon penjualan atau bill sebagai berikut:
 
 a. bon penjualan atau bill dibuat sekurang-kurangnya rangkap 3 (tiga) dengan warna berbeda dan harus memuat:
 
-1. catatan tentang pemakaian fasilitas hiburan dan fasilitas penunjang lainnya,
+1. catatan tentang pemakaian fasilitas hiburan dan fasilitas penunjang lainnya;
 
-2. penyerahan pesanan makanan dan/atau minuman termasuk juga tambahannya apabila ada,
+2. penyerahan pesanan makanan dan/atau minuman termasuk juga tambahannya apabila ada;
 
-3. nomor urut dan/atau seri,
+3. nomor urut dan/atau seri;
 
-4. nama dan alamat usaha,
+4. nama dan alamat usaha;
 
 5. jumlah Pajak Hiburan yang harus dipungut.
 
 b. bon penjualan atau bill harus digunakan secara berurutan dimulai dari nomor bill terkecil dan seri huruf menurut alpabet.
 
-c. bon penjualan atau bill harus diserahkan kepada Subjek Pajak atau pengunjung/tamu pada saat Wajib Pajak mengajukan jumlah yang harus dibayar oleh Subjek Pajak atau pengunjung/tamu,
+c. bon penjualan atau bill harus diserahkan kepada Subjek Pajak atau pengunjung/tamu pada saat Wajib Pajak mengajukan jumlah yang harus dibayar oleh Subjek Pajak atau pengunjung/tamu;
 
 d. bon penjualan atau bill yang telah dibayar oleh Subjek Pajak atau konsumen, diserahkan:
 
-1. lembar kesatu, untuk Subjek Pajak atau pengunjung/ tamu,
+1. lembar kesatu, untuk Subjek Pajak atau pengunjung/ tamu;
 
-2. lembar kedua, untuk SKPD-PPD,
+2. lembar kedua, untuk SKPD-PPD;
 
 3. lembar ketiga, untuk Wajib Pajak yang bersangkutan.
 
 ### Pasal 21
-
 (1) Semua jenis hiburan sebagaimana dimaksud dalam Pasal 7, namun tidak dapat menggunakan bon penjualan atau bill sebagaimana dimaksud dalam Pasal 19, wajib menggunakan tanda masuk/tiket/ karcis dan mencantumkan harga tanda masuk.
 
 (2) Tanda masuk sebagaimana dimaksud pada ayat (1), wajib disahkan atau diperporasi oleh SKPD PPD sebelum digunakan oleh penyelenggara hiburan.
 
 ### Pasal 22
-
 (1) Bentuk tanda masuk untuk penyelenggaraan hiburan tetap/rutin dan hiburan insidental harus memuat kode seri dan bernomor urut serta mencantumkan harga tanda masuk.
 
 (2) Tanda masuk untuk penyelenggaraan hiburan tetap/rutin berbentuk buku dengan isi 100 (seratus) lembar atau 50 (lima puluh) lembar per buku, dan untuk hiburan insidental dapat berbentuk lembaran lepas atau undangan sesuai dengan permohonan penyelenggara.
 
 ### Pasal 23
+(1) Penyelenggaraan hiburan yang diwajibkan menggunakan tanda masuk dan mencantumkan harga tanda masuk sebagaimana dimaksud dalam Pasal 19 ayat (1), tetapi tidak menggunakan tanda masuk atau tidak mencantumkan harga tanda masuk, dikenakan sanksi administrasi berupa kenaikan sebesar 25% (dua puluh lima persen) dari dasar pengenaan pajak.
 
-(1) Penyelenggaraan hiburan yang diwajibkan menggunakan tanda masuk dan mencantumkan harga tanda masuk sebagaimana dimaksud dalam Pasal 19 ayat (1), tetapi tidak menggunakan tanda masuk atau tidak mencantumkan harga tanda masuk, dikenakan sanksi administrasi berupa kenaikan sebesar 256 (dua puluh lima persen) dari dasar pengenaan pajak.
-
-(2) Wajib Pajak yang wajib melegalisasi atau memperporasi tanda masuk sebagaimana dimaksud dalam Pasal 19 ayat (2), tetapi menggunakan tanda masuk yang tidak dilegalisasi/diperporasi, dikenakan sanksi administrasi berupa kenaikan sebesar 2549 (dua puluh lima persen) dari dasar pengenaan pajak.
+(2) Wajib Pajak yang wajib melegalisasi atau memperporasi tanda masuk sebagaimana dimaksud dalam Pasal 19 ayat (2), tetapi menggunakan tanda masuk yang tidak dilegalisasi/diperporasi, dikenakan sanksi administrasi berupa kenaikan sebesar 25% (dua puluh lima persen) dari dasar pengenaan pajak.
 
 ### Pasal 24
-
 Setiap Wajib Pajak yang menyelenggarakan hiburan dengan menggunakan tanda masuk sebagaimana dimaksud dalam Pasal 19 ayat (1) berkewajiban:
 
-a. memasang pengumuman yang memuat daftar harga tanda masuk untuk setiap kelas di tempat pembayaran tanda masuk,
+a. memasang pengumuman yang memuat daftar harga tanda masuk untuk setiap kelas di tempat pembayaran tanda masuk;
 
-b. menjual tanda masuk yang telah dilegalisasi (diperporasi) SKPD-PPD secara berurutan dimulai dari seri dan/atau nomor urut kecil, kecuali tanda masuk yang merupakan lembaran lepas,
+b. menjual tanda masuk yang telah dilegalisasi (diperporasi) SKPD-PPD secara berurutan dimulai dari seri dan/atau nomor urut kecil, kecuali tanda masuk yang merupakan lembaran lepas;
 
-c. menyobek setiap tanda masuk yang dipergunakan pada saat penonton atau pengunjung memasuki tempat hiburan sehingga tidak dapat digunakan lagi,
+c. menyobek setiap tanda masuk yang dipergunakan pada saat penonton atau pengunjung memasuki tempat hiburan sehingga tidak dapat digunakan lagi;
 
-d. menyimpan bagian tanda masuk sebagai bukti pengawasan,
+d. menyimpan bagian tanda masuk sebagai bukti pengawasan;
 
 e. membuat laporan tentang keadaan atau penjualan tanda masuk kepada Kepala SKPD PPD atau pejabat yang ditunjuk dalam hal ini.
 
 ### Pasal 25
-
 Setiap Wajib Pajak yang menyelenggarakan hiburan dengan menggunakan tanda masuk sebagaimana dimaksud dalam Pasal 19 ayat (1), dilarang:
 
 a. menggandakan, menyediakan, memberi, menjual dan menyebarkan:
 
-1. tanda masuk tanpa mencantumkan harga tanda masuk,
+1. tanda masuk tanpa mencantumkan harga tanda masuk;
 
-2. tanda masuk tanpa diperporasi SKPD-PPD,
+2. tanda masuk tanpa diperporasi SKPD-PPD;
 
 3. tanda masuk tanpa dipungut pajak atau tiket cumacuma/gratis.
 
 b. mengubah tanda masuk yang telah diperporasi tanpa persetujuan Kepala SKPD-PPD,
 
-Cc. memberikan atau menjual tanda masuk yang telah dipakai kepada penonton atau pengunjung,
+c. memberikan atau menjual tanda masuk yang telah dipakai kepada penonton atau pengunjung;
 
 d. memungut atau menerima pembayaran tanda masuk melebihi harga yang tercantum dalam harga tanda masuk.
 
 ### Pasal 26
-
 Wajib Pajak yang menyelenggarakan hiburan dengan tidak mengindahkan kewajiban dan larangan sebagaimana dimaksud dalam Pasal 19, Pasal 22
 
 2D dan Pasal 23, pajak terutang ditetapkan secara jabatan sebagaimana dimaksud dalam Pasal 9 dan Pasal 10.
 
 ### Pasal 27
-
 (1) Untuk menampung perkembangan teknologi perekaman data transaksi usaha, Wajib Pajak dapat menggunakan peralatan komputer atau mesin cash register dengan terlebih dahulu mengajukan permohonan secara tertulis kepada Kepala SKPD-PPD untuk dikecualikan atau dibebaskan dari kewajiban melegalisasi bon penjualan atau bill dan tanda masuk hiburan.
 
 (2) Kepala SKPD-PPD dapat menyetujui atau menolak permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1), secara tertulis berdasarkan pertimbangan, antara lain peredaran usaha dan tingkat kepatuhan Wajib Pajak, intensitas pelayanan dalam transaksi usahanya, dan kapasitas serta kemampuan teknis peralatan komputer atau mesin cash register.
 
 (3) Dalam hal Kepala SKPD-PPD menyetujui permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1), Wajib Pajak berkewajiban :
 
-a. melaporkan hasil transaksi penerimaan atas penggunaan komputer atau mesin cash register secara berkala dengan melampirkan print out hasil transaksi pada waktu menyampaikan SPTPD, kepada Kepala SKPD-PPD,
+a. melaporkan hasil transaksi penerimaan atas penggunaan komputer atau mesin cash register secara berkala dengan melampirkan print out hasil transaksi pada waktu menyampaikan SPTPD, kepada Kepala SKPD-PPD;
 
 b. menghubungkan perangkat komputer atau mesin cash register yang digunakannya dengan sistem pengawasan perpajakan dalam jaringan sistem informasi SKPD-PPD secara online apabila diperlukan.
 
@@ -775,7 +737,6 @@ b. menghubungkan perangkat komputer atau mesin cash register yang digunakannya d
 **Bagian Kesatu - Pembukuan**
 
 ### Pasal 28
-
 (1) Wajib Pajak dengan peredaran usaha atau omzet lebih dari Rp 300.000.000,00 (tiga ratus juta rupiah) dalam 1 (satu) tahun, wajib menyelenggarakan pembukuan sesuai dengan Standar Akuntansi Keuangan Indonesia atau prinsip pembukuan yang berlaku secara umum.
 
 (2) Wajib Pajak dengan peredaran usaha atau omzet sampai dengan Rp 300.000.000,00 (tiga ratus juta rupiah) dalam 1 (satu) tahun, dapat dibebaskan dari kewajiban pembukuan, dengan persyaratan tetap diwajibkan menyelenggarakan pencatatan nilai peredaran usaha berupa pendapatan bruto secara teratur, yang menjadi dasar untuk penghitungan pajak.
@@ -785,21 +746,19 @@ b. menghubungkan perangkat komputer atau mesin cash register yang digunakannya d
 (4) Pembukuan dan pencatatan serta dokumen lain yang berhubungan dengan kegiatan usaha atau pekerjaan dari Wajib Pajak harus disimpan selama 5 (lima) tahun.
 
 ### Pasal 29
-
 Tata cara Wajib Pajak menyelenggarakan pencatatan atas setiap transaksi penerimaan pembayaran sebagaimana dimaksud dalam Pasal 28 ayat (2) adalah sebagai berikut:
 
-a. Wajib Pajak menyelenggarakan pencatatan tentang pendapatan bruto usahanya secara lengkap dan benar,
+a. Wajib Pajak menyelenggarakan pencatatan tentang pendapatan bruto usahanya secara lengkap dan benar;
 
-b. pencatatan diselenggarakan secara kronologis berdasarkan urutan waktu,
+b. pencatatan diselenggarakan secara kronologis berdasarkan urutan waktu;
 
-c. apabila Wajib Pajak memiliki lebih dari 1 (satu) unit usaha, maka pencatatan dilakukan secara terpisah,
+c. apabila Wajib Pajak memiliki lebih dari 1 (satu) unit usaha, maka pencatatan dilakukan secara terpisah;
 
 d. pencatatan didukung dengan dokumen yang menjadi dasar penghitungan pajak berupa bon penjualan atau bill atau dokumen lainnya.
 
 **Bagian Kedua - Pemeriksaan**
 
 ### Pasal 30
-
 (1) Walikota atau Kepala SKPD-PPD berwenang melakukan pemeriksaan untuk menguji kepatuhan dan kewajaran pelaksanaan perpajakan daerah yang dilaksanakan oleh Wajib Pajak Hiburan.
 
 (2) Pelaksanaan pemeriksaan sebagaimana dimaksud ayat (1), dapat dilaksanakan dengan cara menurunkan petugas pemeriksa untuk melaksanakan pemeriksaan.
@@ -808,9 +767,9 @@ d. pencatatan didukung dengan dokumen yang menjadi dasar penghitungan pajak beru
 
 (4) Wajib Pajak yang diperiksa atau kuasanya wajib membantu Petugas Pemeriksa dalam hal :
 
-a. memperlihatkan dan atau meminjamkan dokumen yang berhubungan dengan pajak terutang,
+a. memperlihatkan dan atau meminjamkan dokumen yang berhubungan dengan pajak terutang;
 
-b. memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu guna kelancaran pemeriksaan,
+b. memberikan kesempatan untuk memasuki tempat atau ruangan yang dianggap perlu guna kelancaran pemeriksaan;
 
 c. memberi kesempatan kepada petugas untuk melakukan pemeriksaan kas (kas opname), stock bon penjualan atau bill dan arsip tanda masuk maupun mesin cash register yang ada pada penyelenggara.
 
@@ -829,20 +788,16 @@ d. memberikan data potensi dan keterangan yang diperlukan secara benar, lengkap 
 **Bagian Ketiga - Pengawasan**
 
 ### Pasal 31
-
 (1) Walikota atau Kepala SKPD-PPD berwenang melaksanakan pengawasan terhadap pelaksanaan usaha atau penyelenggaraan kegiatan di tempat penyelenggaraan hiburan baik bersifat rutin atau insidental yang dilaksanakan oleh wajib pajak.
 
-(2) Terhadap penyelenggaraan kegiatan yang bersifat insidental sebagaimana dimaksud ayat (l), maka Wajib Pajak Hiburan berkewajiban melaporkan kepada Kepala SKPD-PPD paling lambat 2 (dua) hari kerja sebelum penyelenggaraan.
+(2) Terhadap penyelenggaraan kegiatan yang bersifat insidental sebagaimana dimaksud ayat (1), maka Wajib Pajak Hiburan berkewajiban melaporkan kepada Kepala SKPD-PPD paling lambat 2 (dua) hari kerja sebelum penyelenggaraan.
 
 (3) Kepala SKPD-PPD berwenang menempatkan Petugas pengawas yang dilengkapi surat tugas dan/atau peralatan (eguipment) baik sistem manual dan/atau sistem on line (komputerisasi) di tempat hiburan.
 
 (4) Penggunaan peralatan dengan komputerisasi sebagaimana dimaksud pada ayat (3) dilakukan dengan cara menghubungkan mesin komputer Wajib Pajak dengan komputer milik Pemerintah Kota melalui sistem jaringan informasi SKPD-PPD secara on line.
 
 ### Pasal 32
-
-(1) Penempatan peralatan sebagaimana dimaksud dalam Pasal 31 ayat
-
-(3) berfungsi sebagai alat kontrol setiap kegiatan transaksi dan biaya pengadaan peralatan tersebut menjadi kewajiban Pemerintah Kota dan/atau SKPD-PPD.
+(1) Penempatan peralatan sebagaimana dimaksud dalam Pasal 31 ayat (3) berfungsi sebagai alat kontrol setiap kegiatan transaksi dan biaya pengadaan peralatan tersebut menjadi kewajiban Pemerintah Kota dan/atau SKPD-PPD.
 
 (2) Wajib Pajak harus memelihara peralatan (eguipment) sebagaimana dimaksud dalam Pasal 31 ayat (4) dan tidak mengubah program yang telah ditentukan oleh SKPD-PPD.
 
@@ -857,7 +812,6 @@ d. memberikan data potensi dan keterangan yang diperlukan secara benar, lengkap 
 **Bagian Kesatu - Keberatan**
 
 ### Pasal 33
-
 Wajib Pajak dapat mengajukan keberatan hanya kepada Walikota atau
 
 Kepala SKPD-PPD atas suatu SKPDKB, SKPDKBT, SKPDKLB, SKPDN atau
@@ -865,21 +819,19 @@ Kepala SKPD-PPD atas suatu SKPDKB, SKPDKBT, SKPDKLB, SKPDN atau
 STPD Pajak Hiburan.
 
 ### Pasal 34
-
 Permohonan keberatan yang diajukan Wajib Pajak harus memenuhi persyaratan sebagai berikut:
 
-a. permohonan diajukan secara tertulis dalam bahasa Indonesia, dengan disertai alasan-alasan yang jelas,
+a. permohonan diajukan secara tertulis dalam bahasa Indonesia, dengan disertai alasan-alasan yang jelas;
 
-b. dalam hal Wajib Pajak mengajukan keberatan atas Ketetapan pajak secara jabatan, Wajib Pajak harus dapat membuktikan ketidakbenaran ketetapan pajak tersebut,
+b. dalam hal Wajib Pajak mengajukan keberatan atas Ketetapan pajak secara jabatan, Wajib Pajak harus dapat membuktikan ketidakbenaran ketetapan pajak tersebut;
 
 c. surat permohonan keberatan ditandatangani oleh Wajib Pajak, dan dalam hal permohonan keberatan dikuasakan kepada pihak lain harus dengan melampirkan Surat Kuasa.
 
-d. surat permohonan keberatan diajukan untuk satu Surat Ketetapan Pajak dan untuk satu tahun pajak atau masa pajak dengan melampirkan fotocopinya,
+d. surat permohonan keberatan diajukan untuk satu Surat Ketetapan Pajak dan untuk satu tahun pajak atau masa pajak dengan melampirkan fotocopinya;
 
 e. permohonan keberatan diajukan dalam jangka waktu paling lama 3 (tiga) bulan sejak Surat Ketetapan Pajak diterima oleh Wajib Pajak, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena di luar kekuasaannya.
 
 ### Pasal 35
-
 (1) Pengajuan keberatan yang tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 34, tidak dianggap sebagai pengajuan keberatan sehingga tidak dipertimbangkan.
 
 (2) Dalam hal pengajuan keberatan yang belum memenuhi persyaratan tetapi masih dalam jangka waktu sebagaimana dimaksud dalam Pasal 34 huruf e, Kepala SKPD-PPD dapat meminta Wajib Pajak melengkapi persyaratan tersebut.
@@ -889,11 +841,9 @@ e. permohonan keberatan diajukan dalam jangka waktu paling lama 3 (tiga) bulan s
 (4) Terhadap Surat Keberatan yang tidak memerlukan pemeriksaan lapangan, Kepala SKPD-PPD dapat berkoordinasi dengan Kepala Bidang lainnya untuk mendapatkan masukan dan pertimbangan atas keberatan Wajib Pajak, dan hasilnya dituangkan dalam laporan hasil koordinasi pembahasan keberatan.
 
 ### Pasal 36
-
 Pengajuan keberatan tidak menunda kewajiban membayar pajakdan pelaksanaan penagihan pajak sesuai ketentuan peraturan perundang- undangan.
 
 ### Pasal 37
-
 (1) Dalam jangka waktu 12 (dua belas) bulan sejak tanggal Surat Keberatan diterima, Walikota atau Kepala SKPD-PPPD harus memberikan Keputusan atas keberatan yang diajukan oleh Wajib Pajak, yang dituangkan dalam Surat Keputusan Keberatan.
 
 (2) Surat Keputusan sebagaimana dimaksud pada ayat (1), dapat berupa menerima seluruhnya atau sebagian, menolak, atau menambah besarnya pajak yang terutang.
@@ -903,19 +853,17 @@ Pengajuan keberatan tidak menunda kewajiban membayar pajakdan pelaksanaan penagi
 (4) Keputusan keberatan tidak menghilangkan hak Wajib Pajak untuk mengajukan permohonan mengangsur pembayaran.
 
 ### Pasal 38
-
-(1) Jika pengajuan keberatan sebagimana dimaksud pasal 33 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2x (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
+(1) Jika pengajuan keberatan sebagimana dimaksud pasal 33 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKPDLB.
 
 (3) Dalam hal keberatan Wajib Pajak ditolak atau dikabulkan sebagian,
 
-Wajib Pajak dikenai sanksi administratif berupa denda sebesar 506 (lima puluh persen) dari jumlah pajak berdasarkan keputusan keberatan dikurangi dengan pajak yang telah dibayar sebelum mengajukan keberatan.
+Wajib Pajak dikenai sanksi administratif berupa denda sebesar 50% (lima puluh persen) dari jumlah pajak berdasarkan keputusan keberatan dikurangi dengan pajak yang telah dibayar sebelum mengajukan keberatan.
 
 **Bagian Kedua - Pengurangan, Keringanan Dan Pembebasan Pajak**
 
 ### Pasal 39
-
 (1) Wajib Pajak dapat mengajukan permohonan pengurangan, keringanan atau pembebasan pajak hiburan hanya kepada Walikota.
 
 (2) Tata cara pengajuan pengurangan, keringanan, pembebasan pajak diatur dengan Peraturan Walikota tersendiri.
@@ -923,7 +871,6 @@ Wajib Pajak dikenai sanksi administratif berupa denda sebesar 506 (lima puluh pe
 **Bagian Ketiga - Banding**
 
 ### Pasal 40
-
 (1) Wajib Pajak dapat mengajukan permohonan banding hanya kepada Pengadilan Pajak terhadap Keputusan mengenai keberatan yang ditetapkan oleh Walikota atau Kepala SKPD-PPD.
 
 (2) Permohonan sebagaimana dimaksud pada ayat (1), diajukan secara tertulis dalam bahasa Indonesia, dengan alasan yang jelas dalam jangka waktu paling lama 3 (tiga) bulan sejak Keputusan Keberatan diterima, dengan dilampirkan salinan Surat Keputusan tersebut.
@@ -931,49 +878,45 @@ Wajib Pajak dikenai sanksi administratif berupa denda sebesar 506 (lima puluh pe
 (3) Pengajuan permohonan banding menangguhkan kewajiban membayar pajak sampai dengan 1 (satu) bulan sejak tanggal penerbitan Putusan Banding.
 
 ### Pasal 41
-
 (1) Terhadap satu Keputusan keberatan, diajukan 1 (satu) Surat banding.
 
 (2) Wajib Pajak dapat mengajukan Surat Pernyataan Pencabutan kepada Pengadilan Pajak.
 
 (3) Banding yang dicabut sebagaimana dimaksud pada ayat (2), dihapus dari daftar sengketa dengan:
 
-a. penetapan Ketua dalam Surat Pernyataan Pencabutan diajukan sebelum sidang dilaksanakan,
+a. penetapan Ketua dalam Surat Pernyataan Pencabutan diajukan sebelum sidang dilaksanakan;
 
 b. putusan Majelis Hakim/Hakim Tunggal melalui pemeriksaan dalam Surat Pernyataan Pencabutan diajukan dalam sidang atas persetujuan terbanding.
 
 ### Pasal 42
+(1) Jika permohonan banding sebagaimana dimaksud pasal 40 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
 
-(1) Jika permohonan banding sebagaimana dimaksud pasal 40 dikabulkan sebagian atau seluruhnya, kelebihan pembayaran pajak dikembalikan dengan ditambah imbalan bunga sebesar 2X (dua persen) sebulan untuk paling lama 24 (dua puluh empat) bulan.
+(2) Dalam hal Wajib Pajak mengajukan permohonan banding, sanksi administratif berupa denda sebesar 50% (lima puluh persen) sebagaimana dimaksud pada pasal 38 ayat (3) tidak dikenakan.
 
-(2) Dalam hal Wajib Pajak mengajukan permohonan banding, sanksi administratif berupa denda sebesar 50 (lima puluh persen) sebagaimana dimaksud pada pasal 38 ayat (3) tidak dikenakan.
-
-(3) Dalam hal permohonan banding ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 1004 (seratus persen) dari jumlah pajak berdasarkan Putusan Banding dikurangi dengan pembayaran pajak yang telah dibayar sebelum mengajukan keberatan.
+(3) Dalam hal permohonan banding ditolak atau dikabulkan sebagian, Wajib Pajak dikenai sanksi administratif berupa denda sebesar 100% (seratus persen) dari jumlah pajak berdasarkan Putusan Banding dikurangi dengan pembayaran pajak yang telah dibayar sebelum mengajukan keberatan.
 
 ## BAB IX - PEMBETULAN, PEMBATALAN, PENGURANGAN KETETAPAN, DAN PENGHAPUSAN ATAU PENGURANGAN SANKSI ADMINISTRASI
 
 ### Pasal 43
-
 (1) Walikota atau Kepala SKPD-PPD atas permohonan Wajib Pajak atau karena jabatannya dapat membetulkan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD yang dalam penerbitannya terdapat kesalahan tulis, kesalahan hitung dan/atau kekeliruan penerapan peraturan daerah.
 
 (2) Pelaksanaan pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD atas permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1) dilakukan sebagai berikut:
 
-a. permohonan diajukan kepada Walikota atau Kepala SKPD-PPD dalam jangka waktu 30 (tiga puluh) hari setelah Surat Ketetapan Pajak sebagaimana dimaksud pada ayat (1) diterima, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena keadaan di luar kekuasaannya,
+a. permohonan diajukan kepada Walikota atau Kepala SKPD-PPD dalam jangka waktu 30 (tiga puluh) hari setelah Surat Ketetapan Pajak sebagaimana dimaksud pada ayat (1) diterima, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena keadaan di luar kekuasaannya;
 
 b. terhadap SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD yang akan dibetulkan baik karena jabatan atau atas permohonan Wajib Pajak sebagaimana dimaksud pada ayat (1), dilakukan penelitian administrasi atas kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Restoran,
 
-Cc. apabila dari hasil penelitian sebagaimana dimaksud pada huruf b ternyata terdapat kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Restoran, maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD tersebut dapat dibetulkan,
+c. apabila dari hasil penelitian sebagaimana dimaksud pada huruf b ternyata terdapat kesalahan tulis, kesalahan hitung dan/atau kekeliruan dalam penerapan Peraturan Daerah tentang Pajak Restoran, maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD tersebut dapat dibetulkan;
 
-d. pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD sebagaimana dimaksud pada huruf c dilakukan dengan menerbitkan Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak oleh Walikota atau Kepala SKPD-PPD yang disampaikan kepada Wajib Pajak paling lambat 3 (tiga) hari kerja sejak diterbitkan,
+d. pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD sebagaimana dimaksud pada huruf c dilakukan dengan menerbitkan Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak oleh Walikota atau Kepala SKPD-PPD yang disampaikan kepada Wajib Pajak paling lambat 3 (tiga) hari kerja sejak diterbitkan;
 
 e. surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak harus dilunasi dalam jangka waktu paling lambat 30 (tiga puluh) hari sejak diterbitkan:
 
-fl setelah diterbitkannya Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD semula dibatalkan dan disimpan sebagai arsip dalam administrasi perpajakan yang diberi tanda silang dan paraf serta dicantumkan kata-kata “Dibatalkan”,
+fl setelah diterbitkannya Surat Keputusan Pembetulan Ketetapan Pajak atau Surat Keputusan Pembetulan Tagihan Pajak maka SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD semula dibatalkan dan disimpan sebagai arsip dalam administrasi perpajakan yang diberi tanda silang dan paraf serta dicantumkan kata-kata “Dibatalkan”;
 
 g. dalam hal permohonan Wajib Pajak ditolak maka Kepala SKPDPPD segera menerbitkan Surat Keputusan Penolakan Pembetulan SKPDKB, SKPDKBT, SKPDLB, SKPDN atau STPD.
 
 ### Pasal 44
-
 (1) Walikota atau Kepala SKPD-PPD dapat mengurangkan atau membatalkan ketetapan pajak, apabila terdapat:
 
 a. novum atau fakta baru yang belum terungkap pada waktu pemeriksaan untuk menentukan besarnya pajak terutang sementara batas waktu pengajuan keberatan telah terlampaui.
@@ -984,17 +927,17 @@ b. novum atau fakta baru yang belum terungkap disebabkan tidak dipertimbangkanny
 
 (3) Pengurangan atau pembatalan Ketetapan pajak atas dasar permohonan Wajib Pajak, ditentukan sebagai berikut:
 
-a. surat permohonan Wajib Pajak didukung oleh novum atau fakta baru yang meyakinkan sebagaimana dimaksud pada ayat (1),
+a. surat permohonan Wajib Pajak didukung oleh novum atau fakta baru yang meyakinkan sebagaimana dimaksud pada ayat (1);
 
 b. dalam Surat Permohonan Wajib Pajak harus dilampirkan dokumen berupa fotocopy:
 
-1. surat Ketetapan Pajak,
+1. surat Ketetapan Pajak;
 
-2. dokumen pendukung,
+2. dokumen pendukung;
 
 3. berkas permohonan berikut bukti penolakan keberatan atau bukti penolakan pengurangan dan penghapusan sanksi administrasi sebagaimana dimaksud pada ayat (1),
 
-Cc. pengajuan permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pada huruf a dan huruf b, tidak dapat dipertimbangkan dan berkas permohonan dapat dikembalikan kepada Wajib Pajak.
+c. pengajuan permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pada huruf a dan huruf b, tidak dapat dipertimbangkan dan berkas permohonan dapat dikembalikan kepada Wajib Pajak.
 
 (4) Walikota atau Kepala SKPD-PPD karena jabatan dapat menolak atau menyetujui pengurangan atau pembatalan Ketetapan pajak berdasarkan pertimbangan keadilan dan adanya temuan baru dalam bentuk Surat Keputusan.
 
@@ -1003,22 +946,21 @@ Cc. pengajuan permohonan yang tidak memenuhi persyaratan sebagaimana dimaksud pa
 (6) Apabila diterbitkan Surat Keputusan Penolakan pengurangan atau pembatalan Ketetapan Pajak, maka Surat Ketetapan Pajak yang lama dikukuhkan dengan surat keputusan ini.
 
 ### Pasal 45
-
 (1) Walikota atau Kepala SKPD-PPD karena jabatannya atau atas permohonan Wajib Pajak dapat mengurangkan atau menghapus sanksi administrasi berupa bunga, denda, dan/atau kenaikan pajak yang terutang.
 
 (2) Pengurangan atau penghapusan sanksi administrasi sebagaimana dimaksud pada ayat (1), dapat dilakukan terhadap :
 
-a. sanksi administrasi berupa bunga disebabkan keterlambatan pembayaran pada masa pajak,
+a. sanksi administrasi berupa bunga disebabkan keterlambatan pembayaran pada masa pajak;
 
 b. sanksi administrasi berupa bunga, denda dan/atau kenaikan pajak dalam surat ketetapan pajak atau STPD.
 
 (3) Tata cara pengurangan atau penghapusan sanksi administrasi, dilakukan sebagai berikut:
 
-a. Wajib Pajak mengajukan permohonan pengurangan /penghapusan sanksi administrasi secara tertulis kepada Walikota atau Kepala SKPD-PPD dalam waktu paling lama 30 (tiga puluh) hari sejak diterbitkan, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena keadaan di luar kekuasaannya,
+a. Wajib Pajak mengajukan permohonan pengurangan /penghapusan sanksi administrasi secara tertulis kepada Walikota atau Kepala SKPD-PPD dalam waktu paling lama 30 (tiga puluh) hari sejak diterbitkan, kecuali apabila Wajib Pajak dapat menunjukkan bahwa jangka waktu tersebut tidak dapat dipenuhi karena keadaan di luar kekuasaannya;
 
 b. permohonan sebagaimana dimaksud pada huruf a harus mencantumkan alasan yang jelas serta melampirkan:
 
-1. surat pernyataan kekhilafan Wajib Pajak atau bukan karena kesalahannya,
+1. surat pernyataan kekhilafan Wajib Pajak atau bukan karena kesalahannya;
 
 2. surat ketetapan pajak yang menetapkan adanya kenaikan pajak terutang atau pengenaan sanksi administrasi.
 
@@ -1033,7 +975,6 @@ d. berdasarkan hasil penelitian, Walikota atau Kepala SKPD-PPD dapat menyetujui 
 (6) Wajib pajak melakukan pembayaran pajak paling lambat 7 (tujuh) hari setelah menerima Surat Keputusan Pengurangan dan Penghapusan Sanksi Administrasi.
 
 ### Pasal 46
-
 (1) Walikota atau Kepala SKPD-PPD paling lama 3 (tiga) bulan sejak surat permohonan pembetulan, pembatalan, pengurangan ketetapan dan penghapusan atau pengurangan sanksi administrasi diterima, sudah harus memberikan keputusan.
 
 (2) Apabila setelah lewat waktu 3 (tiga) bulan, Walikota atau Kepala SKPD-PPD tidak memberikan keputusan, permohonan sebagaimana dimaksud pada ayat (1) dianggap dikabulkan.
@@ -1041,20 +982,19 @@ d. berdasarkan hasil penelitian, Walikota atau Kepala SKPD-PPD dapat menyetujui 
 ## BAB XI - PENGEMBALIAN KELEBIHAN PEMBAYARAN
 
 ### Pasal 47
-
-(l) Wajib Pajak dapat mengajukan permohonan pengembalian atas kelebihan pembayaran Pajak Restoran kepada Walikota melalui Kepala SKPD-PPD.
+(1) Wajib Pajak dapat mengajukan permohonan pengembalian atas kelebihan pembayaran Pajak Restoran kepada Walikota melalui Kepala SKPD-PPD.
 
 (2) Pengembalian kelebihan pembayaran sebagaimana dimaksud pada ayat (1) disebabkan adanya kelebihan pembayaran pajak yang telah disetorkan ke Kas Daerah atau Bendahara Khusus Penerimaan SKPD-PPD berdasarkan:
 
-a. perhitungan dari Wajib Pajak,
+a. perhitungan dari Wajib Pajak;
 
 b. surat Keputusan Keberatan atau Surat Keputusan pembetulan, pembatalan dan pengurangan ketetapan, dan pengurangan atau penghapusan sanksi administrasi,
 
-C. putusan banding atau putusan peninjauan kembali,
+c. putusan banding atau putusan peninjauan kembali;
 
 d. kebijakan pemberian pengurangan, keringanan, dan/atau pembebasan pajak berdasarkan peraturan perundang-undangan.
 
-(3) Permohonan Wajib pajak sebagaimana dimaksud pada ayat 1), diajukan secara tertulis paling lambat 2 (dua) bulan sejak saat timbulnya kelebihan pembayaran pajak dengan menyebutkan sekurang-kurangnya :
+(3) Permohonan Wajib pajak sebagaimana dimaksud pada ayat (1), diajukan secara tertulis paling lambat 2 (dua) bulan sejak saat timbulnya kelebihan pembayaran pajak dengan menyebutkan sekurang-kurangnya :
 
 a. nama dan alamat wajib pajak.
 
@@ -1064,13 +1004,13 @@ c. besarnya kelebihan pembayaran pajak.
 
 (4) Surat permohonan Wajib Pajak yang dimaksud pada ayat (1) harus melampirkan dokumen :
 
-a. identitas penduduk/KTP pemohon Wajib Pajak,
+a. identitas penduduk/KTP pemohon Wajib Pajak;
 
 b. surat Pemberitahuan Pajak Daerah (SPTPD)
 
-c. dokumen perpajakan,
+c. dokumen perpajakan;
 
-d. bukti pembayaran pajak,
+d. bukti pembayaran pajak;
 
 e. uraian perhitungan pajak menurut Wajib Pajak.
 
@@ -1082,14 +1022,13 @@ e. uraian perhitungan pajak menurut Wajib Pajak.
 
 (8) Pengembalian kelebihan pembayaran Pajak sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 2 (dua) bulan sejak diterbitkannya SKPDLB dengan menerbitkan Surat Perintah Membayar Kelebihan Pajak (SPMKP).
 
-(9) Jika pengembalian kelebihan pembayaran Pajak dilakukan setelah lewat 2 (dua) bulan, Walikota atau pejabat yang ditunjuk memberikan imbalan bunga sebesar 2” (dua persen) sebulan atas keterlambatan pembayaran kelebihan pembayaran Pajak.
+(9) Jika pengembalian kelebihan pembayaran Pajak dilakukan setelah lewat 2 (dua) bulan, Walikota atau pejabat yang ditunjuk memberikan imbalan bunga sebesar 2% (dua persen) sebulan atas keterlambatan pembayaran kelebihan pembayaran Pajak.
 
 (10) Apabila kelebihan pembayaran pajak diperhitungkan dengan utang pajak lainnya sebagaimana dimaksud pada ayat (7), pembayarannya dilakukan dengan cara pemindahbukuan dan bukti pemindahbukuan juga berlaku sebagai bukti pembayaran.
 
 ## BAB XI - KETENTUAN PENUTUP
 
 ### Pasal 48
-
 Peraturan Walikota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
@@ -1099,7 +1038,6 @@ Peraturan Walikota ini dengan penempatannya dalam Berita Daerah Kota
 Pontianak
 Ditetapkan di Pontianak
 WALIKOTA PONTIANAK,
-PP
 SUTARMIDJI
 Diundangkan di Pontianak
 pada tanggal 02 Mei 2014

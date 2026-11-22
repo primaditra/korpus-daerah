@@ -28,9 +28,9 @@ Retribusi Daerah, perlu menetapkan Peraturan
 Bupati tentang Petunjuk Teknis Pemungutan
 Retribusi Pelayanan Jasa Kepelabuhanan dan
 Retribusi Pelayanan Penyeberangan Orang Atau
-Barang Dengan Menggunakan Kendaraan Di Air,
+Barang Dengan Menggunakan Kendaraan Di Air;
 Mengingat : 1. Pasal 18 ayat (16) Undang-Undang Dasar Negara
-Republik Indonesia Tahun 1945,
+Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Perpanjangan Pembentukan
@@ -39,7 +39,7 @@ Negara Republik Indonesia Tahun 1953 Nomor 9)
 sebagai Undang-Undang (Lembaran Negara
 Republik Indonesia Tahun 1959 Nomor 72,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 1820),
+Nomor 1820);
 3. Undang-Undang Nomor 17 Tahun 2008 tentang
 Pelayaran (Lembaran Negara Republik Indonesia
 Tahun 2008 Nomor 64, Tambahan Lembaran
@@ -50,7 +50,7 @@ Tahun 2024 tentang Perubahan Ketiga Atas
 Undang-Undang Nomor 17 Tahun 2008 tentang
 Pelayaran (Lembaran Negara Indonesia Tahun
 2024 Nomor 252, Tambahan Lembaran Negara
-Republik Indonesia Nomor 7003),
+Republik Indonesia Nomor 7003);
 4. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2004 Nomor 224,
@@ -63,19 +63,19 @@ Undang Nomor 2 Tahun 2022 tentang Cipta
 Kerja menjadi Undang-Undang (Lembaran
 Negara Republik Indonesia Tahun 2023 Nomor
 41, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6856),
+Indonesia Nomor 6856);
 5. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan Antara Pemerintah Pusat
 dan Pemerintahan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2022 Nomor 4,
 Tambahan Lembaran Negara Republik Indonesia
-Nomor 6757),
+Nomor 6757);
 6. Peraturan Pemerintah Nomor 35 Tahun 2019
 tentang Perubahan Atas Peraturan Menteri
 Perhubungan Nomor 104 Tahun 2017 tentang
 Penyelenggaraan Angkutan Penyeberangan
 (Berita Negara Republik Indonesia Tahun 2019
-Nomor 502),
+Nomor 502);
 7. Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 1 Tahun 2024 tentang Pajak Daerah Dan
 Retribusi Daerah (Lembaran Daerah Kabupaten
@@ -176,17 +176,17 @@ Dalam Peraturan Bupati ini, yang dimaksud dengan:
 
 (2) Dokumen persyaratan administrasi sebagaimana dimaksud pada ayat (1) paling sedikit memuat:
 
-a. data wajib retribusi,
+a. data wajib retribusi;
 
 b. e-KTP bagi wajib retribusi perorangan: dan
 
 c. akta pendirian badan usaha bagi wajib retribusi berbentuk badan
 
-(3) Data wajib retribusi sebagaimana dimaksud pada ayat (2) huruf a paling sedikit memuat,
+(3) Data wajib retribusi sebagaimana dimaksud pada ayat (2) huruf a paling sedikit memuat;
 
 a. Subjek Retribusi:
 
-b. objek Retribusi, dan
+b. objek Retribusi; dan
 
 c. dasar perhitungan Retribusi.
 
@@ -202,7 +202,7 @@ c. dasar perhitungan Retribusi.
 
 (3) Penetapan Retribusi terutang dengan menggunakan:
 
-a. SKRD, dan
+a. SKRD; dan
 
 b. Karcis.
 
@@ -210,25 +210,25 @@ b. Karcis.
 
 (1) Penetapan Retribusi dengan menggunakan SKRD sebagaimana dimaksud Pasal 4 ayat (3) adalah:
 
-a. kegiatan yang dilaksanakan dalam jangka waktu tertentu, dan
+a. kegiatan yang dilaksanakan dalam jangka waktu tertentu; dan
 
 b. penentuan besaran tarif Retribusi dilakukan dengan penghitungan lamanya jasa Retribusi yang diberikan.
 
 (2) Jenis Retribusi yang menggunakan dokumen SKRD sebagai berikut:
 
-a. Pelayanan jasa kepelabuhanan, dan
+a. Pelayanan jasa kepelabuhanan; dan
 
 b. Pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di air.
 
 (3) Dokumen SKRD paling sedikit memuat data:
 
-a. nomor SKRD,
+a. nomor SKRD;
 
-b. nama Wajib Retribusi,
+b. nama Wajib Retribusi;
 
 c. alamat Retribusi:
 
-d. tanggal jatuh tempo Retribusi, dan
+d. tanggal jatuh tempo Retribusi; dan
 
 e. besaran Retribusi.
 
@@ -238,13 +238,13 @@ e. besaran Retribusi.
 
 (1) Penetapan Retribusi dengan menggunakan Karcis sebagaimana dimaksud dalam Pasal 4 ayat (3) huruf b adalah:
 
-a. kegiatan tidak dilaksanakan berturut-turut, dan
+a. kegiatan tidak dilaksanakan berturut-turut; dan
 
 b. penentuan besaran Retribusi sesuai dengan fasilitas jasa yang diberikan.
 
 (2) Jenis Retribusi yang menggunakan dokumen karcis sebagai berikut:
 
-a. Pelayanan jasa kepelabuhanan, dan
+a. Pelayanan jasa kepelabuhanan; dan
 
 b. Pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di air.
 
@@ -258,9 +258,9 @@ b. Pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di air
 
 (1) Pembayaran Retribusi dapat dilakukan dengan:
 
-a. pembayaran langsung melalui bendahara penerimaan pada unit kerja pengelola Retribusi,
+a. pembayaran langsung melalui bendahara penerimaan pada unit kerja pengelola Retribusi;
 
-b. pembayaran melalui langsung bank persepsi, dan
+b. pembayaran melalui langsung bank persepsi; dan
 
 c. transfer antar bank dan Pembayaran melalui platform digital seperti Qris, ovo, gopay, tokped, traveloka.
 
@@ -274,7 +274,7 @@ c. transfer antar bank dan Pembayaran melalui platform digital seperti Qris, ovo
 
 (6) Penyetoran 3x24 jam sebagaimana dimaksud pada ayat (5) dikecualikan dalam hal:
 
-a. letak geografis, lokasi, dan transportasi yang jauh dari bank persepsi,
+a. letak geografis, lokasi, dan transportasi yang jauh dari bank persepsi;
 
 b. hari libur, dan
 
@@ -320,7 +320,7 @@ Cc. terjadinya bencana alam seperti banjir, tanah longsor dan/atau musibah kebak
 
 a. lembar ke-1 untuk wajib Retribusi:
 
-b. lembar ke-2 untuk Perangkat Daerah, dan
+b. lembar ke-2 untuk Perangkat Daerah; dan
 
 c. lembar ke-3 untuk Badan Pendapatan Daerah.
 
@@ -350,7 +350,7 @@ c. lembar ke-3 untuk Badan Pendapatan Daerah.
 
 (2) Kerja sama pemungutan Retribusi dengan pihak ketiga sebagaimana dimaksud pada ayat (1) meliputi jenis retribusi:
 
-a. Pelayanan Kepelabuhanan, dan
+a. Pelayanan Kepelabuhanan; dan
 
 b. Pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di Air.
 
@@ -368,9 +368,9 @@ b. Pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di Air
 
 (1) Kerja sama pemungutan Retribusi dengan pihak ketiga sebagaimana dimaksud dalam Pasal 13 dilaksanakan dengan :
 
-a. Pemerintah daerah lainnya,
+a. Pemerintah daerah lainnya;
 
-b. pihak swasta: Cc. organisasi masyarakat, dan
+b. pihak swasta: Cc. organisasi masyarakat; dan
 
 d. perorangan.
 

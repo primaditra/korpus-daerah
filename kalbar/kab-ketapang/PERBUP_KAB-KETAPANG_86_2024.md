@@ -21,18 +21,18 @@ BUPATI KETAPANG,
 Menimbang : 'a. bahwa pelayanan kesehatan di fasilitas kesehatan
 tingkat pertama menjadi kebutuhan masyarakat,
 sehingga tenaga kesehatan wajib untuk memberikan
-pelayanan kesehatan yang berkualitas,
+pelayanan kesehatan yang berkualitas;
 b. bahwa dalam rangka meningkatkan mutu pelayanan
 dan kinerja Pusat Kesehatan Masyarakat, perlu
 ditopang oleh sistem jasa pelayanan berbasis kinerja
 sebagai bentuk Motivasi dan penghargaan kepada
-pegawai,
+pegawai;
 c. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a dan huruf b, perlu
 menetapkan Peraturan Bupati tentang Pembagian Jasa
-Pelayanan Pusat Kesehatan Masyarakat,
+Pelayanan Pusat Kesehatan Masyarakat;
 Mengingat , 1. Pasai 18 ayat (6) Undang-Undang Dasar Negara Republik
-Indonesia Tahun 1945,
+Indonesia Tahun 1945;
 2. Undang-Undang Nomor 27 Tahun 1959 teritang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953
 tentang Perpanjangan Pembentukan Daerah Tingkat II di
@@ -62,7 +62,7 @@ Peraturan pemerintah Pengganti Undang-Uridang Komog
 2 Tahun 2022 tentang Cipta Kerja menjadi Endang
 Undang (Lembaran Negara Republik Indonesia Tahun
 2023 Nomor 41, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6856),
+Indonesia Nomor 6856);
 4. Undang-Undang Nomor 17 Tahun 2023 tentang
 Kesehatan (Lembaran Negara Republik Indonesia Tahun
 2023 Nomor 105, Tambahan Lembaran Negara Republik
@@ -73,7 +73,7 @@ tentang Pedoman Remunerasi Badan Layanan Umum
 701):
 6. Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018
 tentang Badan Layanan Umum Daerah (Berita Negara
-Republik Indonesia Tahun 2016 Nomor 1213),
+Republik Indonesia Tahun 2016 Nomor 1213);
 7. Peraturan Daerah Nomor 3 Tahun 2023 tentang Pajak
 Daerah dan Retribusi Dae'ah (Lembaran Dae'ah
 Kabupaten Ketapang Tahun 2023 Nomor 3):
@@ -114,7 +114,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 10. Tenaga Pendukung atau Penunjang Kesehatan adalah seorang pegawal (ASN/Tenaga kontrak) yang bekerja di fasilitas pelayanan kesehatan dalam Tangka membantu kelancaran operasional fasyankes.
 
-11. Jasa Pelayanan Kesehatan adalah imbalan yang diterima oleh pelaksana pelayanan atau jasa yang diberikan oleh pasien dalam rangka kegiatan dan/ atau serangkaian kegiatan pelayanan yang diberikan secara langsung kepada perseorangan atau masyarakat untuk memelihara dan meningkatkan derajat Kesehatan masyarakat dalam bentuk promotif, preventif, kuratif, rehabilitatif, dan/atau paliatif.,
+11. Jasa Pelayanan Kesehatan adalah imbalan yang diterima oleh pelaksana pelayanan atau jasa yang diberikan oleh pasien dalam rangka kegiatan dan/ atau serangkaian kegiatan pelayanan yang diberikan secara langsung kepada perseorangan atau masyarakat untuk memelihara dan meningkatkan derajat Kesehatan masyarakat dalam bentuk promotif, preventif, kuratif, rehabilitatif, dan/atau paliatif.;
 
 12. Jasa Sarana adalah pengganti biaya fasilitas, biaya operasional dan biaya tetap puskesmas, berdasarkan harga satuan (Unit costj
 
@@ -142,7 +142,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 Pembagian Jasa Pelayanan berdasarkan azas sebagai berikut:
 
-a. proporsionalitas yang diukur dengan besarnya pendapatan yang diterima dan pelayanan yang diberikan,
+a. proporsionalitas yang diukur dengan besarnya pendapatan yang diterima dan pelayanan yang diberikan;
 
 b. kesetaraan yang memperhatikan kinerja pelayanan, dan C. kepatutan yang melihat kemampuan Puskesmas dalam memberikan Jasa Pelayanan pegawai.
 
@@ -162,19 +162,19 @@ b. kesetaraan yang memperhatikan kinerja pelayanan, dan C. kepatutan yang meliha
 
 (1) Jasa Pelayanan sebagaimana maksud dalam Pasal 3 ayat (1) diberikan kepada:
 
-a. Kepala Puskesmas,
+a. Kepala Puskesmas;
 
-b. Kepala Tata Usaha,
+b. Kepala Tata Usaha;
 
-c. Tenaga Medis,
+c. Tenaga Medis;
 
-d. Tenaga Kesehatan, dan
+d. Tenaga Kesehatan; dan
 
 e. Tenaga Pendukung atau Penunjang Kesehatan.
 
 (2) Tenaga Pendukung atau Penun jang Kesehatan sebagaimana dimaksud pada ayat (1) huruf e terdiri dan:
 
-a. kelompok Tenaga Administrasi Fungsional, dan
+a. kelompok Tenaga Administrasi Fungsional; dan
 
 b. kelompok Tenaga Administrasi Perkantoran.
 
@@ -182,13 +182,13 @@ b. kelompok Tenaga Administrasi Perkantoran.
 
 Jasa Pelayanan tidak diberikan kepada Pegawai Puskesmas apabila yang bersangkutan:
 
-a. menjalani tugas belajar,
+a. menjalani tugas belajar;
 
 b. menjalani masa persiapan pensiun
 
-c. menjalani cuti diluar tanggungan negara,
+c. menjalani cuti diluar tanggungan negara;
 
-d. menjalani masa tahanan atau dihukum penjara yang telah Mempunyai kekuatan hukum tetap, dan
+d. menjalani masa tahanan atau dihukum penjara yang telah Mempunyai kekuatan hukum tetap; dan
 
 e. berstatus diperbantukan atau dipekerjakan ke instansi lain.
 
@@ -210,7 +210,7 @@ b. Jasa Sarana sebesar 40Y6 (empat puluh persen)
 
 (1) Pendapatan Puskesmas dari Jasa Umum dan Non Kapitasi dialokasikan untuk:
 
-a. Jasa Pelayanan sebesar 40 Yo (empat puluh persen), dan
+a. Jasa Pelayanan sebesar 40 Yo (empat puluh persen); dan
 
 a. Jasa Sarana sebesar 60 Yo (enam puluh persen).
 
@@ -228,21 +228,21 @@ a. Jasa Sarana sebesar 60 Yo (enam puluh persen).
 
 a. Pelayanan Rawat Jalan:
 
-1. Jasa Pelayanan dokter sebesar 3094 (tiga puluh persen),
+1. Jasa Pelayanan dokter sebesar 3094 (tiga puluh persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 60”6 (enam puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 60”6 (enam puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 1076 (sepuluh persen).
 
 b. Pelayanan Gawat Darurat:
 
-1. Jasa Pelayanan dokter sebesar 3046 (tiga puluh persen),
+1. Jasa Pelayanan dokter sebesar 3046 (tiga puluh persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 6096 (enam puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 6096 (enam puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 1076 (sepuluh persen).
 
-c. Pelayanan Rawat Inap: 1, Jasa Pelayanan dokter sebesar 1596 (lima belas persen),
+c. Pelayanan Rawat Inap: 1, Jasa Pelayanan dokter sebesar 1596 (lima belas persen);
 
 2. Jasa Pelayanan Tenaga Kesehatan sebesar 75965 (tujuh puluh lima persen): dan
 
@@ -250,37 +250,37 @@ c. Pelayanan Rawat Inap: 1, Jasa Pelayanan dokter sebesar 1596 (lima belas perse
 
 d. Pelayanan Tindakan Medis Umum:
 
-1. Jasa Pelayanan dokter sebesar 20Y6 (dua puluh persen),
+1. Jasa Pelayanan dokter sebesar 20Y6 (dua puluh persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 70?6 (tujuh puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 70?6 (tujuh puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 10746 (sepuluh persen).
 
 e. Pelayanan Penunjang Diagnostik:
 
-1. Jasa Pelayanan dokter sebesar 20”6 (dua puluh persen),
+1. Jasa Pelayanan dokter sebesar 20”6 (dua puluh persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 7076 (tujuh puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 7076 (tujuh puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 1046 (sepuluh persen). f Pelayanan Kebidanan: 1, Jasa Pelayanan dokter sebesar 206 (dua puluh persenj:
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 7076 (tujuh puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 7076 (tujuh puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 106 (sepuluh persen).
 
 g. Pelayanan Gigi:
 
-1. Jasa Pelayanan dokter Gigi sebesar 4074 (tiga puluh persen),
+1. Jasa Pelayanan dokter Gigi sebesar 4074 (tiga puluh persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 40Y5 (empat puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 40Y5 (empat puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 205 (dua puluh persen).
 
 h. Pelayanan Ambulans dan Rujukan:
 
-1. Jasa Pelayanan dokter sebesar 10425 (sepuluh persen),
+1. Jasa Pelayanan dokter sebesar 10425 (sepuluh persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 4596 (empat puluh lima”! persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 4596 (empat puluh lima”! persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 454, (empat puluh lima persen).
 
@@ -292,15 +292,15 @@ j. Pelayanan Kesehatan Khusus:
 
 1. Jasa Pelayanan dokter sebesar 3076 (tiga puluh persen):
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 60”6 (enam puluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 60”6 (enam puluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 1040 (sepuluh persen).
 
 k. Pelayanan Non Kesehatan:
 
-1. Jasa Pelayanan dokter sebesar 574 (lima persen),
+1. Jasa Pelayanan dokter sebesar 574 (lima persen);
 
-2. Jasa Pelayanan Tenaga Kesehatan sebesar 10”6 (sepuluh persen), dan
+2. Jasa Pelayanan Tenaga Kesehatan sebesar 10”6 (sepuluh persen); dan
 
 3. Jasa Pelayanan Tenaga Pendukung sebesar 85” (delapan puluh lima persen).
 
@@ -316,7 +316,7 @@ b. Kepala Tata Usaha sebesar 22”5 ( dua puluh dua persen):
 
 c. Bendahara Penerimaan sebesar 1086 (sepuluh persen):
 
-d. Bendahara Pengeluaran sebesar 1346 (tiga belas persen),
+d. Bendahara Pengeluaran sebesar 1346 (tiga belas persen);
 
 e. Kelompok Tenaga Administrasi Perkantoran sebesar 2076 (dua puluh persen): dan
 
@@ -346,11 +346,11 @@ f. Pos Kebersamaan sebesar 105 (sepuluh persen).
 
 a. masa kerja:
 
-b. tingkat pendidikan, c training,
+b. tingkat pendidikan, c training;
 
 d. emergensi
 
-e. sifat pelayanan , dan
+e. sifat pelayanan ; dan
 
 f. penanggungjawab medis.
 
@@ -360,13 +360,13 @@ f. penanggungjawab medis.
 
 (1) Indexing yang digunakan berdasarkan variable:
 
-a. masa kerja atau index dasar sebagai jasa pelayanan dasar bagi seluruh pegawai sesuai dengan masa kerja karyawan dengan variable yang tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini,
+a. masa kerja atau index dasar sebagai jasa pelayanan dasar bagi seluruh pegawai sesuai dengan masa kerja karyawan dengan variable yang tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini;
 
 b. Training index untuk memberikan penghargaan nilai kualifikasi/capacity berdasarkan pelatihan atas keterampilan yang bersertifikat yang sesuai dengan tugas pokok dan fungsi yang telah dilakukan oleh pegawai dan memperhatikan masa berlaku yang tercantum dalam sertifikat dengan ketentuan tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini:
 
 c. Tingkat Pendidikan adalah Ijazah pendidikan formal terakhir yang dimiliki Pegawai diberi nilai index yang tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini :
 
-d. Emergency index merupakan nilai untuk pegawai yang memiliki tugas pokok dan fungsi yang menuntut harus siap melaksanakan tugas setiap saat dengan tingkatan emergency yang sangat tergantung jenis pekerjaannya, dengan variable tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini,
+d. Emergency index merupakan nilai untuk pegawai yang memiliki tugas pokok dan fungsi yang menuntut harus siap melaksanakan tugas setiap saat dengan tingkatan emergency yang sangat tergantung jenis pekerjaannya, dengan variable tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini;
 
 e. Sifat pelayanan yang berdasarkan tingkat kompleksitas pelayanan yang terdiri dari minimal care, partial care dan total care yang tercantum dalam Lampiran tidak terpisahkan dari Peraturan Bupati ini: dan
 
