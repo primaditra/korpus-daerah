@@ -367,7 +367,7 @@ BERITA DAERAH KABUPATEN SEKADAU TAHUN 2024 NOMOR 38
 Salinan sesuai dengan aslinya
 Kepala Bagian Hukum
 Sekretariat Daerah Kabupaten Sekadau,
-Sam S.H.
+ZULFIAKLI, S.H.
 Pembina Tk I (IV/b)
 NIP. 19770611 200604 1 015
 

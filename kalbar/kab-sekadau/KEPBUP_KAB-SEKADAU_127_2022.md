@@ -26,13 +26,13 @@ Menimbang : a. bahwa berdasarkan Keputusan Bupati Sekadau Nomor
 Pelantikan Pegawai Negeri Sipil dari dan dalam jabatan
 Administrator di lingkungan Pemerintah Kabupaten
 Sekadau, terjadi pergeseran beberapa Pejabat dalam
-jabatan Administrator,
+jabatan Administrator;
 b. bahwa berdasarkan Keputusan Bupati Sekadau Nomor
 821.24/88/BKPSDM-B tanggal 10 Mei 2022 tentang
 Pelantikan Pegawai Negeri Sipil dari dan dalam jabatan
 Pengawas di lingkungan Pemerintah Kabupaten
 Sekadau, terjadi pergeseran beberapa Pejabat dalam
-jabatan Pengawas,
+jabatan Pengawas;
 c. bahwa dengan adanya beberapa perubahan pejabat pada
 Satuan Kerja Perangkat Daerah Kabupaten Sekadau,
 maka lampiran Keputusan Bupati Sekadau Nomor
@@ -42,7 +42,7 @@ Keputusan Bupati Sekadau Nomor
 Keuangan Daerah Selaku Bendahara Umum Daerah dan
 Penunjukan Kuasa Bendahara Umum Daerah
 Pemerintah Kabupaten Sekadau Tahun Anggaran 2022,
-tidak sesuai lagi sehingga perlu dirubah,
+tidak sesuai lagi sehingga perlu dirubah;
 d. bahwa berdasarkan pertimbangan pada huruf a, dan
 huruf b perlu menetapkan Perubahan Kedua Atas
 'i Keputusan Bupati Sekadau Nomor
@@ -51,7 +51,7 @@ Pejabat Pengelola Keuangan Daerah Selaku Bendahara
 Umum Daerah dan Penunjukan Kuasa Bendahara
 Umum Daerah Pemerintah Kabupaten Sekadau Tahun
 Anggaran 2022 yang ditetapkan dengan Keputusan
-Bupati,
+Bupati;
 Mengingat : 1. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik Indonesia
 Tahun 2003 Nomor 47, Tambahan Lembaran Negara
@@ -70,20 +70,20 @@ Nomor 1 Tahun 2022 tentang Hubungan Keuangan
 antara Pemerintah Pusat dan Pemerintah Daerah
 (Lembaran Negara Republik Indonesia Tahun 2022
 Nomor 4, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6757),
+Indonesia Nomor 6757);
 4. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan antara Pemerintah Pusat dan
 Pemerintah Daerah (Lembaran Negara Republik
 Indonesia Tahun 2022 Nomor 4, Tambahan Lembaran
-Negara Republik Indonesia Nomor 6757),
+Negara Republik Indonesia Nomor 6757);
 5. Peraturan Pemerintah Nomor 12 Tahun 2019 tentang
 Pengelolaan Keuangan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2019 Nomor 42, Tambahan
-Lembaran Negara Republik Indonesia Nomor 6322),
+Lembaran Negara Republik Indonesia Nomor 6322);
 6. Peraturan Menteri Dalam Negeri Nomor 77 Tahun 2020
 tentang Pedoman Teknis Pengelolaan Keuangan Daerah
 (Berita Negara Republik Indonesia Tahun 2020 Nomor
-1781),
+1781);
 7. Peraturan Daerah Kabupaten Sekadau Nomor 4 Tahun
 2016 tentang Pembentukan dan Susunan Perangkat
 Daerah (Lembaran Daerah Kabupaten Sekadau Tahun
@@ -99,7 +99,7 @@ Sekadau Nomor 7):
 Pengelolaan Keuangan Daerah (Lembaran Daerah
 Kabupaten Sekadau Tahun 2020 Nomor 10 , Tambahan
 Lembaran Daerah Kabupaten Sekadau Tahun 2020
-Nomor 8),
+Nomor 8);
 9. Peraturan Daerah Nomor 5 Tahun 2021 tentang
 Anggaran Pendapatan dan Belanja Daerah Kabupaten
 Sekadau Tahun Anggaran 2022 (Lembaran Daerah
@@ -139,13 +139,12 @@ TEMBUSAN : disampaikan kepada Yth.
 2. Wakil Bupati Sekadau :
 3. Para Asisten Sekda, Staf Ahli Bupati, Kepala Dinas dan Kepala Badan di lingkungan
 Pemkab Sekadau
-4. Inspektur Kabupaten Sekadau,
+4. Inspektur Kabupaten Sekadau;
 5. Kepala Bagian Hukum Setda Kabupaten Sekadau:
 6. Yang bersangkutan untuk diketahui dan dilaksanakan sebagaimana mestinya.
 Salinan sesuai dengan aslinya
 Kepala Bagian Hukum
 Sekretariat Daerah Kabupaten Sekadau,
-sr
 RADIUS, SH
 Pembina Tk I (IV/b)
 NIP. 19810910 200803 1 001

@@ -916,20 +916,17 @@ Peraturan Wali Kota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Wali
-Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Wali Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
+
 Ditetapkan di Pontianak
-pada tanggal ...!J Fekoruari 2026
+pada tanggal 19 Februari 2025 [ditulis tangan]
 Pj. WALI KOTA PONTIANAK,
-SP
 EDI SURYANTO
 Diundangkan di Pontianak
-pada tanggal... 14 Februari 2045
-Y N DAERAH KOTA PONTIANAK,
+pada tanggal 19 Februari 2025 [ditulis tangan]
+SEKRETARIS DAERAH KOTA PONTIANAK,
 AMIRULLAH
-2026
-BERITA DAERAH KOTA PONTIANAK TAHUN ... NOMOR IX
-11 2025
+BERITA DAERAH KOTA PONTIANAK TAHUN 2025 NOMOR 11 [tahun dan nomor ditulis tangan]
 
 ## Lampiran
 

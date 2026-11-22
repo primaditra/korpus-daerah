@@ -298,14 +298,14 @@ Peraturan Wali Kota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan
-Wali Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Wali Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
+
 Ditetapkan di Pontianak
-pada tanggal ... '
+pada tanggal 24 Desember [2024; tanggal ditulis tangan]
 Pj. WALI KOTA PONTIANAK,
 EDI SURYANTO
 Diundangkan di Pontianak
-pada tanggal .2 V PA Km ba
+pada tanggal 24 Desember [2024; tanggal ditulis tangan]
 SEKRETARIS DAERAH KOTA PONTIANAK,
 AMIRULLAH
-/L 3 CET
+BERITA DAERAH KOTA PONTIANAK TAHUN 2024 NOMOR 44 [tahun dan nomor ditulis tangan]

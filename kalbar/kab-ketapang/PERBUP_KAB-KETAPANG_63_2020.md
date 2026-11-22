@@ -8,7 +8,7 @@ sumber_teks: ocr
 ---
 # Peraturan Bupati Ketapang Nomor 63 Tahun 2020 tentang Pedoman Pelaksanaan Pengelolaan Keuangan pada Badan Layanan Umum Daerah di Kabupaten Ketapang
 
-> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
 
 ## Pembukaan
 
@@ -23,11 +23,11 @@ Menimbang : a. bahwa agar pelaksanaan pengelolaan keuangan pada
 Badan Layanan Umum Daerah berjalan dengan tertib,
 lancar, efisien dan efektif serta akuntabel perlu adanya
 pedoman pelaksanaan pengelolaan keuangan pada Badan
-Layanan Umum Daerah,
+Layanan Umum Daerah;
 b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a perlu menetapkan Peraturan
 Bupati tentang Pedoman Pelaksanaan Pengelolaan
-Keuangan pada Badan Layanan Umum Daerah,
+Keuangan pada Badan Layanan Umum Daerah;
 Mengingat : 1. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953
 tentang Perpanjangan Pembentukan Daerah Tingkat II di
@@ -42,11 +42,11 @@ tentang Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Perpanjangan Pembentukan Daerah
 Tingkat II Di Kalimantan (Lembaran Negara Republik
 Indonesia Tahun 1965 Nomor 51, Tambahan Lembaran
-Negara Republik Indonesia Nomor 2756),
+Negara Republik Indonesia Nomor 2756);
 2. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik Indonesia
 Tahun 2003 Nomor 47, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4286),
+Republik Indonesia Nomor 4286);
 3. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
 P Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran
@@ -55,7 +55,7 @@ Negara Republik Indonesia Nomor 4355)
 Pemeriksaan Pengelolaan dan Tanggungjawab Keuangan
 Negara (Lembaran Negara Republik Indonesia Tahun
 2004 Nomor 66, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4400),
+Indonesia Nomor 4400);
 5. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
@@ -65,7 +65,7 @@ Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua
 atas Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran
-Negara Republik Indonesia Nomor 5679),
+Negara Republik Indonesia Nomor 5679);
 6. Peraturan Pemerintah Nomor 23 Tahun 2005 tentang
 Pengelolaan Keuangan Badan Layanan Umum (Lembaran
 Negara Republik Indonesia Tahun 2005 Nomor 48,
@@ -80,31 +80,31 @@ Indonesia Nomor 5340)
 7. Peraturan Pemerintah Nomor 39 Tahun 2007 tentang
 Pengelolaan Uang Negara/Daerah (Lembaran Negara
 Republik Indonesia Tahun 2007 Nomor 83, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4738),
+Lembaran Negara Republik Indonesia Nomor 4738);
 8. Peraturan Pemerintah Nomor 71 Tahun 2010 tentang
 Standar Akutansi Pemerintahan (Lembaran Negara
 Republik Indonesia Tahun 2010 Nomor 123, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5165),
+Lembaran Negara Republik Indonesia Nomor 5165);
 9. Peraturan Pemerintah Nomor 27 Tahun 2014 tentang
 Pengelolaan Barang Milik Negara/Daerah Standar
 Akutansi Pemerintahan (Lembaran Negara Republik
 Indonesia Tahun 2010 Nomor 123, Tambahan Lembaran
-Negara Republik Indonesia Nomor 5165),
+Negara Republik Indonesia Nomor 5165);
 10. Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006
 tentang Pedoman Pengelolaan Keuangan Daerah
 4 sebagaimana telah beberapa kali di ubah terakhir
 dengan Peraturan Menteri Dalam Negeri Nomor 21
-Tahun 2011,
+Tahun 2011;
 11. Peraturan Menteri Keuangan Nomor 76/PMK.05/2008
 Tahun 2008 tentang Pedoman Akutansi dan Pelaporan
-Keuangan Badan Layanan Umum,
+Keuangan Badan Layanan Umum;
 12. Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018
 tentang Badan Layanan Umum Daerah (Berita Negara
-Republik Indonesia Tahun 2018 Nomor 1213),
+Republik Indonesia Tahun 2018 Nomor 1213);
 13. Peraturan Daerah Nomor 2 Tahun 2009 tentang Pokok-
 Pokok Pengelolaan Keuangan Daerah (Lembaran Daerah
 Kabupaten Ketapang Tahun 2009 Nomor 2, Tambahan
-Lembaran Daerah Kabupaten Ketapang Nomor 59),
+Lembaran Daerah Kabupaten Ketapang Nomor 59);
 MEMUTUSKAN :
 Menetapkan : PERATURAN BUPATI TENTANG PEDOMAN
 PELAKSANAAN PENGELOLAAN KEUANGAN BADAN
@@ -172,7 +172,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 28. Belanja adalah semua pengeluaran dari rekening kas yang mengurangi ekuitas dana lancar dalam periode tahun anggaran bersangkutan yang tidak akan diperoleh pembayarannya kembali oleh BLUD.
 
-29. Biaya adalah sejumlah pengeluaran yang mengurangi ekuitas dana lancar untuk memperoleh barang dan/atau jasa untuk keperluan 2 operasional BLUD.
+29. Biaya adalah sejumlah pengeluaran yang mengurangi ekuitas dana lancar untuk memperoleh barang dan/atau jasa untuk keperluan operasional BLUD.
 
 30. Basis akrual adalah basis akutansi yang mengakui pengaruh transaksi dan peristiwa lainnya pada saat transaksi dan peristiwa lainnya pada saat transaksi dan peristiwa itu terjadi, tanpa memperhatikan saat kas atau setara kas diterima atau dibayar.
 
@@ -234,9 +234,9 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 (1) Pejabat Pengelola BLUD terdiri dari :
 
-a. Pemimpin BLUD,
+a. Pemimpin BLUD;
 
-b. pejabat keuangan, dan
+b. pejabat keuangan; dan
 
 c. pejabat teknis.
 
@@ -258,21 +258,23 @@ c. pejabat teknis.
 
 (1) Pemimpin BLUD sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a mempunyai tugas dan kewajiban :
 
-a. memimpin, mengarahkan, membina, mengawasi, mengendalikan dan mengevaluasi penyelenggaraan kegiatan BLUD agar lebih efisien dan produktifitas,
+a. memimpin, mengarahkan, membina, mengawasi, mengendalikan dan mengevaluasi penyelenggaraan kegiatan BLUD agar lebih efisien dan produktifitas;
 
-b. merumuskan penetapan kebijakan teknis BLUD serta kewajiban lainnya sesuai dengan kebijakan yang telah ditetapkan oleh Kepala Daerah,
+b. merumuskan penetapan kebijakan teknis BLUD serta kewajiban lainnya sesuai dengan kebijakan yang telah ditetapkan oleh Kepala Daerah;
 
-c. menyusun renstra,
+c. menyusun renstra;
 
-d. menyiapkan RBA,
+d. menyiapkan RBA;
 
-e. mengusulkan calon pejabat keuangan dan pejabat teknis kepada Kepala Daerah sesuai dengan ketentuan,
+e. mengusulkan calon pejabat keuangan dan pejabat teknis kepada Kepala Daerah sesuai dengan ketentuan;
 
-f. menetapkan pejabat lainnya sesuai dengan kebutuhan BLUD selain pejabat yang telah ditetapkan dengan peraturan P perundang-undangan,
+f. menetapkan pejabat lainnya sesuai dengan kebutuhan BLUD selain pejabat yang telah ditetapkan dengan peraturan P perundang-undangan;
 
-g. mengoordinasikan pelaksanaan kebijakan BLUD yang dilakukan oleh pejabat keuangan dan pejabat teknis, mengendalikan tugas pengawasan internal, serta menyampaikan dan mempertanggungjawabkan kinerja operasinal serta keuangan BLUD kepada Kepala Daerah, dan
+g. mengoordinasikan pelaksanaan kebijakan BLUD yang dilakukan oleh pejabat keuangan dan pejabat teknis, mengendalikan tugas pengawasan internal, serta menyampaikan dan mempertanggungjawabkan kinerja operasinal serta keuangan BLUD kepada Kepala Daerah; dan
 
-h. tugas lainnya yang ditetapkan oleh Kepala Daerah sesuai dengan kewenangannya. (2d Pengusulan calon pejabat keuangan dan pejabat teknis sebagaimana dimaksud pada ayat (1) huruf e dan penyampaian pertanggungjawaban kinerja operasional dan keuangan sebagaimana dimaksud pada ayat (1) huruf g untuk BLUD-Unit Kerja melalui kepala SKPD/OPD.
+h. tugas lainnya yang ditetapkan oleh Kepala Daerah sesuai dengan kewenangannya.
+
+(2) Pengusulan calon pejabat keuangan dan pejabat teknis sebagaimana dimaksud pada ayat (1) huruf e dan penyampaian pertanggungjawaban kinerja operasional dan keuangan sebagaimana dimaksud pada ayat (1) huruf g untuk BLUD-Unit Kerja melalui kepala SKPD/OPD.
 
 (3) Pemimpin BLUD dalam melaksanakan tugas dan kewajiban sebagaimana dimaksud pada ayat (1) mempunyai fungsi sebagai penanggung jawab umum operasional dan keuangan BLUD.
 
@@ -284,29 +286,29 @@ h. tugas lainnya yang ditetapkan oleh Kepala Daerah sesuai dengan kewenangannya.
 
 (1) Pejabat keuangan BLUD sebagaimana dimaksud dalam pasal 4 ayat (1) huruf b mempunyai tugas dan kewajiban :
 
-a. Merumuskan kebijakan terkait pengolaan keuangan,
+a. Merumuskan kebijakan terkait pengolaan keuangan;
 
-b. mengoordinasikan penyusunan RBA,
+b. mengoordinasikan penyusunan RBA;
 
-c. menyiapkan DPA-BLUD,
+c. menyiapkan DPA-BLUD;
 
-d. melakukan pengelolaan pendapatan dan belanja,
+d. melakukan pengelolaan pendapatan dan belanja;
 
-e. menyelenggarakan pengelolaan kas,
+e. menyelenggarakan pengelolaan kas;
 
-f. melakukan pengelolaan utang, piutang, investasi,
+f. melakukan pengelolaan utang, piutang, investasi;
 
-g. menyusun kebijakan pengelolaan barang milik daerah yang berada di bawah penguasaannya,
+g. menyusun kebijakan pengelolaan barang milik daerah yang berada di bawah penguasaannya;
 
-h. menyelenggarakan sistem informasi manajemen keuangan,
+h. menyelenggarakan sistem informasi manajemen keuangan;
 
-i. menyelenggarakan akutansi dan penyusunan laporan keuangan, dan
+i. menyelenggarakan akutansi dan penyusunan laporan keuangan; dan
 
 j. tugas lainnya yang ditetapkan oleh Kepala Daerah dan atau Pemimpin sesuai dengan kewenangannya.
 
 (2) Pejabat keuangan BLUD dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) mempunyai fungsi sebagai penanggung jawab keuangan BLUD.
 
-(3) Pejabat keuangan dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) dibantu oleh bendahara penerimaan dan P bendahara pengeluaran,
+(3) Pejabat keuangan dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) dibantu oleh bendahara penerimaan dan P bendahara pengeluaran;
 
 (4) Pejabat keuangan, bendahara penerimaan dan bendahara pengeluaran harus di jabat oleh Pegawai Negeri Sipil.
 
@@ -314,15 +316,15 @@ j. tugas lainnya yang ditetapkan oleh Kepala Daerah dan atau Pemimpin sesuai den
 
 (1) Pejabat teknis sebagaimana dimaksud dalam pasal 4 ayat (1) huruf c mempunyai tugas dan kewajiban:
 
-a. menyusun perencanaan kegiatan teknis operasional dan pelayanan di bidangnya,
+a. menyusun perencanaan kegiatan teknis operasional dan pelayanan di bidangnya;
 
-b. melaksanakan kegiatan teknis operasional dan pelayanan sesuai RBA,
+b. melaksanakan kegiatan teknis operasional dan pelayanan sesuai RBA;
 
-c. memimpin dan mengendaikan kegiatan teknis operasional dan pelayanan dibidangnya, dan
+c. memimpin dan mengendaikan kegiatan teknis operasional dan pelayanan dibidangnya; dan
 
 d. tugas lainnya yang ditetapakan oleh Kepala Daerah dan / atau Pemimpin sesuai dengan kewenangannya.
 
-(2) Pejabat teknis BLUD dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) mempunyai fungsi sebagai penanggung jawab kegiatan teknis operasional dan pelayanan di bidangnya,
+(2) Pejabat teknis BLUD dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) mempunyai fungsi sebagai penanggung jawab kegiatan teknis operasional dan pelayanan di bidangnya;
 
 (3) — Pelaksanaan tugas Pejabat teknis sebagaimana dimaksud pada ayat (1) berkaitan dengan mutu, standarisasi, administrasi, peningkatan kualitas sumber daya manusia dan peningkatan sumber daya lainnya.
 
@@ -334,15 +336,15 @@ d. tugas lainnya yang ditetapakan oleh Kepala Daerah dan / atau Pemimpin sesuai 
 
 (2) — Dalam melaksanakan fungsinya, Pejabat Penatausahaan Keuangan BLUD dapat dibantu oleh pembantu PPK, yang terdiri dari :
 
-a. peneliti kelengkapan SPP,
+a. peneliti kelengkapan SPP;
 
-b. penyiap SPM,
+b. penyiap SPM;
 
-c. verifikasi penerimaan,
+c. verifikasi penerimaan;
 
-d. verifikasi pengeluaran,
+d. verifikasi pengeluaran;
 
-e. petugas akuntansi, dan
+e. petugas akuntansi; dan
 
 f. penyusun laporan keuangan.
 
@@ -352,17 +354,17 @@ f. penyusun laporan keuangan.
 
 ### Pasal 10
 
-(l) Bupati menetapkan pejabat fungsional sebagai bendahara penerimaan, bendahara penerimaan pembantu, bendahara pengeluaran, dan bendahara pengeluaran pembantu untuk melaksanakan tugas kebendaharaan dalam rangka pelaksanaan anggaran pada BLUD.
+(1) Bupati menetapkan pejabat fungsional sebagai bendahara penerimaan, bendahara penerimaan pembantu, bendahara pengeluaran, dan bendahara pengeluaran pembantu untuk melaksanakan tugas kebendaharaan dalam rangka pelaksanaan anggaran pada BLUD.
 
 (2) Syarat-syarat bendahara sebagaimana dimaksud pada ayat (1) adalah :
 
-a. PNS minimal golongan II,
+a. PNS minimal golongan II;
 
-b. tidak sedang menduduki jabatan struktural,
+b. tidak sedang menduduki jabatan struktural;
 
-c. belum pernah atau tidak sedang terlibat dalam masalah hukum yang berkaitan dengan tindak pidana korupsi, kolusi dan nepotisme,
+c. belum pernah atau tidak sedang terlibat dalam masalah hukum yang berkaitan dengan tindak pidana korupsi, kolusi dan nepotisme;
 
-d. memiliki kompetensi dalam pengurusan keuangan dan pembukuan, dan
+d. memiliki kompetensi dalam pengurusan keuangan dan pembukuan; dan
 
 e. mempunyai sifat dan akhlak yang baik yaitu jujur, dan dapat dipercaya.
 
@@ -376,11 +378,11 @@ e. mempunyai sifat dan akhlak yang baik yaitu jujur, dan dapat dipercaya.
 
 (2) Untuk melaksanakan tugas sebagaimana dimaksud pada ayat (1) bendahara penerimaan dan bendahara penerimaan pembantu BLUD mempunyai wewenang :
 
-a. menerima seluruh penerimaan BLUD,
+a. menerima seluruh penerimaan BLUD;
 
-b. menyimpan seluruh penerimaan BLUD,
+b. menyimpan seluruh penerimaan BLUD;
 
-c. menyetorkan penerimaan yang diterima dari pihak ketiga ke P rekening kas BLUD, dan
+c. menyetorkan penerimaan yang diterima dari pihak ketiga ke P rekening kas BLUD; dan
 
 d. mendapatkan bukti transaksi atas pendapatan yang diterima melalui bank.
 
@@ -396,15 +398,15 @@ d. mendapatkan bukti transaksi atas pendapatan yang diterima melalui bank.
 
 (2) Dalam melaksanakan tugasnya bendahara pengeluaran dan bendahara pengeluaran pembantu BLUD berwenang :
 
-a. mengajukan permintaan pembayaran menggunakan SPP UP/GU/TU dan SPP LS,
+a. mengajukan permintaan pembayaran menggunakan SPP UP/GU/TU dan SPP LS;
 
-b. menerima dan menyimpan uang persediaan,
+b. menerima dan menyimpan uang persediaan;
 
-c. melaksanakan pembayaran dari uang persediaan yang dikelolanya,
+c. melaksanakan pembayaran dari uang persediaan yang dikelolanya;
 
-d. menolak perintah membayar dari pengguna anggaran yang tidak sesuai ketentuan peraturan perundang-undangan,
+d. menolak perintah membayar dari pengguna anggaran yang tidak sesuai ketentuan peraturan perundang-undangan;
 
-e. meneliti kelengkapan dokumen pendukung SPP-LS yang diberikan oleh PPTK, dan
+e. meneliti kelengkapan dokumen pendukung SPP-LS yang diberikan oleh PPTK; dan
 
 f. mengembalikan dokumen pendukung SPP-LS yang diberikan oleh PPTK, apabila dokumen tersebut tidak memenuhi syarat dan/atau tidak lengkap.
 
@@ -420,13 +422,13 @@ f. mengembalikan dokumen pendukung SPP-LS yang diberikan oleh PPTK, apabila doku
 
 (1) Organisasi pelaksana kegiatan pada BLUD-SKPD adalah sebagai berikut :
 
-a. pemimpin BLUD sebagai penanggung jawab Program,
+a. pemimpin BLUD sebagai penanggung jawab Program;
 
-b. pejabat keuangan dan pejabat teknis sebagai penanggung jawab kegiatan,
+b. pejabat keuangan dan pejabat teknis sebagai penanggung jawab kegiatan;
 
-c. Kepala Bidang/Kepala Bagian/Koordinator sebagai pejabat pelaksana teknis kegiatan (PPTK) dan koordinator kelompok kerja,
+c. Kepala Bidang/Kepala Bagian/Koordinator sebagai pejabat pelaksana teknis kegiatan (PPTK) dan koordinator kelompok kerja;
 
-d. Kepala seksi atau kepala sub bagian sebagai ketua kelompok kerja, dan
+d. Kepala seksi atau kepala sub bagian sebagai ketua kelompok kerja; dan
 
 e. staf administrasi
 
@@ -434,9 +436,9 @@ e. staf administrasi
 
 a. Tim Pembina dan Pengarah :
 
-1. Pembina I,
+1. Pembina I;
 
-2. Pembina Il: dan
+2. Pembina II; dan
 
 3. Pengarah.
 
@@ -458,19 +460,19 @@ b. Tim Teknis, yaitu tim yang secara khusus dibentuk untuk mendukung pelaksanaan
 
 (4) Tugas PPTK sebagaimana dimaksud pada ayat (1) yaitu :
 
-a. mengendalikan pelaksanaan kegiatan,
+a. mengendalikan pelaksanaan kegiatan;
 
-b. melaporkan perkembangan pelaksanaan kegiatan,
+b. melaporkan perkembangan pelaksanaan kegiatan;
 
-c. menyiapkan dokumen anggaran tas beban pengeluaran pelaksanaan kegiatan, dan
+c. menyiapkan dokumen anggaran tas beban pengeluaran pelaksanaan kegiatan; dan
 
-d. menyiapkan dokumen kontrak untuk pengadaan barang/jasa. (S5 Dokumen anggaran sebagimana dimaksud pada ayat (4) huruf c meliputi dokumen administrasi kegiatan dan dokumen administrasi yang terkait persyaratan pembayaran yang ditetapkan sesuai ketentuan peraturan perundang-undangan. Pasal 14 Jenjang pertanggungjawaban kinerja pada tingkat organisasi pelaksana kegiatan sebagaimana dimaksud dalam Pasal 12 ayat (1) adalah sebagai berikut :
+d. menyiapkan dokumen kontrak untuk pengadaan barang/jasa. (5) Dokumen anggaran sebagimana dimaksud pada ayat (4) huruf c meliputi dokumen administrasi kegiatan dan dokumen administrasi yang terkait persyaratan pembayaran yang ditetapkan sesuai ketentuan peraturan perundang-undangan. Pasal 14 Jenjang pertanggungjawaban kinerja pada tingkat organisasi pelaksana kegiatan sebagaimana dimaksud dalam Pasal 12 ayat (1) adalah sebagai berikut :
 
-a. Penanggungjawab program, bertanggungjawab mewujudkan capaian program seluruh kegiatan yang dilaksanakan oleh BLUD,
+a. Penanggungjawab program, bertanggungjawab mewujudkan capaian program seluruh kegiatan yang dilaksanakan oleh BLUD;
 
-b. Penanggungjawab kegiatan, bertanggungjawab mewujudkan hasil (outcome) setiap kegiatan yang dilaksanakan unit kerja yag berkenaan,
+b. Penanggungjawab kegiatan, bertanggungjawab mewujudkan hasil (outcome) setiap kegiatan yang dilaksanakan unit kerja yag berkenaan;
 
-c. PPTK, bertanggungjawab mewujudkan keluaran (output) kegiatan yang dikendalikannya, dan
+c. PPTK, bertanggungjawab mewujudkan keluaran (output) kegiatan yang dikendalikannya; dan
 
 d. Kelompok Kerja, bertanggungjawab terhadap kelancaran pelaksanaan kinerja proses terhadap kegiatan yang dikendalikannya.
 
@@ -482,19 +484,19 @@ d. Kelompok Kerja, bertanggungjawab terhadap kelancaran pelaksanaan kinerja pros
 
 Pendapatan BLUD bersumber dari :
 
-a. jasa layanan,
+a. jasa layanan;
 
-b. hibah,
+b. hibah;
 
-c. hasil kerja sama dengan pihak lain,
+c. hasil kerja sama dengan pihak lain;
 
-d. APBD, dan
+d. APBD; dan
 
 e. lain-lain pendapatan BLUD yang sah.
 
 ### Pasal 16
 
-(l) Pendapatan BLUD yang bersumber dari jasa layanan sebagaimana h dimaksud dalam pasal 15 huruf a, berupa imbalan yang diperoleh dari jasa layanan yang diberikan kepada masyarakat.
+(1) Pendapatan BLUD yang bersumber dari jasa layanan sebagaimana h dimaksud dalam pasal 15 huruf a, berupa imbalan yang diperoleh dari jasa layanan yang diberikan kepada masyarakat.
 
 (2) Pendapatan BLUD sebagaimana dimaksud pada ayat (1) termasuk pendapatan yang berasal dari jasa layanan kepada masyarakat yang dijamin oleh lembaga penjaminan.
 
@@ -510,15 +512,15 @@ e. lain-lain pendapatan BLUD yang sah.
 
 (8) Lain-lain pendapatan BLUD yang sah sebagaimana dimksud dalam pasal 15 huruf e, berupa :
 
-a. Jasa giro,
+a. Jasa giro;
 
 b. pendapatan bunga
 
-c. keuntungan selisih nilai tukar rupiah terhadap mata uang asing,
+c. keuntungan selisih nilai tukar rupiah terhadap mata uang asing;
 
-d. komisi, potongan ataupun bentuk lain sebagai akibat dari penjualan dan/atau pengadaan barang dan/atau jasa oleh BLUD,
+d. komisi, potongan ataupun bentuk lain sebagai akibat dari penjualan dan/atau pengadaan barang dan/atau jasa oleh BLUD;
 
-e. investasi, dan
+e. investasi; dan
 
 f. pengembangan usaha.
 
@@ -538,7 +540,7 @@ f. pengembangan usaha.
 
 (1) Belanja BLUD terdiri atas
 
-a. Belanja operasi, dan
+a. Belanja operasi; dan
 
 b. Belanja modal.
 
@@ -552,7 +554,9 @@ b. Belanja modal.
 
 ### Pasal 19
 
-(1) Seluruh pengeluaran belanja BLUD yang bersumber dari sebagaimana dimaksud dalam pasal 18 huruf a dan huruf b dilaporkan setiap triwulan kepada PPKD dan untuk BLUD-Unit Kerja dilaporkan melalui Kepala SKPD kepada PPKD. (2D Seluruh pengeluaran belanja BLUD yang bersumber dari sebagaimana dimaksud pada ayat (1) dilakukan dengan menerbitkan SPM pengesahan yang dilampiri dengan Surat Pernyataan Tanggung Jawab (SPTJ).
+(1) Seluruh pengeluaran belanja BLUD yang bersumber dari sebagaimana dimaksud dalam pasal 18 huruf a dan huruf b dilaporkan setiap triwulan kepada PPKD dan untuk BLUD-Unit Kerja dilaporkan melalui Kepala SKPD kepada PPKD.
+
+(2) Seluruh pengeluaran belanja BLUD yang bersumber dari sebagaimana dimaksud pada ayat (1) dilakukan dengan menerbitkan SPM pengesahan yang dilampiri dengan Surat Pernyataan Tanggung Jawab (SPTJ).
 
 (3) Bentuk format SPTJ dan laporan sebagaimana tercantum dalam lampiran dan merupakan bagian yang tidak terpisahkan dengan Peraturan Bupati ini.
 
@@ -568,7 +572,7 @@ b. Belanja modal.
 
 (5) Dalam hal terjadi kekurangan anggaran BLUD mengajukan usulan tambahan anggaran dari APBD kepada PPKD :
 
-a. melalui Sekretaris daerah untuk BLUD-SKPD, dan
+a. melalui Sekretaris daerah untuk BLUD-SKPD; dan
 
 b. melalui SKPD untuk BLUD Unit-Kerja.
 
@@ -576,7 +580,7 @@ b. melalui SKPD untuk BLUD Unit-Kerja.
 
 (1) Ambang batas RBA dan sebagaimana dimaksud dalam pasal 20 ayat (2) ditetapkan dengan besaran persentase.
 
-(2) Besaran persentase sebagaimana dimaksud pada ayat (1) ditentukan dengan mempertimbangkan fluktuasi kegiatan P operasional BLUD,
+(2) Besaran persentase sebagaimana dimaksud pada ayat (1) ditentukan dengan mempertimbangkan fluktuasi kegiatan P operasional BLUD;
 
 (3) Besaran persentase sebagaimana dimaksud pada ayat (2) ditetapkan dalam RBA, DPA-BLUD dan DPA-SKPD oleh PPKD.
 
@@ -594,23 +598,23 @@ b. melalui SKPD untuk BLUD Unit-Kerja.
 
 ### Pasal 23
 
-(1) Pembiayaan BLUD terdiri dari,
+(1) Pembiayaan BLUD terdiri dari;
 
-a. Penerimaan pembiayaan, dan
+a. Penerimaan pembiayaan; dan
 
 b. Pengeluaran pembiayaan.
 
 (2) Pembiayaan sebagaimana dimaksud pada ayat (1) merupakan semua penerimaan yang perlu dibayar kembali dan / atau pengeluaran yang akan diterima kembali, baik pada tahun anggaran yang bersangkutan maupun pada tahun anggaran berikutnya.
 
-(3) Penerimaan pembiayaan sebagaimana dimaksud pada ayat (1) huruf a meliputi : a, Sisa lebih perhitungan anggaran tahun anggaran sebelumnya,
+(3) Penerimaan pembiayaan sebagaimana dimaksud pada ayat (1) huruf a meliputi : a, Sisa lebih perhitungan anggaran tahun anggaran sebelumnya;
 
-b. Divestasi, dan
+b. Divestasi; dan
 
 c. Penerimaan utang / pinjaman.
 
 (4) Pengeluaran pembiayaan sebagaimana yang dimaksud pada ayat (1) huruf b meliputi:
 
-a. Investasi, dan
+a. Investasi; dan
 
 b. Pembayaran pokok utang / pinjaman.
 
@@ -628,11 +632,11 @@ b. Pembayaran pokok utang / pinjaman.
 
 (3) Misi sebagaimana dimaksud pada ayat (1) mmemuat sesuatu yang harus diemban atau dilaksanakan sesuai visi yang ditetapkan agar tujuan organisasi terlaksana sesuai bidangnya dan berhasil dengan baik.
 
-(4) Program strategis sebagaimana dimaksud pada ayat (1) memuat program yang berisi proses kegiatan yang berorientasi pada hasil yang ingin dicapai samapai dengan kurun waktu 1 (satu) samapai 5 (ima) tahun dengan memperhitungkan potensi, peluang, dan kendala yang ada dan/atau mungkin timbul,
+(4) Program strategis sebagaimana dimaksud pada ayat (1) memuat program yang berisi proses kegiatan yang berorientasi pada hasil yang ingin dicapai samapai dengan kurun waktu 1 (satu) samapai 5 (ima) tahun dengan memperhitungkan potensi, peluang, dan kendala yang ada dan/atau mungkin timbul;
 
 (5) Pengukuran pencapaian kinerja sebagaimana dimaksud pada ayat (1) memuat pengukuran yang dilakukan dengan menggambarkan pencapaian hasil kegiatan dengan disertai analisis atas faktor internal dan eksternal yang mempengaruhi tercapainya kinerja.
 
-(6) Rencana pencapaian 5 (lima) tahunan sebagaimana dimaksud pada ayat (1) memuat rencana capaian kinerja pelayanan tahunan selama 5 (lima) tahun,
+(6) Rencana pencapaian 5 (lima) tahunan sebagaimana dimaksud pada ayat (1) memuat rencana capaian kinerja pelayanan tahunan selama 5 (lima) tahun;
 
 (7) Proyeksi keuangan 5 (lima) tahunan sebagaimana dimaksud pada ayat (1) memuat perkiraan capaian kinerja keuangan tahunan selama S(lima) tahun.
 
@@ -654,23 +658,25 @@ Renstra BLUD sebagaimana dimaksud dalam pasal 26 ayat (1) - dipergunakan sebagai
 
 (2) Penyusunan RBA sebagaimana dimaksud pada ayat (1) disusun berdasarkan prinsip anggaran berbasis kinerja, perhitungan akutansi biaya menurut jenis layanan, kebutuhan pendanaan dan kemampuan pendapatan yang diperkirakan akan diterima dari jasa layanan, hibah, kerjasama, APBD, APBN dan lain-lain pendapatan BLUD yang sah dan berbasis akrual (acrual basis).
 
-(3) RBA sebagaimana dimaksud pada ayat (1) secara garis besar memuat : a, kinerja tahun berjalan,
+(3) RBA sebagaimana dimaksud pada ayat (1) secara garis besar memuat : a, kinerja tahun berjalan;
 
-b. asumsi makro dan mikro,
+b. asumsi makro dan mikro;
 
-c. sasaran, target, dan kegiatan,
+c. sasaran, target, dan kegiatan;
 
-d. perkiraan pendapatan nerdasarkan pelayanan dan pendukung pelayanan,
+d. perkiraan pendapatan nerdasarkan pelayanan dan pendukung pelayanan;
 
-e. perkiraan biaya berdasarkan pelayanan dan pendukung pelayanan,
+e. perkiraan biaya berdasarkan pelayanan dan pendukung pelayanan;
 
-f. anggaran pendapatan dan biaya/pengeluaran,
+f. anggaran pendapatan dan biaya/pengeluaran;
 
-g. besaran persentase ambang batas, h, prognosa dan proyeksi laporan keuangan,
+g. besaran persentase ambang batas;
+
+h. prognosa dan proyeksi laporan keuangan;
 
 i. perkiraan maju (forward estimate)
 
-j. rencana pengeluaran investasi/ modal, dan
+j. rencana pengeluaran investasi/ modal; dan
 
 k. ringkasanpendapatan dan biaya untuk intergrasi/konsolidasi dengan APBD/RKA-SKPD.
 
@@ -680,41 +686,49 @@ k. ringkasanpendapatan dan biaya untuk intergrasi/konsolidasi dengan APBD/RKA-SK
 
 ### Pasal 28
 
-(1) Kinerja tahun berjalan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf a meliputi : a, hasil kegiatan usaha,
+(1) Kinerja tahun berjalan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf a meliputi :
 
-b. faktor yang mempengaruhi kinerja,
+a. hasil kegiatan usaha;
 
-c. perbandingan keuangan tahun berjalan, dan
+b. faktor yang mempengaruhi kinerja;
+
+c. perbandingan keuangan tahun berjalan; dan
 
 d. hal-hal yang perlu ditindaklanjuti sehubungan dengan pencapaian kinerja tahun berjalan.
 
 (2) Asumsi makro dan mikro sebagaimana dimaksud dalam pasal 27 ayat (3) huruf b meliputi :
 
-a. pertumbuhan ekonomi, b, tingkat inflasi, Cc. tingkat suku bunga pinjaman,
+a. pertumbuhan ekonomi;
 
-d. Nilai kurs,
+b. tingkat inflasi;
 
-e. tingkat bunga deposito,
+c. tingkat suku bunga pinjaman;
 
-f. “subsidi dari pemerintah,
+d. Nilai kurs;
 
-g. kenaikan tarif layanan,
+e. tingkat bunga deposito;
 
-h. pengembangan layanan baru, dan
+f. “subsidi dari pemerintah;
 
-i. volume pelayanan. (3h Sasaran, target dan kegiatan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf c meliputi :
+g. kenaikan tarif layanan;
 
-a. perkiraan pencapaian kinerja pelayanan, dan
+h. pengembangan layanan baru; dan
+
+i. volume pelayanan.
+
+(3) Sasaran, target dan kegiatan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf c meliputi :
+
+a. perkiraan pencapaian kinerja pelayanan; dan
 
 b. perkiraan keuangan pada tahun yang direncanakan.
 
-(4) Perkiraan pendapatan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf d merupakan perkiraan biaya per unit penyedia barang dan/atau jasa pelayanan yang diberikan setelah memperhitungkann seluruh komponen biaya dan volume barang dan/atau jasa yang akan dihasilkan,
+(4) Perkiraan pendapatan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf d merupakan perkiraan biaya per unit penyedia barang dan/atau jasa pelayanan yang diberikan setelah memperhitungkann seluruh komponen biaya dan volume barang dan/atau jasa yang akan dihasilkan;
 
 (5) Perkiraan biaya sebagaimana dimaksud dalam pasal 27 ayat (3) huruf e merupakan estimasi harga jual produk barang dan/atau jasa setelah memperhitungkan biaya per satuan dan tingkat margin yang ditentukan seperti tercermin dari rencana pendapatan dan biaya.
 
 (6) Angaran pendapatan dan biaya/pengeluaran sebagaimana dimaksud dalam pasal 27 ayat (3) huruf f merupakan rencana anggaran untuk seluruh kegiatan tahunan dinyatakan dalam satuan uang yang tercermin dari rencana pendapatan dan biaya.
 
-(7) Besaran persentase ambang batas sebagaimana dimaksud dalam pasal 27 ayat (3) huruf g merupakan besaran perubahan anggaran bersumber dari pendapatan operasional yang diperkenankan dan ditentukan dengan mempertimbangkan fluktuasi kegiatan P operasional BLUD,
+(7) Besaran persentase ambang batas sebagaimana dimaksud dalam pasal 27 ayat (3) huruf g merupakan besaran perubahan anggaran bersumber dari pendapatan operasional yang diperkenankan dan ditentukan dengan mempertimbangkan fluktuasi kegiatan P operasional BLUD;
 
 (8) Prognosa dan proyeksi laporan keuangan sebagaimana dimaksud dalam pasal 27 ayat (3) huruf h merupakan perkiraan realisasi keuangan tahun berjalan sebagaimana tercermin pada laporan operasional, neraca dan laporan arus kas.
 
@@ -734,11 +748,11 @@ b. perkiraan keuangan pada tahun yang direncanakan.
 
 (1) RBA sebagaimana dimaksud dalam pasal 31 ayat (1) disampaikan kepada PPKD.
 
-(2) RBA sebagaimana dimaksud dalam pasal 31 ayat (2) disampaikan kepada Kepala SKPD untuk dikonsolidasikan dengan RKA-SKPD dan selanjutnya disampaikan kepada PPKD,
+(2) RBA sebagaimana dimaksud dalam pasal 31 ayat (2) disampaikan kepada Kepala SKPD untuk dikonsolidasikan dengan RKA-SKPD dan selanjutnya disampaikan kepada PPKD;
 
 (3) PPKD menyampaikan kepada TAPD untuk dilakukan penelaahan.
 
-(4) Setelah dilakukan penelaahan sebagaimana dimaksud pada ayat (3) disampaikan kembali kepada PPKD untuk dituangkan dalam P rancangan Peraturan Daerah tentang APBD,
+(4) Setelah dilakukan penelaahan sebagaimana dimaksud pada ayat (3) disampaikan kembali kepada PPKD untuk dituangkan dalam P rancangan Peraturan Daerah tentang APBD;
 
 (5) Penyampaian RBA BLUD sebagaimana dimaksud pada ayat (1) paling lambat akhir bulan Februari Tahun Anggaran berkenaan.
 
@@ -760,11 +774,11 @@ b. perkiraan keuangan pada tahun yang direncanakan.
 
 (1) RBA definitif digunakan sebagai dasar penyusunan DPA-BLUD dan untuk BLUD-Unit Kerja sebagai dasar dari penyusunan yang dikonsolidasikan dengan DPA-SKPD.
 
-(2) Rancangan DPA-BLUD dan DPA-SKPD sebagaimana dimaksud pada ayat (1), mencakup : a, pendapatan dan belanja,
+(2) Rancangan DPA-BLUD dan DPA-SKPD sebagaimana dimaksud pada ayat (1), mencakup : a, pendapatan dan belanja;
 
-b. proyeksi arus kas,
+b. proyeksi arus kas;
 
-c. jumlah dan kualitas barang dan/atau jasa yang akan dihasilkan: dan
+c. jumlah dan kualitas barang dan/atau jasa yang akan dihasilkan; dan
 
 d. besaran persentase ambang batas.
 
@@ -786,7 +800,7 @@ d. besaran persentase ambang batas.
 
 BLUD melakukan perubahan RBA definitif dalam hal :
 
-a. tidak mempengaruhi program dan kegiatan dalam anggaran BLUD, dan
+a. tidak mempengaruhi program dan kegiatan dalam anggaran BLUD; dan
 
 b. belanja BLUD sampai dengan ambang batas fleksibilitas.
 
@@ -802,9 +816,9 @@ b. belanja BLUD sampai dengan ambang batas fleksibilitas.
 
 Perubahan RBA, DPPA-BLUD, dan DPPA-SKPD untuk BLUD-Unit Kerja dilakukan apabila :
 
-a. terdapat penambahan atau pengurangan pagu anggaran, perubahan /pergeseran program, kegiatan, dan jenis belanja,
+a. terdapat penambahan atau pengurangan pagu anggaran, perubahan /pergeseran program, kegiatan, dan jenis belanja;
 
-b. belanja BLUD melampaui ambang batas fleksibilitas, dan
+b. belanja BLUD melampaui ambang batas fleksibilitas; dan
 
 c. terdapat SiLPA yang akan digunakan oleh BLUD yang belum tercantum dalam RBA, DPA-BLUD dan DPA-SKPD.
 
@@ -836,7 +850,7 @@ c. terdapat SiLPA yang akan digunakan oleh BLUD yang belum tercantum dalam RBA, 
 
 ### Pasal 40
 
-BLUD dilarang melakukan pungutan selain yang ditetapkan dalam ketentuan peraturan perindang-undangan.
+BLUD dilarang melakukan pungutan selain yang ditetapkan dalam ketentuan peraturan perundang-undangan.
 
 **Bagian Keenam** **Pelaksanaan Anggaran Biaya**
 
@@ -862,15 +876,15 @@ Transaksi penerimaan dan pengeluaran kas yang dananaya bersumber dari sebagaiman
 
 (1) Dalam pengelolaan kas, BLUD menyelenggarakan:
 
-a. perencanaan, penerimaan, dan pengeluaran kas,
+a. perencanaan, penerimaan, dan pengeluaran kas;
 
-b. pemungutan, pendapatan atau tagihan,
+b. pemungutan, pendapatan atau tagihan;
 
-c. penyimpanan kas dan mengelola rekening bank,
+c. penyimpanan kas dan mengelola rekening bank;
 
-d. pembayaran,
+d. pembayaran;
 
-e. perolehan sumber dana untuk menutup defisit jangka pendek : dan
+e. perolehan sumber dana untuk menutup defisit jangka pendek ; dan
 
 f. pemanfaatan surflus kas jangka pendek untuk memperoleh pendapatan tambahan.
 
@@ -894,11 +908,11 @@ f. pemanfaatan surflus kas jangka pendek untuk memperoleh pendapatan tambahan.
 
 (1) Untuk pelaksanaan penatausahaan keuangan BLUD, pemimpin BLUD menetapkan :
 
-a. PPK-BLUD yang diberi wewenang melaksanakan fungsi tata usaha keuangan pada BLUD,
+a. PPK-BLUD yang diberi wewenang melaksanakan fungsi tata usaha keuangan pada BLUD;
 
-b. PPTK yang diberi wewenang melaksanakan kegiatan dari suatu program sesuai bidang tugasnya,
+b. PPTK yang diberi wewenang melaksanakan kegiatan dari suatu program sesuai bidang tugasnya;
 
-c. pejabt yang diberi wewenang menandatangani bukti penerimaan kas dan bukti penerimaaan lainnya yang sah, dan
+c. pejabt yang diberi wewenang menandatangani bukti penerimaan kas dan bukti penerimaaan lainnya yang sah; dan
 
 d. pembantu bendahara penerimaan BLUD dan pembantu bendahara pengeluaran BLUD.
 
@@ -920,13 +934,13 @@ Bendahara penerimaan dan bendahara penerimaan pembantu wajib menyelenggarakan pe
 
 (2) Laporan keuangan BLUD berdasarkan SAP terdiri dari :
 
-a. Laporan Realisasi Anggaran yang berisi informasi jumlah pendapatan dan biaya BLUD selama satu periode,
+a. Laporan Realisasi Anggaran yang berisi informasi jumlah pendapatan dan biaya BLUD selama satu periode;
 
-b. Neraca yang menyajikan posisi keuangan mengenai aset, kewajiban, dan ekuitas dana pada tanggal tertentu,
+b. Neraca yang menyajikan posisi keuangan mengenai aset, kewajiban, dan ekuitas dana pada tanggal tertentu;
 
-c. Laporan Operasional yang menyajikan ikhtisar sumber daya ekonomi yang menambah ekuitas dan penggunaannya yang dikelola oleh Pemerintah Daerah untuk kegiatan penyelenggaraan pemerintahan dalam satu periode pelaporan,
+c. Laporan Operasional yang menyajikan ikhtisar sumber daya ekonomi yang menambah ekuitas dan penggunaannya yang dikelola oleh Pemerintah Daerah untuk kegiatan penyelenggaraan pemerintahan dalam satu periode pelaporan;
 
-d. Laporan Perubahan Ekuitas yang menyajikan informasi kenaikan atau penurunan ekuitas tahun pelaporan dibandingkan dengan tahun sebelumnya, dan
+d. Laporan Perubahan Ekuitas yang menyajikan informasi kenaikan atau penurunan ekuitas tahun pelaporan dibandingkan dengan tahun sebelumnya; dan
 
 e. Catatan Atas Laporan Keuangan yang berisi penjelasan naratif atau rincian dari angka yang tertera dalam laporan keuangan.
 
@@ -968,7 +982,6 @@ Diundangkan di Ketapang
 pada tanggal 21 Desember 2020
 PJ.SEKRETARIS DAERAH KABUPATEN KETAPANG
 ttd
-SUHERMAN
 BERITA DAERAH KABUPATEN KETAPANG TAHUN 2020 NOMOR 63
 Untuk Salinan yang sah sesuai bunyi aslinya
 (cap dan tanda tangan pejabat pengesah salinan; lihat PDF)

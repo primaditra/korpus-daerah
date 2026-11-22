@@ -8,7 +8,7 @@ sumber_teks: ocr
 ---
 # Peraturan Bupati Sintang Nomor 33 Tahun 2026 tentang Pengadaan Barang/Jasa pada Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Ade Muhammad Djoen Sintang
 
-> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
 
 ## Pembukaan
 
@@ -25,7 +25,7 @@ Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018 tentang
 Badan Layanan Umum Daerah perlu menetapkan Peraturan
 Bupati tentang Pengadaan Barang/Jasa pada Badan Layanan
 Umum Daerah Rumah Sakit Umum Daerah Ade Muhammad
-Djoen Sintang,
+Djoen Sintang;
 Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik
 Indonesia Tahun 1945:
 2. Undang-Undang Nomor 27 Tahun 1959 tentang Penetapan
@@ -44,7 +44,7 @@ Undang-Undang Darurat Nomor 3 Tahun 1953 tentang
 Pembentukan Daerah Tingkat II Di Kalimantan (Lembaran
 Negara Republik Indonesia Tahun 1965 Nomor SI,
 Tambahan Lembaran Negara Republik Indonesia Nomor
-2756),
+2756);
 3. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
@@ -53,7 +53,7 @@ telah beberapa kali diubah terakhir dengan Undang-
 Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana
 (Lembaran Negara Republik Indonesia Tahun 2026 Nomor
 1, Tambahan Lembaran Negara Republik Indonesia Nomor
-7153),
+7153);
 4. Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018
 tentang Badan Layanan Umum Daerah (Berita Negara
 Republik Indonesia Tahun 2018 Nomor 1213):
@@ -65,7 +65,6 @@ DAERAH ADE MUHAMMAD DJOEN SINTANG.
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 1. Daerah adalah Kabupaten Sintang.
@@ -121,44 +120,42 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 26. Satuan Kerja Perangkat Daerah yang selanjutnya disingkat SKPD adalah perangkat Daerah pada pemerintah Daerah selaku pengguna anggaran/pengguna barang.
 
 ### Pasal 2
-
 (1) Peraturan Bupati ini dimaksudkan sebagai pedoman dalam pelaksanaan Pengadaan Barang/Jasa.
 
 (2) Peraturan Bupati ini bertujuan untuk memberikan landasan hukum bagi terselenggaranya Pengadaan Barang /Jasa.
 
 ### Pasal 3
-
 (1) Ruang lingkup Peraturan Bupati ini meliputi Pengadaan Barang/Jasa di BLUD yang anggarannya bersumber dari:
 
-a. jasa layanan,
+a. jasa layanan;
 
-b. hibah tidak terikat,
+b. hibah tidak terikat;
 
-c. hasil kerja sama dengan pihak lain, dan
+c. hasil kerja sama dengan pihak lain; dan
 
 d. lain-lain pendapatan BLUD yang sah.
 
 (2) Lain-lain pendapatan BLUD yang sah sebagaimana dimaksud pada ayat (1) huruf d terdiri atas:
 
-a. sewa lahan,
+a. sewa lahan;
 
-b. sewa kantin,
+b. sewa kantin;
 
-c. lahan praktek pendidikan,
+c. lahan praktek pendidikan;
 
-d. rusunawa,
+d. rusunawa;
 
-e. panitia pendidikan dan pelatihan dokter muda,
+e. panitia pendidikan dan pelatihan dokter muda;
 
-f. panitia pendidikan dan pelatihan manajemen,
+f. panitia pendidikan dan pelatihan manajemen;
 
-g. panitia pendidikan dan pelatihan perawat,
+g. panitia pendidikan dan pelatihan perawat;
 
-h. peneriman study banding,
+h. peneriman study banding;
 
-i. penelitian di RS perpaket,
+i. penelitian di RS perpaket;
 
-j. honor pembimbing praktek/CI D-III keperawatan/kebidanan/D-III umum,
+j. honor pembimbing praktek/CI D-III keperawatan/kebidanan/D-III umum;
 
 k. honor pembimbing praktek/CI D-IV S-1 keperawatan/S-1 kebidanan/ S-1 umum,dan Il. bahan ujian praktek dan pengumpulan data per paket.
 
@@ -167,76 +164,72 @@ k. honor pembimbing praktek/CI D-IV S-1 keperawatan/S-1 kebidanan/ S-1 umum,dan 
 **Bagian Kesatu** **Tujuan Pengadaan Barang/Jasa**
 
 ### Pasal 4
-
 Pengadaan Barang/Jasa bertujuan untuk:
 
-a. menjamin ketersediaan barang/jasa yang lebih bermutu, lebih murah, proses pengadaan yang sederhana, cepat serta mudah menyesuaikan dengan kebutuhan untuk mendukung kelancaran pelayanan BLUD,
+a. menjamin ketersediaan barang/jasa yang lebih bermutu, lebih murah, proses pengadaan yang sederhana, cepat serta mudah menyesuaikan dengan kebutuhan untuk mendukung kelancaran pelayanan BLUD;
 
-b. mendorong penggunaan produk dalam negeri,
+b. mendorong penggunaan produk dalam negeri;
 
-c. mendorong peran serta usaha mikro, usaha kecil, dan koperasi,
+c. mendorong peran serta usaha mikro, usaha kecil, dan koperasi;
 
-d. mendorong peran serta Pelaku Usaha nasional, dan
+d. mendorong peran serta Pelaku Usaha nasional; dan
 
 e. mendorong Pengadaan Berkelanjutan.
 
 **Bagian Kedua** **Kebijakan Pengadaan Barang/Jasa**
 
 ### Pasal 5
-
 Kebijakan Pengadaan Barang/Jasa meliputi:
 
-a. meningkatkan kualitas perencanaan Pengadaan Barang/Jasa,
+a. meningkatkan kualitas perencanaan Pengadaan Barang/Jasa;
 
-b. melaksanakan Pengadaan Barang/Jasa yang lebih transparan, dan kompetitif serta praktek bisnis yang sehat,
+b. melaksanakan Pengadaan Barang/Jasa yang lebih transparan, dan kompetitif serta praktek bisnis yang sehat;
 
-c. mengoptimalkan penggunaan teknologi informasi dan komunikasi, serta transaksi elektronik,
+c. mengoptimalkan penggunaan teknologi informasi dan komunikasi, serta transaksi elektronik;
 
-d. mendorong penggunaan barang/jasa dalam negeri dan Standar Nasional Indonesia,
+d. mendorong penggunaan barang/jasa dalam negeri dan Standar Nasional Indonesia;
 
-e. memberikan kesempatan kepada usaha mikro, usaha kecil, dan koperasi, dan
+e. memberikan kesempatan kepada usaha mikro, usaha kecil, dan koperasi; dan
 
 f. melaksanakan Pengadaan Berkelanjutan.
 
 **Bagian Ketiga** **Prinsip Pengadaan Barang/Jasa**
 
 ### Pasal 6
-
 Pengadaan Barang/Jasa menerapkan prinsip sebagai berikut:
 
-a. efisien,
+a. efisien;
 
-b. efektif,
+b. efektif;
 
-c. transparan,
+c. transparan;
 
-d. bersaing,
+d. bersaing;
 
-e. adil/ tidak diskriminatif,
+e. adil/ tidak diskriminatif;
 
-f. akuntabel, dan
+f. akuntabel; dan
 
 g. ekonomis.
 
 **Bagian Keempat** **Etika Pengadaan Barang/Jasa**
 
 ### Pasal 7
-
 (1) Pelaksana Pengadaan yang terlibat dalam proses Pengadaan Barang/Jasa harus mematuhi etika sebagai berikut:
 
-a. melaksanakan tugas secara tertib, disertai rasa tanggung jawab untuk mencapai sasaran, kelancaran, dan ketepatan tujuan Pengadaan Barang/Jasa,
+a. melaksanakan tugas secara tertib, disertai rasa tanggung jawab untuk mencapai sasaran, kelancaran, dan ketepatan tujuan Pengadaan Barang/Jasa;
 
-b. bekerja secara profesional, mandiri, dan menjaga kerahasiaan informasi yang menurut sifatnya harus dirahasiakan untuk mencegah penyimpangan Pengadaan Barang/Jasa,
+b. bekerja secara profesional, mandiri, dan menjaga kerahasiaan informasi yang menurut sifatnya harus dirahasiakan untuk mencegah penyimpangan Pengadaan Barang/Jasa;
 
-c. tidak saling mempengaruhi baik langsung maupun tidak langsung yang berakibat persaingan usaha tidak sehat,
+c. tidak saling mempengaruhi baik langsung maupun tidak langsung yang berakibat persaingan usaha tidak sehat;
 
-d. menerima dan bertanggung jawab atas segala keputusan yang ditetapkan sesuai dengan kesepakatan tertulis pihak yang terkait,
+d. menerima dan bertanggung jawab atas segala keputusan yang ditetapkan sesuai dengan kesepakatan tertulis pihak yang terkait;
 
-e. menghindari dan mencegah terjadinya kepentingan pihak yang terkait, baik secara langsung maupun tidak langsung, yang berakibat persaingan usaha tidak sehat dalam Pengadaan Barang/Jasa,
+e. menghindari dan mencegah terjadinya kepentingan pihak yang terkait, baik secara langsung maupun tidak langsung, yang berakibat persaingan usaha tidak sehat dalam Pengadaan Barang/Jasa;
 
-f. menghindari dan mencegah pemborosan dan kebocoran keuangan BLUD,
+f. menghindari dan mencegah pemborosan dan kebocoran keuangan BLUD;
 
-g. menghindari dan mencegah penyalahgunaan wewenang dan/atau kolusi, dan
+g. menghindari dan mencegah penyalahgunaan wewenang dan/atau kolusi; dan
 
 h. tidak menerima, menawarkan, atau menjanjikan hadiah, imbalan, komisi, rabat, atau bentuk pemberian lainnya kepada atau dari siapa pun yang diketahui atau patut diduga berkaitan dengan Pengadaan Barang/Jasa.
 
@@ -247,14 +240,13 @@ h. tidak menerima, menawarkan, atau menjanjikan hadiah, imbalan, komisi, rabat, 
 **Bagian Kesatu** **Jenis dan tahapan Pengadaan**
 
 ### Pasal 8
-
 (1) Pengadaan Barang/Jasa dalam Peraturan Bupati ini meliputi namun tidak terbatas pada:
 
-a. Barang,
+a. Barang;
 
-b. Pekerjaan Konstruksi,
+b. Pekerjaan Konstruksi;
 
-c. Jasa Konsultansi: dan
+c. Jasa Konsultansi; dan
 
 d. Jasa Lainnya.
 
@@ -268,27 +260,26 @@ b. Penyedia.
 
 (4) Tahapan Pengadaan Barang/Jasa secara umum meliputi:
 
-a. perencanaan pengadaan,
+a. perencanaan pengadaan;
 
-b. persiapan pengadaan,
+b. persiapan pengadaan;
 
-c. persiapan pemilihan,
+c. persiapan pemilihan;
 
-d. pelaksanaan pemilihan, dan
+d. pelaksanaan pemilihan; dan
 
 e. pelaksanaan kontrak.
 
 **Bagian Kedua** **Sumber Daya Manusia dan Kelembagaan**
 
 ### Pasal 9
-
 (1) Sumber Daya Manusia Pengadaan Barang/Jasa terdiri atas aparatur sipil negara, dan/atau tenaga profesional yang memahami tata cara pengadaan di lingkungan BLUD.
 
 (2) Pemahaman di bidang Pengadaan Barang/Jasa sebagaimana dimaksud pada ayat 1 (satu) dapat ditunjukkan dengan:
 
-a. sertifikat kompetensi bidang Pengadaan Barang/Jasa,
+a. sertifikat kompetensi bidang Pengadaan Barang/Jasa;
 
-b. sertifikat pelatihan di bidang Pengadaan Barang/Jasa, atau
+b. sertifikat pelatihan di bidang Pengadaan Barang/Jasa; atau
 
 c. pengalaman di bidang Pengadaan Barang/Jasa.
 
@@ -299,24 +290,27 @@ c. pengalaman di bidang Pengadaan Barang/Jasa.
 **Bagian Ketiga** **Pelaku Pengadaan Barang/Jasa**
 
 ### Pasal 10
-
 (1) Para pihak dalam pengadaan barang dan/atau jasa terdiri atas:
 
-b. KPA: PPK:
+a. PA;
 
-d. PPTK,
+b. KPA;
 
-e. Pejabat Pengadaan,
+c. PPK;
 
-f. Pokja Pemilihan,
+d. PPTK;
 
-g. Penyelenggara Swakelola,
+e. Pejabat Pengadaan;
 
-h. Penyedia,
+f. Pokja Pemilihan;
 
-i. tim teknis,
+g. Penyelenggara Swakelola;
 
-j. staf administrasi, dan
+h. Penyedia;
+
+i. tim teknis;
+
+j. staf administrasi; dan
 
 k. panitia peneliti pelaksanaan kontrak.
 
@@ -325,44 +319,45 @@ k. panitia peneliti pelaksanaan kontrak.
 **Paragraf 1** **Pengguna Anggaran**
 
 ### Pasal 11
-
 (1) PA sebagaimana dimaksud dalam Pasal 10 huruf a memiliki tugas dan kewenangan:
 
-a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja,
+a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja;
 
-b. mengadakan ikatan/perjanjian dengan pihak lain dalam batas anggaran yang telah ditetapkan,
+b. mengadakan ikatan/perjanjian dengan pihak lain dalam batas anggaran yang telah ditetapkan;
 
-c. menetapkan perencanaan pengadaan,
+c. menetapkan perencanaan pengadaan;
 
-d. menetapkan dan mengumumkan rencana umum pengadaan,
+d. menetapkan dan mengumumkan rencana umum pengadaan;
 
-e. melaksanakan konsolidasi Pengadaan Barang/Jasa,
+e. melaksanakan konsolidasi Pengadaan Barang/Jasa;
 
-f. menetapkan Penunjukan Langsung untuk Tender/Seleksi gagal,
+f. menetapkan Penunjukan Langsung untuk Tender/Seleksi gagal;
 
-g. menetapkan pengenaan Sanksi Daftar Hitam,
+g. menetapkan pengenaan Sanksi Daftar Hitam;
 
-h. menetapkan PPK,
+h. menetapkan PPK;
 
-i. menetapkan PPTK,
+i. menetapkan PPTK;
 
-j. menetapkan Pejabat Pengadaan,
+j. menetapkan Pejabat Pengadaan;
 
-k. menetapkan penyelenggara Swakelola,
+k. menetapkan penyelenggara Swakelola;
 
-l. menetapkan tim teknis, m.menetapkan tim 'juri/tim ahli untuk pelaksanaan melalui sayembara/kontes,
+l. menetapkan tim teknis;
 
-n. menyatakan Tender gagal/ Seleksi gagal,
+m. menetapkan tim juri/tim ahli untuk pelaksanaan melalui sayembara/kontes;
 
-o. melaksanakan tugas lainnya sesuai dengan ketentuan peraturan perundang-undangan, dan
+n. menyatakan Tender gagal/ Seleksi gagal;
+
+o. melaksanakan tugas lainnya sesuai dengan ketentuan peraturan perundang-undangan; dan
 
 p. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
-1) Tender/Penunjukan Langsung untuk paket Pengadaan Barang/Jasa lainnya dengan nilai pagu anggaran di atas Rp2.000.000.000,00 (dua milyar rupiah),
+1) Tender/Penunjukan Langsung untuk paket Pengadaan Barang/Jasa lainnya dengan nilai pagu anggaran di atas Rp2.000.000.000,00 (dua milyar rupiah);
 
 2) E-purchasing untuk paket Pengadaan Barang/ Pekerjaan Konstruksi/Jasa Lainnya dengan nilai pagu anggaran Rp200.000.000,00 (dua ratus juta rupiah) sampai dengan Rp10.000.000.000,00 (sepuluh milyar):
 
-3) Tender/Penunjukan Langsung untuk paket Pengadaan Pekerjaan Konstruksi dengan nilai pagu anggaran di atas Rp1.000.000.000,00 (satu milyar), atau
+3) Tender/Penunjukan Langsung untuk paket Pengadaan Pekerjaan Konstruksi dengan nilai pagu anggaran di atas Rp1.000.000.000,00 (satu milyar); atau
 
 4) Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai pagu anggaran di atas Rp500.000.000,00 (lima ratus juta rupiah).
 
@@ -371,16 +366,15 @@ p. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 **Paragraf 2** **KPA**
 
 ### Pasal 12
-
 (1) KPA dalam Pengadaan Barang/Jasa melaksanakan pendelegasian sesuai dengan pelimpahan dari PA.
 
 (2) Selain kewenangan sebagaimana dimaksud pada ayat (1), KPA berwenang menjawab sanggah banding peserta Tender Pekerjaan Konstruksi.
 
 (3) Pelimpahan kewenangan sebagaimana dimaksud pada ayat (1) ditetapkan oleh Bupati atas usul kepala SKPD.
 
-4) KPA dapat menugaskan PPK untuk melaksanakan kewenangan sebagaimana dimaksud pada ayat (1) yang terkait dengan:
+(4) KPA dapat menugaskan PPK untuk melaksanakan kewenangan sebagaimana dimaksud pada ayat (1) yang terkait dengan:
 
-a. melakukan tindakan yang mengakibatkan pengeluaran atas anggaran belanja, dan/atau
+a. melakukan tindakan yang mengakibatkan pengeluaran atas anggaran belanja; dan/atau
 
 b. mengadakan perjanjian dengan pihak lain dalam batas anggaran yang telah ditetapkan.
 
@@ -395,22 +389,21 @@ b. mengadakan perjanjian dengan pihak lain dalam batas anggaran yang telah ditet
 **Bagian Keempat** **Metode Pemilihan Penyedia**
 
 ### Pasal 13
-
 (1) Metode pemilihan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya terdiri atas:
 
-a. E-Purchasing,
+a. E-Purchasing;
 
-b. Pengadaan Langsung,
+b. Pengadaan Langsung;
 
-c. Penunjukan Langsung, dan
+c. Penunjukan Langsung; dan
 
 d. Tender.
 
 (2) Metode pemilihan Penyedia Jasa Konsultansi terdiri atas:
 
-a. Seleksi,
+a. Seleksi;
 
-b. Pengadaan Langsung, dan
+b. Pengadaan Langsung; dan
 
 c. Penunjukan Langsung.
 
@@ -421,16 +414,15 @@ c. Penunjukan Langsung.
 **Bagian Kelima** **Jenjang Nilai**
 
 ### Pasal 14
-
 (1) Pengadaan Barang/Jasa pada masing-masing BLUD diselenggarakan berdasarkan jenjang nilai pengadaan.
 
 (2) Jenjang nilai pengadaan sebagaimana dimaksud pada ayat (1) menentukan metode pemilihan penyedia Pengadaan Barang/Jasa terdiri atas:
 
-a. jenjang nilai pengadaan Barang,
+a. jenjang nilai pengadaan Barang;
 
-b. jenjang nilai Pekerjaan Kontruksi,
+b. jenjang nilai Pekerjaan Kontruksi;
 
-c. jenjang nilai pekerjaan konsultansi, dan
+c. jenjang nilai pekerjaan konsultansi; dan
 
 d. jenjang nilai Pengadaan Jasa Lainnya.
 
@@ -445,7 +437,6 @@ d. jenjang nilai Pengadaan Jasa Lainnya.
 **Bagian Keenam** **Pengadaan Secara Elektronik**
 
 ### Pasal 15
-
 (1) Pelaksanaan Pengadaan Barang/Jasa (pemilihan dan kontrak) di BLUD dapat dilaksanakan secara elektronik.
 
 (2) BLUD mengumumkan rencana Pengadaan Barang/Jasa ke dalam aplikasi sistem rencana umum pengadaan dan menyampaikan data kontrak dalam aplikasi sistem pengadaan secara elektronik.
@@ -453,7 +444,6 @@ d. jenjang nilai Pengadaan Jasa Lainnya.
 ## BAB IV - PEMBINAAN DAN PENGAWASAN
 
 ### Pasal 16
-
 (1) Bupati melakukan pembinaan terhadap pelaksanaan Pengadaan Barang/Jasa.
 
 (2) Pembinaan terhadap pelaksanaan Pengadaan Barang/Jasa secara teknis dilaksanakan oleh aparat pengawas internal pemerintah.
@@ -461,7 +451,6 @@ d. jenjang nilai Pengadaan Jasa Lainnya.
 (3) Pemimpin BLUD melakukan pembinaan terhadap pelaksanaan Pengadaan Barang/Jasa melalui sosialisasi, supervisi, bimbingan teknis, asistensi, pemantauan dan/atau evaluasi.
 
 ### Pasal 17
-
 (1) Pemimpin BLUD melakukan pengawasan terhadap pelaksanaan Pengadaan Barang/Jasa dengan menugaskan satuan pemeriksa internal.
 
 (2) Satuan pemeriksa internal melakukan pengawasan pelaksanaan Pengadaan Barang/Jasa dan melaporkan kepada Pemimpin BLUD.
@@ -475,39 +464,37 @@ d. jenjang nilai Pengadaan Jasa Lainnya.
 ## BAB V - KETENTUAN LAIN-LAIN
 
 ### Pasal 18
-
 (1) Ketentuan lebih lanjut mengenai Pedoman Pengadaan Barang/Jasa pada BLUD RSUD dalam Peraturan Bupati ini ditetapkan dengan Peraturan Pemimpin BLUD.
 
 (2) Peraturan Pemimpin BLUD sebagaimana dimaksud pada ayat (1) disusun berdasarkan kajian internal BLUD paling sedikit memuat:
 
-a. latar belakang,
+a. latar belakang;
 
-b. dasar hukum:
+b. dasar hukum;
 
-c. pembahasan, dan
+c. pembahasan; dan
 
 d. kesimpulan.
 
 (3) Pembahasan pada kajian sebagaimana disebut pada ayat (2) huruf c memuat substansi tentang pengaturan yang berbeda dari Pengadaan Barang/Jasa pemerintah terkait:
 
-a. tujuan,
+a. tujuan;
 
-b. prinsip,
+b. prinsip;
 
-c. etika,
+c. etika;
 
-d. tahapan,
+d. tahapan;
 
-e. pengaturan pemaketan/konsolidasi,
+e. pengaturan pemaketan/konsolidasi;
 
-f. pengaturan jenjang nilai, dan
+f. pengaturan jenjang nilai; dan
 
 g. kriteria penunjukan langsung pada Pengadaan Barang/Jasa.
 
 ## BAB VI - KETENTUAN PERALIHAN
 
 ### Pasal 19
-
 (1) Pada saat Peraturan Bupati ini mulai berlaku, kontrak yang telah ditandatangani berdasarkan peraturan sebelumnya, dinyatakan tetap berlaku.
 
 (2) Peraturan Pemimpin BLUD yang telah ditetapkan yang mengatur mengenai pelaksanaan Pengadaan Barang/Jasa, dinyatakan masih tetap berlaku sepanjang tidak bertentangan atau belum diganti berdasarkan ketentuan dalam peraturan Bupati ini.
@@ -515,11 +502,9 @@ g. kriteria penunjukan langsung pada Pengadaan Barang/Jasa.
 ## BAB VII - KETENTUAN PENUTUP
 
 ### Pasal 20
-
 Dengan berlakunya Peraturan ini, maka Peraturan Bupati Sintang Nomor 50 Tahun 2022 tentang Pengadaan Barang dan/atau Jasa Pada Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Ade Muhammad Djoen Sintang, dicabut dan dinyatakan tidak berlaku.
 
 ### Pasal 21
-
 Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
@@ -529,153 +514,113 @@ Bupati ini, dengan penempatannya dalam Berita Daerah Kabupaten Sintang.
 Ditetapkan di Sintang
 pada tanggal 22 September 2026
 BUPATI SINTANG,
+TTD
 GREGORIUS HERKULANUS BALA
 Diundangkan di Sintang
 pada tanggal 22 September 2026
 SEKRETARIS DAERAH KABUPATEN SINTANG,
+TTD
 KARTIYUS
 BERITA DAERAH KABUPATEN SINTANG TAHUN 2026 NOMOR 33
 
 ## Lampiran
 
-Isi lampiran disalin dari OCR ulang; tabel dan format tidak terekstrak rapi, lihat PDF.
+Tabel lampiran ditulis ulang dari gambar halaman (hlm. 12-16).
 
 LAMPIRAN I
 PERATURAN BUPATI SINTANG
 NOMOR 33 TAHUN 2026
 TENTANG
-PENGADAAN BARANG/ JASA PADA
-BADAN LAYANAN UMUM DAERAH
-RUMAH SAKIT UMUM DAERAH ADE
-MUHAMMAD DJOEN SINTANG
-METODE PENGADAAN BARANG DI RUMAH SAKIT
-UMUM DAERAH ADE MUHAMMAD
-DJOEN SINTANG
-NO Me aa AN METODE BENTUK DOKUMEN PELAKU
-(Rp) PEMILIHAN PENGADAAN
-PENYEDIA
-1. | Sampai dengan E-Purchasing Surat Pesanan Pejabat
-200.000.000. Pengadaan
-2. |200.000.000 sampai | E-Purchasing Surat Pesanan Pejabat
-dengan Pembuat
-10.000.000.000 Komitmen
+PENGADAAN BARANG/JASA PADA BADAN LAYANAN UMUM DAERAH RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+METODE PENGADAAN BARANG DI RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+| NO | NILAI PENGADAAN E-PURCHASING (Rp) | METODE PEMILIHAN PENYEDIA | BENTUK DOKUMEN | PELAKU PENGADAAN |
+|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 |
+| 1. | Sampai dengan 200.000.000. | E-Purchasing | Surat Pesanan | Pejabat Pengadaan |
+| 2. | 200.000.000 sampai dengan 10.000.000.000 | E-Purchasing | Surat Pesanan | Pejabat Pembuat Komitmen |
+
 BUPATI SINTANG,
+TTD
 GREGORIUS HERKULANUS BALA
-MP 4 aa ———
+
 LAMPIRAN II
 PERATURAN BUPATI SINTANG
 NOMOR 33 TAHUN 2026
 TENTANG
-PENGADAAN BARANG/JASA PADA
-BADAN LAYANAN UMUM DAERAH
-RUMAH SAKIT UMUM DAERAH ADE
-MUHAMMAD DJOEN SINTANG
-JENJANG NILAI PENGADAAN BARANG DI RUMAH SAKIT
-UMUM DAERAH ADE MUHAMMAD
-DJOEN SINTANG
-NO NILAI PENGADAAN METODE BENTUK DOKUMEN PELAKU
-(Rp) PEMILIHAN PENGADAAN
-PENYEDIA
-1. | Sampai dengan Pengadaan bukti pembelian Pejabat
-100.000.000. langsung nota struk/ faktur Pengadaan
-/invoice/ kuitansi
-2. | Lebih dari Pengadaan Surat Perintah Kerja Pejabat
-100.000.000 sampai langsung Pengadaan
-dengan
-2.000.000.000
-3. | Lebih dari Tender Surat Perjanjian UKPBJ
-2.000.000.000 Kabupaten
-4. | Pengadaan obat, pengadaan oksigen dan bahan medis habis pakai dilakukan
-dengan metode pengadaan Langsung dengan tidak mengikuti jenjang nilai
-tersebut.
+PENGADAAN BARANG/JASA PADA BADAN LAYANAN UMUM DAERAH RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+JENJANG NILAI PENGADAAN BARANG DI RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+| NO | NILAI PENGADAAN (Rp) | METODE PEMILIHAN PENYEDIA | BENTUK DOKUMEN | PELAKU PENGADAAN |
+|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 |
+| 1. | Sampai dengan 100.000.000. | Pengadaan langsung | bukti pembelian nota struk/ faktur /invoice/ kuitansi | Pejabat Pengadaan |
+| 2. | Lebih dari 100.000.000 sampai dengan 2.000.000.000 | Pengadaan langsung | Surat Perintah Kerja | Pejabat Pengadaan |
+| 3. | Lebih dari 2.000.000.000 | Tender | Surat Perjanjian | UKPBJ Kabupaten |
+| 4. | Pengadaan obat, pengadaan oksigen dan bahan medis habis pakai dilakukan dengan metode pengadaan Langsung dengan tidak mengikuti jenjang nilai tersebut. | | | |
+
 BUPATI SINTANG,
-GREGGRIUS HERKULANUS BALA
+TTD
+GREGORIUS HERKULANUS BALA
+
 LAMPIRAN III
 PERATURAN BUPATI SINTANG
 NOMOR 33 TAHUN 2026
 TENTANG
-PENGADAAN BARANG/JASA PADA
-BADAN LAYANAN UMUM DAERAH
-RUMAH SAKIT UMUM DAERAH ADE
-MUHAMMAD DJOEN SINTANG
-JENJANG NILAI PEKERJAAN KONSTRUKSI DI RUMAH SAKIT
-UMUM DAERAH ADE MUHAMMAD
-DJOEN SINTANG
-(Rp) PEMILIHAN PENGADAAN
-PENYEDIA
-1. | Sampai dengan Pengadaan bukti pembelian / Pejabat
-50.000.000. langsung nota struk/ faktur Pengadaan
-/invoice/ kuitansi
-2. | Lebih dari 50.000.000 Pengadaan | Surat Perintah Kerja Pejabat
-sampai dengan langsung Pengadaan
-200.000.000
-3. | Lebih dari Pengadaan | Surat Perintah Kerja Pejabat
-200.000.000 sampai langsung dengan jaminan Pengadaan
-dengan 1.000.000.000 pelaksanaan
-khusus untuk
-pekerjaan
-konstruksi lebih
-dari 500.000.000
-4. | Lebih dari Tender Surat Perjanjian UKPBJ
-1.000.000.000 dengan jaminan Kabupaten
-pelaksanaan
-khusus untuk
-pekerjaan
-konstruksi lebih
-dari 500.000.000
-jug
+PENGADAAN BARANG/JASA PADA BADAN LAYANAN UMUM DAERAH RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+JENJANG NILAI PEKERJAAN KONSTRUKSI DI RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+| NO | NILAI PENGADAAN (Rp) | METODE PEMILIHAN PENYEDIA | BENTUK DOKUMEN | PELAKU PENGADAAN |
+|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 |
+| 1. | Sampai dengan 50.000.000. | Pengadaan langsung | bukti pembelian/ nota struk/ faktur /invoice/kuitansi | Pejabat Pengadaan |
+| 2. | Lebih dari 50.000.000 sampai dengan 200.000.000 | Pengadaan langsung | Surat Perintah Kerja | Pejabat Pengadaan |
+| 3. | Lebih dari 200.000.000 sampai dengan 1.000.000.000 | Pengadaan langsung | Surat Perintah Kerja dengan jaminan pelaksanaan khusus untuk pekerjaan konstruksi lebih dari 500.000.000 | Pejabat Pengadaan |
+| 4. | Lebih dari 1.000.000.000 | Tender | Surat Perjanjian dengan jaminan pelaksanaan khusus untuk pekerjaan konstruksi lebih dari 500.000.000 | UKPBJ Kabupaten |
+
+BUPATI SINTANG,
+TTD
 GREGORIUS HERKULANUS BALA
+
 LAMPIRAN IV
 PERATURAN BUPATI SINTANG
 NOMOR 33 TAHUN 2026
 TENTANG
-PENGADAAN BARANG/JASA PADA
-BADAN LAYANAN UMUM DAERAH
-RUMAH SAKIT UMUM DAERAH ADE
-MUHAMMAD DJOEN SINTANG
-JENJANG NILAI PENGADAAN JASA KONSULTANSI DI RUMAH SAKIT
-UMUM DAERAH ADE MUHAMMAD
-DJOEN SINTANG
-NO NILAI PENGADAAN METODE BENTUK PELAKU
-(Rp) PEMILIHAN DOKUMEN PENGADAAN
-PENYEDIA
-1. | Sampai dengan Pengadaan invoice/ Pejabat
-50.000.000. langsung kuitansi Pengadaan
-2. | Lebih dari 50.000.000 Pengadaan Surat Perintah Pejabat
-sampai dengan langsung Kerja Pengadaan
-500.000.000
-3. | Lebih dari Seleksi Surat Perjanjian UKPBJ
-500.000.000 Kabupaten
+PENGADAAN BARANG/JASA PADA BADAN LAYANAN UMUM DAERAH RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+JENJANG NILAI PENGADAAN JASA KONSULTANSI DI RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+| NO | NILAI PENGADAAN (Rp) | METODE PEMILIHAN PENYEDIA | BENTUK DOKUMEN | PELAKU PENGADAAN |
+|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 |
+| 1. | Sampai dengan 50.000.000. | Pengadaan langsung | invoice/ kuitansi | Pejabat Pengadaan |
+| 2. | Lebih dari 50.000.000 sampai dengan 500.000.000 | Pengadaan langsung | Surat Perintah Kerja | Pejabat Pengadaan |
+| 3. | Lebih dari 500.000.000 | Seleksi | Surat Perjanjian | UKPBJ Kabupaten |
+
+BUPATI SINTANG,
+TTD
 GREGORIUS HERKULANUS BALA
+
 LAMPIRAN V
 PERATURAN BUPATI SINTANG
 NOMOR 33 TAHUN 2026
 TENTANG
-PENGADAAN BARANG/ JASA PADA
-BADAN LAYANAN UMUM DAERAH
-RUMAH SAKIT UMUM DAERAH ADE
-MUHAMMAD DJOEN SINTANG
-JENJANG NILAI PENGADAAN JASA LAINNYA DI RUMAH SAKIT
-UMUM DAERAH ADE MUHAMMAD
-DJOEN SINTANG
-NO NILAI PENGADAAN METODE BENTUK DOKUMEN PELAKU
-(Rp) PEMILIHAN PENGADAAN
-PENYEDIA
-1. | Sampai dengan Pengadaan bukti pembelian / Pejabat
-100.000.000. langsung nota struk/ faktur Pengadaan
-/invoice/ kuitansi
-2. | Lebih dari Pengadaan | Surat Perintah Kerja Pejabat
-100.000.000 langsung Pengadaan
-sampai dengan
-200.000.000
-3. | Lebih dari Pengadaan | Surat Perintah Kerja Pejabat
-200.000.000 langsung Pengadaan
-sampai dengan
-2.000.000.000
-4. | Lebih dari Tender Surat Perjanjian UKPBJ
-2.000.000.000 Kabupaten
-5. | Pengadaan Jasa lainnya untuk kegiatan Makan Minum Pasien, Cleaning
-Service, Pengelolaan Limbah Medis dilakukan dengan metode pengadaan
-Langsung dengan tidak mengikuti jenjang nilai tersebut.
-BUPATI T
-GREGORWS HERKULANUS BALA
+PENGADAAN BARANG/JASA PADA BADAN LAYANAN UMUM DAERAH RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+JENJANG NILAI PENGADAAN JASA LAINNYA DI RUMAH SAKIT UMUM DAERAH ADE MUHAMMAD DJOEN SINTANG
+
+| NO | NILAI PENGADAAN (Rp) | METODE PEMILIHAN PENYEDIA | BENTUK DOKUMEN | PELAKU PENGADAAN |
+|---|---|---|---|---|
+| 1 | 2 | 3 | 4 | 5 |
+| 1. | Sampai dengan 100.000.000. | Pengadaan langsung | bukti pembelian/ nota struk/ faktur /invoice/ kuitansi | Pejabat Pengadaan |
+| 2. | Lebih dari 100.000.000 sampai dengan 200.000.000 | Pengadaan langsung | Surat Perintah Kerja | Pejabat Pengadaan |
+| 3. | Lebih dari 200.000.000 sampai dengan 2.000.000.000 | Pengadaan langsung | Surat Perintah Kerja | Pejabat Pengadaan |
+| 4. | Lebih dari 2.000.000.000 | Tender | Surat Perjanjian | UKPBJ Kabupaten |
+| 5. | Pengadaan Jasa lainnya untuk kegiatan Makan Minum Pasien, Cleaning Service, Pengelolaan Limbah Medis dilakukan dengan metode pengadaan Langsung dengan tidak mengikuti jenjang nilai tersebut. | | | |
+
+BUPATI SINTANG,
+TTD
+GREGORIUS HERKULANUS BALA

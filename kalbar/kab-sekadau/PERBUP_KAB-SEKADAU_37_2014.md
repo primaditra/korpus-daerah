@@ -10,46 +10,42 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-Ta
-Ni
-BUPATISEKADAU
+BUPATI SEKADAU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI SEKADAU
-NOMOR 3#TAHUN 2014
+NOMOR 37 TAHUN 2014
 TENTANG
 SISTEM AKUNTANSI PEMERINTAH KABUPATEN SEKADAU
 DENGAN RAHMAT TUHAN YANG MAHA ESA
-. BUPATI SEKADAU,
+BUPATI SEKADAU,
 Menimbang: a. bahwa untuk melaksanakan ketentuan Pasal 147 Peraturan
 Daerah Kabupaten Sekadau Nomor 2 Tahun 2010 tentang
 Pokok-Pokok Pengelolaan Keuangan Daerah, dimana pada
 ayat (2) dinyatakan bahwa Sistem Akuntansi Pemerintah
 Daerah ditetapkan dengan Peraturan Bupati mengacu pada
 Peraturan Daerah tentang Pokok-Pokok Pengelolaan
-Keuangan Daerah,
+Keuangan Daerah;
 b. bahwa untuk melaksanakan sebagaimana dimaksud dalam
 huruf a, perlu menetapkan Peraturan Bupati Sekadau
 tentang Sistem Akuntansi Pemerintah Daerah,
 Mengingat: 1. Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan
-: Negara (Lembaran Negara Republik Indonesia Tahun 2003
+Negara (Lembaran Negara Republik Indonesia Tahun 2003
 Nomor 47, Tambahan Lembaran Negara Republik Indonesia
-Nomor 4286),
+Nomor 4286);
 2. Undang-Undang Nomor 34 Tahun 2003 tentang
 Pembentukan Kabupaten Melawi dan Kabupaten Sekadau di
-& ” Provinsi Kalimantan Barat (Lembaran Negara Republik
+Provinsi Kalimantan Barat (Lembaran Negara Republik
 Indonesia Tahun 2003 Nomor 149, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4344),
+Negara Republik Indonesia Nomor 4344);
 3. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4355),
+Negara Republik Indonesia Nomor 4355);
 4. Undang-Undang Nomor 15 Tahun 2004 tentang
 Pemeriksaan, Pengelolaan Dan Tanggungjawab Keuangan
 Negara (Lembaran Negara Republik Indonesia Tahun 2004
 Nomor 66, Tambahan Lembaran Negara Republik Indonesia
-Nomor 4400),
-Sistom Akuntansi Pomorintah Kahunnten Sekndnti 1
-NN
+Nomor 4400);
 5. Undang-Undang Nomor 32 Tahun 2004 tentang
 Pemerintahan Daerah (Lembaran Negara Republik Indonesia
 Tahun 2004 : Nomor 125, Tambahan Lembaran Negara
@@ -57,16 +53,16 @@ Republik Indonesia Nomor 4437), sebagaimana telah diubah
 beberapa kali terakhir dengan Undang-Undang Nomor 12
 : Tahun 2008 (Lembaran Negara Republik Indonesia Tahun
 2008 Nomor 59, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4844),
+Indonesia Nomor 4844);
 6. Undang-Undang Nomor 33 Tahun 2004 tentang
 Perimbangan Keuangan Antara Pemerintah Pusat Dan
 Pemerintah Daerah (Lembaran Negara Republik Indonesia
 Tahun 2004 Nomor 126, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4438),
+Republik Indonesia Nomor 4438);
 7. Undang-Undang Nomor 28 Tahun 2009 tentang Pajak
 Daerah Dan Retribusi Daerah (Lembaran Negara Republik
 Indonesia Tahun 2009 Nomor 130, Tambahan Lembaran
-Negara Republik Indonesia Nomor 5049),
+Negara Republik Indonesia Nomor 5049);
 8. Undang-Undang Nomor 12 Tahun 2011 tentang
 Pembentukan Peraturan Perundang-Undangan (Lembaran
 Negara Republik Indonesia Tahun 2011 Nomor 82,
@@ -76,7 +72,7 @@ Tambahan Lembaran Negara Republik Indonesia Nomor
 Kedudukan Keuangan Kepala Daerah dan Wakil Kepala
 Daerah (Lembaran Negara Republik Indonesia Tahun 2000
 Nomor 210, Tambahan Lembaran Negara Republik Indonesia
-Nomor 4028),
+Nomor 4028);
 10. Peraturan Pemerintah Nomor 24 Tahun 2004 tentang
 Kedudukan Protokoler Dan Keuangan Pimpinan Dan Anggota
 Dewan Perwakilan Daerah (Lembaran Negara Republik
@@ -85,62 +81,61 @@ Negara Republik Indonesia Nomor 4540), sebagaimana telah
 diubah beberapa kali terakhir dengan Peraturan Pemerintah
 Nomor 21 Tahun 2007 (Lembaran Negara Republik Indonesia
 Tahun 2007 Nomor 46, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4406),
+Republik Indonesia Nomor 4406);
 11. Peraturan Pemerintah Nomor 54 Tahun 2005 tentang
 Pinjaman Daerah (Lembaran Negara Republik Indonesia
 Tahun 2005 Nomor 136, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4574),
+Republik Indonesia Nomor 4574);
 12. Peraturan Pemerintah Nomor 55 Tahun 2005 tentang Dana
 Perimbangan (Lembaran Negara Republik Indonesia Tahun
 2005 Nomor 137, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4575),
+Indonesia Nomor 4575);
 13. Peraturan Pemerintah Nomor 56 Tahun 2005 tentang Sistem
 Informasi Keuangan Daerah sebagaimana telah diubah
 dengan Peraturan Pemerintah Nomor 65 Tahun 2010 tentang
 Perubahan atas Peraturan Pemerintah Nomor 56 Tahun
 2005 (Lembaran Negara Republik Indonesia Tahun 2010
 Nomor 110, Tambahan Lembaran Negara Republik Indonesia
-Nomor 5155),
+Nomor 5155);
 14. Peraturan Pemerintah Nomor 58 Tahun 2005 tentang
 Pengelolaan Keuangan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2005 Nomor 140, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4578),
+Negara Republik Indonesia Nomor 4578);
 15. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang
 Pedoman Pembinaan Dan Pengawasan Penyelenggaraan
 Pemerintahan Daerah (Lembaran Negara Republik Indonesia
 Tahun 2005 Nomor 54, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4593),
+Republik Indonesia Nomor 4593);
 16. Peraturan Pemerintah Nomor 8 Tahun 2006 tentang
 Pelaporan Keuangan Dan Kinerja Instansi Pemerintah ,
 (Lembaran Negara Republik Indonesia Tahun 2006 Nomor
 25, Tambahan Lembaran Negara Republik Indonesia Nomor
-4614),
+4614);
 17. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang
 Pembagian Urusan Pemerintahan Antara Pemerintah,
 Pemerintahan Daerah Provinsi, Dan Pemerintahan Daerah
 Kabupaten/Kota (Lembaran Negara Republik Indonesia
 Tahun 2007 Nomor 82, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4737),
+Republik Indonesia Nomor 4737);
 18. Peraturan Pemerintah Nomor 71 Tahun 2010 tentang
 Standar Akuntansi Pemerintahan (Lembaran Negara
 Republik Indonesia Tahun 2010 Nomor 123, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5165),
+Lembaran Negara Republik Indonesia Nomor 5165);
 19. Peraturan Pemerintah Nomor 2 Tahun 2012 tentang Hibah
 Daerah (Lembaran Negara Republik Indonesia Tahun 2012
 Nomor 5, Tambahan Lembaran Negara Republik Indonesia
-Nomor 5272),
+Nomor 5272);
 20. Peraturan Pemerintah Nomor 27 Tahun 2014 tentang
 Pengelolaan Barang Milik Negara/Daerah (Lembaran Negara
 Republik Indonesia Tahun 2014 Nomor 92, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5533),
+Lembaran Negara Republik Indonesia Nomor 5533);
 21. Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006
 tentang Pedoman Pengelolaan Keuangan Daerah,
 sebagaimana telah diubah beberapa kali terakhir dengan
 Peraturan Menteri Dalam Negeri Nomor 21 Tahun 2011
 tentang Perubahan Kedua atas Peraturan Menteri Dalam
 Negeri Nomor 13 Tahun 2006 tentang Pedoman- Pengelolaan
-Keuangan Daerah ,
-LN HN
+Keuangan Daerah ;
 22. Peraturan Menteri Dalam Negeri Nomor 64 Tahun 2013
 — tentang Penerapan Standar Akuntansi Pemerintahan
 Berbasis Akrual pada Pemerintah Daerah,
@@ -158,7 +153,6 @@ PEMERINTAH KABUPATEN SEKADAU
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 1. Pemerintah adalah pemerintah pusat.
@@ -173,8 +167,6 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 6. Kebijakan Akuntansi Pemerintah Daerah adalah prinsipprinsip, dasar- dasar, konvensi-konvensi, aturan-aturan dan praktik-praktik spesifik yang dipilih oleh pemerintah daerah sebagai pedoman dalam menyusun dan menyajikan laporan keuangan pemerintah daerah untuk memenuhi kebutuhan pengguna laporan keuangan dalam rangka meningkatkan keterbandingan laporan keuangan terhadap anggaran, antar periode maupun antar entitas.
 
-pt :
-
 7. Sistem Akuntansi Pemerintah Daerah yang selanjutnya disingkat SAPD adalah rangkaian sistematik dari prosedur, penyelenggara, peralatan dan elemen lain untuk mewujudkan fungsi akuntansi sejak analisis transaksi sampai dengan pelaporan keuangan di lingkungan organisasi pemerintahan daerah.
 
 8. Anggaran Pendapatan dan Belanja Daerah yang selanjutnya disingkat APBD adalah rencana keuangan tahunan pemerintahan daerah yang dibahas dan disetujui bersama oleh pemerintah daerah dan DPRD, dan ditetapkan dengan peraturan daerah.
@@ -183,7 +175,9 @@ pt :
 
 10. Basis Kas adalah basis akuntansi yang mengakui pengaruh transaksi dan peristiwa lainnya pada saat kas atau setara kas diterima atau dibayar.
 
-11. Basis Kas Menuju Akrual adalah basis akuntansi yang mengakui pendapatan, belanja dan pembiayaan berbasis kas serta mengakui aset, utang dan ekuitas dana berbasis kata akrual. | 12. Pengakuan adalah proses penetapan terpenuhinya kriteria pencatatan suatu kejadian atau peristiwa dalam catatan akuntansi sehingga akan menjadi bagian yang melengkapi unsur aset, kewajiban, ekuitas, pendapatan-LRA, belanja, . pembiayaan, pendapatan-LO dan beban, sebagaimana akan termuat pada laporan keuangan entitas pelaporan yang bersangkutan.
+11. Basis Kas Menuju Akrual adalah basis akuntansi yang mengakui pendapatan, belanja dan pembiayaan berbasis kas serta mengakui aset, utang dan ekuitas dana berbasis akrual.
+
+12. Pengakuan adalah proses penetapan terpenuhinya kriteria pencatatan suatu kejadian atau peristiwa dalam catatan akuntansi sehingga akan menjadi bagian yang melengkapi unsur aset, kewajiban, ekuitas, pendapatan-LRA, belanja, pembiayaan, pendapatan-LO dan beban, sebagaimana akan termuat pada laporan keuangan entitas pelaporan yang bersangkutan.
 
 13. Pengukuran adalah proses penetapan nilai uang untuk mengakui dan memasukkan setiap pos dalam laporan keuangan.
 
@@ -195,7 +189,7 @@ pt :
 
 17. Neraca adalah laporan yang menyajikan informasi posisi keuangan suatu entitas pelaporan mengenai aset, utang dan ekuitas dana pada tanggal tertentu.
 
-18. Laporan Operasional yang selanjutnya disingkat LO adalah laporan yang menyajkan informasi mengenai seluruh kegiatan operasional keuangan entitas pelaporan yang tercermin dalam pendapatan-LO, beban dan surplus/defisit operasional dari suatu entitas pelaporan yang penyajiannya disandingkan dengan periode sebelumnya.
+18. Laporan Operasional yang selanjutnya disingkat LO adalah laporan yang menyajikan informasi mengenai seluruh kegiatan operasional keuangan entitas pelaporan yang tercermin dalam pendapatan-LO, beban dan surplus/defisit operasional dari suatu entitas pelaporan yang penyajiannya disandingkan dengan periode sebelumnya.
 
 19. Laporan Arus Kas yang selanjutnya disingkat LAK adalah laporan yang menyajikan informasi mengenai sumber, penggunaan, perubahan kas dan setara kas selama satu perjode akuntansi, serta saldo kas dan setara kas pada tanggal pelaporan.
 
@@ -217,8 +211,6 @@ pt :
 
 28. Belanja adalah semua pengeluaran dari Rekening Kas Umum Daerah yang mengurangi Saldo Anggaran Lebih dalam periode tahun anggaran bersangkutan yang tidak akan diperoleh pembayarannya kembali oleh pemerintah daerah.
 
-PN
-
 29. Beban adalah penurunan manfaat ekonomi atau potensi jasa dalam periode pelaporan yang menurunkan ekuitas, yang dapat berupa pengeluaran atau konsumsi aset atau timbulnya kewajiban.
 
 30. Pembiayaan Daerah adalah semua penerimaan yang perlu dibayar kembali dan/atau pengeluaran yang akan diterima kembali, baik pada tahun anggaran yang bersangkutan maupun pada tahun-tahun anggaran berikutnya.
@@ -238,7 +230,6 @@ PN
 ## BAB II - SISTEM AKUNTANSI PEMERINTAH DAERAH
 
 ### Pasal 2
-
 (1) Pemerintah Daerah menerapkan Sistem Akuntansi Pemerintah Daerah berbasis akrual.
 
 (2) Sistem Akuntansi Pemerintah Daerah sebagaimana dimaksud pada ayat (1) terdiri dari:
@@ -263,7 +254,9 @@ i. Sistem Akuntansi Aset Tetap
 
 j. Sistem Akuntansi Penyusutan Aset tetap dan Amortisasi Tidak Berwujud
 
-k. Sistem Akuntansi Dana Cadangan l Sistem Akuntansi Aset Lainnya
+k. Sistem Akuntansi Dana Cadangan
+
+l. Sistem Akuntansi Aset Lainnya
 
 m. Sistem Akuntansi Kewajiban
 
@@ -276,7 +269,6 @@ p. Bagan Akun Standar
 (3) Format Sistem Akuntansi Pemerintah Daerah Berbasis Akrual sebagaimana dimaksud pada ayat (2) sebagaimana tercantum dalam Lampiran yang tidak terpisahkan dari Peraturan ini.
 
 ### Pasal 3
-
 TN Sistem Akuntansi Pemerintah Daerah sebagaimana dimaksud pada pasal 2 memuat penjelasan tentang
 
 a. Identifikasi prosedur pengembangan Sistem Akuntansi Pemerintah Daerah.
@@ -287,18 +279,16 @@ c. Dokumen-dokumen yang terkait dalam Sistem Akuntansi Pemerintah Daerah.
 
 d. Jurnal standar dalam Sistem Akuntansi Pemerintah Daerah.
 
-e. Hustrasi langkah teknis Sistem Akuntansi Pemerintah Daerah. £ Bagan Akun Standar.
+e. Ilustrasi langkah teknis Sistem Akuntansi Pemerintah Daerah.
+
+f. Bagan Akun Standar.
 
 ## BAB III - KETENTUAN PENUTUP
 
 ### Pasal 4
-
 Pada saat Peraturan Bupati ini berlaku, Peraturan Bupati Sekadau Nomor 09 Tahun 2009 tentang Sistem dan Prosedur Penatausahaan dan Akuntansi, Pelaporan dan Pertanggungjawaban Keuangan Daerah (Berita Daerah Kabupaten Sekadau Tahun 2009 Nomor 86) dan peraturan perundang-undangan lainnya sepanjang tidak bertentangan dengan Peraturan Bupati ini dinyatakan tetap berlaku.
 
-. SI "
-
 ### Pasal 5
-
 Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
@@ -307,19 +297,19 @@ Agar setiap orang mengetahuinya, memerintahkan
 pengundangan Peraturan Bupati ini, dengan penempatannya
 dalam Berita Daerah Kabupaten Sekadau.
 Ditetapkan di Sekadau
-pada tanggal 8 Wovembar” 2014
+pada tanggal 18 November 2014
 BUPATI SEKADAU,
 TTD
 SIMON PETRUS
 Diundangkan di Sekadau
-pada tanggal 18 Alov ember 2014
+pada tanggal 18 November 2014
 SEKRETARIS DAERAH KABUPATEN SEKADAU,
+TTD
 DRS. YOHANES JHON, MM
-BERITA DAERAH KABUPATEN SEKADAU TAHUN 2014 NOMOR 20
+BERITA DAERAH KABUPATEN SEKADAU TAHUN 2014 NOMOR 30
 Untuk Salinan yang sah sesuai dengan aslinya
 Kabag. Hukum dan HAM
-Sekretariat Daey ah Kabupaten Sekadau,
-Y. Anta ——
+Sekretariat Daerah Kabupaten Sekadau,
 SUBHAN, S. Sos, M.Si
 Pembina
 Nip. 19750426 199412 1 001

@@ -8,7 +8,7 @@ sumber_teks: ocr
 ---
 # Peraturan Bupati Sintang Nomor 44 Tahun 2017 tentang Pedoman Penggunaan Hasil Jasa Pelayanan dengan Sistem Remunerasi pada Rumah Sakit Umum Daerah Ade Muhammad Djoen Sintang
 
-> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen; hlm. 13 dan 16 buram, cocokkan mandiri dengan PDF sebelum mengutip.
 
 ## Pembukaan
 
@@ -126,7 +126,6 @@ DJOEN SINTANG.
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 1. Daerah adalah Kabupaten Sintang.
@@ -159,7 +158,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 15. Calon Pegawai Negeri Sipil yang selanjutnya disingkat CPNS adalah Warga Negara Indonesia yang diangkat untuk dipersiapkan menjadi Pegawai Negeri Sipil. setelah memenuhi syarat tertentu sesuai ketentuan Peraturan Perundang-Undangan.
 
-16. Honorer daerah adalah warga Negara Indonesia yang memenuhi syarat tertentu, yang diangkat berdasarkan Keputusan Kepala Daerah untuk e jangka waktu tertentu dalam rangka melaksanakan tugas pemerintahan daerah dan dibiayai melalui Anggaran Pendapatan Dan Belanja Daerah. :
+16. Honorer daerah adalah warga Negara Indonesia yang memenuhi syarat tertentu, yang diangkat berdasarkan Keputusan Kepala Daerah untuk e jangka waktu tertentu dalam rangka melaksanakan tugas pemerintahan daerah dan dibiayai melalui Anggaran Pendapatan Dan Belanja Daerah.
 
 17. Pegawai Non Pegawai Negeri Sipil (PNS) yang selanjutnya disingkat pegawai Non PNS adalah pegawai yang diangkat menjadi pegawai di Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Ade Muhammad Djoen Sintang yang dibiayai melalui Dana hasil Jasa Layanan Badan Layanan Umum Daerah Rumah Sakit Umum Daerah.
 
@@ -230,19 +229,17 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 **Bagian Kesatu** **Azas**
 
 ### Pasal 2
-
 Asas sistem remunerasi yaitu :
 
-a. proporsionalitas yang diukur dengan besarnya beban aset yang dikelola dan besaran pendapatan rumah sakit:
+a. proporsionalitas yang diukur dengan besarnya beban aset yang dikelola dan besaran pendapatan rumah sakit;
 
-b. kesetaraan yang memperhatikan industri pelayanan sejenis:
+b. kesetaraan yang memperhatikan industri pelayanan sejenis;
 
 c. kepatutan yang melihat kemampuan rumah sakit dalam memberikan upah kepada pegawai.
 
 **Bagian Kedua** **Hak Dan Kewajiban**
 
 ### Pasal 3
-
 (1) Rumah Sakit berkewajiban menyediakan alokasi biaya untuk remunerasi pegawai rumah sakit yang dianggarkan melalui anggaran rumah sakit / Rencana Bisnis Anggaran (RBA).
 
 (2) Setiap pegawai organik rumah sakit berhak mendapat remunerasi.
@@ -251,49 +248,49 @@ c. kepatutan yang melihat kemampuan rumah sakit dalam memberikan upah kepada peg
 
 (4) Penggolongan kelompok pusat pendapatan (revenue center), sebagaimana dimaksud pada ayat (3) adalah :
 
-a. Instalasi Gawat Darurat:
+a. Instalasi Gawat Darurat;
 
-b. Instalasi Rawat Jalan:
+b. Instalasi Rawat Jalan;
 
 c. Instalasi Rawat Inap,
 
-d. Instalasi high care unit:
+d. Instalasi high care unit;
 
 e. Neonate Intensive Care Unit (NICU), Paediaktric Intensive Care Unit” (PICU), Intensive Care Unit (ICU), Intensive Coronary Care Unit (ICCU),
 
-f. Instalasi Bedah Sentral:
+f. Instalasi Bedah Sentral;
 
 g. Instalasi Farmasi,
 
-h. Instalasi Radiologi:
+h. Instalasi Radiologi;
 
-i. Instalasi Laboratorium Patologi Klinik dan Unit Tranfusi Darah:
+i. Instalasi Laboratorium Patologi Klinik dan Unit Tranfusi Darah;
 
-j. Instalasi Patologi Anatomi:
+j. Instalasi Patologi Anatomi;
 
-k. Instalasi Rehabilitasi Medik:
+k. Instalasi Rehabilitasi Medik;
 
-l. Instalasi Haemodialisa:
+l. Instalasi Haemodialisa;
 
-m. Ambulan: aa
+m. Ambulan:
 
-n. Medical Check Up:
+n. Medical Check Up;
 
-o. Instalasi Diagnostik:
+o. Instalasi Diagnostik;
 
 p. One Day Care/ One Day Surgery: . g- Klinik Unggulan/terbaik (executive):
 
-r. ' Pelayanan Unggulan/terbaik (executive):
+r. ' Pelayanan Unggulan/terbaik (executive);
 
-s. Pengolahan Limbah:
+s. Pengolahan Limbah;
 
-t. ' Pemulasaraan Jenazah:
+t. ' Pemulasaraan Jenazah;
 
-u. Instalasi Diklat:
+u. Instalasi Diklat;
 
-v. Poliklinik Gizi:
+v. Poliklinik Gizi;
 
-w. Unit Parkir:
+w. Unit Parkir;
 
 x. Instalasi Loundry,
 
@@ -301,24 +298,23 @@ y. Usaha-usaha lain.
 
 (5) Setiap pegawai yang memangku jabatan struktural atau pada cost center atau pada pusat biaya berkewajiban menyusun sistem akuntabiltas yang dilengkapi dengan indikator dan target/standar.
 
-(6) Pegawai yang memangku jabatan struktural sebagaimana dimaksud pada ayat (5) terdiri dari : Po.
+(6) Pegawai yang memangku jabatan struktural sebagaimana dimaksud pada ayat (5) terdiri dari :
 
 a. Direktur,
 
-b. Kepala Bagian Kesekretariatan:
+b. Kepala Bagian Kesekretariatan;
 
-c. Kepala Bidang Pelayanan:
+c. Kepala Bidang Pelayanan;
 
-d. Kepala Bidang Keuangan dan Akutansi:
+d. Kepala Bidang Keuangan dan Akutansi;
 
-e. Kepala Bidang Perencanaan dan Program:
+e. Kepala Bidang Perencanaan dan Program;
 
 f. Kepala Seksi dan Kepala Sub bagian. h BAB III SUMBER PEMBIAYAAN, KELOMPOK PENERIMA REMUNERASI, GAJI, TUNJANGAN DAN HONOR
 
 **Bagian Kesatu** **1 Sumber Pembiayaan**
 
 ### Pasal 4
-
 (1) Gaji pegawai Rumah Sakit PPK-BLUD bersumber dari Pemerintah dan
 
 (2) Sumber biaya dari pemerintah sebagaimana dimaksud pada ayat (1), diperuntukan bagi pegawai BLUD yang berstatus PNS/CPNS dan honor daerah /pegawai BLUD non PNS/CPNS.
@@ -336,7 +332,6 @@ f. Kepala Seksi dan Kepala Sub bagian. h BAB III SUMBER PEMBIAYAAN, KELOMPOK PEN
 **Bagian Kedua** **Kelompok Penerima Remunerasi**
 
 ### Pasal 5
-
 Kelompok Penerima Remunerasi terdiri dari :
 
 a. Kelompok Tenaga medis yang terdiri dari dokter spesialis, dokter umum, dokter gigi dan dokter gigi spesialis, psykologi dan apoteker secara individu.
@@ -349,7 +344,7 @@ b. Kelompok Keperawatan yang terdiri dari :
 
 c. Kelompok administrasi adalah seluruh pegawai yang tidak memegang jabatan.
 
-d. Kelompok Manajemen terdiri dari : 1.) Kepala Bidang/Kepala Bagian: 2.) Kepala Seksi/ Kepala Sub Bagian:
+d. Kelompok Manajemen terdiri dari : 1.) Kepala Bidang/Kepala Bagian: 2.) Kepala Seksi/ Kepala Sub Bagian;
 
 e. Kelompok kepala-kepala instalasi.
 
@@ -358,7 +353,6 @@ f. Tim Pengendali Jaminan Kesehatan Nasional dan Tim Remunerasi. g Direksi adala
 **Bagian Ketiga** **Gaji :**
 
 ### Pasal 6
-
 (1) Seluruh pegawai rumah sakit berhak menerima gaji sesuai dengan sistem remunerasi rumah sakit berdasarkan Peraturan Perundang-undangan yang berlaku.
 
 (2) Besaran gaji sebagaimana dimaksud pada ayat (1) diberikan dengan taat asas kepatutan dan kemampuan keuangan rumah sakit berdasarkan Peraturan Perundang-undangan yang berlaku.
@@ -368,7 +362,6 @@ f. Tim Pengendali Jaminan Kesehatan Nasional dan Tim Remunerasi. g Direksi adala
 **Bagian Kesatu** **Penggajian**
 
 ### Pasal 7
-
 1) Pejabat Pengelola BLUD, Ketua Dewan Pengawas, Anggota dan Sekretaris Dewan Pengawas, dan pegawai BLUD dapat diberikan remunerasi sesuai dengan tingkat tanggung jawab dan tuntutan profesionalisme yang diperlukan.
 
 (2) Pegawai BLUD dengan status PNS/CPNS mendapat gaji sesuai dengan peraturan penggajian PNS/CPNS.
@@ -378,17 +371,15 @@ f. Tim Pengendali Jaminan Kesehatan Nasional dan Tim Remunerasi. g Direksi adala
 (4) Remunerasi bagi Ketua, Anggota dan Sekretaris Dewan Pengawas sebagaimana dimaksud pada ayat (1), diberikan dalam bentuk honorarium. (S5) Remunerasi sebagaimana dimaksud pada ayat (1), untuk BLUD ditetapkan . oleh Bupati berdasarkan usulan yang disampaikan oleh pemimpin BLUD melalui Sekretaris Daerah.
 
 ### Pasal 8
-
 Honorarium dewan pengawas sebagaimana dimaksud dalam Pasal 7 ayat (4) ditetapkan sebagai berikut:
 
-a. honorarium ketua dewan pengawas paling banyak sebesar 40x, (empat puluh persen) dari gaji direktur: &. honorarium anggota dewan pengawas paling banyak sebesar 3694 (tiga puluh enam persen) dari gaji direktur: dan
+a. honorarium ketua dewan pengawas paling banyak sebesar 40% (empat puluh persen) dari gaji direktur: &. honorarium anggota dewan pengawas paling banyak sebesar 36% (tiga puluh enam persen) dari gaji direktur: dan
 
 c. honorarium sekretaris dewan pengawas paling banyak 1546 (ima belas persen) dari gaji direktur.
 
 **Bagian Kedua** **Tunjangan**
 
 ### Pasal 9
-
 (1) Pegawai rumah sakit yang memegang jabatan struktural dan fungsional mendapat tunjangan sesuai dengan tunjangan yang ditetapkan Pemerintah dan sesuai Peraturan Perundang-undangan yang berlaku.
 
 (2) Tunjangan bagi pejabat struktural! dan fungsional sebagaimana dimaksud pada ayat (1) diberikan sesuai kemampuan keuangan daerah dengan ketentuan dan ketetapan yang diberikan pemerintah daerah.
@@ -398,7 +389,6 @@ c. honorarium sekretaris dewan pengawas paling banyak 1546 (ima belas persen) da
 **Bagian Kesatu** **Komponen Jasa Pelayanan Dalam Tarif**
 
 ### Pasal 10
-
 (1) Komponen jasa sebagaimana tercantum dalam tarif rumah sakit yaitu Jasa sarana prasarana dan jasa pelayanan.
 
 (2) Jasa sarana prasarana sebagaimana dimaksud pada ayat (1) terdiri dari pengganti biaya fasilitas, biaya operasional dan biaya tetap rumah sakit dihitung berdasarkan harga satuan (Unit cost).
@@ -412,7 +402,6 @@ c. honorarium sekretaris dewan pengawas paling banyak 1546 (ima belas persen) da
 **Bagian Kedua** **Proporsi besaran jasa dalam tarif**
 
 ### Pasal 11
-
 (1) oa Jasa Peranan dalam komponen tarif dilaksanakan berdasarkan Sesuai dengan jenis profesi atau j : pelayanan yaitu : jasa Sarana prasarana dan jasa
 
 a. Instalasi Rawat Jalan : Ma Proporsi jasa Pelayanan medis, pera t ani £ Rawat Jalan adai ah : perawat dan tenaga administrasi di
@@ -421,126 +410,121 @@ a. Instalasi Rawat Jalan : Ma Proporsi jasa Pelayanan medis, pera t ani £ Rawat
 
 3. Proporsi jasa pelayanan administrasi sebesar 10 Xx "Ja o (sepuluh persen): 4, Proporsi tindakan medis pada Rawat Jalan, jasa medis sebesar 70 Y, wa puluh persen), jasa Keperawatan/setara sebesar 20 Yo (dua ami “5— Jasa pelayanan administrasi sebesar 10 Y9 (sepuluh
 
-5. Proporsi Tindakan yang dilakukan olch perawat, sebesar 70 96 (tujuh puluh persen) jasa keperawatan, sebesar 20 Y, (dua puluh persen) Jasa Medis dan sebesar 10 Yo (sepuluh perrsen) jasa administrasi. 1 b. Instalasi Rawat Inap:
+5. Proporsi Tindakan yang dilakukan olch perawat, sebesar 70% (tujuh puluh persen) jasa keperawatan, sebesar 20% (dua puluh persen) Jasa Medis dan sebesar 10 Yo (sepuluh perrsen) jasa administrasi. 1 b. Instalasi Rawat Inap:
 
-1. Proporsi jasa medis pada visite di ruang perawatan adalah sebesar 70 Yo (tujuh puluh persen) dari total jasa pelayanan yang tercantum dalam tarif, sebesar 20 Y, (dua puluh persen) adalah jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+1. Proporsi jasa medis pada visite di ruang perawatan adalah sebesar 70% (tujuh puluh persen) dari total jasa pelayanan yang tercantum dalam tarif, sebesar 20% (dua puluh persen) adalah jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-2. Bila dokter spesialis berhalangan, pasien di visite oleh dokter umum, dengan tarif dokter umum, proporsi sebesar 70 Y9 (tujuh puluh persen) dokter umum dan sebesar 20 Y5 (dua puluh persen) jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+2. Bila dokter spesialis berhalangan, pasien di visite oleh dokter umum, dengan tarif dokter umum, proporsi sebesar 70% (tujuh puluh persen) dokter umum dan sebesar 20% (dua puluh persen) jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-3. Proporsi tindakan medis, jasa medis sebesar 70 X (tujuh puluh persen), jasa keperawatan/setara sebesar 20 Yg (dua puluh persen) dan sebesar 10 Yo (sepuluh persen) jasa pelayanan administrasi:
+3. Proporsi tindakan medis, jasa medis sebesar 70% (tujuh puluh persen), jasa keperawatan/setara sebesar 20% (dua puluh persen) dan sebesar 10% (sepuluh persen) jasa pelayanan administrasi;
 
-4. Tindakan yang dilakukan oleh perawat, sebesar 70 Ys (tujuh puluh persen) jasa keperawatan/setara, sebesar 20 Y5 (dua puluh persen) Jasa Medis dan sebesar 10 Y (sepuluh persen) jasa pelayanan: administrasi.
+4. Tindakan yang dilakukan oleh perawat, sebesar 70% (tujuh puluh persen) jasa keperawatan/setara, sebesar 20% (dua puluh persen) Jasa Medis dan sebesar 10% (sepuluh persen) jasa pelayanan: administrasi.
 
 c. Instalasi Gawat Darurat
 
-1. Proporsi jasa dokter untuk pemeriksaan atau tindakan adalah sebesar 70 Yo (tujuh puluh persen) dari jasa pelayanan yang tercantum dalam tarif, sebesar 20 Yo (dua puluh persen) adalah jasa pelayanan keperawatan/setara dan sebesar 10 Yo (sepuluh persen) jasa pelayanan administrasi: -. i
+1. Proporsi jasa dokter untuk pemeriksaan atau tindakan adalah sebesar 70% (tujuh puluh persen) dari jasa pelayanan yang tercantum dalam tarif, sebesar 20% (dua puluh persen) adalah jasa pelayanan keperawatan/setara dan sebesar 10% (sepuluh persen) jasa pelayanan administrasi:
 
-2. Tindakan yang dilakukan oleh perawat, maka proporsi jasa tindakan tersebut sebesar 70 Yo (tujuh puluh persen) jasa keperawatan /setara sebesar 20 Yo (dua puluh persen) Jasa Medik dan sebesar 10 Y (sepuluh persen) jasa pelayanan administrasi.
+2. Tindakan yang dilakukan oleh perawat, maka proporsi jasa tindakan tersebut sebesar 70% (tujuh puluh persen) jasa keperawatan /setara sebesar 20% (dua puluh persen) Jasa Medik dan sebesar 10% (sepuluh persen) jasa pelayanan administrasi.
 
 d. Instalasi Penunjang :
 
 1. Instalasi Radiologi :
 
-a) Proporsi Kn...“ 45 Yo (empat puluh lima persen) dari jasa pelayanan, proporsi radiografer sebesar 45 Y, (empat puluh lima persen) dan pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+a) Proporsi Kn...“ 45% (empat puluh lima persen) dari jasa pelayanan, proporsi radiografer sebesar 45% (empat puluh lima persen) dan pelayanan administrasi sebesar 10% (sepuluh persen):
 
-b) Khusus pelayanan Ultrasonografy (USG) / elektromedik jasa medis sebesar 70 6 (tujuh puluh persen), jasa perawat/setara sebesar 20 Yo (dua puluh persen) dan jasa administrasi sebesar 10 Y5 (sepuluh persen).
+b) Khusus pelayanan Ultrasonografy (USG) / elektromedik jasa medis sebesar 70% (tujuh puluh persen), jasa perawat/setara sebesar 20% (dua puluh persen) dan jasa administrasi sebesar 10% (sepuluh persen).
 
-2. Instalasi Laboratorium Patologi Klinik dan Unit Tranfusi Darah : Proporsi jasa medis sebesar 45 Yo (empat puluh lima persen) dari jasa pelayanan, proporsi analis sebesar 45 Y, (empat puluh lima persen) dan Jasa pelayanan administrasi sebesar 10 “Yo (sepuluh persen).
+2. Instalasi Laboratorium Patologi Klinik dan Unit Tranfusi Darah : Proporsi jasa medis sebesar 45% (empat puluh lima persen) dari jasa pelayanan, proporsi analis sebesar 45% (empat puluh lima persen) dan Jasa pelayanan administrasi sebesar 10% (sepuluh persen).
 
-3. Instalasi Rehabilitasi Medik : Proporsi medis sebesar 30 4, (tiga puluh persen) dari jasa pelayanan dan proporsi fisioterapis sebesar 60 Y, (enam puluh persen) dan jasa pelayanan adminstrasi sebesar 10 “Yo (sepuluh persen).
+3. Instalasi Rehabilitasi Medik : Proporsi medis sebesar 30% (tiga puluh persen) dari jasa pelayanan dan proporsi fisioterapis sebesar 60% (enam puluh persen) dan jasa pelayanan adminstrasi sebesar 10% (sepuluh persen).
 
-4. Instalasi Gizi: Proporsi jasa pelayanan konsuitasi dokter spesialis gizi adalah sebesar 45 Yo (empat puluh lima persen) dari total jasa pelayanan, sebesar 45 Yo (empat puluh lima persen) adalah jasa pelayanan nutrisionis dan pelayanan administrasi sebesar 10 Y, (sepuluh persen):
+4. Instalasi Gizi: Proporsi jasa pelayanan konsuitasi dokter spesialis gizi adalah sebesar 45% (empat puluh lima persen) dari total jasa pelayanan, sebesar 45% (empat puluh lima persen) adalah jasa pelayanan nutrisionis dan pelayanan administrasi sebesar 10% (sepuluh persen);
 
-5. Instalasi Patologi Anatomi: Proporsi jasa pelayanan medis Patologi Anatomi adalah sebesar 70 4 (tujuh puluh persen) dari total jasa pelayanan, sebesar 20 Y (dua puluh persen) adalah jasa analis dan jasa pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+5. Instalasi Patologi Anatomi: Proporsi jasa pelayanan medis Patologi Anatomi adalah sebesar 70% (tujuh puluh persen) dari total jasa pelayanan, sebesar 20% (dua puluh persen) adalah jasa analis dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-6. Instalasi Farmasi : Proporsi jasa kelompok apoteker adalah sebesar 45 Y5 (empat puluh lima persen), jasa pelayanan asisten apoteker secara kelompok sebesar 45 Y (empat puluh lima persen) dan jasa pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+6. Instalasi Farmasi : Proporsi jasa kelompok apoteker adalah sebesar 45% (empat puluh lima persen), jasa pelayanan asisten apoteker secara kelompok sebesar 45% (empat puluh lima persen) dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-7. Instalasi Forensik : Proporsi jasa medis forensik adalah sebesar 70 Y6 (tujuh puluh persen) dari total jasa pelayanan yang tercantum dalam tarif rumah sakit, sebesar 20 Yo (dua puluh persen) adalah jasa pelayanan tenaga lain . pada lingkungan forensik dan jasa pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+7. Instalasi Forensik : Proporsi jasa medis forensik adalah sebesar 70% (tujuh puluh persen) dari total jasa pelayanan yang tercantum dalam tarif rumah sakit, sebesar 20% (dua puluh persen) adalah jasa pelayanan tenaga lain . pada lingkungan forensik dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-8. Instalasi Hemodialisa : Proporsi jasa pelayanan medis adalah sebesar 30 Yo (tiga puluh persen) dari total jasa pelayanan, sebesar 60 Yo ( enam puluh persen) adalah jasa pelayanan kelompok perawat, dan jasa pelayanan . administrasi sebesar 10 Yo (sepuluh persen),
+8. Instalasi Hemodialisa : Proporsi jasa pelayanan medis adalah sebesar 30% (tiga puluh persen) dari total jasa pelayanan, sebesar 60% ( enam puluh persen) adalah jasa pelayanan kelompok perawat, dan jasa pelayanan . administrasi sebesar 10% (sepuluh persen),
 
 e. Instalasi Bedah Sentral
 
-1. proporsi Jasa medis operator sebesar 70 Yo (tujuh puluh persen), Perawat bedah sebesar 20 w» (dua puluh persen) dan jasa administrasi sebesar 10 Yo (sepuluh persen):
+1. proporsi Jasa medis operator sebesar 70% (tujuh puluh persen), Perawat bedah sebesar 20% (dua puluh persen) dan jasa administrasi sebesar 10% (sepuluh persen);
 
-2. proporsi jasa dokter anestesi sebesar. 70 Yo (tujuh puluh persen), perawat anestesi sebesar 20 Yo (dua puluh persen) dan sebesar 10 4, (sepuluh persen) jasa administrasi.
+2. proporsi jasa dokter anestesi sebesar. 70% (tujuh puluh persen), perawat anestesi sebesar 20% (dua puluh persen) dan sebesar 10% (sepuluh persen) jasa administrasi.
 
-3. proporsi Dokter spesialis pendamping operasi sebesar 70 (tujuh puluh persen), jasa Perawat sebesar 20 vo (dua puluh persen) dan jasa pelayanan administrasi sebesar 10 “o (sepuluh persen).
+3. proporsi Dokter spesialis pendamping operasi sebesar 70% (tujuh puluh persen), jasa Perawat sebesar 20% (dua puluh persen) dan jasa pelayanan administrasi sebesar 10% (sepuluh persen).
 
 f. Instalasi Intensive Care Unit 1
 
-1. Proporsi jasa medis pada visite di ruang ICU adalah sebesar 70 Y5 (tujuh puluh persen) dari total jasa pelayanan yang tercantum dalam tarif, sebesar 20 Y (dua puluh persen) adalah jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10 Y6 (sepuluh persen):
+1. Proporsi jasa medis pada visite di ruang ICU adalah sebesar 70% (tujuh puluh persen) dari total jasa pelayanan yang tercantum dalam tarif, sebesar 20% (dua puluh persen) adalah jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-2. Bila dokter spesialis berhalangan, pasien di visite oleh dokter umum, dengan tarif dokter umum, proporsi sebesar 70 Yo (tujuh puluh persen) dokter umum dan sebesar 20 4, (dua puluh persen) jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10 Yo (sepuluh persen):
+2. Bila dokter spesialis berhalangan, pasien di visite oleh dokter umum, dengan tarif dokter umum, proporsi sebesar 70% (tujuh puluh persen) dokter umum dan sebesar 20% (dua puluh persen) jasa pelayanan keperawatan/setara dan jasa pelayanan administrasi sebesar 10% (sepuluh persen);
 
-3. Proporsi tindakan medis, jasa medis sebesar 70 Y5 (tujuh puluh persen), jasa keperawatan/setara sebesar 20 4, (dua puluh persen) dan sebesar 10 Yo (sepuluh persen) jasa pelayanan administrasi:
+3. Proporsi tindakan medis, jasa medis sebesar 70% (tujuh puluh persen), jasa keperawatan/setara sebesar 20% (dua puluh persen) dan sebesar 10% (sepuluh persen) jasa pelayanan administrasi:
 
-3. Tindakan yang dilakukan oleh perawat, sebesar 70 Y6 (tujuh puluh persen) jasa keperawatan/setara, sebesar 20 Yo (dua puluh persen) Jasa Medis dan sebesar 10 “5 (sepuluh persen) jasa pelayanan administrasi. oparsi jasa yang bersumber dari tarif paket Jaminan Kesehatan Nasional MI), dengan besaran jasa pelayanan maksimal 44 W, (empat puluh empat sen) dari total klaim yang dibayarkan ditambah 5 4, (lima persen) dari suntungan obat/farmasi. Esaran jasa pelayanan sebagaimana dimaksud pada ayat (2) dalam proses entrian dipisahkan antara dokter pemegang pisau dan dokter non sang pisau, total klaim dari pembayaran BPJS untuk dokter pemegang 1 dan dokter non pemegang pisau di gabung, kemudian dibagi masing-asing 50 96 (lima puluh persen). ntuk jasa pasien umum dan pasien dengan perlakuan khusus, jasa yang ibagikan adalah sesuai dengan jasa pelayanan yang tercantum dalam tarif sarar Bupati yang berlaku. . Sistem pembagian remunerasi sebagaimana dimaksud pada ayat (2), ayat (3) an ayat (4) dengan menggunakan software remunerasi yang disusun berdasarkan ketetapan dalam sistem remunerasi ini. BAB V DISTRIBUSI INSENTIF
+3. Tindakan yang dilakukan oleh perawat, sebesar 70% (tujuh puluh persen) jasa keperawatan/setara, sebesar 20% (dua puluh persen) Jasa Medis dan sebesar 10% (sepuluh persen) jasa pelayanan administrasi. oparsi jasa yang bersumber dari tarif paket Jaminan Kesehatan Nasional MI), dengan besaran jasa pelayanan maksimal 44 W, (empat puluh empat sen) dari total klaim yang dibayarkan ditambah 5% (lima persen) dari suntungan obat/farmasi. Esaran jasa pelayanan sebagaimana dimaksud pada ayat (2) dalam proses entrian dipisahkan antara dokter pemegang pisau dan dokter non sang pisau, total klaim dari pembayaran BPJS untuk dokter pemegang 1 dan dokter non pemegang pisau di gabung, kemudian dibagi masing-asing 50% (lima puluh persen). ntuk jasa pasien umum dan pasien dengan perlakuan khusus, jasa yang ibagikan adalah sesuai dengan jasa pelayanan yang tercantum dalam tarif sarar Bupati yang berlaku. . Sistem pembagian remunerasi sebagaimana dimaksud pada ayat (2), ayat (3) an ayat (4) dengan menggunakan software remunerasi yang disusun berdasarkan ketetapan dalam sistem remunerasi ini. BAB V DISTRIBUSI INSENTIF
 
 ### Pasal 12
-
 Distribusi insentif terdiri dari insentif langsung dan insentif tidak langsung.
 
-(2) Insentif langsung sebagaimana dimaksud pada ayat (1) diberikan kepada penghasil jasa pelayanan baik tenaga medis. k 1 g Ss, kelompok tenaga keperawatan setara dan kelompok administrasi i : divetankan nis sesuai dengan proporsi yang telah pk | dalam peraturan mi, sebesar 60 Y6 ( enam puluh persen) dari « proporsi Jasa yang diterima, sebesar 40 4, (empat puluh persen) didistribusikan ke dalam sistem remunerasi.
+(2) Insentif langsung sebagaimana dimaksud pada ayat (1) diberikan kepada penghasil jasa pelayanan baik tenaga medis. k 1 g Ss, kelompok tenaga keperawatan setara dan kelompok administrasi i : divetankan nis sesuai dengan proporsi yang telah pk | dalam peraturan mi, sebesar 60% ( enam puluh persen) dari « proporsi Jasa yang diterima, sebesar 40% (empat puluh persen) didistribusikan ke dalam sistem remunerasi.
 
 (3) Proporsi jasa yang diterima sebagai i gaimana dimaksud pada ayat (2) sebe o D ebNsa . sar 40 “ed lempat puluh persen) didistribusikan dengan besaran diatur sebagai
 
-a. Pos Remunerasi sebesar 15 96 (lima belas persen),
+a. Pos Remunerasi sebesar 15% (lima belas persen),
 
 b. Insentif langsung Direktur 5 96 (lima Persen): 2 “alga ar bidang 2 yo ? Yo d dua koma lima belas persen) a Seksi dan kepala sub bagian seb 9 delapan puluh lima persen) i Ba aa
 
-e. Insentif kepala-kepala instalasi sebesar 2,5 46 (dua koma lima persen)
+e. Insentif kepala-kepala instalasi sebesar 2,5% (dua koma lima persen)
 
-f. Tim pengendali Jaminan Kesehatan Nasional (JKN) dan Tim Remunerasi sebesar 2,5 Y9 (dua koma lima persen)
+f. Tim pengendali Jaminan Kesehatan Nasional (JKN) dan Tim Remunerasi sebesar 2,5% (dua koma lima persen)
 
-g. Tambahan insentif perawat sebesar 10 Y (sepuluh persen), 3! Insentif tidak langsung sebagaimana dimaksud pada ayat (1) diberikan kepada seluruh pegawai berdasarkan indexing, dengan sumber dana dari Pos Remunerasi.
+g. Tambahan insentif perawat sebesar 10% (sepuluh persen), 3! Insentif tidak langsung sebagaimana dimaksud pada ayat (1) diberikan kepada seluruh pegawai berdasarkan indexing, dengan sumber dana dari Pos Remunerasi.
 
 **Bagian Kesatu** **Distribusi Insentif Direktur dan Pejabat Struktural, Kepala Instalasi, Tim Pengendali JKN dan Tim Remunerasi**
 
 ### Pasal 13
-
-Distribusi insentif langsung Direktur sebesar 5 Y5 (lima persen). Kepala Bidang/Kepala Bagian distribusinya menggunakan score indexing “yaitu score individu dibagi total score indexing kepala bidang/kepala bagian “dikali 2,15 Yo (dua koma lima belas persen). Kepala Seksi/ Kepala Sub Bagian distribusinya menggunakan score indexing 'Waitu score individu dibagi total score indexing kepala Seksi/kepala sub ian dikali 2,85 Yo (dua koma delapan lima persen) K -kepala instalasi distribusinya menggunakan score indexing yaitu s individu dibagi total score indexing kepala instalasi dikali 2,5 Yo (dua koma lima persen). Tim Pengendali JKN dan Tim Remunerasi distribusinya menggunakan score Indexang yaitu score individu dibagi total score indexing Tim pengendali JKN dan Tim remunerasi dikali 2,5 Yo (dua koma lima persen). Bagian Kedua 0 f Distribusi Insentif Langsung Dokter, Perawat dan Tenaga Administrasi
+Distribusi insentif langsung Direktur sebesar 5% (lima persen). Kepala Bidang/Kepala Bagian distribusinya menggunakan score indexing “yaitu score individu dibagi total score indexing kepala bidang/kepala bagian “dikali 2,15% (dua koma lima belas persen). Kepala Seksi/ Kepala Sub Bagian distribusinya menggunakan score indexing 'Waitu score individu dibagi total score indexing kepala Seksi/kepala sub ian dikali 2,85 Yo (dua koma delapan lima persen) K -kepala instalasi distribusinya menggunakan score indexing yaitu s individu dibagi total score indexing kepala instalasi dikali 2,5% (dua koma lima persen). Tim Pengendali JKN dan Tim Remunerasi distribusinya menggunakan score Indexang yaitu score individu dibagi total score indexing Tim pengendali JKN dan Tim remunerasi dikali 2,5% (dua koma lima persen). Bagian Kedua 0 f Distribusi Insentif Langsung Dokter, Perawat dan Tenaga Administrasi
 
 ### Pasal 14
-
 1) Insentif pelayanan reguler merupakan pelayanan terhadap pasien yang datang ke rumah sakit dan tidak memilih dokter atau tidak memilih pelayanan eksekutif, berlaku untuk semua kelas perawatan.
 
 (2) Jasa pelayanan yang timbul akibat pelayanan non eksekutif merupakan jasa pelayanan non eksekutif.
 
-(3) Setiap penghasil jasa pelayanan reguler sebagaimana dimaksud pada ayat (1), berhak mendapatkan insentif langsung sebesar 60 Y5 (enam puluh persen) dari jasa pelayanan yang dihasilkannya, kecuali jasa forensik sebesar 80 Yo (delapan puluh persen), dengan rincian sebagai berikut :
+(3) Setiap penghasil jasa pelayanan reguler sebagaimana dimaksud pada ayat (1), berhak mendapatkan insentif langsung sebesar 60% (enam puluh persen) dari jasa pelayanan yang dihasilkannya, kecuali jasa forensik sebesar 80% (delapan puluh persen), dengan rincian sebagai berikut :
 
-a. tenaga Medis berhak mendapat insentif langsung sebesar 60 5 (enam puluh persen) dari proporsi jasa pelayanan medis dan menjadi penghasilan individu tenaga medis yang bersangkutan:
+a. tenaga Medis berhak mendapat insentif langsung sebesar 60% (enam puluh persen) dari proporsi jasa pelayanan medis dan menjadi penghasilan individu tenaga medis yang bersangkutan;
 
-b. kelompok keperawatan/setara berhak mendapat insentif langsung kelompok sebesar 60 “Y, (enam puluh persen) dari proporsi jasa pelayanan keperawatan/ setara, dengan distribusi berdasarkan score indexing kelompok perawat/setara dan telah ditetapkan dalam sistem remunerasi:
+b. kelompok keperawatan/setara berhak mendapat insentif langsung kelompok sebesar 60% (enam puluh persen) dari proporsi jasa pelayanan keperawatan/ setara, dengan distribusi berdasarkan score indexing kelompok perawat/setara dan telah ditetapkan dalam sistem remunerasi;
 
-c. kelompok administrasi berhak mendapat sebasar 60 YW (enam puluh persen) insentif langsung dari jasa pelayanan administrasi, dengan sistem distribusi berdasarkan score indexing,
+c. kelompok administrasi berhak mendapat sebasar 60% (enam puluh persen) insentif langsung dari jasa pelayanan administrasi, dengan sistem distribusi berdasarkan score indexing,
 
 d. kelompok administrasi sebagaimana dimaksud pada huruf c adalah seluruh pegawai struktural (administrasi) dan fungsional yang meliputi petugas administrasi, Central Sterile Supply Departemen (CSSD), Instalasi Pengelolaan Air Limbah (IPAL), Pengelolaan tempat cucian di rumah Sakit (loundry), gizi, Instalasi Pemeliharaan Sarana Rumah Sakit (IPSRS), Satuan Pengamanan (Satpam), Cleaning service di lingkungan rumah sakit.
 
 **Bagian Ketiga** **Distribusi Insentif Langsung Pelayanan Eksekutif**
 
 ### Pasal 15
-
 Insentif Pelayanan Eksekutif adalah jasa yang timbul akibat pelayanan eksekutif, yang dibedakan dari pasien reguler, atas dasar pasien yang Gilayani adalah :
 
 2. pasien yang dibawa oleh masing-masing dokter atau pasien yang berobat ke poliklinik eksekutif baik pagi mau pun sore:
 
-5. pasien yang dengan sengaja datang ke RSUD dan meminta pelayanan melalui jalur pelayanan eksekutif. Distribusi insentif langsung pelayanan eksekutif sebagaimana dimaksud ayat (1) terhadap pasien yang berobat ke poliklinik eksekutif, Tenaga is berhak mendapat insentif langsung pada poliklinik eksekutif secara Individu sebesar 80 Yo (delapan puluh persen) dari proporsi jasa pelayanan. NN Distribusi insentif langsung pelayanan eksekutif sebagaimana dimaksud pada ayat (1), terhadap pasien yang berobat ke pelayanan Eksekutif pada rawat inap dengan ketentuan Dokter mendapat insentif langsung sebesar 80 1 3e (delapan puluh persen) dari proporsi jasa visite. (SI Distibusi Insentif langsung tindakan medik pada pelayanan Eksekutif sebagaimana dimaksud pada ayat (1), dokter berhak mendapat insentif sia langsung individu sebesar 80 Yo (delapan puluh persen) dari proporsi jasa pelayanan. SI Distribusi Insentif langsung Tindakan yang dilakukan oleh perawat eksekutif sebagaimana dimaksud pada ayat (Il), kelompok perawat f mendapat insentif langsung sebesar 60 Yo (enam puluh persen) dari jasa Tindakan yang dilakukan oleh perawat sama seperti insentif langsung
+5. pasien yang dengan sengaja datang ke RSUD dan meminta pelayanan melalui jalur pelayanan eksekutif. Distribusi insentif langsung pelayanan eksekutif sebagaimana dimaksud ayat (1) terhadap pasien yang berobat ke poliklinik eksekutif, Tenaga is berhak mendapat insentif langsung pada poliklinik eksekutif secara Individu sebesar 80% (delapan puluh persen) dari proporsi jasa pelayanan. NN Distribusi insentif langsung pelayanan eksekutif sebagaimana dimaksud pada ayat (1), terhadap pasien yang berobat ke pelayanan Eksekutif pada rawat inap dengan ketentuan Dokter mendapat insentif langsung sebesar 80 1 3e (delapan puluh persen) dari proporsi jasa visite. (SI Distibusi Insentif langsung tindakan medik pada pelayanan Eksekutif sebagaimana dimaksud pada ayat (1), dokter berhak mendapat insentif sia langsung individu sebesar 80% (delapan puluh persen) dari proporsi jasa pelayanan. SI Distribusi Insentif langsung Tindakan yang dilakukan oleh perawat eksekutif sebagaimana dimaksud pada ayat (Il), kelompok perawat f mendapat insentif langsung sebesar 60% (enam puluh persen) dari jasa Tindakan yang dilakukan oleh perawat sama seperti insentif langsung
 
 (6) Nae Sana Insentif langsung Pelayanan Bedah Eksekutif adalah sebagai erikut :
 
-a. Dokter bedah berhak mendapat insentif langsung pada pelayanan bedah eksekutif adalah sebesar 80 x (delapan puluh persen) dari proporsi jasa pelayanan dokter bedah:
+a. Dokter bedah berhak mendapat insentif langsung pada pelayanan bedah eksekutif adalah sebesar 80% (delapan puluh persen) dari proporsi jasa pelayanan dokter bedah;
 
-b. Insentif dokter anestesi langsung pada pelayanan bedah eksekutif adalah sebesar 60 Yo (enam puluh persen) dari proporsi jasa pelayanan:
+b. Insentif dokter anestesi langsung pada pelayanan bedah eksekutif adalah sebesar 60% (enam puluh persen) dari proporsi jasa pelayanan;
 
-c. Insentif kelompok keperawatan bedah pada pelayanan bedah eksekutif adalah sebesar 60 “, (enam puluh persen) sama dengan insentif langsung pelayanan reguler,
+c. Insentif kelompok keperawatan bedah pada pelayanan bedah eksekutif adalah sebesar 60% (enam puluh persen) sama dengan insentif langsung pelayanan reguler,
 
 d. Insentif kelompok penata anestesi pada pelayanan bedah eksekutif adalah sebesar 60 Y5 (enam puluh Persen) sama dengan insentif langsung pelayanan reguler.
 
 **Bagian Keempat** **Insentif Tidak Langsung**
 
 ### Pasal 16
-
 (1) Distribusi insentif tidak langsung sebagaimana dimaksud dalam Pasal 12 ayat (1) merupakan kontribusi dari setiap penghasil jasa yang berada pada revenue center, dari komponen jasa ditambah sebesar 50 45 (lima puluh Pena) keuntungan apotik dan keuntungan usaha-usaha lain dari rumah
 
 (2) Distribusi insentif tidak langsung dibagikan berdasarkan scoring yang ditentukan dengan perhitungan indexing yang ditetapkan dalam sistem remunerasi.
@@ -549,12 +533,11 @@ d. Insentif kelompok penata anestesi pada pelayanan bedah eksekutif adalah sebes
 
 (4) Insentif tidak langsung sebagaimana dimaksud pada ayat (1) diberikan berdasarkan sistem akuntabilitas kinerja pegawai.
 
-(5) Sistem akuntabilitas kinerja pegawai sebagaimana dimaksud pada ayat (4) dilaksanakan jika pegawai mencapai kinerja sebesar 100 Y6 (seratus persen) sesuai dengan target/standar, maka pegawai yang bersangkutan mendapat insentif sebesar 100 Y» (seratus persen) sesuai dengan nilai total index perorangan.
+(5) Sistem akuntabilitas kinerja pegawai sebagaimana dimaksud pada ayat (4) dilaksanakan jika pegawai mencapai kinerja sebesar 100% (seratus persen) sesuai dengan target/standar, maka pegawai yang bersangkutan mendapat insentif sebesar 100% (seratus persen) sesuai dengan nilai total index perorangan.
 
-(6) Sistem akuntabilitas kinerja pegawai sebagaimana dimaksud pada ayat (4) dilaksanakan jika pegawai hanya memiliki kinerja sebesar 80 Yo (delapan puluh persen) maka insentif pegawai yang bersangkutan adalah sebesar 80 Yo (delapan puluh persen) dikali jumlah nilai indexing performance pegawai yang bersangkutan ditambah dengan index basic, index kompetensi, index resiko, index emergensi dan index posisi.
+(6) Sistem akuntabilitas kinerja pegawai sebagaimana dimaksud pada ayat (4) dilaksanakan jika pegawai hanya memiliki kinerja sebesar 80% (delapan puluh persen) maka insentif pegawai yang bersangkutan adalah sebesar 80% (delapan puluh persen) dikali jumlah nilai indexing performance pegawai yang bersangkutan ditambah dengan index basic, index kompetensi, index resiko, index emergensi dan index posisi.
 
 ### Pasal 17
-
 “ (1) Insentif langsung maupun tidak langsung sebagaimana dimaksud dalam Pasal 12 ayat (1) dibayarkan pada bulan berikutnya paling lambat setiap tanggal 15 (lima belas), setelah pelayanan dalam bulan berjalan selesai.
 
 (2) Score individu dihitung oleh atasan yang bersangkutan dan perhitungan total score individu yang menjadi score rumah sakit ditetapkan oleh Kepala Sub Bagian Kepegawaian Rumah sakit. se 2 PP ana ran
@@ -563,12 +546,11 @@ d. Insentif kelompok penata anestesi pada pelayanan bedah eksekutif adalah sebes
 
 (4) Yang berwenang membayarkan insentif sebagaimana dimaksud pada ayat (1) dan ayat (3) adalah Kepala Bidang keuangan rumah sakit.
 
-(5) Score individu sebagaimana dimaksud pada ayat (2) dapat berubah setiap bulan bergantung kepada perubahan basic index, perubahan pendidikan, perubahan posisi/jabatan, dan kinerja. :
+(5) Score individu sebagaimana dimaksud pada ayat (2) dapat berubah setiap bulan bergantung kepada perubahan basic index, perubahan pendidikan, perubahan posisi/jabatan, dan kinerja.
 
 ## BAB VII - INDEXING
 
 ### Pasal 18
-
 (1) Indexing dilaksanakan berdasarkan :
 
 a. basic index/index dasar untuk penghargaan sebagai insentif dasar bagi seluruh pegawai dengan standar berdasarkan gaji pokok pegawai yang bersangkutan dengan ketentuan setiap Rp 500.000,- (lima ratus ribu rupiah) gaji pokok sama dengan 1 (satu) nilai index, pegawai kontrak Rumah Sakit, gaji pokoknya disetarakan dengan gaji pokok terendah PNS sesuai dengan pendidikannya.
@@ -581,7 +563,7 @@ b. kualifikasi/capacity index adalah untuk memberikan penghargaan nilai kualifik
 
 1. Resiko grade 1 dengan nilai index 1 adalah kemungkinan terjadi resiko kerja yang bersifat fisik walaupun pegawai yang bersangkutan bekerja sesuai prosedur tetap dan prosedur kerja (SOP): yaitu pegawai yang bekerja di perkantoran.
 
-2. Resiko grade II dengan nilai index 2 adalah kemungkinan terjadi resiko kerja yang bersifat kimiawi. apabila pegawai yang bersangkutan bekerja sesuai program tetap dan program kerja (Standar Operasional Prosedur). terdiri dari rawat jalan, gizi, Instalasi Pemeliharaan Sarana Rumah Sakit (IPSRS), rehabilitasi medik, diagnostik, Central Sterilisation Supply Departement (CSSD), ambulan, hemodialisa dan Farmasi:
+2. Resiko grade II dengan nilai index 2 adalah kemungkinan terjadi resiko kerja yang bersifat kimiawi. apabila pegawai yang bersangkutan bekerja sesuai program tetap dan program kerja (Standar Operasional Prosedur). terdiri dari rawat jalan, gizi, Instalasi Pemeliharaan Sarana Rumah Sakit (IPSRS), rehabilitasi medik, diagnostik, Central Sterilisation Supply Departement (CSSD), ambulan, hemodialisa dan Farmasi;
 
 3. Resiko grade III dengan nilai index 4 adalah kemungkinan terjadi resiko kerja yang bersifat kontaminasi walaupun pegawai yang bersangkutan bekerja sesuai program tetap dan program kerja (Standar Operasional Prosedur), terdiri dari rawat inap, hemodialisa, laboratorium, Ruang Persalinan.
 
@@ -613,21 +595,20 @@ h. Setelah dilakukan indexing maka dilakukan Rating yaitu :
 
 6. Performance index - Rate 4
 
-i. Score adalah nilai individu yang merupakan pengkalian dari index. terhadap rating atau bobot (rating):
+i. Score adalah nilai individu yang merupakan pengkalian dari index. terhadap rating atau bobot (rating);
 
-j. Total score individu adalah penjumlahan dari score basic, kualifikasi/ capacity, Risk, Emergency, Position dan Performance index:
+j. Total score individu adalah penjumlahan dari score basic, kualifikasi/ capacity, Risk, Emergency, Position dan Performance index;
 
 k. Total score individu seluruh pegawai dijumlahkan menjadi Total Score Format Indexing
 
 ### Pasal 19
-
 Kl BNN. ca ba 1-1 1 Basic Index - Setiap gaji pokok PNS Rp. 500.000 bernilai 1 index - Tenaga Non PNS disesuaikan dengan gaji Pokok PNS 2 Kualifikasi/ Capacity Index
 
 b. SMP 1
 
 c. SMA/SMU 2
 
-d. Di 3
+d.
 
 e. D3 | 4
 
@@ -668,7 +649,6 @@ f. 'Direktur | 8 Performance Index — - Pejabat berdasarkan sistem akuntabilita
 ## BAB VILI - KRITERIA PENILAIAN KINERJA
 
 ### Pasal 20
-
 (1) Pegawai yang memegang jabatan atau memangku jabatan pada pusat pendapatan atau Revenue Center maupun Pejabat pada pusat biaya atau Cost Center diwajibkan menyusun sistem akuntabilitas sebagai alat pengukuran kinerja pejabat.
 
 (2) Penilaian kinerja para pejabat, sebagaimana dimaksud pada ayat (1) berdasarkan indikator kinerja, target dan/atau standar, serta diukur dengan sistem akuntabilitas sebagai alat ukur kinerja pejabat.
@@ -676,43 +656,40 @@ f. 'Direktur | 8 Performance Index — - Pejabat berdasarkan sistem akuntabilita
 (3) Penilaian pegawai yang tidak memangku jabatan tertentu atau tenaga teknis fungsional, penilaian dilakukan oleh atasan langsung yang bersangkutan sesuai dengan ketentuan yang berlaku dalam sistem akuntabilitas kinerja. BAB IX MERIT DAN BONUS h
 
 ### Pasal 21
-
 ) Merit/Bonus adalah penghargaan dari rumah sakit atau pemilik rumah sakit atas dasar prestasi kerja pegawai yang besarannya ditetapkan oleh Direktur RSUD.
 
 (2) Merit/Bonus bisa dalam bentuk Bonus atau penghargaan lain dalam bentuk reward dengan besaran ditentukan oleh Direktur RSUD. BAB X SANKSI ADMINISTRATIF
 
 ### Pasal 22
-
-(1) Pegawai yang tidak masuk tanpa keterangan selama 3 (tiga) hari kerja dalam satu bulan dikenakan sanksi berupa pemotongan insentif tidak langsung dipotong sebesar 10“, (sepuluh persen).
+(1) Pegawai yang tidak masuk tanpa keterangan selama 3 (tiga) hari kerja dalam satu bulan dikenakan sanksi berupa pemotongan insentif tidak langsung dipotong sebesar 10% (sepuluh persen).
 
 (2) Pegawai yang mengajukan izin selama 3 (tiga) kali dalam satu bulan, dikenakan sanksi berupa pemotongan dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 1044 sepuluh persen).
 
-(8) “Pegawai yang mengajukan izin dan terbukti tidak benar atas alasan izin yang diajukannya, dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 100 X5 (seratus persen).
+(8) “Pegawai yang mengajukan izin dan terbukti tidak benar atas alasan izin yang diajukannya, dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 100% (seratus persen).
 
 (4) Pegawai yang mengambil cuti besar atau cuti bersalin selama 3 (tiga) bulan, secara otomatis tidak mendapatkan insentif selama waktu cuti.
 
-(5) Pegawai yang tugas belajar secara otomatis tidak mendapat insentif selama tugas belajar. h
+(5) Pegawai yang tugas belajar secara otomatis tidak mendapat insentif selama tugas belajar.
 
-(6) Pegawai yang melalaikan penghematan (cost containment), terhadap pemanfaatan listrik, air dan/atau telepon, dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 100 4, (seratus persen).
+(6) Pegawai yang melalaikan penghematan (cost containment), terhadap pemanfaatan listrik, air dan/atau telepon, dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 100% (seratus persen).
 
-(7) Pegawai yang terbukti mencuri barang atau benda milik rumah sakit, insentif langsung maupun insentif tidak langsung dipotong sebesar 100 “o (seratus persen).
+(7) Pegawai yang terbukti mencuri barang atau benda milik rumah sakit, insentif langsung maupun insentif tidak langsung dipotong sebesar 100% (seratus persen).
 
-(8) Pegawai yang membocorkan rahasia perusahaan atau rahasia rumah sakit kepada pihak luar, dikenakan sanksi berupa pemotongan insentif langsung maupun insentif tidak langsung sebesar 100 Yo (seratus persen).
+(8) Pegawai yang membocorkan rahasia perusahaan atau rahasia rumah sakit kepada pihak luar, dikenakan sanksi berupa pemotongan insentif langsung maupun insentif tidak langsung sebesar 100% (seratus persen).
 
-(9) Pegawai yang terbukti menggunakan narkoba, minuman keras dan/atau berjudi di lingkungan rumah sakit, dikenakan sanksi berupa pemotongan insentif langsung maupun insentif tidak langsung sebesar 100 Yo (seratus persen).
+(9) Pegawai yang terbukti menggunakan narkoba, minuman keras dan/atau berjudi di lingkungan rumah sakit, dikenakan sanksi berupa pemotongan insentif langsung maupun insentif tidak langsung sebesar 100% (seratus persen).
 
-(10) Pejabat yang memberikan laporan akuntabilitas dengan tidak benar, dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 100 Yo (seratus persen).
+(10) Pejabat yang memberikan laporan akuntabilitas dengan tidak benar, dikenakan sanksi berupa pemotongan insentif tidak langsung sebesar 100% (seratus persen).
 
-(11) Pegawai yang terbukti merokok di lingkungan rumah sakit, insentif tidak langsung dipotong sebesar 10 45 (sepuluh persen).
+(11) Pegawai yang terbukti merokok di lingkungan rumah sakit, insentif tidak langsung dipotong sebesar 10% (sepuluh persen).
 
-(12) Pegawai yang berkelahi di lingkungan rumah sakit, dikenakan sanksi berupa pemotongan insentif langsung dan insentif tidak langsung kedua pegawai tersebut sebesar 50 Yo (lima puluh persen).
+(12) Pegawai yang berkelahi di lingkungan rumah sakit, dikenakan sanksi berupa pemotongan insentif langsung dan insentif tidak langsung kedua pegawai tersebut sebesar 50% (lima puluh persen).
 
-(13) Pegawai yang melanggar norma perkawinan (perselingkuhan) atau melakukan perbuatan yang di luar norma etika di lingkungan rumah sakit, dikenakan sanksi berupa pemotongan insentif langsung dan tidak langsung sebesar 50 Yo (lima puluh persen).
+(13) Pegawai yang melanggar norma perkawinan (perselingkuhan) atau melakukan perbuatan yang di luar norma etika di lingkungan rumah sakit, dikenakan sanksi berupa pemotongan insentif langsung dan tidak langsung sebesar 50% (lima puluh persen).
 
-(14) Pegawai yang mogok kerja atau terbukti menghasut kegiatan tersebut, dikenakan sanksi berupa pemotongan insentif langsung maupun insentif tidak langsung sebesar 100 Y, (seratus persen). BAB XI KETENTUAN LAIN LAIN
+(14) Pegawai yang mogok kerja atau terbukti menghasut kegiatan tersebut, dikenakan sanksi berupa pemotongan insentif langsung maupun insentif tidak langsung sebesar 100% (seratus persen). BAB XI KETENTUAN LAIN LAIN
 
 ### Pasal 23
-
 (1) Pejabat yang memiliki kinerja mencapai target dan/ atau melebihi target, diberikan reward sesuai ketentuan yang ditetapkan oleh Direktur RSUD.
 
 (2) Untuk jasa pelayanan Supir, Perawat perujuk, Pembimbing Praktek, Penguji Praktek dan Perawat Penyuntik Formalin dibayarkan langsung sesuai dengan ketentuan yang berlaku.
@@ -720,17 +697,14 @@ f. 'Direktur | 8 Performance Index — - Pejabat berdasarkan sistem akuntabilita
 (3) Sistem Remunerasi ini dapat diubah sesuai dengan kesepakatan dengan pemilik Rumah Sakit sesuai Peraturan Perundang-Undangan. BAB XII KETENTUAN PERALIHAN
 
 ### Pasal 24
-
 Ketentuan yang diatur dalam Peraturan Bupati ini mulai dilaksanakan pada tanggal 1 Juli 2017.
 
 ### Pasal 25
-
 (1) Dengan berlakunya Peraturan Bupati ini, maka Peraturan Bupati Nomor 16 Tahun 2015 tentang Pedoman Penggunaan Hasil Jasa Pelayanan Dengan Sistem Remunerasi Pada Rumah Sakit Umum Daerah Ade Muhammad Djoen Sintang, dicabut dan dinyatakan tidak berlaku.
 
 (2) Sebagai petunjuk pelaksanaan yang belum diatur dan/atau belum cukup diatur dalam Peraturan Bupati ini akan diatur lebih lanjut sesuai dengan ketentuan Peraturan perundang-undangan yang berlaku. BAB XIII KETENTUAN PENUTUP
 
 ### Pasal 26
-
 Peraturan ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup

@@ -10,11 +10,8 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-aa 2
 Sui : 2 SALINAN
-4 5 ae AK ga
 MM”
-aa
 BUPATI SEKADAU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI SEKADAU
@@ -31,35 +28,35 @@ Kebijakan Akuntansi Pemerintah Daerah meliputi
 Kebijakan Akuntansi Pelaporan Keuangan dan Kebijakan
 Akuntansi Akun perlu merubah Peraturan Bupati
 Sekadau Nomor 34 Tahun 2014 tentang Kebijakan
-Akuntansi Pemerintah Kabupaten Sekadau,
+Akuntansi Pemerintah Kabupaten Sekadau;
 b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, perlu menetapkan Peraturan
 Bupati Sekadau Tentang Kebijakan Akuntansi
 Pemerintah Kabupaten Sekadau.
-Mengingat Eka Undang-Undang Nomor 17 Tahun 2003 tentang
+Mengingat : 1. Undang-Undang Nomor 17 Tahun 2003 tentang
 Keuangan Negara (Lembaran Negara Republik Indonesia
 Tahun 2003 Nomor 47, Tambahan Lembaran Negara
-Republik Indonesia Nomor 4286):
+Republik Indonesia Nomor 4286);
 2. Undang-Undang Nomor 34 Tahun 2003 tentang
 Pembentukan Kabupaten Melawi dan Kabupaten
 Sekadau di Provinsi Kalimantan Barat (Lembaran
 Negara Republik Indonesia Tahun 2003 Nomor 149,
 Tambahan Lembaran Negara Republik Indonesia Nomor
-4344): nek
-SP Undang-Undang Nomor 1 Tahun 2004 tentang
+4344);
+3. Undang-Undang Nomor 1 Tahun 2004 tentang
 Perbendaharaan Negara (Lembaran Negara Republik
 Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4355),
-4, Undang-Undang Nomor 15 Tahun 2004 tentang
+Negara Republik Indonesia Nomor 4355);
+4. Undang-Undang Nomor 15 Tahun 2004 tentang
 Pemeriksaan Pengelolaan dan Tanggungjawab Keuangan
 Negara (Lembaran Negara Republik Indonesia Tahun
 2004 Nomor 66, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4400),
+Indonesia Nomor 4400);
 5. Undang-Undang Nomor 1 Tahun 2022 tentang
 Hubungan Keuangan Antara Pemerintah Pusat dan
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2022 Nomor 4, Tambahan Lembaran
-Negara Republik Indonesia Nomor 6757),
+Negara Republik Indonesia Nomor 6757);
 6. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
@@ -69,42 +66,42 @@ Undang Nomor 1 Tahun 2022 tentang Hubungan
 Keuangan Antara Pemerintah Pusat dan Pemerintahan
 Daerah (Lembaran Negara Republik Indonesia Tahun
 2022 Nomor 4, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6757),
-if Peraturan Pemerintah Nomor 55 Tahun 2005 tentang
+Indonesia Nomor 6757);
+7. Peraturan Pemerintah Nomor 55 Tahun 2005 tentang
 Dana Perimbangan (Lembaran Negara Republik
 Indonesia Tahun 2005 Nomor 137, Tambahan Lembaran
-Negara Republik Indonesia Nomor 4575),
+Negara Republik Indonesia Nomor 4575);
 8. Peraturan Pemerintah Nomor 56 Tahun 2005 tentang
 Sistem Informasi Keuangan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2005 Nomor 138, Tambahan
-Lembaran Negara Republik Indonesia Nomor 4576),
+Lembaran Negara Republik Indonesia Nomor 4576);
 sebagaimana telah diubah dengan Peraturan Pemerintah
 Nomor 6S Tahun 2010 tentang Perubahan Atas
 Peraturan Pemerintah Nomor 56 Tahun 2005 tentang
 Sistem Informasi Keuangan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2010 Nomor 110, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5155),
+Lembaran Negara Republik Indonesia Nomor 5155);
 9. Peraturan Pemerintah Nomor 8 Tahun 2006 tentang
 Pelaporan Keuangan dan Kinerja Instansi Pemerintah
 (Lembaran Negara Republik Indonesia Tahun 2006
 Nomor 25, Tambahan Lembaran Negara Republik
-Indonesia Nomor 4614),
+Indonesia Nomor 4614);
 10. Peraturan Pemerintah Nomor 71 Tahun 2010 tentang
 Standar Akuntansi Pemerintahan (Lembaran Negara
 Republik Indonesia Tahun 2010 Nomor 123, Tambahan
-Lembaran Negara Republik Indonesia Nomor 5165),
-Il. Peraturan Pemerintah Nomor 12 Tahun 2019 tentang
+Lembaran Negara Republik Indonesia Nomor 5165);
+11. Peraturan Pemerintah Nomor 12 Tahun 2019 tentang
 Pengelolaan Keuangan Daerah (Lembaran Negara
 Republik Indonesia Tahun 2019 Nomor 42, Tambahan
-Lembaran Negara Republik Indonesia Nomor 6322),
+Lembaran Negara Republik Indonesia Nomor 6322);
 12. Peraturan Menteri Dalam Negeri Nomor 64 Tahun 2013
 tentang Penerapan Standar Akuntansi Pemerintahan
 Berbasis Akrual Pada Pemerintah Daerah (Berita Negara
-Republik Indonesia Tahun 2013 Nomor 1425),
+Republik Indonesia Tahun 2013 Nomor 1425);
 13. Peraturan Menteri Dalam Negeri Nomor 77 Tahun 2020
 tentang Pedoman Teknis Pengelolaan Keuangan Daerah
 (Berita Negara Republik Indonesia Tahun 2020 Nomor
-1781),
+1781);
 14. Peraturan Daerah Nomor 4 Tahun 2016 tentang
 Pembentukan dan Susunan Perangkat Daerah
 (Lembaran Daerah Kabupaten Sekadau Tahun 2016
@@ -115,16 +112,16 @@ Perubahan Atas Peraturan Daerah Nomor 4 Tahun 2016
 tentang Pembentukan dan Susunan Perangkat Daerah
 (Lembaran Daerah Kabupaten Sekadau Tahun 2020
 Nomor 9, Tambahan Lembaran Daerah Kabupaten
-Sekadau Nomor 7),
+Sekadau Nomor 7);
 15. Peraturan Daerah Nomor 1 Tahun 2019 tentang
 Penyelenggaraan 'Tera/Tera Ulang dan Retribusi
 Pelayanan  Tera/Tera Ulang (Lembaran Daerah
 Kabupaten Sekadau Tahun 2019 Nomor 1, Tambahan
-Lembaran Daerah Kabupaten Sekadau Nomor 1):
+Lembaran Daerah Kabupaten Sekadau Nomor 1);
 16. Peraturan Daerah Nomor 10 Tahun 2020 tentang
 Pengelolaan Keuangan Daerah (Lembaran Daerah
 Kabupaten Sekadau Tahun 2020 Nomor 10, Tambahan
-Lembaran Daerah Kabupaten Sekadau Nomor 8),
+Lembaran Daerah Kabupaten Sekadau Nomor 8);
 MEMUTUSKAN :
 Menetapkan : PERATURAN BUPATI SEKADAU TENTANG KEBIJAKAN
 AKUNTANSI PEMERINTAH KABUPATEN SEKADAU.
@@ -139,7 +136,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 3. Bupati adalah Bupati Kabupaten Sekadau.
 
-4, Wakil Bupati adalah Wakil Bupati Kabupaten Sekadau.
+4. Wakil Bupati adalah Wakil Bupati Kabupaten Sekadau.
 
 5. Dewan Perwakilan Rakyat Daerah selanjutnya disingkat DPRD, adalah Dewan Perwakilan Rakyat Daerah Kabupaten Sekadau.
 
@@ -147,7 +144,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 7. Perangkat Daerah Kabupaten adalah unsur pembantu Bupati dalam Penyelenggaraan Pemerintahan Daerah yang terdiri dari Sekretariat Daerah, Sekretariat DPRD, Dinas Daerah dan Lembaga Teknis Daerah.
 
-8. Sistem adalah suatu susunan secara teratur dari kegiatan-kegiatan yang saling bergantung pada prosedurprosedur yang berhubungan dan saling melengkapi serta memudahkan pelaksanaan pekerjaan dari suatu kegiatan organisasi yang penting.
+8. Sistem adalah suatu susunan secara teratur dari kegiatan-kegiatan yang saling bergantung pada prosedur-prosedur yang berhubungan dan saling melengkapi serta memudahkan pelaksanaan pekerjaan dari suatu kegiatan organisasi yang penting.
 
 9. Akuntansi adalah proses pencatatan, pengukuran, pengklasifikasian, pengikhtisaran transaksi dan kejadian keuangan, penginterpretasian atas hasilnya, serta penyajian laporan.
 
@@ -159,15 +156,13 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 13. Kebijakan akuntansi adalah prinsip-prinsip, dasar-dasar, konvensi- konvensi, aturan-aturan, dan praktek-praktek spesifik yang dipilih oleh suatu entitas pelaporan dalam penyusunan dan penyajian laporan keuangan.
 
-14. Kebijakan Akuntansi Pemerintah Daerah adalah prinsipprinsip, dasar-dasar, konvensi-konvensi, aturan-aturan dan praktik-praktik spesifik yang dipilih oleh pemerintah daerah sebagai pedoman dalam menyusun dan menyajikan laporan keuangan pemerintah daerah untuk memenuhi kebutuhan pengguna laporan keuangan dalam rangka meningkatkan keterbandingan laporan keuangan terhadap anggaran, antar periode maupun antar entitas.
+14. Kebijakan Akuntansi Pemerintah Daerah adalah prinsip-prinsip, dasar-dasar, konvensi-konvensi, aturan-aturan dan praktik-praktik spesifik yang dipilih oleh pemerintah daerah sebagai pedoman dalam menyusun dan menyajikan laporan keuangan pemerintah daerah untuk memenuhi kebutuhan pengguna laporan keuangan dalam rangka meningkatkan keterbandingan laporan keuangan terhadap anggaran, antar periode maupun antar entitas.
 
 15. Anggaran Pendapatan dan Belanja Daerah yang selanjutnya disingkat APBD adalah rencana keuangan tahunan pemerintahan daerah yang dibahas dan disetujui bersama oleh Pemerintah Daerah dan DPRD, dan ditetapkan dengan Peraturan Daerah.
 
 16. Basis Akrual adalah basis akuntansi yang mengakui pengaruh transaksi dan peristiwa lainnya pada saat transaksi dan peristiwa itu terjadi, tanpa memperhatikan saat kas atau setara kas diterima atau dibayar.
 
 17. Basis Kas adalah basis akuntansi yang mengakui pengaruh transaksi dan peristiwa lainnya pada saat kas atau setara kas diterima atau dibayar.
-
-: 5 !
 
 18. Basis Kas Menuju Akrual adalah basis akuntansi yang mengakui pendapatan, belanja dan pembiayaan berbasis kas serta mengakui aset, utang dan ekuitas dana berbasis akrual.
 
@@ -185,8 +180,6 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 25. Laporan Operasional yang selanjutnya disingkat LO adalah laporan yang menyajikan informasi mengenai seluruh kegiatan operasional keuangan entitas pelaporan yang tercermin dalam pendapatan-LO, beban dan surplus/defisit operasional dari suatu entitas pelaporan yang penyajiannya disandingkan dengan periode sebelumnya.
 
-: 6
-
 26. Laporan Arus Kas yang selanjutnya disingkat LAK adalah laporan yang menyajikan informasi mengenai sumber, penggunaan, perubahan kas dan setara kas selama satu periode akuntansi, serta saldo kas dan setara kas pada tanggal pelaporan.
 
 27. Laporan Perubahan Ekuitas yang selanjutnya disingkat LPE adalah laporan yang menyajikan informasi mengenai perubahan ekuitas yang terdiri dari ekuitas awal, surplus/ defisit-LO, koreksi dan ekuitas akhir.
@@ -195,7 +188,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 29. Entitas Pelaporan adalah unit pemerintahan daerah yang terdiri dari satu atau lebih entitas akuntansi yang menurut ketentuan peraturan perundang-undangan wajib menyampaikan laporan pertanggungjawaban berupa laporan keuangan.
 
-30. Entitas Akuntansi adalah unit pemerintahan pengguna anggaran/pengguna barang daerah dan oleh karenanva wajib menyelenggarakan akuntansi dan menyusun laporan keuangan untuk digabungkan pada entitas pelaporan.
+30. Entitas Akuntansi adalah unit pemerintahan pengguna anggaran/pengguna barang daerah dan oleh karenanya wajib menyelenggarakan akuntansi dan menyusun laporan keuangan untuk digabungkan pada entitas pelaporan.
 
 31. Kerangka Konseptual Akuntansi Pemerintahan adalah prinsip-prinsip yang mendasari penyusunan dan pengembangan Standar Akuntansi Pemerintahan bagi Komite Standar Akuntansi Pemerintahan dan merupakan rujukan penting bagi Komite Standar Akuntansi Pemerintahan, penyusun laporan keuangan, dan pemeriksa dalam mencari pemecahan atas suatu masalah yang belum diatur secara jelas dalam Pernyataan Standar Akuntansi Pemerintahan.
 
@@ -233,13 +226,13 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 48. Pembiayaan Daerah adalah semua penerimaan yang perlu dibayar kembali dan/atau pengeluaran yang akan diterima kembali, baik pada tahun anggaran yang bersangkutan maupun pada tahun-tahun anggaran berikutnya.
 
-49. Aset adalah sumber daya ekonomi yang dikuasai dan/atau dimiliki oleh pemerintah daerah sebagai akibat dari peristiwa masa lalu dan dari mana manfaat ekonomi dan/atau sosial di masa depan diharapkan dapat diperoleh, baik oleh pemerintah daerah maupun masyarakat serta dapat diukur dalam satuan uang, termasuk sumber daya nonkeuangan yang diperlukan untuk penyediaan jasa bagi masyarakat umum dan sumber-sumber daya yang dipelihara karena alasan sejarah dan budaya. :
+49. Aset adalah sumber daya ekonomi yang dikuasai dan/atau dimiliki oleh pemerintah daerah sebagai akibat dari peristiwa masa lalu dan dari mana manfaat ekonomi dan/atau sosial di masa depan diharapkan dapat diperoleh, baik oleh pemerintah daerah maupun masyarakat serta dapat diukur dalam satuan uang, termasuk sumber daya nonkeuangan yang diperlukan untuk penyediaan jasa bagi masyarakat umum dan sumber-sumber daya yang dipelihara karena alasan sejarah dan budaya.
 
-50, Kewajiban adalah utang yang timbul dari peristiwa masa lalu yang penyelesaiannya mengakibatkan aliran keluar sumber daya ekonomi pemerintah daerah.
+50. Kewajiban adalah utang yang timbul dari peristiwa masa lalu yang penyelesaiannya mengakibatkan aliran keluar sumber daya ekonomi pemerintah daerah.
 
-S1. Ekuitas adalah kekayaan bersih pemerintah daerah yang merupakan selisih antara aset dan kewajiban pemerintah daerah.
+51. Ekuitas adalah kekayaan bersih pemerintah daerah yang merupakan selisih antara aset dan kewajiban pemerintah daerah.
 
-52. Konsolidasi adalah proses penggabungan antara akunakun yang diselenggarakan oleh suatu entitas pelaporan dengan entitas pelaporan lainnya, dengan mengeliminasi akun-akun timbal balik agar dapat disajikan sebagai satu entitas pelaporan konsolidasi.
+52. Konsolidasi adalah proses penggabungan antara akun-akun yang diselenggarakan oleh suatu entitas pelaporan dengan entitas pelaporan lainnya, dengan mengeliminasi akun-akun timbal balik agar dapat disajikan sebagai satu entitas pelaporan konsolidasi.
 
 53. Laporan Keuangan Konsolidasi adalah laporan keuangan yang merupakan gabungan keseluruhan laporan keuangan SKPD sehingga tersaji sebagai laporan keuangan Pemerintah Kabupaten Sekadau.
 
@@ -312,16 +305,12 @@ TTD
 MOHAMMAD ISA
 BERITA DAERAH KABUPATEN SEKADAU TAHUN 2022 NOMOR 49
 Salinan sesuai dengan aslinya
-FA Kep Bagian Hukum
-N Peran TN aerah Kabupaten Sekadau,
-Tn
-Ss ART
-wu Saori z
-a ERD:
-—.,
-4 ZULFIAKLY, 5
-$gembi / (IV/b)
-SARA DI, 112006041015
+Plt. Kepala Bagian Hukum
+Sekretariat Daerah Kabupaten Sekadau,
+TTD dan cap
+ZULFIAKLI, S.H
+Pembina Tk. I (IV/b)
+NIP [sebagian tertutup cap] ...112006041015
 
 ## Lampiran
 

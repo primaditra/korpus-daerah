@@ -8,7 +8,7 @@ sumber_teks: ocr
 ---
 # Peraturan Bupati Ketapang Nomor 8 Tahun 2024 tentang Pengadaan Barang/Jasa pada Badan Layanan Umum Daerah Unit Pelaksana Teknis Dinas Kesehatan Kabupaten Ketapang
 
-> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
 
 ## Pembukaan
 
@@ -37,8 +37,8 @@ b. bahwa berdasarkan pertimbangan sebagaimana
 dimaksud dalam huruf a, perlu menetapkan
 Peraturan Bupati tentang Pengadaan Barang/Jasa
 pada Badan Layanan Umum Daerah Unit Pelaksana
-Teknis Dinas Kesehatan Kabupaten Ketapang,
-Mengingat : Il. Undang-Undang Nomor 27 Tahun 1959 tentang
+Teknis Dinas Kesehatan Kabupaten Ketapang;
+Mengingat : 1. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3 Tahun
 1953 tentang Perpanjangan Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara Republik
@@ -53,7 +53,7 @@ dengan mengubah Undang-Undang Nomor 27 Tahun
 1959 tentang Perpanjangan Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara Republik
 Indonesia Tahun 1965 Nomor 51, Tambahan Lembar
-Negara Republik Indonesia Nomor 2756),
+Negara Republik Indonesia Nomor 2756);
 2. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2014 Nomor 244, Tambahan
@@ -64,7 +64,7 @@ Penetapan Peraturan Pemerintah Pengganti Undang-
 Undang Nomor 2 Tahun 2022 tentang Cipta Kerja
 menjadi Undang-Undang (Lembaran Negara Republik
 Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran
-Negara Republik Indonesia Nomor 6856),
+Negara Republik Indonesia Nomor 6856);
 3. Peraturan Pemerintah Nomor 23 Tahun 2005 tentang
 Pengelolaan Keuangan Badan Layanan Umum
 (Lembaran Negara Republik Indonesia Tahun 2005
@@ -75,7 +75,7 @@ tentang Perubahan Atas Peraturan Pemerintah Nomor
 23 Tahun 2005 tentang Pengelolaan Keuangan Badan
 Layanan Umum (Lembaran Negara Republik Indonesia
 Tahun 2012 Nomor 171, Tambahan Lembaran Negara
-Republik Indonesia Nomor 5340),
+Republik Indonesia Nomor 5340);
 4. Peraturan Presiden Republik Indonesia Nomor 16
 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah (Lembaran Negara Republik Indonesia
@@ -84,7 +84,7 @@ dengan Peraturan Presiden Nomor 12 Tahun 2021
 tentang Perubahan Atas Peraturan Presiden Nomor 16
 Tahun 2018 tentang Pengadaan Barang/Jasa
 Pemerintah (Lembaran Negara Republik Indonesia
-Tahun 2021 Nomor 63),
+Tahun 2021 Nomor 63);
 5. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015
 tentang Pembentukan Produk Hukum Daerah (Berita
 Negara Republik Indonesia Tahun 2015 Nomor 2036)
@@ -93,14 +93,14 @@ dalam Negeri Nomor 120 Tahun 2018 tentang
 Perubahan Atas Peraturan Menteri Dalam Negeri Nomor
 80 Tahun 2015 tentang Pembentukan Produk Hukum
 Daerah (Berita Negara Republik Indonesia Tahun 2019
-Nomor 157),
+Nomor 157);
 6. Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018
 tentang Badan Layanan Umum Daerah (Berita Negara
-Republik Indonesia Tahun 2018 Nomor 1213),
+Republik Indonesia Tahun 2018 Nomor 1213);
 7. Peraturan Menteri Dalam Negeri Nomor 77 Tahun 2020
 tentang Pedoman Teknis Pengelolaan Keuangan Daerah
 (Berita Negara Republik Indonesia Tahun 2020 Nomor
-1781):
+1781);
 8. Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa
 Pemerintah Nomor 5 Tahun 2021 tentang Pedoman
 Pengadaan Barang/Jasa Yang Dikecualikan Pada
@@ -115,7 +115,6 @@ KETAPANG.
 ## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
-
 Dalam Peraturan Bupati ini, yang dimaksud dengan:
 
 1. Daerah adalah Kabupaten Ketapang.
@@ -170,7 +169,7 @@ Dalam Peraturan Bupati ini, yang dimaksud dengan:
 
 26. Pembelan secara Elektronik yang selanjutnya disebut E-purchasing adalah tata cara pembelian barang/jasa melalui sistem katalog elektronik atau toke daring.
 
-271. Tender adalah metode pemilihan untuk mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya.
+27. Tender adalah metode pemilihan untuk mendapatkan Penyedia Barang/Pekerjaan Konstruksi/Jasa Lainnya.
 
 28. Seleksi adalah metode pemilihan untuk mendapatkan Penyedia Jasa Konsultansi.
 
@@ -181,84 +180,84 @@ Dalam Peraturan Bupati ini, yang dimaksud dengan:
 ## BAB II - MAKSUD DAN TUJUAN
 
 ### Pasal 2
-
 Maksud ditetapkannya Peraturan Bupati ini adalah sebagai pedoman bagi Unit Pelaksana Teknis Dinas Kesehatan yang sudah menerapkan Pola Pengelolaan Keuangan Badan Layanan Umum Daerah (PPK-BLUD) dalam rangka pelaksanaan pengadaan barang/jasa BLUD.
 
 ### Pasal 3
-
 Tujuan disusunnya Peraturan Bupati ini adalah :
 
-a. dalam rangka tertib administrasi pelaksanaan pengadaan barang/jasa BLUD pada Unit Pelaksana Teknis Dinas Kesehatan,
+a. dalam rangka tertib administrasi pelaksanaan pengadaan barang/jasa BLUD pada Unit Pelaksana Teknis Dinas Kesehatan;
 
-b. untuk memberikan fleksibilitas pada BLUD berupa pembebasan sebagian dari ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah, dan
+b. untuk memberikan fleksibilitas pada BLUD berupa pembebasan sebagian dari ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah; dan
 
 c. meningkatkan kualitas dan kuantitas pengadaan barang/jasa pada BLUD dengan menjamin ketersediaan barang/jasa yang lebih bermutu, lebih murah, proses pengadaan yang sederhana, cepat dan mudah sesuai dengan kebutuhan untuk mendukung kelancaran pelayanan BLUD dalam rangka mewujudkan peningkatan pelayanan publik dan pengembangan perekonomian daerah.
 
 ### Pasal 4
-
 Ruang lingkup Peraturan Bupati ini, meliputi :
 
-a. prinsip, kebijakan dan etika pengadaan barang/jasa,
+a. prinsip, kebijakan dan etika pengadaan barang/jasa;
 
-b. perencanaan pengadaan barang/jasa,
+b. perencanaan pengadaan barang/jasa;
 
-c. pelaksana pengadaan barang/jasa, dan
+c. pelaksana pengadaan barang/jasa; dan
 
 d. jenjang nilai pengadaan.
 
 ## BAB III - PRINSIP, KEBIJAKAN DAN ETIKA PENGADAAN BARANG/JASA
 
 ### Pasal 5
-
 Pengadaan barang/jasa BLUD pada Unit Pelaksana Tekris Dinas Kesehatan dilakukan berdasarkan prinsip :
 
-a. efisien, yaitu pengadaan barang/jasa harus diusahakan dengan menggunakan dana dan daya yang terbatas untuk mencapai sasaran yang ditetapkan dalam waktu paling singkat dan dapat dipertanggungjawabkan,
+a. efisien, yaitu pengadaan barang/jasa harus diusahakan dengan menggunakan dana dan daya yang terbatas untuk mencapai sasaran yang ditetapkan dalam waktu paling singkat dan dapat dipertanggungjawabkan;
 
 b. efektif, yaitu dengan sumber daya yang tersedia diperoleh barang/jasa yang mempunyai nilai manfaat paling tinggi, yang dapat berupa:
 
-1. kualitas terbaik,
+1. kualitas terbaik;
 
-2. penyerahan tepat waktu, 3, kuantitas terpenuhi, 4, mampu bersinergi dengan barang/jasa lainnya, dan
+2. penyerahan tepat waktu;
 
-5. terwujudnya dampak optimal terhadap keseluruhan pencapaian kebijakan atau program. Cc. transparan, yaitu pemberian informasi yang lengkap kepada seluruh calon peserta yang disampaikan melalui media informasi yang dapat menjangkau seluas - luasnya dunia usaha yang diperkirakan akan ikut dalam proses pengadaan barang/jasa,
+3. kuantitas terpenuhi;
 
-d. terbuka dan bersaing, yaitu pengadaan barang/jasa harus terbuka bagi penyedia barang/jasa yang memenuhi persyaratan dan dilakukan melalui persaingan yang sehat di antara penyedia barang/jasa yang setara dan memenuhi syarat/kriteria tertentu berdasarkan ketentuan dan prosedur yang jelas dan transparan,
+4. mampu bersinergi dengan barang/jasa lainnya; dan
 
-e. adil/tidak diskriminatif, yaitu pemberian perlakuan yang sama terhadap semua calon yang berminat sehingga terwujud adarya persaingan yang sehat dan tidak mengarah untuk memberikan keuntungan kepada pihak tertentu dengan dan atau alasan apapun,
+5. terwujudnya dampak optimal terhadap keseluruhan pencapaian kebijakan atau program. Cc. transparan, yaitu pemberian informasi yang lengkap kepada seluruh calon peserta yang disampaikan melalui media informasi yang dapat menjangkau seluas - luasnya dunia usaha yang diperkirakan akan ikut dalam proses pengadaan barang/jasa;
 
-f. akuntabel, yaitu harus mencapai sasaran baik fisik, keuangan maupun manfaat bagi kelancaran pelaksanaan tugas umum pemerintahan dan pelayanan masyarakat sesuai dengan prinsip - prinsip serta ketentuan yang berlaku dalam pengadaan barang dan jasa, dan
+d. terbuka dan bersaing, yaitu pengadaan barang/jasa harus terbuka bagi penyedia barang/jasa yang memenuhi persyaratan dan dilakukan melalui persaingan yang sehat di antara penyedia barang/jasa yang setara dan memenuhi syarat/kriteria tertentu berdasarkan ketentuan dan prosedur yang jelas dan transparan;
+
+e. adil/tidak diskriminatif, yaitu pemberian perlakuan yang sama terhadap semua calon yang berminat sehingga terwujud adarya persaingan yang sehat dan tidak mengarah untuk memberikan keuntungan kepada pihak tertentu dengan dan atau alasan apapun;
+
+f. akuntabel, yaitu harus mencapai sasaran baik fisik, keuangan maupun manfaat bagi kelancaran pelaksanaan tugas umum pemerintahan dan pelayanan masyarakat sesuai dengan prinsip - prinsip serta ketentuan yang berlaku dalam pengadaan barang dan jasa; dan
 
 g. praktek bisnis yang sehat, yaitu penyelenggaraan fungsi organisasi berdasarkan kaidah-kaidah manajemen yang baik dalam rangka pemberian layanan yang bermutu, berkesinambungan dan berdaya saing.
 
 ### Pasal 6
-
 Kebijakan pengadaan barang/jasa BLUD pada Unit Pelaksana Teknis Dinas Kesehatan, sebagai berikut :
 
-a. meningkatkan kualitas perencanaan pengadaan barang/jasa,
+a. meningkatkan kualitas perencanaan pengadaan barang/jasa;
 
-b. melaksanakan Pengadaan Barang/Jasa yang lebih transparan, terbuka, dan kompetitif:
+b. melaksanakan Pengadaan Barang/Jasa yang lebih transparan, terbuka, dan kompetitif;
 
-c. “mendorong penggunaan barang/jasa dalam negeri dan Standar Nasional Indonesia (SNI),
+c. “mendorong penggunaan barang/jasa dalam negeri dan Standar Nasional Indonesia (SNI);
 
-d. memberikan kesempatan kepada Usaha Mikro, Usaha Kecil, dan Usaha Menengah, dan
+d. memberikan kesempatan kepada Usaha Mikro, Usaha Kecil, dan Usaha Menengah; dan
 
 e. melaksanakan pengadaan berkelanjutan.
 
 ### Pasal 7
-
 Semua pihak yang terlibat dalam pengadaan barang dan/atau jasa BLUD wajib mematuhi etika sebagai berikut:
 
-a. melaksanakan tugas secara tertib, dan tanggung jawab untuk mencapai sasaran, kelancaran dan ketepatan tujuan pengadaan barang/jasa,
+a. melaksanakan tugas secara tertib, dan tanggung jawab untuk mencapai sasaran, kelancaran dan ketepatan tujuan pengadaan barang/jasa;
 
-b. bekerja secara professional, mandiri dan menjaga kerahasiaan informasi yang menurut sifatnya harus dirahasiakan untuk mencegah penyimpangan pengadaan barang/jasa,
+b. bekerja secara professional, mandiri dan menjaga kerahasiaan informasi yang menurut sifatnya harus dirahasiakan untuk mencegah penyimpangan pengadaan barang/jasa;
 
-c. (tidak saling mempengaruhi baik langsung maupun tidak langsung yang berakibat usaha tidak sehat,
+c. (tidak saling mempengaruhi baik langsung maupun tidak langsung yang berakibat usaha tidak sehat;
 
-d. menerima dan bertanggung jawab atas segala keputusan yang ditetapkan sesuai dengan kesepakatan tertulis pihak yang terkait,
+d. menerima dan bertanggung jawab atas segala keputusan yang ditetapkan sesuai dengan kesepakatan tertulis pihak yang terkait;
 
-e. menghindari dan mencegah terjadinya pertentangan kepentingan pihak yang terkait, baik secara langsung maupun tidak langsung, yang berakibat persaingan usaha tidak sehat dalam pengadaan barang/jasa,
+e. menghindari dan mencegah terjadinya pertentangan kepentingan pihak yang terkait, baik secara langsung maupun tidak langsung, yang berakibat persaingan usaha tidak sehat dalam pengadaan barang/jasa;
 
-f. menghindari dan mencegah pemborosan dan kebocoran keuangan BLUD, g menghindari dan mencegah penyalahgunaan wewenang dan/atau kolusi, dan
+f. menghindari dan mencegah pemborosan dan kebocoran keuangan BLUD;
+
+g. menghindari dan mencegah penyalahgunaan wewenang dan/atau kolusi; dan
 
 h. tidak menerima, tidak menawarkan, atau tidak menjanjikan untuk memberi atau menerima hadiah, imbalan, komisi, rabat dan dalam bentuk apapun dari atau kepada siapapun yang diketahui atau patut diduga berkaitan dengan pengadaan barang/jasa.
 
@@ -267,18 +266,16 @@ h. tidak menerima, tidak menawarkan, atau tidak menjanjikan untuk memberi atau m
 **Bagian Kesatu** **Pengumuman Rencana Umum Pengadaan**
 
 ### Pasal 8
-
 (1) Pengumuman rencana umum pengadaan dilakukan setelah penetapan rencana Bisnis dan Anggaran (RBA) dan Rencana Kerja Anggaran (RKA).
 
-(2) — Pengumuman rencana umum pengadaan sebagaimana dimaksud pada ayat (l) dilakukan melalui aplikasi system informasi rencana umum pengadaan.
+(2) — Pengumuman rencana umum pengadaan sebagaimana dimaksud pada ayat (1) dilakukan melalui aplikasi system informasi rencana umum pengadaan.
 
 (3) “Pengumuman rencana umum pengadaan melalui sistem informasi rencana umum pengadaan sebagaimana dimaksud pada ayat (2) dapat ditambahkan dalam website pada BLUD, papan pengumuman resmi untuk masyarakat, suara kabar, dan/atau media lainnya. (4 Pengumuman rencana umum pengadaan dilakukan kembali dalam hal terdapat perubahan paket pengadaan di dalam Recana Bisnis Anggaran (RBA).
 
 **Bagian Kedua** **Pemaketan dan/atau Konsolidasi**
 
 ### Pasal 9
-
-(l) Pengadaan barang/jasa dapat dilakukan pemaketan dan/atau konsolidasi Pengadaan Barang/Jasa.
+(1) Pengadaan barang/jasa dapat dilakukan pemaketan dan/atau konsolidasi Pengadaan Barang/Jasa.
 
 (2) Untuk mencapai best value fur money, pemaketan dan/atau konsolidasi pengadaan barang/jasa dapat dilakukan dengan cara menggabungkan beberapa paket pengadaan barang/jasa yang sejenisnya pada BLUD Unit Pelaksana Teknis Dinas Kesehatan.
 
@@ -287,27 +284,25 @@ h. tidak menerima, tidak menawarkan, atau tidak menjanjikan untuk memberi atau m
 ## BAB V - PELAKSANAAN PENGADAAN
 
 ### Pasal 10
-
-(l) Pengadaan barang/jasa pada BLUD Unit Pelaksana Teknis Dinas Kesehatan yang bersumber dari Anggaran Pendapatan Belanja Daerah dilaksanakan berdasarkan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.
+(1) Pengadaan barang/jasa pada BLUD Unit Pelaksana Teknis Dinas Kesehatan yang bersumber dari Anggaran Pendapatan Belanja Daerah dilaksanakan berdasarkan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.
 
 (2) Pengadaan barang/jasa pada BLUD Unit Pelaksana Teknis Dinas Kesehatan yang bersumber dari:
 
-a. jasa layanan,
+a. jasa layanan;
 
-b. hibah tidak terikat,
+b. hibah tidak terikat;
 
-c. hasil kerja sama dengan pihak lain, dan
+c. hasil kerja sama dengan pihak lain; dan
 
 d. lain-lain pendapatan BLUD yang sah, diberikan fleksibilitas berupa pembebasan sebagian atau seluruhnya dari ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.
 
 (3) Fleksibilitas sebagaimana dimaksud pada ayat (2) bertujuan untuk menjamin ketersediaan barang dan /atau jasa yang lebih bermutu, lebih murah, proses pengadaan yang sederhana, cepat serta mudah menyesuaikan dengan kebutuhan guna mendukung kelancaran pelayanan pada BLUD. (H Pengadaan barang/jasa yang dananya berasal dari hibah terikat dilakukan sesuai dengan:
 
-a. kebijakan pengadaan dari pemberi hibah, atau
+a. kebijakan pengadaan dari pemberi hibah; atau
 
 b. Peraturan Bupati ini sepanjang disetujui pemberi hibah.
 
 ### Pasal 11
-
 (1) Pengadaan barang/jasa sebagaimana dimaksud dalam Pasal 10 ayat (2) dilakukan oleh pelaksana pengadaan.
 
 (2) Pelaksana pengadaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh panitia atau unit yang dibentuk untuk melaksanakan pengadaan barang/jasa BLUD.
@@ -315,18 +310,17 @@ b. Peraturan Bupati ini sepanjang disetujui pemberi hibah.
 (3) Pelaksana pengadaan sebagaimana dimaksud pada ayat (2) terdiri atas personil yang memahami tata cara pengadaan, substansi pekerjaan/kegiatan yang bersangkutan dan bidang lain yang diperlukan.
 
 ### Pasal 12
-
 (1) Pelaksana pengadaan barang/jasa pada BLUD terdiri atas:
 
-a. PA/KPA:
+a. PA/KPA;
 
-b. Pejabat Pembuat Komitmen (PPK),
+b. Pejabat Pembuat Komitmen (PPK);
 
-c. Pejabat Pengadaan,
+c. Pejabat Pengadaan;
 
-d. Pokja Pemilihan,
+d. Pokja Pemilihan;
 
-e. Penyedia, dan
+e. Penyedia; dan
 
 f. pihak lain yang diperlukan sesuai ketentuan peraturan perundang-undangan.
 
@@ -337,95 +331,93 @@ f. pihak lain yang diperlukan sesuai ketentuan peraturan perundang-undangan.
 (4) Pembinaan kompetensi dan pendampingan pelaksanaan pengadaan barang/jasa dapat dilakukan oleh unit kerja yang membidangi pengadaan barang/jasa pada Sekretariat Daerah.
 
 ### Pasal 13
-
 PA sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf a, dalam pengadaan barang/jasa memiliki tugas dan wewenang:
 
-a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja:
+a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja;
 
-b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan,
+b. mengadakan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan;
 
-c. menetapkan perencanaan pengadaan,
+c. menetapkan perencanaan pengadaan;
 
-d. menetapkan dan mengumumkan RUP:
+d. menetapkan dan mengumumkan RUP;
 
-e. melaksanakan Konsolidasi Pengadaan Barang/Jasa,
+e. melaksanakan Konsolidasi Pengadaan Barang/Jasa;
 
-f. menetapkan Penunjukan Langsung untuk Tender/Seleksi ulang gagal. g menetapkan pengenaan Sanksi Daftar Hitam:
+f. menetapkan Penunjukan Langsung untuk Tender/Seleksi ulang gagal.
 
-h. menetapkan PPK,
+g. menetapkan pengenaan Sanksi Daftar Hitam:
 
-i. menetapkan Pejabat Pengadaan,
+h. menetapkan PPK;
 
-j. menetapkan Penyelenggara Swakelola:
+i. menetapkan Pejabat Pengadaan;
 
-k. menetapkan tim teknis,
+j. menetapkan Penyelenggara Swakelola;
 
-l. menetapkan tim juri/tim ahli untuk pelaksanaan melalui Sayembara/ Kontes,
+k. menetapkan tim teknis;
 
-m. menyatakan Tender gagal/Seleksi gagal, dan
+l. menetapkan tim juri/tim ahli untuk pelaksanaan melalui Sayembara/ Kontes;
+
+m. menyatakan Tender gagal/Seleksi gagal; dan
 
 n. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan :
 
-1. Tender/Penunjukan Langsung/ E-purchasing untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling sedikit di atas Rp100.000.000.000,00 (seratus miliar rupiah), atau
+1. Tender/Penunjukan Langsung/ E-purchasing untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling sedikit di atas Rp100.000.000.000,00 (seratus miliar rupiah); atau
 
 2. Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai Pagu Anggaran paling sedikit di atas Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
 ### Pasal 14
-
 (1) KPA sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf a, dalam pengadaan barang/jasa memiliki tugas dan wewenang yakni melaksanakan pendelegasian kewenangan sesuai dengan pelimpahan dari PA sebagaimana dimaksud dalam Pasal 13 huruf a sampai dengan huruf g
 
 (2) Selain kewenangan sebagaimana dimaksud pada ayat (1), KPA berwenangan menjawab Sanggah Banding peserta Tender Pekerjaan Kontruksi.
 
 ### Pasal 15
-
 (1) PPK sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf b, dalam pengadaan barang/jasa memiliki tugas dan wewenang:
 
-a. menyusun perencanaan pengadaan,
+a. menyusun perencanaan pengadaan;
 
-b. melaksanakan Konsolidasi Pengadaan Barang/Jasa,
+b. melaksanakan Konsolidasi Pengadaan Barang/Jasa;
 
-c. menetapkan spesifikasi teknis/Kerangka Acuan Kerja (KAK),
+c. menetapkan spesifikasi teknis/Kerangka Acuan Kerja (KAK);
 
-d. menetapkan rancangan kontrak,
+d. menetapkan rancangan kontrak;
 
-e. menetapkan HPS:
+e. menetapkan HPS;
 
-f. menetapkan besaran uang muka yang akan dibayarkan kepada Penyedia,
+f. menetapkan besaran uang muka yang akan dibayarkan kepada Penyedia;
 
-g. mengusulkan perubahan jadwal kegiatan,
+g. mengusulkan perubahan jadwal kegiatan;
 
-h. melaksanakan E-puchasing,
+h. melaksanakan E-puchasing;
 
-i. mengendalikan kontrak,
+i. mengendalikan kontrak;
 
-j. menyimpan dan menjaga keutuhan seluruh dokumen pelaksanaan kegiatan,
+j. menyimpan dan menjaga keutuhan seluruh dokumen pelaksanaan kegiatan;
 
-k. melaporkan pelaksanaan dan penyelesaian kegiatan kepada PA/KPA,
+k. melaporkan pelaksanaan dan penyelesaian kegiatan kepada PA/KPA;
 
-l. menyerahkan hasil pekerjaan pelaksanaan kegiatan kepada PA/KPA dengan berita acara penyerahan,
+l. menyerahkan hasil pekerjaan pelaksanaan kegiatan kepada PA/KPA dengan berita acara penyerahan;
 
-m. menilai kinerja Penyedia,
+m. menilai kinerja Penyedia;
 
-n. menetapkan tim pendukung,
+n. menetapkan tim pendukung;
 
-o. menetapkan tim ahli atau tenaga ahli, dan
+o. menetapkan tim ahli atau tenaga ahli; dan
 
 p. menetapkan Surat Penunjukan Penyedia Barang/Jasa.
 
-(2) Pelaksanaan E-purchasing sebagaimana dimaksud pada ayat (l) huruf h, terbagi atas:
+(2) Pelaksanaan E-purchasing sebagaimana dimaksud pada ayat (1) huruf h, terbagi atas:
 
-a. rumah sakit untuk nilai paling sedikit di atas Rp1.000.000.000,- (satu miliar rupiah), dan
+a. rumah sakit untuk nilai paling sedikit di atas Rp1.000.000.000,- (satu miliar rupiah); dan
 
 b. pusat kesehatan masyarakat dan laboratorium kesehatan daerah untuk nilai paling sedikit di atas Rp200.000.000,- (dua ratusjuta rupiah).
 
 (3) Selain melaksanakan tugas sebagaimana dimaksud pada ayat (1), PPK melaksanakan tugas sebagai berikut:
 
-a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja, dan
+a. melakukan tindakan yang mengakibatkan pengeluaran anggaran belanja; dan
 
 b. mengadakan dan menetapkan perjanjian dengan pihak lain dalam batas anggaran belanja yang telah ditetapkan.
 
 ### Pasal 16
-
 (1) PPK ditetapkan oleh PA.
 
 (2) PPK sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan sebagaimana diatur dalam peraturan perundang-undangan yang mengatur tentang Pengadaan Barang/Jasa Pemerintah.
@@ -435,7 +427,6 @@ b. mengadakan dan menetapkan perjanjian dengan pihak lain dalam batas anggaran b
 (4) PPTK yang melaksanakan tugas PPK sebagaimana dimaksud pada ayat (3) wajib memenuhi persyaratan kompetensi PPK.
 
 ### Pasal 17
-
 (1) Pejabat Pengadaan sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf c, ditetapkan oleh PA.
 
 (2) Pejabat Pengadaan sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan sebagaimana diatur dalam peraturan perundang-undangan yang mengatur tentang Pengadaan Barang/Jasa Pemerintah. 2 -10-
@@ -444,61 +435,58 @@ b. mengadakan dan menetapkan perjanjian dengan pihak lain dalam batas anggaran b
 
 (4) Pejabat Pengadaan sebagaimana dimaksud pada ayat (1), dalam pengadaan barang/jasa memiliki tugas dan kewenangan:
 
-a. melaksanakan persiapan dan pelaksanaan Pengadaan Langsung,
+a. melaksanakan persiapan dan pelaksanaan Pengadaan Langsung;
 
-b. melaksanakan persiapan dan pelaksanaan Penunjukan Langsung untuk pengadaan barang/pekerjaan konstruksi/jasa lainnya yang bernilai paling banyak Rp1.000.000.000,00 (satu miliar rupiah),
+b. melaksanakan persiapan dan pelaksanaan Penunjukan Langsung untuk pengadaan barang/pekerjaan konstruksi/jasa lainnya yang bernilai paling banyak Rp1.000.000.000,00 (satu miliar rupiah);
 
-c. melaksanakan persiapan dan pelaksanaan Penunjukan Langsung untuk pengadaan jasa konsultansi yang bernilai paling banyak Rp250.000.000,00 (dua ratus lima puluh juta rupiah), dan
+c. melaksanakan persiapan dan pelaksanaan Penunjukan Langsung untuk pengadaan jasa konsultansi yang bernilai paling banyak Rp250.000.000,00 (dua ratus lima puluh juta rupiah); dan
 
 d. melaksanakan E-purchasing, yang terbagi atas:
 
-1. rumah sakit untuk nilai paling banyak Rp1.000.000.000,- (satu miliar rupiah), dan
+1. rumah sakit untuk nilai paling banyak Rp1.000.000.000,- (satu miliar rupiah); dan
 
 2. pusat kesehatan masyarakat dan laboratorium kesehatan daerah untuk nilai paling banyak Rp200.000.000,- (dua ratusjuta rupiah).
 
 ### Pasal 18
-
 Pokja Pemilihan sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf d memiliki tugas dan kewenangan:
 
-a. melaksanakan persiapan dan pelaksanaan pemilihan Penyedia kecuali E-purchasing dan Pengadaan Langsung,
+a. melaksanakan persiapan dan pelaksanaan pemilihan Penyedia kecuali E-purchasing dan Pengadaan Langsung;
 
 b. menetapkan pemenang pemilihan/Penyedia untuk metode pemilihan:
 
-1. Tender/Penunjukan Langsung untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling banyak Rp100.000.000.000,00 (seratus miliar rupiah), dan
+1. Tender/Penunjukan Langsung untuk paket Pengadaan Barang/Pekerjaan Konstruksi/Jasa Lainnya dengan nilai Pagu Anggaran paling banyak Rp100.000.000.000,00 (seratus miliar rupiah); dan
 
 2. Seleksi/Penunjukan Langsung untuk paket Pengadaan Jasa Konsultansi dengan nilai Pagu Anggaran paling banyak Rp10.000.000.000,00 (sepuluh miliar rupiah).
 
 ### Pasal 19
-
 (1) Penyedia sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf e wajib memenuhi kualifikasi sesuai dengan barang/jasa yang diadakan dan sesuai dengan ketentuan peraturan perundang -undangan. (2 Penyedia sebagaimana dimaksud pada ayat (1) bertanggungjawab atas:
 
-a. pelaksanaan Kontrak,
+a. pelaksanaan Kontrak;
 
-b. kualitas barang/jasa,
+b. kualitas barang/jasa;
 
-c. ketepatan perhitungan jumlah atau volume,
+c. ketepatan perhitungan jumlah atau volume;
 
-d. ketepatan waktu penyerahan, dan
+d. ketepatan waktu penyerahan; dan
 
 e. ketepatan tempat penyerahan.
 
 ## BAB VI - JENJANG NILAI PENGADAAN
 
 ### Pasal 20
-
 (1) Pengadaan barang/jasa sebagaimana dimaksud dalam Pasal 10 ayat (2), diselenggarakan berdasarkan jenjang nilai yang diatur sebagai berikut:
 
-a. Pengadaan barang/jasa dengan nilai paling banyak Rp1.000.000.000.00 (satu miliar rupiah) dilakukan dengan metode pengadaan langsung, dan
+a. Pengadaan barang/jasa dengan nilai paling banyak Rp1.000.000.000.00 (satu miliar rupiah) dilakukan dengan metode pengadaan langsung; dan
 
 b. Pengadaan barang/jasa dengan nilai diatas Rp1.000.000.000,00 (satu miliar rupiah) dilakukan dengan metode tender.
 
 (2) Dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (1), terhadap pengadaan barang/jasa yang memenuhi kondisi sebagai berikut
 
-a. Cito dan Urgent,
+a. Cito dan Urgent;
 
-b. Barang / Jasa pada e-catalouge,
+b. Barang / Jasa pada e-catalouge;
 
-c. Pembelian dalam online shop atau market place yang telah dikenal luas dalam praktik bisnis,
+c. Pembelian dalam online shop atau market place yang telah dikenal luas dalam praktik bisnis;
 
 d. Barang/jasa spesifik.
 
@@ -507,11 +495,9 @@ d. Barang/jasa spesifik.
 ## BAB VII - KETENTUAN PENUTUP
 
 ### Pasal 21
-
 Pada saat Peraturan Bupati ini mulai berlaku, maka Peraturan Bupati Ketapang Nomor 48 Tahun 2009 tentang Jenjang Nilai Pengadaan Barang dan/atau Jasa pada Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Dokter Agoesdjam Kabupaten Ketapang (Berita Daerah Kabupaten Ketapang Tahun 2009 Nomor 48) dicabut dan dinyatakan tidak berlaku.
 
 ### Pasal 22
-
 Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup

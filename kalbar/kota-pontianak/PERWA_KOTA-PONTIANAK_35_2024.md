@@ -797,7 +797,7 @@ c. penyampaian surat teguran secara tertulis kepada yang bersangkutan dengan mem
 
 ### Pasal 35
 
-(1) Penayangan Materi Reklame yang tclah dilakukan sebelum berlakunya Peraturan Wali Kota ini, dapat dilakukan Penagihan Pajak Reklame.
+(1) Penayangan Materi Reklame yang telah dilakukan sebelum berlakunya Peraturan Wali Kota ini, dapat dilakukan Penagihan Pajak Reklame.
 
 (2) Wali Kota dapat memberikan pembebasan pajak reklame berupa pokok atau sanksi pada peringatan Hari Kemerdekaan dan peringatan Hari Jadi Kota Pontianak.
 
@@ -817,17 +817,17 @@ Peraturan Wali Kota ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Wali
-Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Wali Kota ini dengan penempatannya dalam Berita Daerah Kota Pontianak.
+
 Ditetapkan di Pontianak
-pada tanggal /.A0 cm ber 201
+pada tanggal 1 November 2024 [ditulis tangan]
 Pj. WALI KOTA PONTIANAK,
-EDI I-
+EDI SURYANTO
 Diundangkan di Pontianak
-pada tanggal .|. November” 201y
-Yng KOTA PONTIANAK,
+pada tanggal 1 November 2024 [ditulis tangan]
+SEKRETARIS DAERAH KOTA PONTIANAK,
 AMIRULLAH
-BERITA DAERAH KOTA PONTIANAK TAHUN 2024 NOMOR 35
+BERITA DAERAH KOTA PONTIANAK TAHUN 2024 NOMOR 35 [nomor ditulis tangan]
 
 ## Lampiran
 

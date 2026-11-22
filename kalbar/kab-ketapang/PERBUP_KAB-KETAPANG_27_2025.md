@@ -8,7 +8,7 @@ sumber_teks: ocr
 ---
 # Peraturan Bupati Ketapang Nomor 27 Tahun 2025 tentang Tata Cara Kerja Sama Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Dokter Agoesdjam Kabupaten Ketapang
 
-> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai, belum dicocokkan kata per kata dengan gambar halaman; Penutup dibaca dari gambar halaman. Cocokkan mandiri dengan PDF sebelum mengutip.
+> Teks hasil OCR ulang 300 dpi dari PDF hasil pindai; dicocokkan dengan OCR independen dan gambar halaman.
 
 ## Pembukaan
 
@@ -25,7 +25,7 @@ Menimbang : bahwa untuk melaksanakan ketentuan Pasal 91 ayat
 2018 tentang Badan Layanan Umum Daerah, perlu
 menetapkan Peraturan Bupati tentang Tata Cara
 Kerjasama Badan Layanan Umum Daerah Rumah
-Sakit Umum Daerah Dokter Agoesdjam,
+Sakit Umum Daerah Dokter Agoesdjam;
 1. Undang - Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang - Undang Darurat Nomor 3 Tahun
 1953 tentang Perpanjangan Pembentukan Daerah
@@ -43,7 +43,7 @@ Undang Darurat Nomor 3 Tahun 1953 tentang
 Perpanjangan Pembentukan Daerah Tingkat II Di
 Kalimantan (Lembaran Negara Republik Indonesia
 Tahun 1965 Nomor 51, Tambahan Lembaran Negara
-Republik Indonesia Nomor 2756),
+Republik Indonesia Nomor 2756);
 2. Undang —- Undang Nomor 44 Tahun 2009 tentang
 Rumah Sakit (Lembaran Negara Republik Indonesia
 Tahun 2009 Nomor 153, Tambahan Lembaran
@@ -54,8 +54,7 @@ Pemerintah Pengganti Undang-Undang Nomor 2
 Tahun 2022 tentang Cipta Kerja menjadi Undang-
 Undang (Lembaran Negara Republik Indonesia
 Tahun 2023 Nomor 41, Tambahan Lembaran Negara
-Republik Indonesia Nomor 6856),
-AA PE ee aan 3
+Republik Indonesia Nomor 6856);
 3. Undang-Undang Nomor 23 Tahun 2014 tentang
 Pemerintahan Daerah (Lembaran Negara Republik
 Indonesia Tahun 2014 Nomor 244, Tambahan
@@ -65,20 +64,20 @@ dengan Undang-Undang Nomor 6 Tahun 2023
 tentang Cipta Kerja menjadi Undang-undang
 (Lembaran Negara Republik Indonesia Tahun 2023
 Nomor 41, Tambahan Lembaran Negara Republik
-Indonesia Nomor 6856),
+Indonesia Nomor 6856);
 4. Peraturan Menteri Dalam Negeri Nomor 79 Tahun
 2018 tentang Badan Layanan Umum Daerah (Berita
 Negara Republik Indonesia Tahun 2018 Nomor
-1213),
+1213);
 5. Peraturan Menteri Dalam Negeri Nomor 22 Tahun
 2020 tentang Tata Cara Kerja Sama Daerah Dengan
 Daerah Lain Dan Kerja Sama Daerah Dengan Pihak
 Ketiga (Berita Negara Republik Indonesia Tahun
-2020 Nomor 371),
+2020 Nomor 371);
 6. Peraturan Bupati Ketapang Nomor 13 Tahun 2020
 tentang Susunan Organisasi Rumah Sakit Umum
 Daerah Dokter Agoesdjam Ketapang (Berita Daerah
-Ketapang Tahun 2020 Nomor 13),
+Ketapang Tahun 2020 Nomor 13);
 Menetapkan : PERATURAN BUPATI KETAPANG TENTANG TATA CARA
 KERJA SAMA BADAN LAYANAN UMUM DAERAH RUMAH
 SAKIT UMUM DAERAH DOKTER AGOESDJAM KABUPATEN
@@ -104,7 +103,7 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 7. Pejabat Pengelola adalah Pejabat Pengelola BLUD RSUD dr. Agoesdjam Ketapang yang terdiri dari Pemimpin BLUD, Pejabat Pengelola Keuangan dan Pejabat Teknis.
 
-8. Fleksibilitas adalah keleluasaan dalam pola pengelolaan keuangan dengan menerapkan praktek bisnis yang sehat untuk meningkatkan layanan kepada masyarakat tanpa mencari keuntungan dalam rangka memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa. Sg 3
+8. Fleksibilitas adalah keleluasaan dalam pola pengelolaan keuangan dengan menerapkan praktek bisnis yang sehat untuk meningkatkan layanan kepada masyarakat tanpa mencari keuntungan dalam rangka memajukan kesejahteraan umum dan mencerdaskan kehidupan bangsa.
 
 9. Praktek bisnis yang sehat adalah penyelenggaraan fungsi organisasi berdasarkan kaidah-kaidah manajemen yang baik dalam rangka pemberian layanan yang bermutu, berkesinambungan dan berdaya saing.
 
@@ -134,15 +133,15 @@ Dalam Peraturan Bupati ini yang dimaksud dengan :
 
 Ruang lingkup Peraturan Bupati ini,meliputi :
 
-a. prinsip Kerja Sama,
+a. prinsip Kerja Sama;
 
-b. subjek dan objek Kerja Sama,
+b. subjek dan objek Kerja Sama;
 
-c. bentuk Kerja Sama,
+c. bentuk Kerja Sama;
 
-d. pelimpahan wewenang,
+d. pelimpahan wewenang;
 
-e. tata cara Kerja Sama, dan
+e. tata cara Kerja Sama; dan
 
 f. hasil Kerja Sama.
 
@@ -160,7 +159,7 @@ b. efektifitas
 
 c. ekonomis :
 
-d. transparansi : mug 4
+d. transparansi :
 
 e. keadilan
 
@@ -170,29 +169,29 @@ g. itikad baik
 
 h. sinergi
 
-i. kepastian hukum, dan
+i. kepastian hukum; dan
 
 j. saling menguntungkan.
 
-(3) Efisiensi sebagaimana yang dimaksud pada ayat (2) huruf a dengan maksud dalam melaksanakan Kerja Sama, harus mempertimbangkan nilai efisiensi yaitu bagaimana menekan biaya guna memperoleh suatu hasil tertentu atau bagaimana menggunakan biaya yang sama tetapi dapat mencapai hasil yang maksimal,
+(3) Efisiensi sebagaimana yang dimaksud pada ayat (2) huruf a dengan maksud dalam melaksanakan Kerja Sama, harus mempertimbangkan nilai efisiensi yaitu bagaimana menekan biaya guna memperoleh suatu hasil tertentu atau bagaimana menggunakan biaya yang sama tetapi dapat mencapai hasil yang maksimal;
 
-(4) Efektifitas sebagaimana yang dimaksud pada ayat (2) huruf b dengan maksud dalam melaksanakan Kerja Sama harus mempertimbangkan nilai efektifitas yaitu mendorong pemanfaatan sumber daya secara optimal dan bertanggung jawab untuk kesejahteraan masyarakat,
+(4) Efektifitas sebagaimana yang dimaksud pada ayat (2) huruf b dengan maksud dalam melaksanakan Kerja Sama harus mempertimbangkan nilai efektifitas yaitu mendorong pemanfaatan sumber daya secara optimal dan bertanggung jawab untuk kesejahteraan masyarakat;
 
-(5) Ekonomis sebagaimana yang dimaksud pada ayat (2) huruf c dengan maksud dalam melakukan Kerja Sama perlu memperhitungkan nilai atas pemanfaatan dan keuntungan yang didapat,
+(5) Ekonomis sebagaimana yang dimaksud pada ayat (2) huruf c dengan maksud dalam melakukan Kerja Sama perlu memperhitungkan nilai atas pemanfaatan dan keuntungan yang didapat;
 
-(6) perlu memperhitungkan pengeluaran dan keuntungan yang didapat,
+(6) perlu memperhitungkan pengeluaran dan keuntungan yang didapat;
 
 (7) Transparansi sebagaimana yang dimaksud pada ayat (2) huruf d dengan maksud dalam melaksanakan Kerja Sama, para pihak harus mempunyai keterbukaan dalam pelaksanaan Kerja Sama, untuk dapat mengembangkan Kerja Sama dengan hasil yang maksimal, efektif dan efisien:
 
-(8) Keadilan sebagaimana yang dimaksud pada ayat (2) huruf e dengan maksud dalam melakukan Kerja Sama, para pihak wajib menjunjung persamaan hak dan kewajiban dalam melaksanakan Kerja Sama daerah,
+(8) Keadilan sebagaimana yang dimaksud pada ayat (2) huruf e dengan maksud dalam melakukan Kerja Sama, para pihak wajib menjunjung persamaan hak dan kewajiban dalam melaksanakan Kerja Sama daerah;
 
-(9) Kesepakatan bersama sebagaimana yang dimaksud pada ayat (2) huruf f dengan maksud dalam melaksanakan Kerja Sama, harus dicapai kesepakatan atau persetujuan para pihak untuk melakukan Kerja Sama,
+(9) Kesepakatan bersama sebagaimana yang dimaksud pada ayat (2) huruf f dengan maksud dalam melaksanakan Kerja Sama, harus dicapai kesepakatan atau persetujuan para pihak untuk melakukan Kerja Sama;
 
-(10) Itikad baik sebagaimana yang dimaksud pada ayat (2) huruf g dengan maksud dalam melaksanakan Kerja sama, para pihak harus mempunyai kemauan untuk secara sungguh-sungguh melaksanakan Kerja Sama,
+(10) Itikad baik sebagaimana yang dimaksud pada ayat (2) huruf g dengan maksud dalam melaksanakan Kerja sama, para pihak harus mempunyai kemauan untuk secara sungguh-sungguh melaksanakan Kerja Sama;
 
-(11) Sinergi sebagaimana yang dimaksud pada ayat (2) huruf h dengan maksud dalam melaksanakan Kerja Sama, diharapkan untuk bisa mewujudkan harmoni demi terwujudnya kesejahteraan masyarakat,
+(11) Sinergi sebagaimana yang dimaksud pada ayat (2) huruf h dengan maksud dalam melaksanakan Kerja Sama, diharapkan untuk bisa mewujudkan harmoni demi terwujudnya kesejahteraan masyarakat;
 
-(12) Kepastian hukum sebagaimana yang dimaksud pada ayat (2) huruf i dengan maksud dalam melaksanakan Kerja Sama, para pihak harus mempunyai pemahaman bahwa Kerja Sama yang dilakukan dapat mengikat secara hukum bagi para pihak yang melakukan Kerja Sama,
+(12) Kepastian hukum sebagaimana yang dimaksud pada ayat (2) huruf i dengan maksud dalam melaksanakan Kerja Sama, para pihak harus mempunyai pemahaman bahwa Kerja Sama yang dilakukan dapat mengikat secara hukum bagi para pihak yang melakukan Kerja Sama;
 
 (13) Saling menguntungkan sebagaimana yang dimaksud pada ayat (2) hurufj dengan maksud dapat berbentuk finansial dan/ atau nonfinansial.
 
@@ -202,15 +201,15 @@ j. saling menguntungkan.
 
 (1) Subjek Kerja Sama dalam Peraturan Bupati ini adalah :
 
-a. BLUD pada Rumah Sakit Umum Daerah di lingkungan Pemerintah Daerah,
+a. BLUD pada Rumah Sakit Umum Daerah di lingkungan Pemerintah Daerah;
 
-b. Pihak Lain, yaitu institusi rumah sakit baik swasta maupun pemerintah serta Pihak Ketiga,
+b. Pihak Lain, yaitu institusi rumah sakit baik swasta maupun pemerintah serta Pihak Ketiga;
 
 c. Pihak Ketiga sebagaimana dimaksud pada huruf b, antara lain :
 
 1. Perseorangan
 
-2. Badan usaha yang berbadan hukum, dan
+2. Badan usaha yang berbadan hukum; dan
 
 3. Organisasi kemasyarakatan, baik yang berbadan hukum maupun tidak berbadan hukum.
 
@@ -236,7 +235,7 @@ b. pemanfaatan barang milik daerah.
 
 (4) Kerja Sama pemanfaatan barang milik daerah sebagaimana dimaksud pada ayat (1) huruf b, antara lain :
 
-a. Kerja Sama sewa-menyewa, atau
+a. Kerja Sama sewa-menyewa; atau
 
 b. Kerja Sama usaha lainnya.
 
@@ -264,17 +263,17 @@ b. Kerja Sama usaha lainnya.
 
 (1) Tata cara Kerja Sama BLUD dengan Pihak Lain sebagaimana dimaksud dalam Pasal 5 ayat (1) dilakukan dengan tahapan sebagai berikut :
 
-a. persiapan,
+a. persiapan;
 
-b. penawaran,
+b. penawaran;
 
-c. penyiapan kesepakatan,
+c. penyiapan kesepakatan;
 
-d. penandatangan kesepakatan,
+d. penandatangan kesepakatan;
 
-e. menyiapkan perjanjian,
+e. menyiapkan perjanjian;
 
-f. penandatangan perjanjian, dan
+f. penandatangan perjanjian; dan
 
 g. pelaksanaan.
 
@@ -282,19 +281,19 @@ g. pelaksanaan.
 
 a. pembentukan tim Kerja Sama
 
-b. menyusun rencana Kerja Sama,
+b. menyusun rencana Kerja Sama;
 
-c. menyiapkan informasi dan data Kerja Sama,
+c. menyiapkan informasi dan data Kerja Sama;
 
-d. menganalisis manfaat Kerja Sama, dan
+d. menganalisis manfaat Kerja Sama; dan
 
 e. menentukan prioritas objek.
 
 (3) Penawaran sebagaimana dimaksud pada ayat (1) huruf b, dilaksanakan dengan tahapan sebagai berikut :
 
-a. menyiapkan surat penawaran,
+a. menyiapkan surat penawaran;
 
-b. menyampaikan surat penawaran,
+b. menyampaikan surat penawaran;
 
 c. melakukan evaluasi atas penawaran
 
@@ -308,21 +307,21 @@ b. jangka waktu kesepakatan paling lama 5 (lima) tahun.
 
 (6) Penyiapan Perjanjian Kerjasama sebagaimana dimaksud pada ayat (1) huruf e, dilaksanakan dengan menyiapkan naskah perjanjian yang sekurang kurangnya memuat :
 
-a. subjek Kerjasama,
+a. subjek Kerjasama;
 
-b. objek Kerjasama,
+b. objek Kerjasama;
 
-c. ruang lingkup Kerjasama,
+c. ruang lingkup Kerjasama;
 
-d. hak dan kewajiban,
+d. hak dan kewajiban;
 
-e. jangka waktu Kerjasama,
+e. jangka waktu Kerjasama;
 
-f. larangan pengalihan perjanjian Kerjasama,
+f. larangan pengalihan perjanjian Kerjasama;
 
-g. keadaan memaksa/forcemajure,
+g. keadaan memaksa/forcemajure;
 
-h. penyelesaian perselisihan, dan
+h. penyelesaian perselisihan; dan
 
 i. pengakhiran Kerjasama.
 
@@ -338,29 +337,29 @@ i. pengakhiran Kerjasama.
 
 (2) Penawaran Kerja Sama yang diajukan oleh Pihak Lain ke BLUD sebagaimana dimaksud dalam Pasal 6 ayat (1), paling sedikit memuat :
 
-a. surat pengantar yang berisi maksud dan tujuan penawaran Kerja Sama yang ditujukan kepada pemimpin BLUD, dan
+a. surat pengantar yang berisi maksud dan tujuan penawaran Kerja Sama yang ditujukan kepada pemimpin BLUD; dan
 
 b. naskah rancangan PKS.
 
 (3) Naskah rancangan PKS sebagaimana dimaksud pada ayat (2) huruf b, paling sedikit memuat :
 
-a. maksud dan tujuan,
+a. maksud dan tujuan;
 
-b. objek,
+b. objek;
 
-c. ruang lingkup,
+c. ruang lingkup;
 
-d. pelaksanaan,
+d. pelaksanaan;
 
-e. hak dan kewajiban para pihak,
+e. hak dan kewajiban para pihak;
 
-f. pembiayaan,
+f. pembiayaan;
 
-g. jangka waktu,
+g. jangka waktu;
 
-h. penyelesaian perselisihan,
+h. penyelesaian perselisihan;
 
-i. keadaan kahar, dan
+i. keadaan kahar; dan
 
 j. pengakhiran Kerja sama.
 
@@ -390,7 +389,7 @@ Perjanjian Kerja Sama tidak berakhir karena pergantian Direktur RSUD dr. Agosesd
 
 (1) Perjanjian Kerja Sama yang telah dilaksanakan sebelum Peraturan Bupati ini tetap berlaku sampai dengan berakhirnya masa Kerja Sama.
 
-(2) Ketentuan teknis pelaksanaan Kerja Sama diatur dalam Peraturan Direktur. La ea en en aa an na BAB XIII BAB XIH , . KETETUAN PENUTUP
+(2) Ketentuan teknis pelaksanaan Kerja Sama diatur dalam Peraturan Direktur.
 
 ## BAB XIII - KETETUAN PENUTUP
 
