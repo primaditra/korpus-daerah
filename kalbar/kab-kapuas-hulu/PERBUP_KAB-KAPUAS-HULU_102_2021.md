@@ -13,7 +13,7 @@ sumber_teks: ocr
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
-NOMOR IQI TAHUN 2021
+NOMOR 102 TAHUN 2021
 TENTANG
 PETUNJUK PELAKSANAAN PERATURAN DAERAH KABUPATEN
 KAPUAS HULU NOMOR 4 TAHUN 2020 TENTANG RETRIBUSI
@@ -197,7 +197,7 @@ h. Kepala Sub Bagian Tata Usaha menyiapkan SKRD atau dokumen lainnya yang dipers
 
 i. SKRD atau dokumen lainnya yang dipersamakan diserahkan kepada pemohon melalui petugas loket; dan j . Pemohon membayar retribusi pelayanan tera/tera ulang sesuai dengan SKRD atau dokumen lainnya yang dipersamakan ke Pembantu Bendahara Penerima pada UPT Pengelola Pasar Daerah dan Layanan Metrologi Legal dan diberikan SSRD.
 
-. t
+. 
 
 ### Pasal 9
 
@@ -233,24 +233,16 @@ Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan
-Peraturan Bupati ini dengan penempatannya dalam Berita Daerah
-Kabupaten Kapuas Hulu.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Kapuas Hulu
-pada tanggal ftaftttbr 9t>*\
+pada tanggal 23 November 2021
+BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
 Diundangkan di Putussibau
-pada tanggal 2^ rfoKM^r
-ARIS DAERAH KABUPATEN KAPUAS HULU,
-OHD.ZAINI
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2021
-NOMOR t0£
-Salinan Sesuai dengan aslinya
-ala Bagian Hukum
-abupaten Kapuas Hulu
-M-
-jslifa. S H . M . S i
-Pembina TK 1
-9671105 199003 2 010
+pada tanggal 24 November 2021
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
+MOHD. ZAINI
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2021 NOMOR 103
 
 ## Lampiran
 

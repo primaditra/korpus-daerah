@@ -238,13 +238,17 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 50. Penyidik Pegawai Negeri Sipil yang selanjutnya disingkat PPNS adalah Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah Daerah yang diberi wewenang khusus oleh UndangUndang untuk melakukan penyidikan terhadap pelanggaran Peraturan Daerah dan Peraturan Perundang-undangan yang berlaku.
 
-51. Penyidikan tindak pidana di bidang retribusi daerah adalah serangkaian tindakan yang dilakukan oleh Penyidik untuk mencari serta mengumpulkan bukti yang dengan bukti itu membuat terang tindak pidana di bidang retribusi daerah yang terjadi serta menemukan tersangkanya. BABU JENIS RETRIBUSI
+51. Penyidikan tindak pidana di bidang retribusi daerah adalah serangkaian tindakan yang dilakukan oleh Penyidik untuk mencari serta mengumpulkan bukti yang dengan bukti itu membuat terang tindak pidana di bidang retribusi daerah yang terjadi serta menemukan tersangkanya.
+
+## BAB II - JENIS RETRIBUSI
 
 ### Pasal 2
 
 Jenis retribusi yang diatur dalam Peraturan Daerah adalah Retribusi Pelayanan Kesehatan.
 
-**Bagian Kesatu - Retribusi Pelayanan Kesehatan Paragraf 1**
+**Bagian Kesatu - Retribusi Pelayanan Kesehatan**
+
+**Paragraf 1 - Nama, Objek dan Subjek Retribusi**
 
 ### Pasal 3
 
@@ -292,11 +296,7 @@ r. Pelayanan medico legal. Dikecualikan dari Objek Retribusi Pelayanan Kesehatan
 
 ### Pasal 5
 
-(1) Subjek Retribusi Pelayanan Kesehatan adalah orang pribadi atau Badan yang memperoleh pelayanan kesehatan di puskesmas, puskesmas keliling, puskesmas pembantu, pos kesehatan desa, pondok bersalin desa, balai pengobatan, rumah sakit umum daerah, rumah sakit pratama dan tempat
-
-(2)
-
-(3) pelayanan kesehatan lainnya yang sejenis yang dimiliki dan/atau dikelola oleh Pemerintah Daerah.
+(1) Subjek Retribusi Pelayanan Kesehatan adalah orang pribadi atau Badan yang memperoleh pelayanan kesehatan di puskesmas, puskesmas keliling, puskesmas pembantu, pos kesehatan desa, pondok bersalin desa, balai pengobatan, rumah sakit umum daerah, rumah sakit pratama dan tempat pelayanan kesehatan lainnya yang sejenis yang dimiliki dan/atau dikelola oleh Pemerintah Daerah.
 
 (2) Dikecualikan dari Subyek Retribusi sebagaimana dimaksud pada ayat (1) adalah orang yang tidak mampu/miskin dan orang yang mengalami keracunan dalam situasi Kejadian Luar Biasa (KLB) atau bencana.
 
@@ -576,55 +576,30 @@ k. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak pidana 
 
 (2) Tindak pidana sebagaimana dimaksud pada ayat (1) adalah pelanggaran.
 
-(3) Denda sebagaimana dimaksud pada ayat (1) merupakan penerimaan negara. Pada saat Peraturan Daerah ini mulai berlaku, Peraturan Daerah Kabupaten Kapuas Hulu Nomor 2 Tahun 2011 tentang Retribusi Pelayanan Kesehatan pada Rumah Sakit Umum Dokter Achmad Diponegoro Putussibau, dicabut dan dinyatakan tidak berlaku. Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kapuas Hulu.
+(3) Denda sebagaimana dimaksud pada ayat (1) merupakan penerimaan negara.
 
 ## BAB XVIII - KETENTUAN PENUTUP
 
 ### Pasal 29
 
+Pada saat Peraturan Daerah ini mulai berlaku, Peraturan Daerah Kabupaten Kapuas Hulu Nomor 2 Tahun 2011 tentang Retribusi Pelayanan Kesehatan pada Rumah Sakit Umum Dokter Achmad Diponegoro Putussibau, dicabut dan dinyatakan tidak berlaku.
+
 ### Pasal 30
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-a&BgiSitf&al 30 Desember 2013
-B HULU,
+pada tanggal 30 Desember 2013
+BUPATI KAPUAS HULU,
+A.M. NASIR
 Diundangkan di Putussibau
-padff^ggal 31 Desember 2013
-[S DAERAH KABUPATEN KAPUAS HULU,
-;RAH KABUPATEN KAPUAS HULU TAHUN 2013
-S
-a
-l
-i
-n
-a
-n S
-e
-s
-u
-a
-i d
-e
-n
-g
-a
-n aslinya
-SpfB^iMian H
-u
-k
-u
-m
-!Settto5Mj$M R
-a
-p
-i
-r
-a
-s H
-u
-l
-u
+pada tanggal 31 Desember 2013
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
+YOHANA ENDANG
+LEMBARAN DAERAH KABUPATEN KAPUAS HULU TAHUN 2013 NOMOR [tidak terbaca, tertutup cap]
 
 ## Penjelasan
 
@@ -632,219 +607,219 @@ u
 
 ATAS PERATURAN DAERAH KABUPATEN KAPUAS HULU NOMOR 17 TAHUN 2013 TENTANG RETRIBUSI PELAYANAN KESEHATAN I. UMUM Pembangunan kesehatan merupakan bagian integral dalam pembangunan nasional. Tujuan diselenggarakannya pembangunan kesehatan adalah untuk meningkatkan kesadaran, kemauan dan kemampuan hidup sehat bagi setiap orang agar terwujudnya derajat kesehatan masyarakat yang optimal. Untuk mencapai tujuan tersebut diselenggarakan program pembangunan kesehatan secara berkelanjutan, terencana dan terarah. Berdasarkan Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah dalam Pasal 10 ayat (1) dan ayat (2) serta Pasal 14, Pemerintah Daerah memiliki kewenangan otonomi seluasluasnya untuk mengatur dan mengurus sendiri urusan pemerintahan menurut asas otonomi dan tugas pembantuan, diarahkan untuk mempercepat terwujudnya kesejahteraan masyarakat. Salah satu urusan wajib yang menjadi kewenangan Pemerintahan Daerah adalah penanganan bidang kesehatan. Seiring dengan kemajuan pembangunan dan meningkatnya kesadaran masyarakat akan arti pentingnya kesehatan, maka tuntutan masyarakat terhadap pelayanan kesehatan yang bermutu/berkualitas juga semakin meningkat. Namun di sisi lain, pembangunan kesehatan khususnya dalam rangka meningkatkan akses, mutu dan pemerataan pelayanan kesehatan memerlukan dana yang cukup besar. Sementara di lain pihak, alokasi anggaran kesehatan terhadap total APBD masih minim karena memang kondisi keuangan daerah sangat terbatas. Oleh karena itu, dukungan dan peran serta masyarakat dalam hal pembiayaan kesehatan sangat dibutuhkan khususnya dengan membayar retribusi pelayanan kesehatan berdasarkan jenis layanan kesehatan yang diberikan. Disamping itu, dalam rangka memberikan payung hukum terhadap pemberian pelayanan kesehatan dan pemungutan retribusi pelayanan kesehatan di rumah sakit pratama dan puskesmas beserta jaringannya dalam lingkungan Pemerintah Kabupaten Kapuas Hulu, perlu diatur dengan Peraturan Daerah. Dengan berlakunya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, mengamanatkan bahwa pengaturan Retribusi Pelayanan Kesehatan diatur dengan Peraturan Daerah.
 
-D e n g a n d a s a r p e m i k i r a n tersebut d i a t a s , m a k a d i p a n d a n g p e r l u m e n e t a p k a n P e r a t u r a n D a e r a h t e n t a n g R e t r i b u s i P e l a y a n a n K e s e h a t a n d i R u m a h S a k i t P r a t a m a d a n P u s a t K e s e h a t a n M a s y a r a k a t B e s e r t a J a r i n g a n n y a d a l a m L i n g k u n g a n P e m e r i n t a h K a b u p a t e n K a p u a s H u l u . I I . P A S A L D E M I P A S A L
+Dengan dasar pemikiran tersebut diatas , maka dipandang perlu menetapkan Peraturan Daerah tentang Retribusi Pelayanan Kesehatan di Rumah Sakit Pratama dan Pusat Kesehatan Masyarakat Beserta Jaringannya dalam Lingkungan Pemerintah Kabupaten Kapuas Hulu. 11. . PASAL DEMI PASAL
 
 ### Penjelasan Pasal 1
 
-C u k u p j e l a s .
+Cukup jelas .
 
 ### Penjelasan Pasal 2
 
-C u k u p j e l a s .
+Cukup jelas .
 
 ### Penjelasan Pasal 3
 
-C u k u p j e l a s .
+Cukup jelas .
 
 ### Penjelasan Pasal 4
 
-A y a t ( l ) C u k u p j e l a s . A y a t (2) C u k u p j e l a s . A y a t (3) C u k u p j e l a s .
+Ayat ( (1) Cukup jelas. . Ayat (2) Cukup jelas . Ayat (3) Cukup jelas .
 
 ### Penjelasan Pasal 5
 
-A y a t (1) C u k u p j e l a s . A y a t (2) C u k u p j e l a s .
+Ayat (1) Cukup jelas. . Ayat (2) Cukup jelas .
 
 ### Penjelasan Pasal 6
 
-C u k u p j e l a s .
+Cukup jelas .
 
 ### Penjelasan Pasal 7
 
-C u k u p j e l a s .
+Cukup jelas .
 
 ### Penjelasan Pasal 8
 
-A y a t (1) C u k u p j e l a s . A y a t (2) C u k u p j e l a s . A y a t (3) C u k u p j e l a s .
+Ayat (1) Cukup jelas . Ayat (2) Cukup jelas . Ayat (3) Cukup jelas .
 
 ### Penjelasan Pasal 9
 
-C u k u p j e l a s .
+Cukup jelas .
 
 ### Penjelasan Pasal 10
 
-A y a t (1) C u k u p j e l a s . A y a t (2) C u k u p j e l a s . A y a t (3) C u k u p j e l a s . A y a t (4) 2 1
+Ayat (1) Cukup jelas . Ayat (2) Cukup jelas . Ayat (3) Cukup jelas . Ayat (4) 2 1
 
 Huruf a Yang dimaksud dengan Jaminan Kesehatan Masyarakat adalah sistem pembiayaan pelayanan kesehatan yang diselenggarakan oleh Kementerian Kesehatan/Dinas Kesehatan melalui Puskesmas kepada masyarakat tidak mampu.
 
-Huruf b Yang dimaksud dengan Jaminan Persahan (Jampersal) adalah jaminan pembiayaan persalinan yang meliputi pemeriksaan kehamilan, pertolongan persalinan, pelayanan nifas termasuk pelayanan KB pasca persalinan dan pelayanan bayi baru lahir. Jampersal diperuntukkan bagi seluruh ibu hamil yang belum memiliki jaminan persalinan.
+Huruf b Yang dimaksud dengan Jaminan Persalian (Jampersal) adalah jaminan pembiayaan persalinan yang meliputi pemeriksaan kehamilan, pertolongan persalinan, pelayanan nifas termasuk pelayanan KB pasca persalinan dan pelayanan bayi baru lahir. Jampersal diperuntukkan bagi seluruh ibu hamil yang belum memiliki jaminan persalinan.
 
 Huruf c Yang dimaksud dengan Peserta Askes Sosial adalah Pegawai Negeri Sipil, Pensiunan Pegawai Negeri Sipil, Pensiunan TNI/Polri, Veteran yang keanggotaannya dibuktikan dengan kartu tanda peserta.
 
-Huruf d Yang dimaksud dengan Jaminan Kesehatan Daerah (JAMKESDA) adalah jaminan kesehatan dan perlindungan dalam memenuhi kebutuhan dasar kesehatan bagi setiap penduduk Kabupaten Kapuas Hulu yang tidak menjadi peserta jaminan kesehatan lainnya.
+Huruf d Yang dimaksud dengan Jaminan Kesehatan Daerah (JAM KE SDA) adalah jaminan kesehatan dan perlindungan dalam memenuhi kebutuhan dasar kesehatan bagi setiap penduduk Kabupaten Kapuas Hulu yang tidak menjadi peserta jaminan kesehatan lainnya.
 
 Huruf e Yang dimaksud dengan Jaminan Kesehatan Sosilal adalah suatu program perlindunganyang dibebankan oleh negara,masyarakat dan organisasi sosial kepada seseorang/individu yang menghadapi kesukaran dalam kehidupan dan penghidupan seperti penderita penyakit kronis, kecelakaan kerja dan sebagainya.
 
 Huruf f Yang dimaksud dengan Jaminan Kesehatan ketenagakerjaan adalah suatu perlindungan bagi tenaga kerja dalam bentuk santunan berupa uang sebagai penggantian sebagian dan penghasilan yang hilang atau berkurang dan pelayanan sebagai akibat peristiwa yang dialami oleh tenaga kerja berupa kecelakaan kerja, sakit, hamil, bersalin, hari tua dan meninggal dunia.
 
-Ayat (5) C u k u p jelas.
+Ayat (5) Cukup jelas.
 
 ### Penjelasan Pasal 11
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 12
 
-C u k u p jelas.
+Cukup jelas.
 
 ### Penjelasan Pasal 13
 
-C u k u p jelas.
+Cukup jelas.
 
 ### Penjelasan Pasal 14
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 15
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
-Ayat (4) C u k u p jelas.
+Ayat (4) Cukup jelas.
 
 ### Penjelasan Pasal 16
 
-C u k u p jelas.
+Cukup jelas.
 
 ### Penjelasan Pasal 17
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 18
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
-Ayat (4) C u k u p jelas.
+Ayat (4) Cukup jelas.
 
-Ayat (5) C u k u p jelas.
+Ayat (5) Cukup jelas.
 
 ### Penjelasan Pasal 19
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
-Ayat (4) C u k u p jelas.
+Ayat (4) Cukup jelas.
 
 ### Penjelasan Pasal 20
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
 ### Penjelasan Pasal 21
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 22
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
-Ayat (4) C u k u p jelas.
+Ayat (4) Cukup jelas.
 
-Ayat (5) C u k u p jelas.
+Ayat (5) Cukup jelas.
 
-Ayat (6) C u k u p jelas.
+Ayat (6) Cukup jelas.
 
-Ayat (7) C u k u p jelas.
+Ayat (7) Cukup jelas.
 
 ### Penjelasan Pasal 23
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
-Ayat (4) C u k u p jelas.
+Ayat (4) Cukup jelas.
 
-Ayat (5) C u k u p jelas.
+Ayat (5) Cukup jelas.
 
 ### Penjelasan Pasal 24
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 25
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 26
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
 ### Penjelasan Pasal 27
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
-Ayat (4) C u k u p jelas.
+Ayat (4) Cukup jelas.
 
 ### Penjelasan Pasal 28
 
-Ayat (1) C u k u p jelas.
+Ayat (1) Cukup jelas.
 
-Ayat (2) C u k u p jelas.
+Ayat (2) Cukup jelas.
 
-Ayat (3) C u k u p jelas.
+Ayat (3) Cukup jelas.
 
 ### Penjelasan Pasal 29
 
-C u k u p jelas.
+Cukup jelas.
 
 ### Penjelasan Pasal 30
 
-C u k u p jelas.
+Cukup jelas.
 
 ## Lampiran
 

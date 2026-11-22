@@ -304,7 +304,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan :
 
 57. Dokumen Pelaksanaan Anggaran SKPD yang selanjutnya disingkat DPA-SKPD adalah dokumen yang memuat pendapatan, belanja dan pembiayaan yang digunakan sebagai dasar pelaksanaan anggaran oleh pengguna anggaran.
 
-58. Dokumen Pelaksanaan Perubahan Anggaran SKPD yang selanjutnya disingkat DPPASKPD adalah dokumen yang memuat perubahan anggaran pendapatan dan belanja setiap SKPD yang digunakan sebagai dasar pelaksanaan perubahan oleh pengguna anggaran.
+58. Dokumen Pelaksanaan Perubahan Anggaran SKPD yang selanjutnya disingkat DP PA SKPD adalah dokumen yang memuat perubahan anggaran pendapatan dan belanja setiap SKPD yang digunakan sebagai dasar pelaksanaan perubahan oleh pengguna anggaran.
 
 59. Anggaran Kas adalah dokumen perkiraan arus kas masuk yang bersumber dari penerimaan dan perkiraan arus kas keluar yang digunakan untuk mengatur ketersediaan dana yang cukup guna mendanai pelaksanaan APBD setiap periode.
 

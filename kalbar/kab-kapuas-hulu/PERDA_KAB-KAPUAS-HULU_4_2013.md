@@ -10,8 +10,8 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-P E M E R I N T A H K A B U P A T E N K A P U A S H U L U
-• B 9 n a B a M i H B 9 B B a n B i H n = = a a 9 a a a 9 s = a 9 B i
+PEMERINTAH KABUPATEN KAPUAS HULU
+• 
 PERATURAN DAERAH KABUPATEN KAPUAS HULU
 NOMOR 4 TAHUN 2013
 TENTANG
@@ -224,7 +224,7 @@ Retribusi yang terutang dipungut di wilayah daerah tempat pelayanan diberikan.
 
 ### Pasal 10
 
-(1) Tarif retribusi ditinjau paling lama 3 (tiga) tahun sekali. 4 (2) Peninjauan tarif retribusi sebagaimana dimaksud pada ayat (1) dilakukan dengan memperhatikan indeks harga dan perkembangan ekonomi.
+(1) Tarif retribusi ditinjau paling lama 3 (tiga) tahun sekali. (2) Peninjauan tarif retribusi sebagaimana dimaksud pada ayat (1) dilakukan dengan memperhatikan indeks harga dan perkembangan ekonomi.
 
 (3) Ketentuan Lebih Lanjut mengenai Peninjauan tarif Retribusi sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Bupati.
 
@@ -304,7 +304,7 @@ Dalam hal wajib retribusi tidak membayar tepat pada waktunya atau kurang membaya
 
 (1) Wajib retribusi dapat mengajukan keberatan hanya kepada Bupati atau Pejabat yang ditunjuk atau surat ketetapan retribusi daerah atau dokumen lain yang disamakan.
 
-(2) Keberatan diajukan secara tertulis dalam bahasa Indonesia disertai alasanalasan yang jelas.
+(2) Keberatan diajukan secara tertulis dalam bahasa Indonesia disertai alasan-alasan yang jelas.
 
 (3) Dalam hal wajib retribusi mengajukan keberatan atas ketetapan retribusi, wajib retribusi harus dapat membuktikan ketidakbenaran ketetapan retribusi tersebut.
 
@@ -418,7 +418,7 @@ b. ada pengakuan utang retribusi dari wajib retribusi.
 
 (1) Pejabat Pegawai Negeri Sipil di lingkungan Pemerintah Daerah diberi wewenang khusus sebagai Penyidik untuk melakukan penyidikan tindak pidana di bidang perpajakan dan retribusi daerah sebagaimana di maksud dalam Undang-Undang Hukum Acara Pidana.
 
-(2) Penyidik sebagaimana dimaksud pada ayat (1) adalah pejabat pegawai negeri sipil tertentu di lingkungan Pemerintah Daerah yang diangkat oleh pejabat yang berwenang sesuai dengan ketentuan peraturan perundangundangan.
+(2) Penyidik sebagaimana dimaksud pada ayat (1) adalah pejabat pegawai negeri sipil tertentu di lingkungan Pemerintah Daerah yang diangkat oleh pejabat yang berwenang sesuai dengan ketentuan peraturan perundang-undangan.
 
 (3) Wewenang Penyidik sebagaimana dimaksud pada ayat (1) adalah:
 
@@ -492,7 +492,7 @@ NOMOR 4
 
 ### Penjelasan Umum
 
-PERATURAN DAERAH KABUPATEN KAPUAS HULU NOMOR 4 TAHUN 2013 TENTANG RETRIBUSI PEMAKAIAN KEKAYAAN DAERAH I. UMUM Undang-Undang Nomor 28 Tahun 2009 tentang pajak dan Retribusi Daerah merupakan ketentuan-ketentuan yang memberikan pedoman kebijakan dan arahan bagi daerah dalam pelaksanaan pemungutan pajak dan retribusi, sekaligus menetapkan pengaturan untuk menjamin penetapan prosedur umum perpajakan dan retribusi daerah. Khusus mengenai retribusi telah ditetapkan jenis-jenis retribusi yang diperbolehkan untuk dipungut oleh daerah yang meliputi Retribusi Jasa umum, Retribusi Jasa Usaha. Dalam Pasal 1 angka 64 Undang-Undang Nomor 28 Tahun 2009 disebutkan bahwa retribusi adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh pemerintah daerah untuk kepentingan orang pribadi atau badan. Makna yang tersirat dalam pengertian retribusi ini adalah adanya kewajiban bagi pemerintah daerah untuk memberikan jasa pelayanan kepada orang atau sesuatu badan, sehingga masyarakat dapat dikenakan retribusi. Jadi syaratnya adalah hubungan timbal balik yang saling menguntungkan antara pemerintah daerah dengan orang atau suatu badan. Secara yuridis pemungutan retribusi harus dengan atas hak berupa peraturan daerah, dimana peraturan daerah merupakan instrumen sab dan legal bagi Pemerintah Daerah untuk menetapkan tarif retribusi atas pelayanan yang telah diberikan sehingga pembayaran yang dilakukan oleh orang atau sesuatu badan dapat ditentukan secara pribadi. Retribusi Jasa Usaha Pemakaian Kekayaan Daerah Di Bidang Pengujian Mutu Konstruksi merupakan jasa yang disediakan oleh pemerintah daerah dengan menganut prinsip-prinsip komersial karena pada dasarnya dapat pula disediakan oleh sektor swasta. Oleh sebab itu, semangat untuk menggali potensi dari jasa usaha yang dimiliki Pemerintah Daerah Kabupaten Kapuas Hulu dalam rangka meningkatkan pendapatan daerah terus menerus dilakukan secara intensif guna lebih meningkatkan pelayanan kepada masyarakat. Retribusi Jasa Usaha Pemakaian Kekayaan Daerah Di Bidang Pengujian Mutu Konstruksi adalah merupakan jenis retribusi jasa usaha yang disampailcan pada saat ini dianggap potensial untuk dilakukan pemungutan retribusinya. Hal ini didasarkan pada pertimbangan kemampuan Pemerintah Kabupaten Kapuas Hulu untuk menyediakan pelayanan dan penyediaan sarana dan prasarana yang dibutuhkan oleh pengguna jasa seperti syarat untuk dapat dilakukan pemungutan retribusi. Sesuai dengan tujuan yang ingin dicapai dengan pembentukan peraturan daerah, maka dalam peraturan daerah ini diatur ketentuanketentuan pokok yang memberikan pedoman bagi pungutan Retribusi Jasa Usaha Pemakaian Kekayaan Daerah Di Bidang Pengujian Mutu Konstruksi agar pelaksanaannya dapat berjalan tertib, lancar, aman serta dapat berdayaguna dan berhasil guna secara optimal. Selanjutnya dalam peraturan daerah ini mengatur beberapa hal yaitu : jenis retribusi jasa usaha pemakaian kekayaan daerah di bidang pengujian mutu konstruksi, masa retribusi, peninjauan tarif retribusi, tata cara pendaftaran dan penetapan. Retribusi, tata cara pemungutan dan pembayaran, sansksi administrasi, tata cara penagihan, keberatan, beserta ketentuan lain yang menyangkut retribusi daerah. I. Pasal Demi Pasal
+PERATURAN DAERAH KABUPATEN KAPUAS HULU NOMOR 4 TAHUN 2013 TENTANG RETRIBUSI PEMAKAIAN KEKAYAAN DAERAH I. UMUM Undang-Undang Nomor 28 Tahun 2009 tentang pajak dan Retribusi Daerah merupakan ketentuan-ketentuan yang memberikan pedoman kebijakan dan arahan bagi daerah dalam pelaksanaan pemungutan pajak dan retribusi, sekaligus menetapkan pengaturan untuk menjamin penetapan prosedur umum perpajakan dan retribusi daerah. Khusus mengenai retribusi telah ditetapkan jenis-jenis retribusi yang diperbolehkan untuk dipungut oleh daerah yang meliputi Retribusi Jasa umum, Retribusi Jasa Usaha. Dalam Pasal 1 angka 64 Undang-Undang Nomor 28 Tahun 2009 disebutkan bahwa retribusi adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh pemerintah daerah untuk kepentingan orang pribadi atau badan. Makna yang tersirat dalam pengertian retribusi ini adalah adanya kewajiban bagi pemerintah daerah untuk memberikan jasa pelayanan kepada orang atau sesuatu badan, sehingga masyarakat dapat dikenakan retribusi. Jadi syaratnya adalah hubungan timbal balik yang saling menguntungkan antara pemerintah daerah dengan orang atau suatu badan. Secara yuridis pemungutan retribusi harus dengan atas hak berupa peraturan daerah, dimana peraturan daerah merupakan instrumen sah dan legal bagi Pemerintah Daerah untuk menetapkan tarif retribusi atas pelayanan yang telah diberikan sehingga pembayaran yang dilakukan oleh orang atau sesuatu badan dapat ditentukan secara pribadi. Retribusi Jasa Usaha Pemakaian Kekayaan Daerah Di Bidang Pengujian Mutu Konstruksi merupakan jasa yang disediakan oleh pemerintah daerah dengan menganut prinsip-prinsip komersial karena pada dasarnya dapat pula disediakan oleh sektor swasta. Oleh sebab itu, semangat untuk menggali potensi dari jasa usaha yang dimiliki Pemerintah Daerah Kabupaten Kapuas Hulu dalam rangka meningkatkan pendapatan daerah terus menerus dilakukan secara intensif guna lebih meningkatkan pelayanan kepada masyarakat. Retribusi Jasa Usaha Pemakaian Kekayaan Daerah Di Bidang Pengujian Mutu Konstruksi adalah merupakan jenis retribusi jasa usaha yang disampaikan pada saat ini dianggap potensial untuk dilakukan pemungutan retribusinya. Hal ini didasarkan pada pertimbangan kemampuan Pemerintah Kabupaten Kapuas Hulu untuk menyediakan pelayanan dan penyediaan sarana dan prasarana yang dibutuhkan oleh pengguna jasa seperti syarat untuk dapat dilakukan pemungutan retribusi. Sesuai dengan tujuan yang ingin dicapai dengan pembentukan peraturan daerah, maka dalam peraturan daerah ini diatur ketentuan-ketentuan pokok yang memberikan pedoman bagi pungutan Retribusi Jasa Usaha Pemakaian Kekayaan Daerah Di Bidang Pengujian Mutu Konstruksi agar pelaksanaannya dapat berjalan tertib, lancar, aman serta dapat berdayaguna dan berhasil guna secara optimal. Selanjutnya dalam peraturan daerah ini mengatur beberapa hal yaitu : jenis retribusi jasa usaha pemakaian kekayaan daerah di bidang pengujian mutu konstruksi, masa retribusi, peninjauan tarif retribusi, tata cara pendaftaran dan penetapan. Retribusi, tata cara pemungutan dan pembayaran, sansksi administrasi, tata cara penagihan, keberatan, beserta ketentuan lain yang menyangkut retribusi daerah. I. Pasal Demi Pasal
 
 ### Penjelasan Pasal 1
 
@@ -536,7 +536,7 @@ Cukup Jelas
 
 ### Penjelasan Pasal 11
 
-Dokumen lain yang dipersamakan untuk meingantisipasi perkembangan dan kebutuhan sarana administrasi yang lebih efektif dan efisien dalam pelaksanaan pemungutan retribusi.
+Dokumen lain yang dipersamakan untuk mengantisipasi perkembangan dan kebutuhan sarana administrasi yang lebih efektif dan efisien dalam pelaksanaan pemungutan retribusi.
 
 ### Penjelasan Pasal 12
 
@@ -608,7 +608,7 @@ Cukup Jelas
 
 ### Penjelasan Pasal 26
 
-Gukup Jelas
+Cukup Jelas
 
 ### Penjelasan Pasal 27
 

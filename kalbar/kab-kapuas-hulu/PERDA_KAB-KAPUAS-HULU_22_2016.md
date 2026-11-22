@@ -25,7 +25,7 @@ Gubernur Kalimantan Barat Nomor
 188.341/976.1/HK-D tanggal 24 Maret 2016
 Perihal Tindak Lanjut Pembatalan Peraturan
 Daerah di Wilayah Provinsi Kalimantan Barat
-yang Berpotensi Masalah, maka periu
+yang Berpotensi Masalah, maka perlu
 membentuk Peraturan Daerah tentang
 Pencabutan Peraturan Daerah Kabupaten Kapuas
 Hulu Nomor 1 Tahun 2013 tentang
@@ -138,7 +138,13 @@ PENGENDALIAN MENARA TELEKOMUNIKASI.
 
 Peraturan Daerah Kabupaten Kapuas Hulu Nomor 1 Tahun 2013 tentang Penyelenggaraan dan Retribusi Pengendalian Menara Telekomunikasi (Lembaran Daerah Kabupaten Kapuas Hulu Tahun 2013 Nomor 1), dicabut dan dinyatakan tidak berlaku.
 
+### Pasal 2
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
+
 ## Penutup
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kapuas Hulu. Ditetapkan di Putussibau pada tanggal 29 November 2016 BUPATI KAPUAS HULU, Diundangkan di Putussibau pada tanggal 29 November 2016 KAPUAS HULU, LEMBARAN DAERAH KABUPATEN KAPUAS HULU TAHUN 2016 NOMOR 22 NOREG PERATURAN DAERAH KABUPATEN KAPUAS HULU, PROVINSI KALIMANTAN BARAT: (22)/(2016)
 
 ## Penjelasan
 
@@ -153,10 +159,6 @@ Cukup jelas.
 ### Penjelasan Pasal 2
 
 Cukup jelas. TAMBAHAN LEMBARAN DAERAH KABUPATEN KAPUAS HULU NOMOR 58
-
-### Penjelasan Pasal 2
-
-Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kapuas Hulu. Ditetapkan di Putussibau pada tanggal 29 November 2016 BUPATI KAPUAS HULU, Diundangkan di Putussibau pada tanggal 29 November 2016 KAPUAS HULU, LEMBARAN DAERAH KABUPATEN KAPUAS HULU TAHUN 2016 NOMOR 22 NOREG PERATURAN DAERAH KABUPATEN KAPUAS HULU, PROVINSI KALIMANTAN BARAT: (22)/(2016)
 
 ## Lampiran
 

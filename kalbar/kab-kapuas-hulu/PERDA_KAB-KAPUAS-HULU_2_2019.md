@@ -99,7 +99,7 @@ KABUPATEN KAPUAS HULU
 dan
 BUPATI KAPUAS HULU
 MEMUTUSKAN:
-4
+
 Menetapkan : PERATURAN DAERAH TENTANG RETRIBUSI
 PERPANJANGAN IZIN MEMPERKERJAKAN TENAGA
 KERJA ASING.
@@ -110,7 +110,7 @@ KERJA ASING.
 
 Dalam Peraturan Daerah ini yang dimaksud dengan:
 
-1. Daerah adalah Kabupaten Kapuas Hulu. 3 y -
+1. Daerah adalah Kabupaten Kapuas Hulu. -
 
 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan Kabupaten Kapuas Hulu.
 
@@ -268,7 +268,7 @@ a. diterbitkan surat teguran; atau
 
 b. ada pengakuan utang retribusi dari wajib retribusi baik
 
-(3) Dalam hal diterbitkan surat teguran sebagaimana dimaksud pada ayat (2) huruf a, kadaluwarsa penagihan dihitung sejak tanggal diterimanya surat teguran tersebut.
+secara langsung maupun tidak langsung. (3) Dalam hal diterbitkan surat teguran sebagaimana dimaksud pada ayat (2) huruf a, kadaluwarsa penagihan dihitung sejak tanggal diterimanya surat teguran tersebut.
 
 (4) Pengakuan utang retribusi secara langsung sebagaimana dimaksud pada ayat (2) huruf b adalah wajib retribusi dengan kesadarannya menyatakan masih mempunyai utang retribusi dan belum melunasinya kepada Pemerintah Daerah.
 
@@ -314,11 +314,15 @@ b. ada pengakuan utang retribusi dari wajib retribusi baik
 
 (3) Ketentuan lebih lanjut mengenai tata cara pemberian dan pemanfaatan insentif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
 
+## BAB XIV - PENYIDIKAN
+
+### Pasal 20
+
 (1) Selain Penyidik Kepolisian Republik Indonesia, Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah Daerah diberi wewenang khusus sebagai Penyidik untuk melakukan penyidikan tindak pidana di bidang Retribusi, sebagaimana dimaksud dalam Undang-Undang Hukum Acara Pidana.
 
 (2) Penyidik sebagaimana dimaksud pada ayat (1) adalah Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah Daerah yang diangkat oleh pejabat yang berwenang sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Wewenang Penyidik sebagaimana dimaksud pada ayat (1)
+(3) Wewenang Penyidik sebagaimana dimaksud pada ayat (1) adalah:
 
 a. menerima, mencari, mengumpulkan, dan meneliti keterangan atau laporan berkenaan dengan tindak pidana di bidang Retribusi agar keterangan atau laporan tersebut lebih menjadi lengkap dan jelas;
 
@@ -328,11 +332,6 @@ c. meminta keterangan dan bahan bukti orang pribadi atau Badan sehubungan tindak
 
 d. memeriksa buku, catatan, dan dokumen lain berkenaan dengan tindak pidana di bidang Retribusi;
 
-## BAB XIV - PENYIDIKAN
-
-### Pasal 20
-
-adalah:
 
 e. melakukan penggeledahan untuk mendapatkan bahan bukti pembukuan, pencatatan dan dokumen lain, serta melakukan penyitaan terhadap bahan bukti tersebut;
 
@@ -348,13 +347,14 @@ k. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak pidana 
 
 (4) Penyidik sebagaimana dimaksud pada ayat (1) memberitahukan dimulainya penyidikan dan menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Undang-Undang Hukum Acara Pidana.
 
+## BAB XV - KETENTUAN PIDANA
+
+### Pasal 21
+
 (1) Wajib Retribusi yang tidak melaksanakan kewajibannya sebagaimana dimaksud dalam Pasal 11 sehingga merugikan keuangan daerah diancam pidana kurungan paling lama 3 (tiga) bulan atau pidana denda paling banyak 3 (tiga) kali jumlah Retribusi terutang yang tidak atau kurang dibayar.
 
 (2) Pengenaan pidana sebagaimana dimaksud pada ayat (1) tidak menghapuskan kewajiban Wajib Retribusi untuk membayar retribusi.
 
-## BAB XV - KETENTUAN PIDANA
-
-### Pasal 21
 
 (3) Tindak pidana sebagaimana dimaksud pada ayat (1) adalah pelanggaran.
 
@@ -410,7 +410,7 @@ Cukup jelas.
 
 ### Penjelasan Pasal 3
 
-Ayat(l)
+Ayat (1)
 
 Cukup jelas.
 
@@ -434,13 +434,13 @@ Cukup jelas.
 
 ### Penjelasan Pasal 8
 
-Ayat(l)
+Ayat (1)
 
 Cukup jelas.
 
 Ayat (2) Misal, Perpanjangan IMTA seorang Tenaga Kerja Asing untuk 8 (delapan) bulan, maka jumlah retribusi yang harus dibayarkan adalah: (US$100 x 8) x nilai kurs saat pembayaran. 17 r
 
-Misal, kurs US$1 = Rpl 1.000,00 maka retribusi yang harus dibayar adalah US$ 800 x Rpl 1.000,00 = Rp8.800.000,00 (delapan juta delapan ratus ribu rupiah).
+Misal, kurs US$1 = Rp11.000,00 maka retribusi yang harus dibayar adalah US$ 800 x Rp11.000,00 = Rp8.800.000,00 (delapan juta delapan ratus ribu rupiah).
 
 ### Penjelasan Pasal 10
 
@@ -492,7 +492,7 @@ Cukup jelas.
 
 ### Penjelasan Pasal 22
 
-Cukup jelas. T A M B A H A N L E M B A R A N D A E R A H K A B U P A T E N K A P U A S H U L U N O M O R 87
+Cukup jelas. TAMBAHAN LEMBARAN DAERAH KABUPATEN KAPUAS HULU NOMOR 87
 
 ## Lampiran
 

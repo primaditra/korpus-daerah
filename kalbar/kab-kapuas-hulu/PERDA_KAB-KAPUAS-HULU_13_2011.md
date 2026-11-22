@@ -273,7 +273,7 @@ Wajib retribusi yang tidak membayar tepat pada waktunya atau kurang membayar, di
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKRDLB.
 
-## BAB XII - PENGEMBALIKAN KELEBIHAN PEMBAYARAN
+## BAB XII - PEN GE MBA LIK AN KELEBIHAN PEMBAYARAN
 
 ### Pasal 21
 

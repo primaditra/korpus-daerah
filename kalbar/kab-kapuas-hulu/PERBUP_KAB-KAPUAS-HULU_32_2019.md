@@ -10,7 +10,7 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-BUPATI KAPUAS H U L U
+BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
 NOMOR 32 TAHUN 2019
@@ -363,8 +363,8 @@ Kapuas Hulu.
 Ditetapkan di Putussibau
 Diundangkan di Putussibau
 pada tanggal 8 Mei 2019
-S E K R E T A ^ ^ P ^ R A H N K ^ U P A T E N K A P U A S H U L U ,
-A S i
+SEKRETA ^ ^ P ^ RAHNK ^ UP AT EN KAPUAS HULU ,
+ASi
 BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2019
 NOMOR 36
 

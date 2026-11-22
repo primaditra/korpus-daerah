@@ -209,13 +209,13 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 23. Jumlah berat barang diperbolehkan, yang selanjutnya disebut J B B adalah berat maksimum kendaraan bermotor berikut muatannya yang diperbolehkan menurut rancangannya.
 
-24. Jumlah berat kombinasi yang diperbolehkan selanjutnya disebut J B K B adalah berat maksimum rangkaian kendaraan bermotor berikut muatannya yang diperbolehkan menurut rancangannya.
+24. Jumlah berat kombinasi yang diperbolehkan selanjutnya disebut JBKB adalah berat maksimum rangkaian kendaraan bermotor berikut muatannya yang diperbolehkan menurut rancangannya.
 
 25. Jumlah berat yang diizinkan adalah berat maksimum kendaraan bermotor berikut muatannya yang diizinkan berdasarkan kelas jalan yang dilalui.
 
 26. Jumlah berat kombinasi yang diizinkan adalah berat maksimum rangkaian kendaraan bermotor berikut muatannya yang diizinkan berdasarkan kelas jalan yang dilalui.
 
-27. Mo oil penumpang adalah kendaraan bermotor angkutan orang yang memiliki tempat duduk maksimal 8 (delapan) orang, termasuk untuk pengemudi atau yang beratnya tidak lebih dari 3.500 (tiga ribu lima ratus) kilogram.
+27. Mobil penumpang adalah kendaraan bermotor angkutan orang yang memiliki tempat duduk maksimal 8 (delapan) orang, termasuk untuk pengemudi atau yang beratnya tidak lebih dari 3.500 (tiga ribu lima ratus) kilogram.
 
 28. Mobil bus adalah kendaraan bermotor angkutan orang yang memiliki tempat duduk lebih dari 8 (delapan) orang, termasuk untuk pengemudi atau yang beratnya lebih dari 3.500 (tiga ribu lima ratus) kilogram.
 
@@ -225,7 +225,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 31. Kereta tempelan adalah suatu alat yang dipergunakan untuk mengangkut barang yang dirancang untuk ditarik dan sebagian bebannya ditumpu oleh kendaraan bermotor penariknya.
 
-32. Retribusi Daerah adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikanoleh Pemerintah Daerah untuk kepentingan orang pribadi atau Badan.
+32. Retribusi Daerah adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh Pemerintah Daerah untuk kepentingan orang pribadi atau Badan.
 
 33. Surat Kctctapan Retribusi Daerah yang selanjutnya disingkat SKRD adalah surat keputusan yang menentukan besarnya jumlah retribusi yang terutang.
 
@@ -293,7 +293,11 @@ d. fotocopy KTP sesuai dengan STNK;
 
 e. kendaraan datang ditempat pengujian; dan
 
-f. melunasi biaya pengujian awal. Persyaratan yang harus dipenuhi untuk uji berkala adalah: el. u l i U " Uj*.
+f. melunasi biaya pengujian awal.
+
+(4) Persyaratan yang harus dipenuhi untuk uji berkala adalah:
+
+a. buku uji asli;
 
 b. fotocopy STNK;
 
@@ -391,7 +395,7 @@ a. sudah habis masa berlaku dan tidak melaksanakan pengujian kembali;
 
 b. melakukan perubahan atau mengganti sebagian atau seluruh atas buku uji dan tanda uji sehingga tidak sesuai dengan ketentuan yang berlaku;
 
-c. kendaraan bermotor menjadi tidak memenuhi persyaratan teknis dan laik jalan, baik disebabkan perubahan teknis, kecelakaan maupun hal-hal Iain yang secara objektif rnenyebabkan kendaraan bermotor tidak sesuai dengan syarat-syarat teknis yang ditentukan.
+c. kendaraan bermotor menjadi tidak memenuhi persyaratan teknis dan laik jalan, baik disebabkan perubahan teknis, kecelakaan maupun hal-hal lain yang secara objektif rnenyebabkan kendaraan bermotor tidak sesuai dengan syarat-syarat teknis yang ditentukan.
 
 ### Pasal 10
 
@@ -525,7 +529,11 @@ Tingkat penggunaan jasa pengujian kendaraan bermotor diukur berdasarkan frekuens
 
 ### Pasal 23
 
-Struktur dan besarnya retribusi untuk setiap pengujian kendaraan bermotor, adalah sebagai berikut: RINCIAN TARIF NOMOR URAIAN J B B < 2500 Kg J B B 25005000 Kg J B B > 5000 Kg 1 • 2 ' 3 4 5 1. Biaya Pengujian Kendaraan Bermotor
+Struktur dan besarnya retribusi untuk setiap pengujian kendaraan bermotor, adalah sebagai berikut: 
+
+[Tabel rincian tarif per JBB tidak terekstrak rapi; angka di bawah ini urutannya tidak mengikuti kolom, lihat PDF halaman 14]
+
+RINCIAN TARIF NOMOR URAIAN J B B < 2500 Kg J B B 25005000 Kg J B B > 5000 Kg 1 • 2 ' 3 4 5 1. Biaya Pengujian Kendaraan Bermotor
 
 a. Pengujian Awal
 
@@ -625,7 +633,7 @@ Retribusi pengujian kendaraan bermotor dipungut di wilayah Kabupaten Kapuas Hulu
 
 (1) Apabila wajib retribusi tidak membayar atau kurang membayar retribusi terutang sampai saat jatuh tempo pembayaran sebagaimana dimaksud dalam Pasal 26, Bupati atau Pejabat yang ditunjuk dapat melaksanakan penagihan atas retribusi yang terutang dengan menggunakan STRD atau surat lain yang sejenis.
 
-(2) Pengeluaran STRD atau surat yang sejenis sebagai awal tindakan rir»l c» I r e q r » a a n nr»narril->an t v t r i V m c i rU\rf±^iar\rari cr^rrr^fo cr»tr»1qVi 7 ff-ninViY V i q r i ^ V . L . i . O C U l H H H . £ H A . A l.bU A A V A . . . A W AH.O A , U . i . V / . U H l iUAt. VA AA £ A , A A A A H . . y A. M | A H A A * A A A H A A sejak jatuh tempo pembayaran.
+(2) Pengeluaran STRD atau surat yang sejenis sebagai awal tindakan pelaksanaan penagihan retribusi, dikeluarkan segera setelah 7 (tujuh) hari sejak jatuh tempo pembayaran.
 
 (3) Dalam jangka waktu 7 (tujuh) hari setelah STRD atau surat lain yang sejenis diterbitkan, wajib retribusi hams melunasi retribusi yang terutang.
 
@@ -655,7 +663,7 @@ b. ada pengakuan utang retribusi dari wajib retribusi baik langsung maupun tidak
 
 (3) Dalam hal diterbitkan surat teguran sebagaimana dimaksud pada ayat (2) huruf a, kedaluwarsa penagihan dihitung sejak tanggal diterimanya surat teguran tersebut.
 
-(4) Pengakuan utang retribusi secara langsung sebagaimana dimaksud pada ayat (2) bumf b, adalah wajib retribusi dengan kesadarannya menyatakan masih mempunyai utang retribusi dan belum melunasinya kepada pemerintah daerah.
+(4) Pengakuan utang retribusi secara langsung sebagaimana dimaksud pada ayat (2) huruf b, adalah wajib retribusi dengan kesadarannya menyatakan masih mempunyai utang retribusi dan belum melunasinya kepada pemerintah daerah.
 
 (5) Pengakuan utang retribusi secara tidak langsung sebagaimana dimaksud pada ayat (2) huruf b, dapat diketahui dari pengajuan permohonan angsuran atau penundaaan pembayaran dan permohonan keberatan oleh wajib retribusi.
 
@@ -683,7 +691,7 @@ b. ada pengakuan utang retribusi dari wajib retribusi baik langsung maupun tidak
 
 (5) Pengembalian kelebihan pembayaran retribusi sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 2 (dua) bulan sejak diterbitkannya SKRDLB.
 
-(6) J i k a pengembalian kelebihan retribusi dilakukan setelah lewat 2 (dua) bulan, Bupati memberikan imbalan bunga sebesar 2% (dua persen) per bulan atas keterlambatan pembayaran kelebihan pembayaran retribusi.
+(6) Jika pengembalian kelebihan retribusi dilakukan setelah lewat 2 (dua) bulan, Bupati memberikan imbalan bunga sebesar 2% (dua persen) per bulan atas keterlambatan pembayaran kelebihan pembayaran retribusi.
 
 ### Pasal 35
 
@@ -711,9 +719,9 @@ d. alasan yang singkat dan jelas.
 
 ### Pasal 37
 
-(1) Wajib retribusi dapat mengajukan keberatan hanya kepada Bupati atau pejabat vans ditunjuk atas SKRD atau dokumen lain vana drowns3makar>
+(1) Wajib retribusi dapat mengajukan keberatan hanya kepada Bupati atau pejabat yang ditunjuk atas SKRD atau dokumen lain yang dipersamakan.
 
-(2) Keberatan diajukan secara tertulis dalam bahasa Indonesia dengan discrtai alasan-alasan yang jelas.
+(2) Keberatan diajukan secara tertulis dalam bahasa Indonesia dengan disertai alasan-alasan yang jelas.
 
 (3) Keberatan harus diajukan dalam jangka waktu paling lama 3 (tiga) bulan sejak tanggal SKRD diterbitkan, kecuali jika Wajib Retribusi dapat menunjukan bahwa jangka waktu itu tidak dapat dipenuhi karena keadaan diluar kekuasaannya.
 
@@ -733,7 +741,7 @@ d. alasan yang singkat dan jelas.
 
 ### Pasal 39
 
-(1) J i k a pengajuan keberatan dikabulkan sebagian atau seluruhnya, kelebihan pembayaran Retribusi dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 12 (dua belas) bulan.
+(1) Jika pengajuan keberatan dikabulkan sebagian atau seluruhnya, kelebihan pembayaran Retribusi dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 12 (dua belas) bulan.
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKRDLB.
 
@@ -848,9 +856,9 @@ A. M. NASIR
 Diundangkan di Putussibau
 pada tanggal 14 Januari 2013
 SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
-M U H A M M A D - S U K M
-L E M B A R A N D A E R A H K A B U P A T E N K A P U A S H U L U T A H U N 2013
-N O M O R 3
+MUHAMMAD SUKRI
+LEMBARAN DAERAH KABUPATEN KAPUAS HULU TAHUN 2013
+NOMOR 3
 
 ## Penjelasan
 
@@ -1004,7 +1012,7 @@ Cukup jelas
 
 Cukup jelas
 
-### Penjelasan Pasal 371
+### Penjelasan Pasal 37
 
 Cukup jelas
 

@@ -494,7 +494,7 @@ peraturan Bupati ini dengan penempatannya dalam Berita Daerah
 Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
 Pada tanggal 9 aa mber 2004
-—SHBUPATI KAPUAS HULU "
+—SH BUPATI KAPUAS HULU "
 w3 DIAAN
 Diundangkan di Putussibau
 Pada tanggal 19 sftamear men

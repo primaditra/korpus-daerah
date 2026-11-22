@@ -111,7 +111,7 @@ DEWAN PERWAKILAN RAKYAT DAERAH
 KABUPATEN KAPUAS HULU
 dan
 BUPATI KAPUAS HULU
-MEMUTUSGKAN
+ME MUTU SG KAN
 Menetapkan | PERATURAN DAERAH TENTANG PAJAK DAERAH
 DAN RETRIBUSI DAERAH
 
@@ -1163,7 +1163,7 @@ Tarif Opsen PKB ditetapkan sebesar 665 (enam puluh enam persen dihitung dari bes
 
 ### Pasal 53
 
-(1) Besaran pokok Opsen PKB yang terutang dihitung dengan cara mengalikan dasar pengenaan sebagaimana dimaksud dalam Pasal 51 dengan tarif sebagaimana dimaksud dalam Pasal 52. Kabag | Pb ai | Hukum aa | PUREPASAN | Te Ha DI 4
+(1) Besaran pokok Opsen PKB yang terutang dihitung dengan cara mengalikan dasar pengenaan sebagaimana dimaksud dalam Pasal 51 dengan tarif sebagaimana dimaksud dalam Pasal 52. Kabag | Pb ai | Hukum aa | PU RE PAS AN | Te Ha DI 4
 
 (2) Saat terutang Opsen PKB ditetapkan pada saat terutangnya PKB.
 
@@ -9329,7 +9329,7 @@ J(
 -i
 cl i
 UI/IA
-!I E I E
+!IEIE
 ._15 ir(
 l--lt:
 5lo lo
@@ -9348,7 +9348,7 @@ cln l
 tdl
 ll, I
 El'\l
---l o I O
+--lo IO
 o i - I o
 lolN
 tn|.-<ln
@@ -9508,12 +9508,12 @@ Y.
 Fr
 trl
 r{
-C. PBLAYANAN I{EStrI{ATAN RUMAH SAKIT UMUM DAEITAH dT. ACHMAD DIPONI,GoRO
+C. PB LAYANAN I{EStrI{ATAN RUMAH SAKIT UMUM DAEITAH dT. ACHMAD DIPONI,GoRO
 KODE JENIS PEI.AYANAN
 KOMPONEN TARIF
 TARIF
 (Rp)
-KETERANG,qN
+KE TERANG,qN
 JASA
 SARANA
 JASA
@@ -9799,7 +9799,7 @@ Audiornetri narla mrrrni +9.500 115.50C 165.OOO
 49 Timpanoplasti lokal B25.OOO 1.925.OOO 2.750.OOO
 50 Perneriksaan dan Surat Keterangan THT 19.800 46.20C 66.OOO
 51 Spirometri 19.AOO 46.20C 66.OOC
-FI KLINIK PEIYYAKIT DAIAM
+FI KLINIK PEI YY AK IT DAIAM
 I Endoskopy Saluran Cerna Atas 435.()0C 1.15.OC 47 t.540 BIIP sesuai
 dengar
 tindakan:
@@ -10169,7 +10169,7 @@ tl Tee 25.50C 59.500 85.000
 6 Fungsi Pericard 30.ooc 70.ooc 100.ooc
 Echocardiografi 70.500 164.500 235.OOC
 B Iemporer F'ace IVIaker 39.OOO 91 .OOO 130.OOC
-o HEMODIAIISA
+o HE MO DIA II SA
 I Pelayanan Haemodialisa reguler/ kali 75().OOC 500.ooc 1.250.OOO EHF sesuai
 dengan
 tindakanr:
@@ -10399,7 +10399,7 @@ Visitc rlokter s
 Visite <lokter urnrlor
 Visite clokter'
 Visite/ korrsultasr olrat
-rcu / rcc u / HatJ / rr.l-rE RMTDTATE
+rcu / rcc u / HatJ / rr.l-rE RM TD TA TE
 I(arnal rawat inap ICU4CCiryllCU per hari
 15.OOO
 Visite libur
@@ -10414,7 +10414,7 @@ Visite dokter spesial'is
 Visite clokter rurlilnl
 Visite rlokter qisi
 Visite / konsultzrsi obat
-NICU/PICU/PIIRINATAL
+NICU/PICU/PI IR IN AT AL
 Pelnyalare rawat inap NICIJ/PICU per- ha.r.i 550.OOO \/isite iibur
 <litambah IlO,l{,
 dariVisite l{ari
@@ -10649,11 +10649,11 @@ scstrflj dcl lAai r
 l(elas ltflwat (.li'-r r
 . it:rris'l'irr<lak:lrr
 Radica-l Neck Disection
-BEDAH DIGESTME BESAR
+BEDAH DI GE ST ME BESAR
 ''l'qrif tirrrlukarr
 opcl ttsi t(:f(:rurt u !u
 rllrlrttrt rrrc:rrtr
-,I'INI)AI(N N M I'I)IK
+,I'INI)AI(NNMI'I)IK
 ()lrl,lllA'l'l lr scsrrai
 (lcrlgalr l{(r{ls
 [(aw*1.(lAr],Jcnis
@@ -10702,7 +10702,7 @@ Repair Burst abciornen
 Kordektomi + Uretroolasti
 Exsisi Limphangiorna
 Anoplasti
-BEDAI.I DIGESTIVI1 CANGGIFI
+BEDAI.I DIGESTIVI1 CA NG GI FI
 Opelasi denga:r stapler
 BEDAH TUMOR SIIDANG 'l'rrril'tiltd;{k0tl
 ol)(:r'asi tct'c^l | | ll rIl
@@ -10916,13 +10916,13 @@ Reposisi + Pasang Gips
 Angkat nail/plate
 Reseksi mandibula
 Punctie sendi
-BEDAH ORTOPEDI BESAR
+BEDAH OR TOP EDI BESAR
 Arnl.lutasi r de5r'itlernen
 funputersi iau'i
 AmpLltasii
 Orif refracturisasi l.ractur
 'lrtr'if tin(ltil<at)
-ol)critsi I (.t ciu I I I I rIt
+ol)critsi I (.t ciu IIII rIt
 tl:tlanl rlrr:Irrr
 'l'l NI rr\KAN M lll.rll(
 ' 'l l"l{/\ i ll. s( silirr
@@ -10930,7 +10930,7 @@ rlt.rrgur r l(<:llls
 Itawrltr.larr.lcnis
 'l'irrrl ak nr r
 Delrrirlernarrt ostcomvelLis
-E}EDAI.I ORTOPEDI KHUSLIS 'l'rrrif I irrt'lilharr
+E}EDAI.I OR TOP EDI KHUSLIS 'l'rrrif I irrt'lilharr
 opcraei tercatrlrrrrr
 <litlatrt III(:rrrr
 TlNI)AKAN Ml:)l)lK
@@ -10942,7 +10942,7 @@ HIP /Replasemer:t linee
 Debridement srrondiliti s
 spondilister scolioisis
 Multiple fractr.u' t' komolikasi
-B]'DATI ORTOT'EDI CANGGIFI
+B]'DATI ORTOT'EDI CA NG GI FI
 ine ooeratiorr
 Plothesis ii?rf)ut I'errtrlr rnu f cr-rbiti
 'fota.l I{IP
@@ -11203,7 +11203,7 @@ t2t pemeriksaa.n E EG (elelct: o en sefalo grafi ) / kali 16;1.5C]0 3a 1.500 545
 t22 perneriksaan ECG bayi/ kali 131.100 i305.90C) 437.OOC
 123 lumba.l ptrngsi pada neonatus/ ba.yi 90.000 210.OO0 300.ooc
 124 resusitasi neonatus/ kal,i 75.OOC 175.OOC 250.Ooo
-BF TARIF I'ELAYANAN INSTALASI RAWAT INAP TARIF
+BF TARIF I'EL AY AN AN INSTALASI RAWAT INAP TARIF
 UPF Penyakit Dalam /ttpF Bedah/UpF Kebiclan,uyUen
 Auak/ UPF Perinatzrl
 VIP Kelas I Kelas II I{elas III
@@ -11443,7 +11443,7 @@ PEL,{YANAN
 30 Asutran Keperzrwata-n 200.ooc l75.OOC 150.ooo I OO. COO
 JASA
 S.A.RANA
-c C C C
+cC CC
 JASA I zoo.ooo
 PELAYANAN I
 175.OOC 150.ooo loo.ooo
@@ -11583,7 +11583,7 @@ PELAYANAN
 SARANA
 627.OOC 570.OOC 54 1.f:OO 500.o{)c)
 JASA
-T,ELAYANAN
+T,EL AY AN AN
 9.1o.500 B55.OOC a 12.4r)c 75().000
 4B Bronkoskopirurtuk Broncial'loilet 1.567.500 1.:l25.OOO 1.354.000 1.250.OOO
 JASA
@@ -11677,7 +11677,7 @@ JASA
 SARANA
 50.ooo 4a.ooo 46.OOC 44.OOC
 JASA
-PELAYAJVAN
+PEL AY AJ VAN
 75.OOO 72.OOC 69.OOO 66.OOO
 57 Perawatan Kolonostomi/ kali 65.OOC 60.ooc 55.OOC 50.o00
 JASA
@@ -11748,7 +11748,7 @@ JASA
 SARANA
 1a.ooo 16.OOC t4.ooc 1 2, OOG
 JASA
-PNLAYANAN
+PN LAYANAN
 27 -OOC. 24.OOC 21.OOO 1 a. ooo
 3 Mor:itorilg CTG 15().OOO 140.OOO 120.OOC 1 ()o. ooo
 JASA
@@ -11844,7 +11844,7 @@ JASA
 SARANA
 r 3. soc 12.OO 1 0- 50c 9.OOC
 JASA
-TJELAYANAN
+TJ EL AY AN AN
 3 1 .50C 2a.ooc 24.50C 21.OOC
 l5 Meru berikam Misoprostol petwaginau:. 45.OOO ,+o,ooc 25.OOC 2().ooo
 JASA
@@ -11858,7 +11858,7 @@ JASA
 SARANA
 33.OOO 30.oo0 24.50c 27 "OOO
 JA,SA
-PIILAYANAN
+PI I LAYANAN
 77.OOA 70.oac 66.50C 63.OO()
 t7 Ilpisiotorui :lo.0c)(. 25.OOC 25.OO0 20^ooo
 .JASA
@@ -12165,7 +12165,7 @@ PELA}'A}{AN
 SARANA
 I a.ooc r 5,ooc 12.(,)0c 1 2. OOC
 JASA
-PEIAYANAN
+PEI AY AN AN
 12.OOO 10.oOC 8.00c a.ooc
 13 lOral hygiene pada Anal 30.ooo 2s.oo0 20.ooo l5.ooo
 JASA I rz.ooo
@@ -12216,7 +12216,7 @@ JAliA
 SARANA
 ioo.ooo ao.o00 6C).ooo '+o,ooo
 JASA
-PELAYANAAI
+PEL AY ANA AI
 r50.ooo t20.ooc 90.oo0 60.ooo
 PELAYANAN PENUI.IJANG
 NSTALASI LAIIO RATORIUM
@@ -12234,7 +12234,7 @@ I Mala-ria 25.200 16.8ool 42.OOO
 lo Filaria 2s.2ool 16.8OOl 42.OOOI
 1i Morlblrrgi Darah Tepi (MDT) 72.OOA 4n 120.OO0
 t2 Pungsi Surnsutn'lulamg Srl.OOO 56r.OOC r4().oo0
-T3.J r.IL]MOSTASIS
+T3.J r.IL]MO ST AS IS
 Masa Perdarahan (BT) 1 1 .40C 7.6rd(
 -l'.-
 )l 19.OOO
@@ -12296,7 +12296,7 @@ BM URINAI-ISiS
 2 (Jrin Seclirnen r 5.600 1C).400 26.OOC
 3 Far:ces Rrrtirr 17..+O0 I r.6001 29. OOC
 I I.'OI3 (i?apicl) 85.200 56.aOO 142.OOC
-RN MIKROBIOI-O(iI
+RN MIKRO BI OI-O(iI
 I Pewarnaan GRAM
 -T
 21.300 1.4.20c 35.50C
@@ -12360,7 +12360,7 @@ r]IJ Penernda Jantung (Cardiac Ener,me)
 ,2
 CK,ME} 231.OOO 154.OO0 3a5.OOO
 3 'lroporrin I 405.OOO 270.OOO 675.OO0
-13V PERTANDA TUMOR
+13V PER TANDA TUMOR
 1 AFP 2(.)1.OOO 134.OOC 335.OOC
 2 PSA 243.OOC 162.OOC 405.OOC
 3 Ftee PSA .132.OOC 2aa.ooo 720.ooc
@@ -12474,7 +12474,7 @@ PD
 Pemprakarsa
 Asisten Sekrla
 7 k \
-BZ RADIOLOCI CNNGGIH
+BZ RADIO LO CI CNNGGIH
 I Ablasi clengan alcohol 1.1a8.OOO 792-OO(. I.qRO OOn
 - Ablasi kiste simple 1. laa.ooo 792.OOC 1.9aO.OOO
 3 Arteriograll 35 i.ooo 234.OOO 585.OOO
@@ -12624,7 +12624,7 @@ JASA
 SARANA
 34.8Ool 2a.aoo 27.60C 20.400
 .]ASA
-PELAVANAN
+PEL A VAN AN
 23.21t)rj 19.'20o 18.40C 13.600
 4 Makanan Biasa (Burbur Saring) 36.OO0 30.ooo 29.OOC 28.000
 JASA
@@ -12890,7 +12890,7 @@ CL Okupasi Terapi
 6 Floortirne/play therapy _ 20.ooc 30"ooc 50.ooo
 7 Mirror therapy 30.ooo 45.OOC 75.OO0
 a Snoezellen tl- erapy lo-ooo 60.ooc too-ooo
-C]fuI .Ienis Pelayanan Khtrs.:s ORTHOTIC -
+C]fuI .Ienis Pelayanan Khtrs.:s OR TH OT IC -
 PROS'I'HETIC
 1 Long Leg Brace 23O.000 345.OOO 575.OOC
 2 Milwauke Brace 2so.()0o 345.OOO 575.OOC

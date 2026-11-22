@@ -138,7 +138,7 @@ Dalam Peraturan Bupati ini, yang dimaksud dengan:
 
 12. Surat Setoran Retribusi Daerah yang selanjutnya disingkat SSRD adalah surat setoran penerima retribusi ke Kas Daerah.
 
-13. Surat Ketetapan Retribusi Daerah Lebih Bayar yang selanjutnya EN aa ina adi CAI7Z0MNI1 D dia 2 aan Ma BAE EN ea MB maa TANYA Taft RRI,» Nala Mebai Uaa menentukan jumlah kelebihan pembayaran retribusi karena jumlah kredit retribusi lebih besar daripada retribusi yang terutang atau seharusnya tidak terutang.
+13. Surat Ketetapan Retribusi Daerah Lebih Bayar yang selanjutnya EN aa aan menentukan jumlah kelebihan pembayaran retribusi karena jumlah kredit retribusi lebih besar daripada retribusi yang terutang atau seharusnya tidak terutang.
 
 14. Surat Tagihan Retribusi Daerah yang selanjutnya disingkat STRD adalah surat untuk melakukan tagihan retribusi dan/atau sanksi administratif berupa bunga dan/atau denda.
 
@@ -198,7 +198,7 @@ Bentuk dan isi SKRD sebagaimana dimaksud dalam Pasal 2 sebagaimana tercantum dal
 
 (2) Pembayaran atau penyetoran Retribusi dilakukan berdasarkan SKRD pada Kas Daerah melalui Bank Daerah yang ditunjuk oleh Bupati.
 
-(3) Wajib retribusi melakukan pembayaran atau penyetoran retribusi pa HN AR Ba An Ea ae Sam ba enam Gin Bagan AN Un 2 Pen en setoran yaitu SSRD ke Aplikasi SIMBG dan Bendahara Penerimaan.
+(3) Wajib retribusi melakukan pembayaran atau penyetoran retribusi pa HN AR Ba en setoran yaitu SSRD ke Aplikasi SIMBG dan Bendahara Penerimaan.
 
 ### Pasal 5
 
@@ -232,7 +232,7 @@ b. pengurangan atau pembatalan ketetapan Retribusi yang tidak benar pengenaannya
 
 Cc. pengurangan atau penghapusan sanksi administrasi berupa bunga dan kenaikan Retribusi terutang.
 
-(2) Permohonan keberatan untuk pembetulan, pengurangan dan/atau pembatalan ketetapan retribusi serta pengurangan dan Wak Jl SA DM ak Ga ks Wa an es en gate Je benuaa Sbs Mm Bun aa 2 AN id ayat (1) harus disampaikan secara tertulis kepada Bupati melalui Kepala Dinas paling lama 3 (tiga) bulan sejak tanggal SKRD dikirim.
+(2) Permohonan keberatan untuk pembetulan, pengurangan dan/atau pembatalan ketetapan retribusi serta pengurangan dan SA ayat (1) harus disampaikan secara tertulis kepada Bupati melalui Kepala Dinas paling lama 3 (tiga) bulan sejak tanggal SKRD dikirim.
 
 (3) Pengajuan keberatan tidak menunda kewajiban membayar Retribusi dan pelaksanaan penagihan Retribusi.
 
@@ -352,7 +352,7 @@ Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
 pada tanggal 13 Desemuer 2224
 LeeBUPATI KAPUAS HULU, "
-4 FRANSISKUS DIAAN
+4 FR AN SI SK US DIAAN
 Diundangkan di Putussibau
 pad ggal (6 Desempor 2024
 SE IS DAERAH KABUPATEN KAPUAS HULU,

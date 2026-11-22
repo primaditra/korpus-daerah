@@ -10,7 +10,7 @@ sumber_teks: teks-digital
 
 ## Pembukaan
 
-1
+
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU

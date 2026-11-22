@@ -159,10 +159,10 @@ Ketiga atas Peraturan Daerah Nomor 7 Tahun
 Perangkat Daerah;
 MEMUTUSKAN :
 Menetapkan : PERATURAN BUPATI TENTANG STRUKTUR
-ORGANISASI DAN TATA K E R J A DINAS TENAGA
+ORGANISASI DAN TATA KERJA DINAS TENAGA
 KERJA, PERINDUSTRIAN, DAN TRANSMIGRASI
 KABUPATEN KAPUAS HULU.
-B A B I
+BABI
 KETENTUAN UMUM
 
 ### Pasal 1
@@ -207,7 +207,9 @@ Dalam Peraturan Bupati ini yang dimaksud dengan:
 
 19. Pejabat Fungsional adalah Pegawai ASN yang menduduki Jabatan Fungsional pada pemerintah Kabupaten Pemerintah Kabupaten Kapuas Hulu.
 
-20. Penyetaraan Jabatan Administrasi ke dalam Jabatan Fungsional yang selanjutnya disebut Penyetaraan Jabatan adalah Pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional melalui Penyesuaian/Inpassing pada jabatan fungsional yang setara. B A B U KEDUDUKAN
+20. Penyetaraan Jabatan Administrasi ke dalam Jabatan Fungsional yang selanjutnya disebut Penyetaraan Jabatan adalah Pengangkatan Pejabat Administrasi ke dalam Jabatan Fungsional melalui Penyesuaian/Inpassing pada jabatan fungsional yang setara.
+
+## BAB II - KEDUDUKAN
 
 ### Pasal 2
 
@@ -561,20 +563,16 @@ Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan, pengundangan
-Peraturan Bupati ini dengan penempatannya dalam Berita Daerah
-Kabupaten Kapuas Hulu.
+Agar setiap orang mengetahuinya, memerintahkan, pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-pada tanggal 2$ Cktcber &o<h\
-BUPATI KAPUAS HULU, ^
-FRANSISKUS DlAAN
+pada tanggal 29 Oktober 2021
+BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
 Diundangkan di Putussibau
-pada tanggal i rtov/em'oer d~oJ\
+pada tanggal 1 November 2021
 SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
 MOHD. ZAINI
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2021
-NOMOR ? G
-»
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2021 NOMOR 76
 
 ## Lampiran
 

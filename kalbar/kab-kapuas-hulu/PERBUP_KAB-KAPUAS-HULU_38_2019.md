@@ -10,11 +10,10 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-• • • I
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
-NOMOR 35 TAHUN 2019
+NOMOR 38 TAHUN 2019
 TENTANG
 PERUBAHAN ATAS PERATURAN BUPATI NOMOR 30 TAHUN 2014
 TENTANG PETUNJUK PELAKSANAAN PEMUNGUTAN
@@ -33,7 +32,7 @@ perlu menetapkan Peraturan Bupati tentang
 Perubahan Atas Peraturan Bupati Kapuas Hulu
 Nomor 30 Tahun 2014 tentang Petunjuk
 Pelaksanaan Pemungutan Pajak Hiburan;
-1. Undang-Undang Nomor 27 Tahun 1959 tentang
+Mengingat : 1. Undang-Undang Nomor 27 Tahun 1959 tentang
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara
@@ -43,7 +42,6 @@ Indonesia Tahun 1959 Nomor 72, Tambahan
 Lembaran Negara Republik Indonesia Nomor
 1820);
 2. Undang-Undang Nomor 27 Tahun 1959 tentang
-Mengingat
 Penetapan Undang-Undang Darurat Nomor 3
 Tahun 1953 tentang Pembentukan Daerah
 Tingkat II di Kalimantan (Lembaran Negara
@@ -197,7 +195,7 @@ Ketentuan Pasal 7 huruf f dan huruf m diubah sehingga Pasal 7 berbunyi sebagai b
 
 Pasal 7 Tarif pajak untuk setiap jenis hiburan ditetapkan sebagai berikut:
 
-a. pengenaan pajak untuk tontonan film ditetapkan sebesar 10% (sepuluh persen); 8 ^
+a. pengenaan pajak untuk tontonan film ditetapkan sebesar 10% (sepuluh persen); ^
 
 b. pengenaan pajak untuk pagelaran kesenian, musik, tari, busana dan sejenisnya ditetapkan sebesar 10% (sepuluh persen);
 
@@ -273,23 +271,16 @@ Peraturan ini berlaku pada tanggal diundangkan.
 
 ## Penutup
 
-Agar setiap orang mengetahuinya, memerintahkan
-pengundangan Peraturan Bupati ini dengan penempatannya
-dalam Berita Daerah Kabupaten Kapuas Hulu.
-1
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-pada tangga-!3 J^ni 2#1?
-BUB^»3|S^HULU,
+pada tanggal 13 Juni 2019
+BUPATI KAPUAS HULU,
+A.M. NASIR
 Diundangkan di Putussibau
 pada tanggal 14 Juni 2019
-SEKRET/
-^ J ^ ^ i J A B A T
-5*2
-AERAH <f£/yBUPATEN KAPUAS HULU,
-'SI
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2019
-NOMOR 42
-12 r
+PENJABAT SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
+SARBANI
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2019 NOMOR 42
 
 ## Lampiran
 

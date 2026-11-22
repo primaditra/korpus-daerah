@@ -10,7 +10,7 @@ sumber_teks: ocr
 
 ## Pembukaan
 
-BUPATI KAPUAS H U L U
+BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
 NOMOR 40 TAHUN 2018
@@ -228,13 +228,14 @@ b. rekapitulasi penggunaan karcis parkir.
 ## Penutup
 
 Ditetapkan di Putussibau
-pada tanggal 28 *gus+us 2018
+pada tanggal 28 Agustus 2018
+BUPATI KAPUAS HULU,
+A.M. NASIR
 Diundangkan di Putussibau
-pada tanggaL29 Agustus 2018
-S E UPATEN KAPUAS HULU
-BERITONES
-N O M O R 4 1
-KABUPATEN KAPUAS HULU TAHUN 2018
+pada tanggal 29 Agustus 2018
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU
+MUHAMMAD SUKRI
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2018 NOMOR 41
 
 ## Lampiran
 

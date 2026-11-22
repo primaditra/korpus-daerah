@@ -26,7 +26,7 @@ umum yang disediakan oleh Pemerintah Daerah sebagai
 tempat parkir;
 b. bahwa retribusi Pelayanan Parkir Di Tepi Jalan Umum
 merupakan salah satu sumber pendapatan asli daerah
-guna membiayai pelaksanaan pemdrintahan dan
+guna membiayai pelaksanaan pemerintahan dan
 pembangunan daerah;
 c. bahwa dengan berlakunya Undang-Undang Nomor 28
 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah,
@@ -165,15 +165,15 @@ Dalam Peraturan Daerah ini yang dimaksud dengan :
 
 18. Rambu Parkir adalah tanda-tanda yang menunjukan tempat parkir.
 
-19. Karris Parkir adalah tanda bukti masuk tempat parkir dan atau tanda bukti pembayaran atas pemakaian tempat parkir.
+19. Karcis Parkir adalah tanda bukti masuk tempat parkir dan atau tanda bukti pembayaran atas pemakaian tempat parkir.
 
-20. J u r u Parkir adalah orang yang ditugaskan pada tempat parkir ditepi jalan umum.
+20. Juru Parkir adalah orang yang ditugaskan pada tempat parkir ditepi jalan umum.
 
 21. Pengguna jasa parkir adalah setiap orang atau badan yang memperoleh jasa pelayanan parkir.
 
 22. Retribusi Daerah adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh Pemerintah Daerah untuk kepentingan orang pribadi atau badan.
 
-23. J a s a umum adalah jasa yang disediakan atau diberikan oleh Pemerintah Daerah untuk tujuan kepentingan dan kemanfaatan umum serta dapat dinikmati orang pribadi atau badan.
+23. Jasa umum adalah jasa yang disediakan atau diberikan oleh Pemerintah Daerah untuk tujuan kepentingan dan kemanfaatan umum serta dapat dinikmati orang pribadi atau badan.
 
 24. Wajib Retribusi adalah orang pribadi atau Badan yang menurut peraturan perundang-undangan retribusi diwajibkan untuk melakukan pembayaran retribusi termasuk pemungut atau pemotong retribusi tertentu.
 
@@ -255,7 +255,7 @@ Nomor Jenis Kendaraan Bermotor Tarif
 
 b. Zona dan tingkat kepadatan lalu lintas rendah : Nomor Jenis Kendaraan Bermotor Tarif
 
-1. Kendaraan Bermotor Roda 6 (enam) Rp. 10.000,atau lebih
+1. Kendaraan Bermotor Roda 6 (enam) Rp. 10.000,- atau lebih
 
 2. Kendaraan Bermotor Roda 6 (enam) Rp. 5.000,-
 
@@ -317,7 +317,7 @@ Saat retribusi terutang adalah pada saat ditetapkannya SKRD atau dokumen lain ya
 
 (2) Pemberian keringanan pembayaran retribusi sebagaimana dimaksud pada ayat (1) dengan memperhatikan kemampuan wajib retribusi.
 
-(3) Ketentuan mengenai tata cara pemberian keringanan pembayaran retribusi sebagaimana dimaksud pada ayat (2) diiatur dengan Peraturan Bupati.
+(3) Ketentuan mengenai tata cara pemberian keringanan pembayaran retribusi sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Bupati.
 
 ## BAB X - SANKSI ADMINISTRATIF
 
@@ -367,7 +367,7 @@ BAB X I PENAGIHAN RETRIBUSI
 
 ### Pasal 20
 
-(1) J i k a pengajuan keberatan dikabulkan sebagian atau seluruhnya, kelebihan pembayaran retribusi dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 12 (dua belas) bulan.
+(1) Jika pengajuan keberatan dikabulkan sebagian atau seluruhnya, kelebihan pembayaran retribusi dikembalikan dengan ditambah imbalan bunga sebesar 2% (dua persen) sebulan untuk paling lama 12 (dua belas) bulan.
 
 (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) dihitung sejak bulan pelunasan sampai dengan diterbitkannya SKRDLB.
 
@@ -407,7 +407,7 @@ d. alasan yang singkat dan jelas.
 
 (1) Pengembalian kelebihan retribusi dilakukan dengan menerbitkan surat perintah membayar kelebihan retribusi.
 
-(2) Apabila kelebihan pembayaran retribusi diperhitungkan dengan utang retribusi lainnya, pembayaran dilakukan dengan cara pemindahbukuan dan bukti pemindabbukuan juga berlaku sebagai bukti pembayaran.
+(2) Apabila kelebihan pembayaran retribusi diperhitungkan dengan utang retribusi lainnya, pembayaran dilakukan dengan cara pemindahbukuan dan bukti pemindahbukuan juga berlaku sebagai bukti pembayaran.
 
 ## BAB XIV - PENGHAPUSAN PIUTANG RETRIBUSI YANG KEDALUWARSA
 
@@ -485,7 +485,7 @@ h. memotret seseorang berkaitan dengan tindak pidana retribusi;
 
 i. memanggil orang untuk didengar keterangannya dan diperiksa sebagai tersangka atau saksi; j . menghentikan penyidikan;
 
-k. melakukan tindakan periyelidikan lain yang perlu untuk kelancaran penyidikan tindak pidana di bidang retribusi menurut hukum yang dapat dipertanggungjawabkan.
+k. melakukan tindakan penyelidikan lain yang perlu untuk kelancaran penyidikan tindak pidana di bidang retribusi menurut hukum yang dapat dipertanggungjawabkan.
 
 (3) Penyidik sebagaimana dimaksud pada ayat (1) memberitahukan dimulainya penyidikan dan menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Undang-Undang Hukum Acara Pidana.
 
@@ -507,19 +507,19 @@ Pada saat Peraturan Daerah ini mulai berlaku maka Peraturan Daerah Kabupaten Kap
 
 ### Pasal 31
 
-Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetabuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kapuas Hulu.
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kapuas Hulu.
 
 ## Penutup
 
 Ditetapkan di Putussibau
 pada tanggal 11 Januari 2013
 BUPATI KAPUAS HULU,
-A. M. NASIR
+A.M. NASIR
 Diundangkan di Putussibau
 pada tanggal 14 Januari 2013
 SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
-LEMBARAN DAERAH KABUPATEN KAPUAS HULU TAHUN 2013
-NOMOR 2
+MUHAMMAD SUKRI
+LEMBARAN DAERAH KABUPATEN KAPUAS HULU TAHUN 2013 NOMOR 2
 
 ## Penjelasan
 
@@ -531,7 +531,7 @@ Ketentuan tarif sebagaimana di atur dalam Peraturan Daerah ini disesuaikan denga
 
 ### Penjelasan Pasal 1
 
-Gukup jelas
+Cukup jelas
 
 ### Penjelasan Pasal 2
 
@@ -559,7 +559,7 @@ Cukup jelas 15 •
 
 ### Penjelasan Pasal 8
 
-Ayat(l) Penetapan tarif retribusi parkir di tepi jalan umum untuk suatu kawasan yang rawan kemacetan bertujuan mengendalikan tingkat penggunaan jasa parkir agar tidak menghalangi kelancaran lalu lintas sehingga penetapan tarifnya dapat ditetapkan lebih tinggi daripada di tepi jalan umum yang kurang rawan kemacetan.
+Ayat (1) Penetapan tarif retribusi parkir di tepi jalan umum untuk suatu kawasan yang rawan kemacetan bertujuan mengendalikan tingkat penggunaan jasa parkir agar tidak menghalangi kelancaran lalu lintas sehingga penetapan tarifnya dapat ditetapkan lebih tinggi daripada di tepi jalan umum yang kurang rawan kemacetan.
 
 Ayat (2)
 

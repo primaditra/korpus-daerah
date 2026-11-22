@@ -145,7 +145,7 @@ BUPATI KAPUAS HULU
 MEMUTUSKAN:
 Menetapkan : PERATURAN DAERAH TENTANG RETRIBUSI
 PENYEBERANGAN DI AIR.
-B A B I
+BABI
 KETENTUAN UMUM
 
 ### Pasal 1
@@ -224,7 +224,7 @@ Dengan Retribusi Penyeberangan di Air dipungut Retribusi sebagai pembayaran atas
 
 ### Pasal 5
 
-Retribusi Penyeberangan di Air digolongkan sebagai Retribusi J a s a Usaha.
+Retribusi Penyeberangan di Air digolongkan sebagai Retribusi Jasa Usaha.
 
 ## BAB IV - CARA MENGUKUR TINGKAT PENGGUNAAN JASA
 
@@ -408,11 +408,15 @@ Ketentuan lebih lanjut mengenai pemberian santunan sebagaimana dimaksud pada aya
 
 (3) Ketentuan lebih lanjut mengenai tata cara pemberian dan pemanfaatan intensif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
 
+## BAB XX - PENYIDIKAN
+
+### Pasal 24
+
 (1) Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah Daerah diberi wewenang khusus sebagai Penyidik untuk melakukan penyidikan tindak pidana di bidang retribusi, sebagaimana dimaksud dalam Undang-Undang Hukum Acara Pidana.
 
 (2) Penyidik sebagaimana dimaksud pada ayat (1) adalah Pejabat Pegawai Negeri Sipil tertentu di lingkungan Pemerintah Daerah yang diangkat oleh Pejabat yang berwenang sesuai dengan ketentuan peraturan perundang-undangan.
 
-(3) Wewenang Penyidik sebagaimana dimaksud pada ayat (1)
+(3) Wewenang Penyidik sebagaimana dimaksud pada ayat (1) adalah:
 
 a. menerima, mencari, mengumpulkan, dan meneliti keterangan atau laporan berkenaan dengan tindak pidana di bidang retribusi agar keterangan atau laporan tersebut menjadi lebih lengkap dan jelas;
 
@@ -422,11 +426,6 @@ c. meminta keterangan dan bahan bukti dari orang pribadi atau Badan sehubungan d
 
 d. memeriksa buku, catatan, dan dokumen lain berkenaan dengan tindak pidana di bidang retribusi;
 
-## BAB XX - PENYIDIKAN
-
-### Pasal 24
-
-adalah:
 
 e. melakukan penggeledahan untuk mendapatkan bahan bukti pembukuan, pencatatan, dan dokumen lain, serta melakukan penyitaan terhadap bahan bukti tersebut;
 
@@ -468,7 +467,7 @@ PROVINSI KALIMANTAN BARAT: (10)/(2015)
 
 ### Penjelasan Umum
 
-ATAS PERATURAN DAERAH KABUPATEN KAPUAS HULU NOMOR 9 TAHUN 2015 TENTANG RETRIBUSI PENYEBERANGAN DI AIR I. UMUM Bahwa dalam rangka meningkatkan pendapatan asli daerah dari sektor restrihusi daerah dan meningkatkan pertumbuhan ekonomi daerah, maka perlu menetapkan kembali pengaturan retribusi penyeberangan di air sesuai dengan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah. Pasal 137 ayat (1) Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, menentukan bahwa objek Retribusi Penyeberangan di Air adalah pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di air yang dimiliki dan/atau dikelola oleh Pemerintah Daerah, oleh karenanya perlu melakukan pengaturan kembali retribusi penyeberangan di air sesuai dengan peraturan perundang-undangan terbaru. Retribusi Penyeberangan Di Air diberlakukan terhadap pelayanan penyeberangan yang dimiliki dan/atau dikelola oleh Pemerintah Kabupaten Kapuas Hulu, sedangkan pelayanan penyeberangan yang dimiliki dan/atau dikelola oleh Pemerintah, Badan Usaha Miliki Negara, Badan Usaha Milik Daerah, dan pihak swasta tidak dikenakan retribusi ini. Undang-Undang Nomor 28 Tahun 2009 mewajibkan pemungutan retribusi dilakukan dalam bentuk Peraturan Daerah. Oleh karenanya perlu membentuk Peraturan Daerah Kabupaten Kapuas Hulu tentang Retribusi Penyeberangan di Air.
+ATAS PERATURAN DAERAH KABUPATEN KAPUAS HULU NOMOR 9 TAHUN 2015 TENTANG RETRIBUSI PENYEBERANGAN DI AIR I. UMUM Bahwa dalam rangka meningkatkan pendapatan asli daerah dari sektor restribusi daerah dan meningkatkan pertumbuhan ekonomi daerah, maka perlu menetapkan kembali pengaturan retribusi penyeberangan di air sesuai dengan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah. Pasal 137 ayat (1) Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, menentukan bahwa objek Retribusi Penyeberangan di Air adalah pelayanan penyeberangan orang atau barang dengan menggunakan kendaraan di air yang dimiliki dan/atau dikelola oleh Pemerintah Daerah, oleh karenanya perlu melakukan pengaturan kembali retribusi penyeberangan di air sesuai dengan peraturan perundang-undangan terbaru. Retribusi Penyeberangan Di Air diberlakukan terhadap pelayanan penyeberangan yang dimiliki dan/atau dikelola oleh Pemerintah Kabupaten Kapuas Hulu, sedangkan pelayanan penyeberangan yang dimiliki dan/atau dikelola oleh Pemerintah, Badan Usaha Miliki Negara, Badan Usaha Milik Daerah, dan pihak swasta tidak dikenakan retribusi ini. Undang-Undang Nomor 28 Tahun 2009 mewajibkan pemungutan retribusi dilakukan dalam bentuk Peraturan Daerah. Oleh karenanya perlu membentuk Peraturan Daerah Kabupaten Kapuas Hulu tentang Retribusi Penyeberangan di Air.
 
 ### Penjelasan Pasal 1
 
@@ -552,7 +551,7 @@ Cukup jelas.
 
 ### Penjelasan Pasal 21
 
-Ayat(l)
+Ayat (1)
 
 Cukup jelas.
 

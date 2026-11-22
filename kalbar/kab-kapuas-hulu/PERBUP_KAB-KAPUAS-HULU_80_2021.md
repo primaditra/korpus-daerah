@@ -13,7 +13,7 @@ sumber_teks: ocr
 BUPATI KAPUAS HULU
 PROVINSI KALIMANTAN BARAT
 PERATURAN BUPATI KAPUAS HULU
-NOMOR %D TAHUN 2021
+NOMOR 80 TAHUN 2021
 TENTANG
 KEDUDUKAN, SUSUNAN ORGANISASI,
 TUGAS DAN FUNGSI, SERTA TATA KERJA
@@ -39,7 +39,7 @@ bahwa dalam rangka mewujudkan tata kelola
 pemerintahan yang efektif dan efisien untuk
 meningkatkan kinerja pemerintahan dan
 pelayanan publik perlu dilakukan
-* f
+
 penyederhanaan birokrasi;
 c. bahwa berdasarkan pertimbangan
 sebagaimana dimaksud dalam huruf a dan
@@ -84,24 +84,24 @@ tentang Perangkat Daerah (Lembaran Negara
 Republik Indonesia Tahun 2019 Nomor 187,
 Tambahan Lembaran Negara Republik
 Indonesia Nomor 6402);
-Peraturan Menteri Pendayagunaan Aparatur
+5. Peraturan Menteri Pendayagunaan Aparatur
 dan Reformasi Birokrasi Nomor 17 Tahun
 2021 tentang Penyetaraan Jabatan
 Administrasi ke Dalam Jabatan Fungsional,
 mengamanatkan bahwa penyetaraan jabatan
 dilakukan pada Instansi Daerah;
-Peraturan Menteri Pendayagunaan Aparatur
+6. Peraturan Menteri Pendayagunaan Aparatur
 Negara dan Reformasi Birokrasi Nomor 25
 Tahun 2021 tentang Penyederhanaan
 Struktur Organisasi pada Instansi
 Pemerintah Untuk Penyederhanaan Birokrasi
 (Berita Negara Republik Indonesia Tahun
 2021 Nomor 546);
-Peraturan Daerah Kabupaten Kapuas Hulu
+7. Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 6 Tahun 2016 tentang Urusan
 Pemerintahan yang menjadi Kewenangan
 Pemerintah Kabupaten Kapuas Hulu;
-Peraturan Daerah Kabupaten Kapuas Hulu
+8. Peraturan Daerah Kabupaten Kapuas Hulu
 Nomor 7 Tahun 2016 tentang Pembentukan
 dan Susunan Perangkat Daerah sebagaimana
 telah diubah beberapa kali, terakhir dengan
@@ -110,13 +110,13 @@ Nomor 6 Tahun 2020 tentang Perubahan
 Ketiga atas Peraturan Daerah Nomor 7 Tahun
 2016 tentang Pembentukan dan Susunan
 Perangkat Daerah;
-MEMUTUSKAN :
+MEMUTUSKAN
 Menetapkan : PERATURAN BUPATI TENTANG KEDUDUKAN,
 SUSUNAN ORGANISASI, TUGAS DAN FUNGSI,
 SERTA TATA KERJA DINAS PERIKANAN
 KABUPATEN KAPUAS HULU.
-B A B I
-KETENTUAN UMUM
+
+## BAB I - KETENTUAN UMUM
 
 ### Pasal 1
 
@@ -170,7 +170,7 @@ Fungsional melalui Penyesuaian/Inpassing pada jabatan fungsional yang setara.
 
 Dinas Perikanan dipimpin oleh Kepala Dinas yang berkedudukan di bawah dan bertanggung jawab kepada Bupati Kapuas Hulu melalui Sekretaris Daerah.
 
-## BAB III - TUGAS DAN FUNGSI
+BAB III TUGAS DAN FUNGSI
 
 ### Pasal 3
 
@@ -212,21 +212,23 @@ f. Unit Pelaksana Teknis (UPT); dan
 
 g. Kelompok Jabatan Fungsional.
 
-(2) Struktur Organisasi Dinas Perikanan sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Bupati ini. Kepala Dinas sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a, mempunyai tugas memimpin kegiatan pelayanan umum dan teknis di bidang Perikanan serta tugas pembantuan lainnya sesuai dengan ketentuan peraturan perundang-undangan. Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal 6, Kepala Dinas melaksanakan fungsi sebagai berikut:
-
-a. penetapan rencana strategis Dinas;
-
-b. pengoordinasian dan pengendalian seluruh program kegiatan
+(2) Struktur Organisasi Dinas Perikanan sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Bupati ini.
 
 **Bagian Kedua - Kepala Dinas**
 
 ### Pasal 6
 
+Kepala Dinas sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a, mempunyai tugas memimpin kegiatan pelayanan umum dan teknis di bidang Perikanan serta tugas pembantuan lainnya sesuai dengan ketentuan peraturan perundang-undangan.
+
 ### Pasal 7
 
-Dinas;
+Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal
 
-1 .
+6, Kepala Dinas melaksanakan fungsi sebagai berikut:
+
+a. penetapan rencana strategis Dinas;
+
+b. pengoordinasian dan pengendalian seluruh program kegiatan Dinas
 
 c. penyusunan kebijakan teknis dan penyelenggaraan di bidang pengelolaan perikanan tangkap, pengelolaan perikanan budidaya, pengawasan sumberdaya kelautan dan perikanan, dan pengolahan dan pemasaran hasil perikanan;
 
@@ -270,7 +272,7 @@ g. penyelenggaraan akuntabilitas kinerja, keprotokolan, pelayanan publik, inform
 
 h. pengoordinasian dan penyelenggaraan reformasi birokrasi Dinas;
 
-i. pemantauan, pengevaluasian dan pelaporan pelaksanaan tugas dan fungsi Sekretariat; dan j . pelaksanaan fungsi lain yang diberikan oleh Kepala Dinas sesuai dengan tugas dan fungsinya.
+i. pemantauan, pengevaluasian dan pelaporan pelaksanaan tugas dan fungsi Sekretariat; dan j pelaksanaan fungsi lain yang diberikan oleh Kepala Dinas sesuai dengan tugas dan fungsinya.
 
 ### Pasal 12
 
@@ -290,6 +292,8 @@ b. Kelompok Jabatan Fungsional.
 
 (1), Subbagian Umum dan Aparatur melaksanakan fungsi sebagai berikut:
 
+LA
+
 a. penyusunan rencana kegiatan Subbagian Umum dan Aparatur;
 
 b. penyelenggaraan urusan penatausahaan surat menyurat;
@@ -304,11 +308,23 @@ f. pemantauan, pengevaluasian dan pelaporan pelaksanaan tugas Subbagian Umum dan
 
 g. pelaksanaan fungsi lain yang diberikan oleh Sekretaris sesuai dengan tugas dan fungsinya.
 
-**Bagian Keempat - Bidang Pemberdayaan dan Perlindungan Nelayan Kecil Bidang Pemberdayaan dan Perlindungan Nelayan Kecil**
+**Bagian Keempat - Bidang Pemberdayaan dan Perlindungan Nelayan Kecil**
 
 ### Pasal 14
 
+Bidang Pemberdayaan dan Perlindungan Nelayan Kecil sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c, dipimpin oleh seorang Kepala Bidang berada di bawah serta bertanggung jawab kepada Kepala Dinas melalui Sekretaris.
+
 ### Pasal 15
+
+(1) Bidang Pemberdayaan dan Perlindungan Nelayan Kecil sebagaimana dimaksud dalam Pasal 14, mempunyai tugas membantu Kepala Dinas dalam perumusan dan pelaksanaan kebijakan teknis pemberdayaan dan perlindungan nelayan kecil.
+
+(2) Untuk melaksanakan tugas sebagaimana dimaksud pada ayat
+
+(1), Bidang Pemberdayaan dan Perlindungan Nelayan Kecil melaksanakan fungsi sebagai berikut:
+
+a. penyusunan program kerja Bidang Pemberdayaan dan
+
+Perlindungan Nelayan Kecil;
 
 b. penyiapan petunjuk teknis dan petunjuk pelaksanaan Pemberdayaan dan Perlindungan Nelayan Kecil;
 
@@ -322,7 +338,17 @@ f. pelaporan perkembangan pelaksanaan tugas Bidang Pemberdayaan dan Perlindungan
 
 g. pelaksanaan tugas lain yang diberikan oleh Kepala Dinas sesuai dengan tugas pokok dan fungsinya
 
-(3) Bidang Pemberdayaan dan Perlindungan Nelayan Kecil terdiri dari kelompok Jabatan Fungsional. Bidang Perikanan Budidaya sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d, dipimpin oleh seorang Kepala Bidang berada di bawah serta bertanggung jawab kepada Kepala Dinas melalui Sekretaris.
+(3) Bidang Pemberdayaan dan Perlindungan Nelayan Kecil terdiri dari kelompok Jabatan Fungsional.
+
+**Bagian Kelima - Bidang Perikanan Budidaya**
+
+### Pasal 16
+
+Bidang Perikanan Budidaya sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d, dipimpin oleh seorang Kepala Bidang berada di bawah serta bertanggung jawab kepada Kepala Dinas melalui
+
+Sekretaris.
+
+### Pasal 17
 
 (1) Bidang Perikanan Budidaya sebagaimana dimaksud dalam Pasal 16, mempunyai tugas membantu Kepala Dinas dalam perumusan dan pelaksanaan kebijakan teknis di Bidang pengelolaan pembudidayaan ikan dan pemberdayaan dan perlindungan usaha kecil pembudidayaan ikan.
 
@@ -332,11 +358,7 @@ g. pelaksanaan tugas lain yang diberikan oleh Kepala Dinas sesuai dengan tugas p
 
 a. penyusunan program kerja Bidang Perikanan Budidaya;
 
-**Bagian Kelima - Bidang Perikanan Budidaya**
 
-### Pasal 16
-
-### Pasal 17
 
 b. penyiapan petunjuk teknis dan petunjuk pelaksanaan Bidang Perikanan Budidaya;
 
@@ -346,9 +368,7 @@ d. pembinaan pengelolaan pembudidayaan ikan;
 
 e. pemantauan dan pengawasan pelaksanaan tugas di Bidang Perikanan Budidaya;
 
-f. pengevaluasian pelaksanaan tugas Bidang Perikanan Budidaya secara periodik;
-
-g. pelaporan perkembangan pelaksanaan tugas Bidang Perikanan Budidaya secara periodik; dan
+f. pengevaluasian pelaksanaan tugas Bidang Perikanan Budidaya secara periodik; g. pelaporan perkembangan pelaksanaan tugas Bidang Perikanan Budidaya secara periodik; dan
 
 h. pelaksanaan tugas lain yang diberikan oleh Kepala Dinas sesuai dengan tugas pokok dan fungsinya.
 
@@ -362,7 +382,7 @@ Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan Ikan sebagaimana dimaksud d
 
 ### Pasal 19
 
-(1) Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan Ikan sebagaimana dimaksud dalam Pasal 18, mempunyai tugas membantu Kepala Dinas dalam merumuskan serta melaksanakan kebijakan teknis di bidang penguatan kelembagaan perikanan dan pengelolaan Tempat Pelelangan Ikan.
+(l) Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan Ikan sebagaimana dimaksud dalam Pasal 18, mempunyai tugas membantu Kepala Dinas dalam merumuskan serta melaksanakan kebijakan teknis di bidang penguatan kelembagaan perikanan dan pengelolaan Tempat Pelelangan Ikan. fo
 
 (2) Untuk melaksanakan tugas sebagaimana dimaksud pada ayat
 
@@ -372,7 +392,7 @@ a. penyusunan program kerja Bidang Kelembagaan dan Pengelolaan Tempat Pelelangan
 
 b. penyiapan petunjuk teknis dan petunjuk pelaksanaan penguatan Kelembagaan perikanan dan Pengelolaan Tempat Pelelangan Ikan;
 
-c. pembinaan dan Pengembangan kelembagaan dan penyuluhan perikanan;
+Cc. pembinaan dan Pengembangan kelembagaan dan penyuluhan perikanan;
 
 d. pengelolaan tempat pelelangan ikan;
 
@@ -398,7 +418,7 @@ UPT mempunyai tugas melaksanakan kegiatan teknis operasional dan/atau kegiatan t
 
 ### Pasal 22
 
-Pembentukan UPT diatur tersendiri dengan Peraturan Bupati, sesuai kebutuhan dan berdasarkan peraturan perundangundangan yang berlaku.
+Pembentukan UPT diatur tersendiri dengan Peraturan Bupati, sesuai kebutuhan dan berdasarkan peraturan perundang- undangan yang berlaku.
 
 **Bagian Kedelapan - Kedudukan dan Tugas Kelompok Jabatan Fungsional**
 
@@ -420,7 +440,7 @@ Pembentukan UPT diatur tersendiri dengan Peraturan Bupati, sesuai kebutuhan dan 
 
 ### Pasal 24
 
-(1) Kelompok Jabatan Fungsional yang diangkat melalui penyesuaian/ inpassing berkedudukan di bawah dan bertanggung jawab secara langsung kepada Pejabat Administrator, atau Pejabat Pengawas yang memiliki keterkaitan dengan pelaksanaan tugas jabatan fungsional berdasarkan jenjangnya sesuai ketentuan peraturan perundang-undangan.
+(1) Kelompok Jabatan Fungsional yang diangkat melalui penyesuaian/inpassing berkedudukan di bawah dan bertanggung jawab secara langsung kepada Pejabat Administrator, atau Pejabat Pengawas yang memiliki keterkaitan dengan pelaksanaan tugas jabatan fungsional berdasarkan jenjangnya sesuai ketentuan peraturan perundang-undangan.
 
 (2) Kelompok Jabatan Fungsional sebagaimana dimaksud dalam ayat (1) memiliki tugas memberikan pelayanan fungsional yang berdasarkan keahlian dan keterampilan sesuai ketentuan peraturan perundang-undangan.
 
@@ -442,7 +462,7 @@ Pembentukan UPT diatur tersendiri dengan Peraturan Bupati, sesuai kebutuhan dan 
 
 ### Pasal 26
 
-Setiap pimpinan unit kerja wajib mengawasi bawahannya masingmasing dan apabila terjadi penyimpangan agar mengambil langkah-langkah yang diperlukan sesuai dengan peraturan ketentuan perundang-undangan.
+Setiap pimpinan unit kerja wajib mengawasi bawahannya masing- masing dan apabila terjadi penyimpangan agar mengambil langkah-langkah yang diperlukan sesuai dengan peraturan ketentuan perundang-undangan.
 
 ### Pasal 27
 
@@ -474,37 +494,48 @@ Dalam rangka pelaksanaan tugas pokok dan fungsi masingmasing unit kerja, seluruh
 
 (1) Pada saat Peraturan Bupati ini mulai berlaku, selama belum ditetapkan oleh peraturan perundang-undangan lainnya, seluruh petunjuk atau pedoman yang ada dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Bupati ini.
 
-(2) Pada saat Peraturan Bupati ini mulai berlaku, Pegawai ASN yang melaksanakan tugas pada Dinas dan Pegawai ASN yang melaksanakan tugas pada Unit Pelaksana Teknis di lingkungan Dinas tetap melaksanakan tugasnya sepanjang belum ada penugasan yang baru dari Pejabat Pembina Kepegawaian. Pada saat Peraturan Bupati ini mulai berlaku, Peraturan Bupati Kapuas Hulu Nomor 63 Tahun 2016 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi Serta Tata Kerja Dinas Perikanan (Berita Daerah Kabupaten Kapuas Hulu Tahun 2016 Nomor 65), dicabut dan dinyatakan tidak berlaku. Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan, pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
+(2) Pada saat Peraturan Bupati ini mulai berlaku, Pegawai ASN yang melaksanakan tugas pada Dinas dan Pegawai ASN yang melaksanakan tugas pada Unit Pelaksana Teknis di lingkungan Dinas tetap melaksanakan tugasnya sepanjang belum ada penugasan yang baru dari Pejabat Pembina Kepegawaian.
 
 ## BAB VIII - KETENTUAN PENUTUP
 
 ### Pasal 33
 
+Pada saat Peraturan Bupati ini mulai berlaku, Peraturan Bupati
+
+Kapuas Hulu Nomor 63 Tahun 2016 tentang Kedudukan, Susunan
+
+Organisasi, Tugas dan Fungsi Serta Tata Kerja Dinas Perikanan
+
+(Berita Daerah Kabupaten Kapuas Hulu Tahun 2016 Nomor 65), dicabut dan dinyatakan tidak berlaku.
+
 ### Pasal 34
+
+Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
 
 ## Penutup
 
+Agar setiap orang mengetahuinya, memerintahkan, pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Kapuas Hulu.
 Ditetapkan di Putussibau
-pada tanggal ?9 CJttpbeir 9o?\
+pada tanggal 29 Oktober 2021
 BUPATI KAPUAS HULU,
+FRANSISKUS DIAAN
 Diundangkan di Putussibau
-pada tanggal \ Nt**«"b«<r *o»i
-S DIAAN
+pada tanggal 1 November 2021
+SEKRETARIS DAERAH KABUPATEN KAPUAS HULU,
 MOHD. ZAINI
-BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2021
-NOMOR ^I
+BERITA DAERAH KABUPATEN KAPUAS HULU TAHUN 2021 NOMOR 81
 
 ## Lampiran
 
 Isi lampiran tidak disalin; lihat PDF.
 
 LAMPIRAN
-PERATURAN B U P A T I KAPUAS H U L U
-NOMOR %0 TAHUN 2 0 2 1
+PERATURAN BUPATI KAPUAS HULU
+NOMOR £€0 TAHUN 2021
 TENTANG
-K E D U D U K A N , SUSUNAN ORGANISASI.TUGAS DAN F U N G S I , S E R T A TATA K E R J A
-DINAS PERIKANAN K A B U P A T E N KAPUAS H U L U
-K E P A L A DINAS
-S E K R E T A R I A T
+KEDUDUKAN, SUSUNAN ORGANISASI,TUGAS DAN FUNGSI, SERTA TATA KERJA
+DINAS PERIKANAN KABUPATEN KAPUAS HULU
+KEPALA DINAS
+Peonenenenennnenenenana ana mannananamanaaa SEKRETARIAT
 
 (isi lampiran tidak disalin; lihat PDF)
