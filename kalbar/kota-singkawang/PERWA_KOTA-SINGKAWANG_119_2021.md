@@ -133,7 +133,7 @@ KOTA SINGKAWANG.
 
 ### Pasal I
 
-4 | Beberapa ketentuan dalam Peraturan Wali Kota Nomor 78 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Badan Keuangan Daerah Kota Singkawang (Berita Daerah Kota Singkawang Tahun 2021 Nomor 78) diubah sebagai berikut:
+Beberapa ketentuan dalam Peraturan Wali Kota Nomor 78 Tahun 2021 tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Badan Keuangan Daerah Kota Singkawang (Berita Daerah Kota Singkawang Tahun 2021 Nomor 78) diubah sebagai berikut:
 
 1. Ketentuan Pasal 60 ayat (4) dan ayat (5) diubah sehingga Pasal 60 berbunyi sebagai berikut:
 
@@ -149,7 +149,7 @@ Pasal 60
 
 (5) Penetapan uraian tugas dan fungsi koordinasi, tugas tambahan serta pengelolaan kegiatan Sub Koordinator Kelompok Jabatan Fungsional sebagaimana dimaksud pada ayat (4), diatur lebih lanjut dengan Keputusan Wali Kota sesuai ketentuan peraturan perundang-undangan.
 
-Ketentuan Pasal 36 ayat (1) diubah sehingga Pasal 36 berbunyi sebagai berikut:
+2. Ketentuan Pasal 36 ayat (1) diubah sehingga Pasal 36 berbunyi sebagai berikut:
 
 Pasal 36
 
